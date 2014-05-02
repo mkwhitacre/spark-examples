@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+8113,"1756","1","Basic","","1995","Animals",,8,,,,,"http://www.1000steine.com/brickset/images/1756-1.jpg","No","No",0
+22509,"1757","1","Duplo","","1994","Large Bulk Bucket",,,,,,,,"No","No",0
+8114,"1758","1","Basic","","1995","Animals",,7,,,,,"http://www.1000steine.com/brickset/images/1758-1.jpg","No","No",0
+569,"1759","1","Duplo","","1995","Parrot",,7,,0.6,,,"http://www.1000steine.com/brickset/images/1759-1.jpg","No","No",0
+570,"1760","1","Town","Racing","1995","Go-Kart",1,21,,,,,"http://www.1000steine.com/brickset/images/1760-1.jpg","No","No",0
+571,"1761","1","Town","Paradisa","1995","Paradisa Speedboat",1,21,,,,,"http://www.1000steine.com/brickset/images/1761-1.jpg","No","No",0
+572,"1762","1","Town","Racing","1995","Hot Wheels",1,21,,,,,"http://www.1000steine.com/brickset/images/1762-1.jpg","No","No",0
+5005,"1764","1","Duplo","","1995","Birthday Building Set",,100,,,,,,"No","No",0
+10360,"1765","1","Duplo","","1995","Small Bucket",,34,,,,,,"No","No",0
+10361,"1766","1","Freestyle","","1995","Small Freestyle Bucket",,109,,,,,,"No","No",0
+8115,"1767","1","Basic","","1995","Animals",,6,,,,,"http://www.1000steine.com/brickset/images/1767-1.jpg","No","No",0
+8116,"1768","1","Basic","","1995","Animals",,10,,,,,"http://www.1000steine.com/brickset/images/1768-1.jpg","No","No",0
+573,"1769","1","Basic","","1992","Prop plane",,23,,,,,"http://www.1000steine.com/brickset/images/1769-1.jpg","No","No",0
+574,"1772","1","Town","Special","1991","Airport Container Truck",1,80,,,,,"http://www.1000steine.com/brickset/images/1772-1.jpg","No","No",0
+575,"1773","1","Town","Special","1991","Airline Maintenance Vehicle with Trailer",1,109,,,,,"http://www.1000steine.com/brickset/images/1773-1.jpg","No","No",0
+576,"1774","1","Town","Special","1991","Aircraft",2,137,,,,,"http://www.1000steine.com/brickset/images/1774-1.jpg","No","No",0
+577,"1775","1","Town","Special","1994","Aircraft",3,158,,,,,"http://www.1000steine.com/brickset/images/1775-1.jpg","No","No",0
+5419,"1776","1","Basic","","1996","Bonus Value Bucket",,950,,20,,,"http://www.1000steine.com/brickset/images/1776-1.jpg","No","No",0
+578,"1777","1","Basic","","1997","Plane",,10,,,,,"http://www.1000steine.com/brickset/images/1777-1.jpg","No","No",0
+579,"1778","1","Basic","","1997","Boat",,9,,,,,"http://www.1000steine.com/brickset/images/1778-1.jpg","No","No",0
+580,"1779","1","Basic","","1997","Helicopter",,10,,,,,"http://www.1000steine.com/brickset/images/1779-1.jpg","No","No",0
+22454,"1781","1","Duplo","","1997","Dino Babies",,90,,,,,,"No","No",0
+581,"1782","1","Town","Divers","1997","Discovery Station",5,322,,50,,,"http://www.1000steine.com/brickset/images/1782-1.jpg","No","No",0
+582,"1783","1","Primo","","1997","Primo Rattle",,2,,1,,,"http://www.1000steine.com/brickset/images/1783-1.jpg","No","No",0
+6643,"1784","1","Duplo","","1996","Animals Bulk Box",,21,,,,,"http://www.1000steine.com/brickset/images/1784-1.jpg","No","No",0
+583,"1785","1","Space","Miscellaneous","1995","Crater Critters",,143,,10,,,"http://www.1000steine.com/brickset/images/1785-1.jpg","No","No",0
+584,"1786","1","Town","Police","1995","Jailbreak Joe",4,186,,,,,"http://www.1000steine.com/brickset/images/1786-1.jpg","No","No",0
+585,"1787","1","Space","Unitron","1995","Crater Cruiser",2,183,,18,,,"http://www.1000steine.com/brickset/images/1787-1.jpg","No","No",0
+586,"1788","1","Pirates","","1995","Treasure Chest",4,159,,22,,,"http://www.1000steine.com/brickset/images/1788-1.jpg","No","No",0
+587,"1789","1","Space","Unitron","1995","Star Hawk II",2,292,,27,,,"http://www.1000steine.com/brickset/images/1789-1.jpg","No","No",0
+588,"1790","1","Town","Leisure","1994","Shark Fisherman",1,19,,,,,"http://www.1000steine.com/brickset/images/1790-1.jpg","No","No",0
+589,"1791","1","Town","Leisure","1994","Windsurfer & Van",1,70,,,,,"http://www.1000steine.com/brickset/images/1791-1.jpg","No","No",0
+590,"1792","1","Town","Boats","1994","Pleasure Cruiser",1,66,,,,,"http://www.1000steine.com/brickset/images/1792-1.jpg","No","No",0
+591,"1793","1","Space","Unitron","1995","Space Station Zenon",3,346,,,,,"http://www.1000steine.com/brickset/images/1793-1.jpg","No","No",0
+592,"1794","1","Castle","Dragon Knights","1994","Dragon Master Chariot",1,36,,,,,"http://www.1000steine.com/brickset/images/1794-1.jpg","No","No",0
+593,"1795","1","Pirates","Imperial Guards","1994","Imperial Cannon",1,36,,,,,"http://www.1000steine.com/brickset/images/1795-1.jpg","No","No",0
+594,"1796","1","Freestyle","","1996","Freestyle Bucket",,641,,20,,,"http://www.1000steine.com/brickset/images/1796-1.jpg","No","No",0
+595,"1797","1","Duplo","","1996","Bonus Bucket",,90,,20,,,"http://www.1000steine.com/brickset/images/1797-1.jpg","No","No",0
+596,"1798","1","Basic","Supplementaries","1994","Building Table",,3,,49.5,,,,"No","No",0
+597,"1800","1","Duplo","","1998","Turtle",,6,,,,,"http://www.1000steine.com/brickset/images/1800-1.jpg","No","No",0
+598,"1802","1","Pirates","","1996","Tidy Treasure",1,22,,2,,,"http://www.1000steine.com/brickset/images/1802-1.jpg","No","No",0
+599,"1804","1","Castle","Royal Knights","1996","Crossbow Boat",1,21,,2,,,"http://www.1000steine.com/brickset/images/1804-1.jpg","No","No",0
+10362,"1805","1","Duplo","","1995","Small Bucket",,32,,,,,,"No","No",0
+600,"1806","1","Aquazone","Aquanauts","1996","Underwater Scooter",1,16,,,,,"http://www.1000steine.com/brickset/images/1806-1.jpg","No","No",0
+601,"1807","1","Town","Seasonal","1995","Santa Claus and Sleigh",1,17,,2,,,"http://www.1000steine.com/brickset/images/1807-1.jpg","No","No",0
+602,"1808","1","Town","Special","1996","Light Aircraft and Ground Support",2,122,,10,,,"http://www.1000steine.com/brickset/images/1808-1.jpg","No","No",0
+603,"1809","1","Basic","","1996","Aeroplane",,29,,,,,"http://www.1000steine.com/brickset/images/1809-1.jpg","No","No",0
+22521,"1811","1","Duplo","","1995","Safari",1,27,,,,,,"No","No",0
+604,"1814","1","Duplo","Toolo","1995","Starter Set",1,23,,,,,"http://www.1000steine.com/brickset/images/1814-1.jpg","No","No",0
+605,"1815","1","Town","Paradisa","1996","Paradisa Lifeguard",2,36,,,,,"http://www.1000steine.com/brickset/images/1815-1.jpg","No","No",0
+22492,"1816","1","Duplo","","1993","20th Anniversary Jackpot Bucket",3,90,,,,,,"No","No",0
+606,"1817","1","Town","Special","1996","Sea Plane with Hut and Boat",3,135,,15,,,"http://www.1000steine.com/brickset/images/1817-1.jpg","No","No",0
+607,"1818","1","Town","Special","1996","Aircraft and Ground Support Equipment and Vehicle.",3,203,,24,,,"http://www.1000steine.com/brickset/images/1818-1.jpg","No","No",0
+7192,"1819","1","Basic","","1995","Large Bucket",,950,,20,,,"http://www.1000steine.com/brickset/images/1819-1.jpg","No","No",0
+10363,"1820","1","Primo","","1995","Primo Sample Set",,,,,,,,"No","No",0
+609,"1821","1","Town","Racing","1996","Rally Racers",3,196,,11,,,"http://www.1000steine.com/brickset/images/1821-1.jpg","No","No",0
+610,"1822","1","Aquazone","Aquanauts","1995","Sea Claw 7",2,192,,20,,,"http://www.1000steine.com/brickset/images/1822-1.jpg","No","No",0
+611,"1823","1","Basic","","1997","Yacht",,10,,,,,"http://www.1000steine.com/brickset/images/1823-1.jpg","No","No",0
+612,"1824","1","Basic","","1997","Flying Duck",1,17,,,,,"http://www.1000steine.com/brickset/images/1824-1.jpg","No","No",0
+613,"1825","1","Basic","","1997","Racing Car",,19,,,,,"http://www.1000steine.com/brickset/images/1825-1.jpg","No","No",0
+614,"1826","1","Basic","","1997","Bird? Boat? Plane?",,19,,,,,"http://www.1000steine.com/brickset/images/1826-1.jpg","No","No",0
+615,"1827","1","Basic","","1997","Helicopter",,19,,,,,"http://www.1000steine.com/brickset/images/1827-1.jpg","No","No",0
+8117,"1828","1","Basic","","1995","Animals",,7,,,,,"http://www.1000steine.com/brickset/images/1828-1.jpg","No","No",0
+22493,"1830","1","Duplo","","1993","Large Bucket",,,,,,,,"No","No",0
+616,"1831","1","Town","Special","1995","Maersk Line Container Lorry",1,211,,,,,"http://www.1000steine.com/brickset/images/1831-1.jpg","No","No",0
+617,"1836","1","Freestyle","","1995","Freestyle Set",,9,,,,,"http://www.1000steine.com/brickset/images/1836-1.jpg","No","No",0
+618,"1837","1","Freestyle","","1995","Freestyle Set",,11,,,,,"http://www.1000steine.com/brickset/images/1837-1.jpg","No","No",0
+619,"1838","1","Freestyle","","1995","Freestyle Set",,16,,,,,"http://www.1000steine.com/brickset/images/1838-1.jpg","No","No",0
+620,"1839","1","Freestyle","","1995","Freestyle Set",,19,,,,,"http://www.1000steine.com/brickset/images/1839-1.jpg","No","No",0
+5802,"1840","1","Freestyle","","1995","Trial Size Bag",,23,,,,,"http://www.1000steine.com/brickset/images/1840-1.jpg","No","No",0
+621,"1841","1","Classic","","1999","{Aeroplane}",,15,,0,,,"http://www.1000steine.com/brickset/images/1841-1.jpg","No","No",0
+622,"1843","1","Space","Spyrius","1996","(Unnamed)",2,105,,,,,"http://www.1000steine.com/brickset/images/1843-1.jpg","No","No",0
+623,"1843","2","Castle","Royal Knights","1996","(Unnamed)",,48,,8,,,"http://www.1000steine.com/brickset/images/1843-2.jpg","No","No",0
+7229,"1844","1","Duplo","","1995","Large Green Bucket",3,90,,,,,,"No","No",0
+9214,"1845","1","Basic","","1993","20th Anniversary Jackpot Bucket",,714,,,,,"http://www.1000steine.com/brickset/images/1845-1.jpg","No","No",0
+22530,"1846","1","Freestyle","","1996","Freestyle Set",,25,,,,,,"No","No",0
+22531,"1847","1","Freestyle","","1996","Freestyle Set",1,33,,,,,,"No","No",0
+5803,"1850","1","Freestyle","","1995","Trial Size Bag",,27,,,,,"http://www.1000steine.com/brickset/images/1850-1.jpg","No","No",0
+22522,"1852","1","Duplo","","1995","Alligator Bucket",,43,,,,,,"No","No",0
+624,"1853","1","Time Cruisers","","1996","Hypno Cruiser",2,157,,,,,"http://www.1000steine.com/brickset/images/1853-1.jpg","No","No",0
+625,"1854","1","Town","Special","1996","House with Roof-Windows",2,144,,23,,,"http://www.1000steine.com/brickset/images/1854-1.jpg","No","No",0
+22532,"1856","1","Duplo","","1996","Water Park Tub",,71,,,,,,"No","No",0
+626,"1857","1","Basic","","1996","Super Value Brick Pack",,950,,,,,"http://www.1000steine.com/brickset/images/1857-1.jpg","No","No",0
+627,"1858","1","Space","Exploriens","1996","Droid Scout",1,23,,,,,"http://www.1000steine.com/brickset/images/1858-1.jpg","No","No",0
+628,"1859","1","Basic","","1997","Aeroplane",,9,,,,,"http://www.1000steine.com/brickset/images/1859-1.jpg","No","No",0
+5804,"1860","1","Freestyle","","1995","Trial Size Bag",1,30,,,,,"http://www.1000steine.com/brickset/images/1860-1.jpg","No","No",0
+5091,"1861","1","Duplo","","1996","Box of Bricks",,,,,,,"http://www.1000steine.com/brickset/images/1861-1.jpg","No","No",0
+22523,"1863","1","Freestyle","","1995","Freestyle Trial Set",,11,,,,,,"No","No",0
+630,"1865","1","Basic","","1994","Airliner",,28,,,,,"http://www.1000steine.com/brickset/images/1865-1.jpg","No","No",0
+22455,"1867","1","Basic","","1997","Medium Bulk Bucket",,400,,,,,,"No","No",0
+9435,"1868","1","Freestyle","","1996","Freestyle Box",,220,,,,,,"No","No",0
+631,"1869","1","Basic","","1996","South African Flag",,80,,,,,"http://www.1000steine.com/brickset/images/1869-1.jpg","No","No",0
+5805,"1870","1","Freestyle","","1995","Trial Size Bag",,36,,,,,"http://www.1000steine.com/brickset/images/1870-1.jpg","No","No",0
+632,"1871","1","Pirates","","1994","Pirates Cannon",1,16,,,,,"http://www.1000steine.com/brickset/images/1871-1.jpg","No","No",0
+633,"1872","1","Pirates","","1994","Soldiers Forge",2,28,,,,,"http://www.1000steine.com/brickset/images/1872-1.jpg","No","No",0
+634,"1873","1","Pirates","","1994","Pirates Treasure",1,45,,,,,"http://www.1000steine.com/brickset/images/1873-1.jpg","No","No",0
+635,"1874","1","Basic","","1993","Super Scoop",,140,,,,,"http://www.1000steine.com/brickset/images/1874-1.jpg","No","No",0
+636,"1875","1","Space","Blacktron","1990","Meteor Monitor",1,32,,,,,"http://www.1000steine.com/brickset/images/1875-1.jpg","No","No",0
+637,"1876","1","Town","Maintenance","1990","Soil Scooper",2,73,,,,,"http://www.1000steine.com/brickset/images/1876-1.jpg","No","No",0
+638,"1877","1","Castle","Forestmen","1990","Crusader's Cart",2,60,,,,,"http://www.1000steine.com/brickset/images/1877-1.jpg","No","No",0
+10115,"1878","1","Basic","","1991","Small Bucket",1,393,,,,,,"No","No",0
+639,"1879","1","Basic","","1992","Basic Building Set, 5+",2,425,,,,,"http://www.1000steine.com/brickset/images/1879-1.jpg","No","No",0
+5806,"1880","1","Basic","","1992","5+ Bucket",2,559,,,,,"http://www.1000steine.com/brickset/images/1880-1.jpg","No","No",0
+640,"1881","1","Basic","","1991","Play Bucket of Bricks, 3+",1,288,,15,,,"http://www.1000steine.com/brickset/images/1881-1.jpg","No","No",0
+641,"1882","1","Basic","","1991","Large Play Bucket, 3+",2,449,,,,,,"No","No",0
+8425,"1883","1","Duplo","","1990","Rabbit Rattle",,1,,,,,"http://www.1000steine.com/brickset/images/1883-1.jpg","No","No",0
+642,"1884","1","Basic","","1992","Handy Bucket of Bricks, 3+",,189,,,,,"http://www.1000steine.com/brickset/images/1884-1.jpg","No","No",0
+643,"1885","1","Basic","","1992","Play Bucket of Bricks, 3+",,465,,,,,,"No","No",0
+644,"1887","1","Space","Blacktron 2","1992","Scout Patrol Ship",1,30,,,,,"http://www.1000steine.com/brickset/images/1887-1.jpg","No","No",0
+645,"1888","1","Castle","Black Knights","1992","Black Knights Guardshack",2,49,,,,,"http://www.1000steine.com/brickset/images/1888-1.jpg","No","No",0
+646,"1889","1","Pirates","","1992","Pirates Treasure Hold",1,34,,,,,"http://www.1000steine.com/brickset/images/1889-1.jpg","No","No",0
+647,"1890","1","Town","Racing","1992","Octan Racer",1,47,,,,,"http://www.1000steine.com/brickset/images/1890-1.jpg","No","No",0
+648,"1891","1","Assorted","Bonus/Value Pack","1992","Four Set Value Pack",,160,,12,,,"http://www.1000steine.com/brickset/images/1891-1.jpg","No","No",0
+9538,"1893","1","Duplo","","1992","Jungle bucket",,37,,,,,,"No","No",0
+652,"1895","1","Town","Police","1992","Sky Patrol",2,85,,,,,"http://www.1000steine.com/brickset/images/1895-1.jpg","No","No",0
+653,"1896","1","Town","Emergency","1992","Trauma Team",5,291,,27.5,,,"http://www.1000steine.com/brickset/images/1896-1.jpg","No","No",0
+654,"1898","1","Town","Special","1989","Dragster",1,27,,,,,"http://www.1000steine.com/brickset/images/1898-1.jpg","No","No",0
+655,"1899","1","Town","Racing","1989","Race Car Number 1.",1,24,,,,,"http://www.1000steine.com/brickset/images/1899-1.jpg","No","No",0
+22450,"1900","1","Duplo","","1984","Trial Pack "Duck"",,6,,,,,,"No","No",0
+22510,"1900","2","Assorted","Bonus/Value Pack","1994","Special Bonus Pack",,88,,,,,,"No","No",0
+5919,"1901","1","Basic","","1984","Trial Size Offer",,31,,,,,"http://www.1000steine.com/brickset/images/1901-1.jpg","No","No",0
+22494,"1903","1","Duplo","","1993","Medium Bucket",,,,,,,,"No","No",0
+22511,"1904","1","Duplo","","1994","Bulk Box",,,,,,,,"No","No",0
+5920,"1905","1","Basic","","1982","Mini Building Set",,36,,,,,,"No","No",0
+656,"1906","1","Castle","Dragon Knights","1994","Majisto's Tower",3,195,,20,,,"http://www.1000steine.com/brickset/images/1906-1.jpg","No","No",0
+22551,"1907","1","Duplo","","1983","Crecer Feliz Giftbox",,2,,,,,,"No","No",0
+22495,"1908","1","Duplo","","1993","Small Bucket",2,39,,,,,,"No","No",0
+5807,"1910","1","Basic","","1982","3+ Building Set",,85,,,,,"http://www.1000steine.com/brickset/images/1910-1.jpg","No","No",0
+22552,"1911","1","Basic","","1983","Basic Set",,34,,,,,,"No","No",0
+657,"1912","1","Basic","","1983","Car",,20,,,,,"http://www.1000steine.com/brickset/images/1912-1.jpg","No","No",0
+658,"1913","1","Basic","","1983","Boat",,27,,,,,"http://www.1000steine.com/brickset/images/1913-1.jpg","No","No",0
+659,"1914","1","Basic","","1983","Helicopter",,20,,,,,"http://www.1000steine.com/brickset/images/1914-1.jpg","No","No",0
+660,"1915","1","Basic","","1983","Aircraft",,20,,,,,"http://www.1000steine.com/brickset/images/1915-1.jpg","No","No",0
+661,"1916","1","Space","Space Police 2","1993","Starion Patrol",1,23,,2,,,"http://www.1000steine.com/brickset/images/1916-1.jpg","No","No",0
+662,"1917","1","Castle","Black Knights","1993","King's Catapult",1,22,,,,,"http://www.1000steine.com/brickset/images/1917-1.jpg","No","No",0
+22553,"1918","1","Duplo","","1983","Bird",,5,,,,,,"No","No",0
+5874,"1919","1","Duplo","","1983","Duplo Promotional Set",1,4,,,,,"http://www.1000steine.com/brickset/images/1919-1.jpg","No","No",0
+22545,"1920","1","Basic","","1982","Promo Basic Set",,115,,,,,,"No","No",0
+6352,"1922","1","Duplo","","1994","Duplo Bucket",1,50,,,,,"http://www.1000steine.com/brickset/images/1922-1.jpg","No","No",0
+22546,"1922","2","Basic","","1982","Basic Building Set with Storage Case",,52,,,,,"http://www.1000steine.com/brickset/images/1922-2.jpg","No","No",0
+663,"1923","1","Promotional","Ferries","1989","Viking Line Ferry",,185,,,,,"http://www.1000steine.com/brickset/images/1923-1.jpg","No","No",0
+664,"1924","1","Technic","","1983","Motorcycle",,103,,,,,"http://www.1000steine.com/brickset/images/1924-1.jpg","No","No",0
+665,"1924","2","Promotional","Ferries","1992","Viking Line Ferry",,203,,,,,"http://www.1000steine.com/brickset/images/1924-2.jpg","No","No",0
+666,"1926","1","Duplo","","1986","DUPLO Combination Pack",,6,,,,,,"No","No",0
+667,"1929","1","Basic","","1988","Toy Soldier",,13,,,,,"http://www.1000steine.com/brickset/images/1929-1.jpg","No","No",0
+22451,"1932","1","Basic","","1984","Basic Building Set with Storage Case",,83,,,,,,"No","No",0
+22496,"1932","2","Duplo","","1993","Medium Bucket",,,,,,,,"No","No",0
+22512,"1935","1","Duplo","","1994","Robbin Rabbit Building Set",,,,,,,,"No","No",0
+9242,"1944","1","Basic","","1983","Universal Building Set with Storage Case",1,138,,,,,"http://www.1000steine.com/brickset/images/1944-1.jpg","No","No",0
+8426,"1945","1","Duplo","","1994","Playmates building set",,,,,,,"http://www.1000steine.com/brickset/images/1945-1.jpg","No","No",0
+668,"1952","1","Town","Special","1989","Milk Truck",1,133,,,,,"http://www.1000steine.com/brickset/images/1952-1.jpg","No","No",0
+669,"1953","1","Basic","","1989","Mouse",,14,,,,,"http://www.1000steine.com/brickset/images/1953-1.jpg","No","No",0
+670,"1954","1","Space","Spyrius","1995","Surveillance Scooter",1,23,,,,,"http://www.1000steine.com/brickset/images/1954-1.jpg","No","No",0
+22452,"1954","2","Basic","","1984","Basic Set with Storage Case",1,137,,,,,,"No","No",0
+671,"1955","1","Promotional","Ferries","1993","Color Line Ferry",,241,,,,,"http://www.1000steine.com/brickset/images/1955-1.jpg","No","No",0
+22566,"1957","1","Duplo","","1985","Building Set with Storage Bunny",2,29,,,,,,"No","No",0
+672,"1958","1","Town","Leisure","1993","Windsurfer",1,21,,,,,"http://www.1000steine.com/brickset/images/1958-1.jpg","No","No",0
+22567,"1958","2","Duplo","","1985","Basic Model",,5,,,,,,"No","No",0
+673,"1959","1","Town","Leisure","1993","Ultra-Light",1,30,,,,,"http://www.1000steine.com/brickset/images/1959-1.jpg","No","No",0
+22568,"1959","2","Duplo","","1985","Basic Model",,5,,,,,,"No","No",0
+674,"1960","1","Castle","Bonus/Value Pack","1993","Magical Adventure Pack",,204,,,,,,"No","No",0
+9438,"1960","2","Basic","Universal Building Set","1985","Special Value Set",1,96,,,,,,"No","No",0
+22569,"1961","1","Basic","","1985","Basic Set with Storage Case",,,,,,,,"No","No",0
+22570,"1962","1","Basic","","1985","Basic Building Set",1,211,,,,,,"No","No",0
+5943,"1963","1","Basic","","1986","Basic Set with Storage Case",1,215,,,,,"http://www.1000steine.com/brickset/images/1963-1.jpg","No","No",0
+5518,"1964","1","Basic","","1985","Basic Building Set",,27,,,,,,"No","No",0
+5567,"1965","1","Basic","","1985","Building Set, Trial Size Offer",1,32,,1.5,,,"http://www.1000steine.com/brickset/images/1965-1.jpg","No","No",0
+675,"1966","1","Town","Special","1985","Car Repair Shop",2,296,,,,,"http://www.1000steine.com/brickset/images/1966-1.jpg","No","No",0
+676,"1967","1","Assorted","Bonus/Value Pack","1993","Five Set Bonus Pack",,156,,10,,,"http://www.1000steine.com/brickset/images/1967-1.jpg","No","No",0
+22571,"1967","2","Town","Bonus/Value Pack","1985","Town Value Pack",,155,,,,,"http://www.1000steine.com/brickset/images/1967-2.jpg","No","No",0
+681,"1968","1","Space","Classic","1985","(Unnamed)",2,193,,,,,"http://www.1000steine.com/brickset/images/1968-1.jpg","No","No",0
+682,"1969","1","Space","Space Police 2","1993","Mini Robot",1,38,,,,,"http://www.1000steine.com/brickset/images/1969-1.jpg","No","No",0
+683,"1969","2","Space","Bonus/Value Pack","1985","Space Value Pack",,151,,,,,"http://www.1000steine.com/brickset/images/1969-2.jpg","No","No",0
+684,"1970","1","Pirates","","1993","Pirates Gun Cart",2,31,,,,,"http://www.1000steine.com/brickset/images/1970-1.jpg","No","No",0
+685,"1971","1","Castle","Black Knights","1993","Battering Ram",1,36,,,,,"http://www.1000steine.com/brickset/images/1971-1.jpg","No","No",0
+686,"1972","1","Technic","","1985","Go-Kart",,98,,,,,"http://www.1000steine.com/brickset/images/1972-1.jpg","No","No",0
+687,"1973","1","Town","Special","1989","Emirates Airliner",2,136,,,,,"http://www.1000steine.com/brickset/images/1973-1.jpg","No","No",0
+689,"1974","2","Town","Flight","1989","Flyercracker USA",1,74,,,,,"http://www.1000steine.com/brickset/images/1974-2.jpg","No","No",0
+690,"1974","3","Castle","Forestmen","1989","Smuggler's Hayride",2,49,,,,,"http://www.1000steine.com/brickset/images/1974-3.jpg","No","No",0
+688,"1974","4","Space","Futuron","1989","Star Quest",1,36,,,,,"http://www.1000steine.com/brickset/images/1974-4.jpg","No","No",0
+22572,"1975","1","Duplo","Bonus/Value Pack","1985","Combi Pack",,,,,,,,"No","No",0
+8427,"1976","1","Town","Bonus/Value Pack","1984","Town 3-Pack",,97,,,,,"http://www.1000steine.com/brickset/images/1976-1.jpg","No","No",0
+691,"1977","1","Space","Bonus/Value Pack","1983","Special Three-Set Space Pack",,82,,,,,"http://www.1000steine.com/brickset/images/1977-1.jpg","No","No",0
+10116,"1977","2","Duplo","","1991","Pre-School Building Set (XL)",1,99,,,,,,"No","No",0
+692,"1978","1","Basic","Seasonal","1991","Santa Claus",,39,,,,,"http://www.1000steine.com/brickset/images/1978-1.jpg","No","No",0
+693,"1978","2","Town","Bonus/Value Pack","1983","Town Value Pack",,100,,,,,"http://www.1000steine.com/brickset/images/1978-2.jpg","No","No",0
+694,"1979","1","Basic","Seasonal","1991","Snowman",,42,,,,,"http://www.1000steine.com/brickset/images/1979-1.jpg","No","No",0
+695,"1980","1","Basic","Seasonal","1991","Santa's Elves",,30,,,,,"http://www.1000steine.com/brickset/images/1980-1.jpg","No","No",0
+696,"1983","1","Space","Bonus/Value Pack","1984","Space Value Pack",,97,,,,,"http://www.1000steine.com/brickset/images/1983-1.jpg","No","No",0
+697,"1990","1","Town","Racing","1993","Octan F1 Race Car",1,35,,,,,"http://www.1000steine.com/brickset/images/1990-1.jpg","No","No",0
+698,"1991","1","Town","Racing","1993","Racing Pick-Up Truck",1,81,,,,,"http://www.1000steine.com/brickset/images/1991-1.jpg","No","No",0
+699,"1992","1","Town","Racing","1993","Dragsters",2,104,,7.75,,,"http://www.1000steine.com/brickset/images/1992-1.jpg","No","No",0
+700,"1993","1","Town","Bonus/Value Pack","1993","Race Value Pack",,220,,,,,"http://www.1000steine.com/brickset/images/1993-1.jpg","No","No",0
+701,"1994","1","Basic","","1992","Basic Building Set 3+",,182,,,,,,"No","No",0
+702,"1995","1","Classic","","1999","{Racer}",,15,,0,,,"http://www.1000steine.com/brickset/images/1995-1.jpg","No","No",0
+703,"1997","1","Town","Bonus/Value Pack","1985","Town Value Pack",,103,,,,,"http://www.1000steine.com/brickset/images/1997-1.jpg","No","No",0
+704,"1998","1","Promotional","Ferries","1990","Silja Line Ferry",,370,,,,,"http://www.1000steine.com/brickset/images/1998-1.jpg","No","No",0
+705,"1999","1","Space","Bonus/Value Pack","1985","Space Value Pack",,89,,,,,"http://www.1000steine.com/brickset/images/1999-1.jpg","No","No",0
+709,"2000","1","Primo","","1998","Sally Starfish",,1,,,,,,"No","No",0
+710,"2001","1","Primo","","1998","Sun Set",,3,,7,,,,"No","No",0
+

@@ -1,0 +1,70 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+9751,"79002","1","The Hobbit","An Unexpected Journey","2012","Attack of the Wargs",5,400,49.99,49.99,59.99,59.99,"http://www.1000steine.com/brickset/images/79002-1.jpg","No","No",0
+9752,"79003","1","The Hobbit","An Unexpected Journey","2012","An Unexpected Gathering",6,652,59.99,69.99,84.99,79.99,"http://www.1000steine.com/brickset/images/79003-1.jpg","No","No",0
+9753,"79004","1","The Hobbit","The Desolation of Smaug","2012","Barrel Escape",5,334,39.99,39.99,49.99,49.99,"http://www.1000steine.com/brickset/images/79004-1.jpg","No","No",0
+10218,"79005","1","Lord of the Rings","The Fellowship of the Ring","2013","The Wizard Battle",2,113,11.99,12.99,15.99,14.99,"http://www.1000steine.com/brickset/images/79005-1.jpg","No","No",0
+10219,"79006","1","Lord of the Rings","The Fellowship of the Ring","2013","The Council of Elrond",4,243,29.99,29.99,34.99,39.99,"http://www.1000steine.com/brickset/images/79006-1.jpg","No","No",0
+10220,"79007","1","Lord of the Rings","The Return of the King","2013","Battle at the Black Gate",5,656,59.99,59.99,74.99,69.99,"http://www.1000steine.com/brickset/images/79007-1.jpg","No","No",0
+10221,"79008","1","Lord of the Rings","The Return of the King","2013","Pirate Ship Ambush",9,756,89.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/79008-1.jpg","No","No",0
+9754,"79010","1","The Hobbit","An Unexpected Journey","2012","The Goblin King Battle",8,841,79.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/79010-1.jpg","No","No",0
+22921,"79011","1","The Hobbit","The Desolation of Smaug","2013","Dol Guldur Ambush",3,217,19.99,19.99,24.99,26.99,"http://www.1000steine.com/brickset/images/79011-1.jpg","No","No",0
+22922,"79012","1","The Hobbit","The Desolation of Smaug","2013","Mirkwood Elf Army ",6,276,29.99,29.99,34.99,39.99,"http://www.1000steine.com/brickset/images/79012-1.jpg","No","No",0
+22923,"79013","1","The Hobbit","The Desolation of Smaug","2013","Lake-town Chase",5,470,49.99,49.99,59.99,59.99,"http://www.1000steine.com/brickset/images/79013-1.jpg","No","No",0
+22924,"79014","1","The Hobbit","The Desolation of Smaug","2013","Dol Guldur Battle",8,797,69.99,69.99,84.99,79.99,"http://www.1000steine.com/brickset/images/79014-1.jpg","No","No",0
+23354,"79015","1","The Hobbit","","2014","{}",,101,,14.99,,,,"No","No",0
+23442,"79016","1","The Hobbit","","2014","{?}",,313,,29.99,,,,"No","No",0
+23352,"79017","1","The Hobbit","","2014","{}",,471,,59.99,,,,"No","No",0
+23353,"79018","1","The Hobbit","","2014","{}",,,,129.99,,,,"No","No",0
+10070,"79100","1","Teenage Mutant Ninja Turtles","","2013","Kraang Lab Escape",2,90,9.99,12.99,15.99,14.99,"http://www.1000steine.com/brickset/images/79100-1.jpg","No","No",0
+10071,"79101","1","Teenage Mutant Ninja Turtles","","2013","Shredder's Dragon Bike",3,198,24.99,24.99,29.99,29.99,"http://www.1000steine.com/brickset/images/79101-1.jpg","No","No",0
+10068,"79102","1","Teenage Mutant Ninja Turtles","","2013","Stealth Shell in Pursuit",3,162,19.99,19.99,24.99,26.99,"http://www.1000steine.com/brickset/images/79102-1.jpg","No","No",0
+10069,"79103","1","Teenage Mutant Ninja Turtles","","2013","Turtle Lair Attack",5,488,49.99,49.99,59.99,49.99,"http://www.1000steine.com/brickset/images/79103-1.jpg","No","No",0
+10067,"79104","1","Teenage Mutant Ninja Turtles","","2013","The Shellraiser Street Chase",5,620,59.99,59.99,74.99,69.99,"http://www.1000steine.com/brickset/images/79104-1.jpg","No","No",0
+10131,"79105","1","Teenage Mutant Ninja Turtles","","2013","Baxter Robot Rampage",5,397,39.99,39.99,49.99,49.99,"http://www.1000steine.com/brickset/images/79105-1.jpg","No","No",0
+9994,"79106","1","Lone Ranger","","2013","Cavalry Builder Set",4,69,11.99,12.99,17.99,14.99,"http://www.1000steine.com/brickset/images/79106-1.jpg","No","No",0
+9995,"79107","1","Lone Ranger","","2013","Comanche Camp",3,161,19.99,19.99,24.99,29.99,"http://www.1000steine.com/brickset/images/79107-1.jpg","No","No",0
+9996,"79108","1","Lone Ranger","","2013","Stagecoach Escape",5,279,29.99,29.99,39.99,49.99,"http://www.1000steine.com/brickset/images/79108-1.jpg","No","No",0
+9997,"79109","1","Lone Ranger","","2013","Colby City Showdown",5,587,39.99,49.99,59.99,59.99,"http://www.1000steine.com/brickset/images/79109-1.jpg","No","No",0
+9998,"79110","1","Lone Ranger","","2013","Silver Mine Shootout",5,644,69.99,69.99,89.99,79.99,"http://www.1000steine.com/brickset/images/79110-1.jpg","No","No",0
+9999,"79111","1","Lone Ranger","","2013","Constitution Train Chase",7,699,79.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/79111-1.jpg","No","No",0
+23202,"79115","1","Teenage Mutant Ninja Turtles","","2014","Turtle Van Takedown",,368,,39.99,,,"http://www.1000steine.com/brickset/images/79115-1.jpg","No","No",0
+23203,"79116","1","Teenage Mutant Ninja Turtles","","2014","Big Rig Snow Getaway",,741,,69.99,,,"http://www.1000steine.com/brickset/images/79116-1.jpg","No","No",0
+23204,"79117","1","Teenage Mutant Ninja Turtles","","2014","Turtle Lair Invasion",,888,,99.99,,,"http://www.1000steine.com/brickset/images/79117-1.jpg","No","No",0
+23205,"79118","1","Teenage Mutant Ninja Turtles","","2014","Karai Bike Escape",2,88,11.99,12.99,15.99,,"http://www.1000steine.com/brickset/images/79118-1.jpg","No","No",0
+23206,"79119","1","Teenage Mutant Ninja Turtles","","2014","Mutation Chamber Unleashed",3,196,19.99,24.99,29.99,,"http://www.1000steine.com/brickset/images/79119-1.jpg","No","No",0
+23207,"79120","1","Teenage Mutant Ninja Turtles","","2014","T-Rawket Sky Strike",4,286,29.99,34.99,44.99,,"http://www.1000steine.com/brickset/images/79120-1.jpg","No","No",0
+23208,"79121","1","Teenage Mutant Ninja Turtles","","2014","Turtle Sub Undersea Chase",5,684,59.99,59.99,74.99,,"http://www.1000steine.com/brickset/images/79121-1.jpg","No","No",0
+23504,"79122","1","Teenage Mutant Ninja Turtles","","2014","Shredder's Lair Rescue",5,,49.99,49.99,59.99,,"http://www.1000steine.com/brickset/images/79122-1.jpg","No","No",0
+8644,"88000","1","Power Functions","Accessories","2011","AAA Battery Box",,1,11.99,12.99,17.99,13.99,"http://www.1000steine.com/brickset/images/88000-1.jpg","No","No",0
+8645,"88002","1","Power Functions","Trains","2011","Train Motor",,7,11.99,13.99,19.99,13.99,"http://www.1000steine.com/brickset/images/88002-1.jpg","No","No",0
+22853,"88003","1","Power Functions","Accessories","2013","L-Motor",,,11.99,13.99,17.99,14.99,"http://www.1000steine.com/brickset/images/88003-1.jpg","No","No",0
+22854,"88004","1","Power Functions","Accessories","2013","Servo Motor",,,20.99,24.99,29.99,24.99,"http://www.1000steine.com/brickset/images/88004-1.jpg","No","No",0
+8692,"2000409","1","Serious Play","","2010","Window Exploration Bag",,4900,314.99,484.99,484.99,,"http://www.1000steine.com/brickset/images/2000409-1.jpg","No","No",0
+10242,"2000410","1","Serious Play","","2007","{?}",,,,,,,"http://www.1000steine.com/brickset/images/2000410-1.jpg","No","No",0
+8695,"2000413","1","Serious Play","","2010","Connections Kit ",,,,,,,"http://www.1000steine.com/brickset/images/2000413-1.jpg","No","No",0
+8693,"2000414","1","Serious Play","","2010","Starter Kit",,214,23.99,36.99,36.99,,"http://www.1000steine.com/brickset/images/2000414-1.jpg","No","No",0
+8694,"2000415","1","Serious Play","","2010","Identity and Landscape Kit ",,,,,,,"http://www.1000steine.com/brickset/images/2000415-1.jpg","No","No",0
+10133,"2000416","1","Serious Play","","2012","{Duck building kit}",,6,,,,,"http://www.1000steine.com/brickset/images/2000416-1.jpg","No","No",0
+23136,"2000430","1","Serious Play","","2013","Identity and Landscape Kit",,,,789.99,789.99,,"http://www.1000steine.com/brickset/images/2000430-1.jpg","No","No",0
+23137,"2000431","1","Serious Play","","2013","Connections Kit",,2455,490.18,754.99,754.99,,"http://www.1000steine.com/brickset/images/2000431-1.jpg","No","No",0
+8056,"3300000","1","Promotional","LEGO Store Grand Opening Set","2010","The Brick Apple",,133,,9.99,,,"http://www.1000steine.com/brickset/images/3300000-1.jpg","No","No",0
+8759,"3300001","1","Promotional","LEGO Brand Store model","2011","Brickley",,197,,14.99,,,"http://www.1000steine.com/brickset/images/3300001-1.jpg","No","No",0
+9084,"3300002","1","Seasonal","Christmas","2011","Holiday Set 2 of 2 ",1,117,,,,,"http://www.1000steine.com/brickset/images/3300002-1.jpg","No","No",0
+9539,"3300003","1","Miscellaneous","Promotional","2012","LEGO Brand Retail Store",,280,,0,,,"http://www.1000steine.com/brickset/images/3300003-1.jpg","No","No",0
+8752,"3300005","1","Promotional","LEGO Store Grand Opening Set","2011","Copenhagen",,56,,,,,"http://www.1000steine.com/brickset/images/3300005-1.jpg","No","No",0
+8662,"3300006","1","Promotional","LEGO Store Grand Opening Set","2011","London Bus",,117,,,,,"http://www.1000steine.com/brickset/images/3300006-1.jpg","No","No",0
+10125,"3300014","1","Seasonal","Christmas","2012","Christmas Set",4,109,,,,,"http://www.1000steine.com/brickset/images/3300014-1.jpg","No","No",0
+9082,"3300020","1","Seasonal","Christmas","2011","Holiday Set 1 of 2 ",1,98,,,,,"http://www.1000steine.com/brickset/images/3300020-1.jpg","No","No",0
+8757,"4000001","1","Miscellaneous","LEGO Inside Tour Exclusive","2011","Moulding Machines",,795,,,,,"http://www.1000steine.com/brickset/images/4000001-1.jpg","No","No",0
+9026,"4000002","1","Miscellaneous","LEGO internal","2011","LOM 2011 Moulding",,174,,,,,"http://www.1000steine.com/brickset/images/4000002-1.jpg","No","No",0
+9611,"4000004","1","Miscellaneous","LEGO Learning Institute","2012","Systematic Creativity Toolbox",,,,,,,"http://www.1000steine.com/brickset/images/4000004-1.jpg","No","No",0
+9699,"4000005","1","Miscellaneous","LEGO internal","2012","Kornmarken Factory 2012",,315,,,,,"http://www.1000steine.com/brickset/images/4000005-1.jpg","No","No",0
+9808,"4000006","1","Miscellaneous","LEGO internal","2012","Production Kladno Campus",,278,,,,,"http://www.1000steine.com/brickset/images/4000006-1.jpg","No","No",0
+10239,"4000007","1","Miscellaneous","Employee gift","2012","Ole Kirk's House",,910,,,,,"http://www.1000steine.com/brickset/images/4000007-1.jpg","No","No",0
+22764,"4000008","1","Miscellaneous","LEGO Inside Tour Exclusive","2013","Villy Thomsen Truck",3,,,,,,"http://www.1000steine.com/brickset/images/4000008-1.jpg","No","No",0
+23564,"4000009","1","Miscellaneous","LEGO internal","2013","HMV Production",,,,,,,"http://www.1000steine.com/brickset/images/4000009-1.jpg","No","No",0
+23240,"4000010","1","Miscellaneous","Promotional","2014","LEGO House",1,250,,,,,"http://www.1000steine.com/brickset/images/4000010-1.jpg","No","No",0
+23562,"4000011","1","Miscellaneous","LEGO internal","2014","Nyiregyhaza Factory",,,,,,,"http://www.1000steine.com/brickset/images/4000011-1.jpg","No","No",0
+9680,"4000012","1","Miscellaneous","LEGO Inside Tour Exclusive","2012","Piper Airplane",,795,,,,,"http://www.1000steine.com/brickset/images/4000012-1.jpg","No","No",0
+23264,"4000013","1","Miscellaneous","Employee gift","2013","A LEGO Christmas Tale",,435,,,,,"http://www.1000steine.com/brickset/images/4000013-1.jpg","No","No",0
+

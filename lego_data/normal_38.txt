@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+4872,"9922","1","Dacta","Storage","1990","Green Storage Box with Lid",,2,,6.75,,,"http://www.1000steine.com/brickset/images/9922-1.jpg","No","No",0
+9298,"9937","1","Dacta","","1998","Small Chain Links",,108,,7.5,,,,"No","No",0
+9299,"9938","1","Dacta","","1995","Conveyor Belt Links",,36,,6.25,,,,"No","No",0
+7026,"9999","1","Education","Duplo","2009","Upgrade Kit for 9654",,7,,,,,"http://www.1000steine.com/brickset/images/9999-1.jpg","No","No",0
+3,"10000","1","Castle","Lion Knights","2001","Guarded Inn",4,253,,25,,,"http://www.1000steine.com/brickset/images/10000-1.jpg","No","No",0
+4,"10001","1","Trains","9 V","2001","Metroliner",11,782,,149,,,"http://www.1000steine.com/brickset/images/10001-1.jpg","No","No",0
+5,"10002","1","Trains","9 V","2001","Railroad Club Car",5,293,,37.5,,,"http://www.1000steine.com/brickset/images/10002-1.jpg","No","No",0
+6,"10003","1","Bulk Bricks","","2001","1x2 Sand Red Bricks",,100,,6,,,"http://www.1000steine.com/brickset/images/10003-1.jpg","No","No",0
+7,"10004","1","Bulk Bricks","","2001","2x2 Sand Red Bricks",,100,,7,,,"http://www.1000steine.com/brickset/images/10004-1.jpg","No","No",0
+8,"10005","1","Bulk Bricks","","2001","2x4 Sand Red Bricks",,50,,7,,,"http://www.1000steine.com/brickset/images/10005-1.jpg","No","No",0
+9,"10006","1","Bulk Bricks","","2001","1x6 Sand Red Bricks",,50,,7,,,"http://www.1000steine.com/brickset/images/10006-1.jpg","No","No",0
+10,"10007","1","Bulk Bricks","","2001","2x4 Sand Red Ridge Roof Tiles, Steep Sloped",,25,,5,,,"http://www.1000steine.com/brickset/images/10007-1.jpg","No","No",0
+11,"10008","1","Bulk Bricks","","2001","2x4 Sand Red Roof Bricks",,50,,8,,,"http://www.1000steine.com/brickset/images/10008-1.jpg","No","No",0
+12,"10009","1","Bulk Bricks","","2001","Assorted Blue Bricks",,62,,5,,,"http://www.1000steine.com/brickset/images/10009-1.jpg","No","No",0
+13,"10010","1","Bulk Bricks","","2001","Assorted Yellow Bricks",,62,,4.99,,,"http://www.1000steine.com/brickset/images/10010-1.jpg","No","No",0
+14,"10011","1","Bulk Bricks","","2001","Assorted Blue Plates",,42,,4.99,,,"http://www.1000steine.com/brickset/images/10011-1.jpg","No","No",0
+15,"10012","1","Bulk Bricks","","2001","Assorted Yellow Plates",,42,,5,,,"http://www.1000steine.com/brickset/images/10012-1.jpg","No","No",0
+16,"10013","1","Trains","9 V","2001","Open Freight Wagon",,121,,17,,,"http://www.1000steine.com/brickset/images/10013-1.jpg","No","No",0
+17,"10014","1","Trains","9 V","2001","Caboose",,170,,15,,,"http://www.1000steine.com/brickset/images/10014-1.jpg","No","No",0
+18,"10015","1","Trains","9 V","2001","Green Passenger Wagon",,194,,19.99,,,"http://www.1000steine.com/brickset/images/10015-1.jpg","No","No",0
+19,"10016","1","Trains","9 V","2001","Tanker",,128,,20,,,"http://www.1000steine.com/brickset/images/10016-1.jpg","No","No",0
+20,"10017","1","Trains","9 V","2001","Hopper Wagon",,228,,20,,,"http://www.1000steine.com/brickset/images/10017-1.jpg","No","No",0
+21,"10018","1","Star Wars","Ultimate Collector Series","2001","Darth Maul",,1868,,150,,,"http://www.1000steine.com/brickset/images/10018-1.jpg","No","No",0
+22,"10019","1","Star Wars","Ultimate Collector Series","2001","Rebel Blockade Runner",,1747,,200,,,"http://www.1000steine.com/brickset/images/10019-1.jpg","No","No",0
+23,"10020","1","Trains","9 V","2002","Santa Fe Super Chief",2,435,26.99,40,,,"http://www.1000steine.com/brickset/images/10020-1.jpg","No","No",0
+24,"10021","1","Hobby Set","","2003","USS Constellation",,973,44.99,60,,,"http://www.1000steine.com/brickset/images/10021-1.jpg","No","No",0
+25,"10022","1","Trains","9 V","2002","Santa Fe Cars - Set II",,411,26.99,35,,,"http://www.1000steine.com/brickset/images/10022-1.jpg","No","No",0
+26,"10023","1","Bionicle","Accessories","2002","Bionicle Master Builder Set",,112,,13,,,"http://www.1000steine.com/brickset/images/10023-1.jpg","No","No",0
+27,"10024","1","Advanced Models","Aircraft","2002","Red Baron",,664,34.99,50,,,"http://www.1000steine.com/brickset/images/10024-1.jpg","No","No",0
+28,"10025","1","Trains","9 V","2002","Santa Fe Cars - Set I",,326,24.99,35,,,"http://www.1000steine.com/brickset/images/10025-1.jpg","No","No",0
+29,"10026","1","Star Wars","Ultimate Collector Series","2002","Special Edition Naboo Starfighter",,187,,40,,,"http://www.1000steine.com/brickset/images/10026-1.jpg","No","No",0
+30,"10027","1","World City","Trains","2003","Train Engine Shed",2,664,49.99,70,,,"http://www.1000steine.com/brickset/images/10027-1.jpg","No","No",0
+31,"10029","1","Discovery","","2003","Lunar Lander",2,453,89.99,40,,,"http://www.1000steine.com/brickset/images/10029-1.jpg","No","No",0
+32,"10030","1","Star Wars","Ultimate Collector Series","2002","Imperial Star Destroyer",,3096,249.99,269.99,,,"http://www.1000steine.com/brickset/images/10030-1.jpg","No","No",0
+33,"10036","1","Town","Shops and Services","2002","Pizza-To-Go",3,151,,20,,,"http://www.1000steine.com/brickset/images/10036-1.jpg","No","No",0
+34,"10037","1","Town","Shops and Services","2002","Breezeway Café",5,183,,23,,,"http://www.1000steine.com/brickset/images/10037-1.jpg","No","No",0
+35,"10039","1","Castle","Black Falcons","2002","Black Falcon's Fortress",6,426,,40,,,"http://www.1000steine.com/brickset/images/10039-1.jpg","No","No",0
+36,"10040","1","Pirates","","2002","Black Seas Barracuda",8,906,,90,,,"http://www.1000steine.com/brickset/images/10040-1.jpg","No","No",0
+37,"10041","1","Town","Shops and Services","2003","Main Street",8,622,49.99,65,,,"http://www.1000steine.com/brickset/images/10041-1.jpg","No","No",0
+38,"10042","1","Bulk Bricks","Seasonal","2003","U.S. Flag",,35,3.99,3,,,"http://www.1000steine.com/brickset/images/10042-1.jpg","No","No",0
+39,"10043","1","Bulk Bricks","","2002","2 x 2 Electrical Plate",,1,,6,,,"http://www.1000steine.com/brickset/images/10043-1.jpg","No","No",0
+40,"10044","1","Bulk Bricks","","2002","Windows and Doors",,44,,7.99,,,"http://www.1000steine.com/brickset/images/10044-1.jpg","No","No",0
+41,"10045","1","Bulk Bricks","","2002","Bridge Elements",,13,,13,,,"http://www.1000steine.com/brickset/images/10045-1.jpg","No","No",0
+42,"10046","1","Bulk Bricks","","2002","Brown Tiles",,100,,7,,,"http://www.1000steine.com/brickset/images/10046-1.jpg","No","No",0
+43,"10047","1","Bulk Bricks","","2002","Arch",,36,,5.99,,,"http://www.1000steine.com/brickset/images/10047-1.jpg","No","No",0
+44,"10048","1","Bulk Bricks","","2002","Small Wheels and Axles",,61,,8,,,"http://www.1000steine.com/brickset/images/10048-1.jpg","No","No",0
+45,"10049","1","Bulk Bricks","","2002","Large Wheels and Axles",,31,,6,,,"http://www.1000steine.com/brickset/images/10049-1.jpg","No","No",0
+46,"10050","1","Bulk Bricks","","2002","Grey Fences",,34,,6,,,"http://www.1000steine.com/brickset/images/10050-1.jpg","No","No",0
+47,"10051","1","Bulk Bricks","","2002","Small Windows",,50,,7,,,"http://www.1000steine.com/brickset/images/10051-1.jpg","No","No",0
+48,"10052","1","Explore","","2003","Intelligent Locomotive",2,4,,55,,,"http://www.1000steine.com/brickset/images/10052-1.jpg","No","No",0
+49,"10053","1","Bulk Bricks","","2002","Black Roof Tiles",,44,,6,,,"http://www.1000steine.com/brickset/images/10053-1.jpg","No","No",0
+50,"10054","1","Bulk Bricks","","2002","Black Roof Tiles",,68,,5.99,,,"http://www.1000steine.com/brickset/images/10054-1.jpg","No","No",0
+51,"10055","1","Bulk Bricks","","2002","Black Roof Tiles",,50,,5.99,,,"http://www.1000steine.com/brickset/images/10055-1.jpg","No","No",0
+52,"10056","1","Bulk Bricks","","2002","White Plates",,56,,5,,,"http://www.1000steine.com/brickset/images/10056-1.jpg","No","No",0
+53,"10057","1","Bulk Bricks","","2002","Black Plates",,56,,5,,,"http://www.1000steine.com/brickset/images/10057-1.jpg","No","No",0
+54,"10058","1","Bulk Bricks","","2002","Red Plates",,56,,5,,,"http://www.1000steine.com/brickset/images/10058-1.jpg","No","No",0
+55,"10059","1","Bulk Bricks","","2002","Dark Green Plates",,56,,5,,,"http://www.1000steine.com/brickset/images/10059-1.jpg","No","No",0
+56,"10060","1","Bulk Bricks","","2002","Grey Plates",,56,,5,,,"http://www.1000steine.com/brickset/images/10060-1.jpg","No","No",0
+57,"10061","1","Bulk Bricks","","2002","Black Plates",,84,,5,,,"http://www.1000steine.com/brickset/images/10061-1.jpg","No","No",0
+58,"10062","1","Bulk Bricks","","2002","Red Plates",,84,,4.99,,,"http://www.1000steine.com/brickset/images/10062-1.jpg","No","No",0
+59,"10063","1","Bulk Bricks","","2002","Dark Green Plates",,84,,5,,,"http://www.1000steine.com/brickset/images/10063-1.jpg","No","No",0
+60,"10064","1","Bulk Bricks","","2002","Grey Plates",,84,,5,,,"http://www.1000steine.com/brickset/images/10064-1.jpg","No","No",0
+61,"10065","1","Bulk Bricks","","2002","White Plates",,84,,5,,,"http://www.1000steine.com/brickset/images/10065-1.jpg","No","No",0
+62,"10066","1","Bulk Bricks","Castle","2002","Castle Accessories",1,37,,5,,,"http://www.1000steine.com/brickset/images/10066-1.jpg","No","No",0
+63,"10067","1","Bulk Bricks","","2002","Mini-Fig Headgear",,53,,5,,,"http://www.1000steine.com/brickset/images/10067-1.jpg","No","No",0
+64,"10068","1","Seasonal","Christmas","2002","Santa",,39,,2.5,,,"http://www.1000steine.com/brickset/images/10068-1.jpg","No","No",0
+65,"10069","1","Seasonal","Christmas","2002","Tree",,33,,2.5,,,"http://www.1000steine.com/brickset/images/10069-1.jpg","No","No",0
+66,"10070","1","Seasonal","Christmas","2002","Reindeer",,26,1.99,2.5,,,"http://www.1000steine.com/brickset/images/10070-1.jpg","No","No",0
+67,"10071","1","Seasonal","Easter","2003","Mr. Bunny",,25,1.99,2.5,,,"http://www.1000steine.com/brickset/images/10071-1.jpg","No","No",0
+68,"10072","1","Bulk Bricks","Technic","2003","Technic Beams",,56,8.99,9.99,,,"http://www.1000steine.com/brickset/images/10072-1.jpg","No","No",0
+69,"10073","1","Bulk Bricks","Technic","2003","Technic Bushes",,130,6.99,9.99,,,"http://www.1000steine.com/brickset/images/10073-1.jpg","No","No",0
+70,"10074","1","Bulk Bricks","Technic","2003","Technic Cross Axles",,68,6.99,10,,,"http://www.1000steine.com/brickset/images/10074-1.jpg","No","No",0
+71,"10075","1","Studios","Spider-Man","2002","Spider-Man Action Pack",,25,,7,,,"http://www.1000steine.com/brickset/images/10075-1.jpg","No","No",0
+72,"10076","1","Bulk Bricks","Technic","2003","Technic Gear Wheels",,37,8.99,12.99,,,"http://www.1000steine.com/brickset/images/10076-1.jpg","No","No",0
+73,"10077","1","Bulk Bricks","Technic","2003","Technic Motor",,55,8.99,13,,,"http://www.1000steine.com/brickset/images/10077-1.jpg","No","No",0
+74,"10078","1","Bulk Bricks","Trains","2003","Train Connection Wire",,1,7.35,8.99,,,"http://www.1000steine.com/brickset/images/10078-1.jpg","No","No",0
+75,"10079","1","Seasonal","Christmas","2003","Snowman",,42,1.99,2.5,,,"http://www.1000steine.com/brickset/images/10079-1.jpg","No","No",0
+76,"10080","1","Seasonal","Christmas","2003","Angel",,33,1.99,2.49,,,"http://www.1000steine.com/brickset/images/10080-1.jpg","No","No",0
+77,"10081","1","Clikits","","2004","Heart Birthday Pack",,70,4.5,6,,,"http://www.1000steine.com/brickset/images/10081-1.jpg","No","No",0
+78,"10082","1","Clikits","","2004","Daisy Birthday Pack",,70,4.5,6,,,"http://www.1000steine.com/brickset/images/10082-1.jpg","No","No",0
+79,"10083","1","Clikits","","2004","Star Birthday Pack",,70,4.5,6,,,"http://www.1000steine.com/brickset/images/10083-1.jpg","No","No",0
+80,"10090","1","Seasonal","Thanksgiving","2003","Turkey",,54,2.99,3.5,,,"http://www.1000steine.com/brickset/images/10090-1.jpg","No","No",0
+5732,"10106","1","Seasonal","Christmas","2006","LEGO Snowflake",,105,6.99,8,,,"http://www.1000steine.com/brickset/images/10106-1.jpg","No","No",0
+81,"10111","1","Bulk Bricks","","2001","Foliferous Tree",,10,,6,,,"http://www.1000steine.com/brickset/images/10111-1.jpg","No","No",0
+82,"10112","1","Bulk Bricks","","2001","Bush",,25,,7,,,"http://www.1000steine.com/brickset/images/10112-1.jpg","No","No",0
+83,"10113","1","Bulk Bricks","","2001","Cypress Tree",,5,,5,,,"http://www.1000steine.com/brickset/images/10113-1.jpg","No","No",0
+84,"10114","1","Bulk Bricks","","2001","2 x 2 Sand Red Roof Tile",,100,,7.99,,,"http://www.1000steine.com/brickset/images/10114-1.jpg","No","No",0
+85,"10115","1","Bulk Bricks","","2001","Jumper Bricks",,80,,4.99,,,"http://www.1000steine.com/brickset/images/10115-1.jpg","No","No",0
+86,"10116","1","Clikits","","2004","Heart Accessories",,50,,5,,,"http://www.1000steine.com/brickset/images/10116-1.jpg","No","No",0
+87,"10117","1","Clikits","","2004","Daisy Accessories",,50,,5,,,"http://www.1000steine.com/brickset/images/10117-1.jpg","No","No",0
+88,"10118","1","Clikits","","2004","Star Accessories",,50,,5,,,"http://www.1000steine.com/brickset/images/10118-1.jpg","No","No",0
+89,"10121","1","Sports","Basketball","2003","NBA Basketball Teams",5,20,5.99,10,,,"http://www.1000steine.com/brickset/images/10121-1.jpg","No","No",0
+90,"10123","1","Star Wars","Episode IV-VI","2003","Cloud City",7,698,,100,,,"http://www.1000steine.com/brickset/images/10123-1.jpg","No","No",0
+91,"10124","1","Advanced Models","Aircraft","2003","Wright Flyer",,670,49.99,60,,,"http://www.1000steine.com/brickset/images/10124-1.jpg","No","No",0
+92,"10127","1","Sports","Hockey","2003","NHL All Teams Set",,59,4.99,9,,,"http://www.1000steine.com/brickset/images/10127-1.jpg","No","No",0
+93,"10128","1","World City","Trains","2003","Train Level Crossing",2,327,39.99,50,,,"http://www.1000steine.com/brickset/images/10128-1.jpg","No","No",0
+94,"10129","1","Star Wars","Ultimate Collector Series","2003","Rebel Snowspeeder",,1455,,130,,,"http://www.1000steine.com/brickset/images/10129-1.jpg","No","No",0
+95,"10131","1","Star Wars","Expanded Universe","2004","TIE Collection",4,682,64.99,70,,,"http://www.1000steine.com/brickset/images/10131-1.jpg","No","No",0
+96,"10132","1","Harry Potter","Prisoner of Azkaban","2004","Motorised Hogwarts Express",4,708,89.99,120,,,"http://www.1000steine.com/brickset/images/10132-1.jpg","No","No",0
+97,"10133","1","Trains","9 V","2005","Burlington Northern Santa Fe (BNSF) Locomotive",2,407,24.99,40,,,"http://www.1000steine.com/brickset/images/10133-1.jpg","No","No",0
+98,"10134","1","Star Wars","Ultimate Collector Series","2004","Y-wing Attack Starfighter",1,1473,109.99,120,,,"http://www.1000steine.com/brickset/images/10134-1.jpg","No","No",0
+99,"10135","1","Clikits","Seasonal","2004","Holiday Decoration Kit",,283,24.99,35,,,"http://www.1000steine.com/brickset/images/10135-1.jpg","No","No",0
+4799,"10143","1","Star Wars","Ultimate Collector Series","2005","Death Star II",,3441,249.99,269.99,,,"http://www.1000steine.com/brickset/images/10143-1.jpg","No","No",0
+4880,"10144","1","Star Wars","Episode IV-VI","2005","Sandcrawler",11,1669,107.65,139.99,,,"http://www.1000steine.com/brickset/images/10144-1.jpg","No","No",0
+100,"10145","1","Bulk Bricks","","2004","Assorted Light Grey Bricks",,62,,5,,,"http://www.1000steine.com/brickset/images/10145-1.jpg","No","No",0
+101,"10146","1","Bulk Bricks","","2004","Assorted Dark Grey Bricks",,63,,5,,,"http://www.1000steine.com/brickset/images/10146-1.jpg","No","No",0
+102,"10147","1","Bulk Bricks","","2004","Assorted Brown Bricks",,62,,5,,,"http://www.1000steine.com/brickset/images/10147-1.jpg","No","No",0
+103,"10148","1","Bulk Bricks","","2004","Assorted Light Grey Plates",,42,,5,,,"http://www.1000steine.com/brickset/images/10148-1.jpg","No","No",0
+104,"10149","1","Bulk Bricks","","2004","Assorted Dark Grey Plates",,42,,5,,,"http://www.1000steine.com/brickset/images/10149-1.jpg","No","No",0
+105,"10150","1","Bulk Bricks","","2004","Assorted Brown Plates",,42,,5,,,"http://www.1000steine.com/brickset/images/10150-1.jpg","No","No",0
+106,"10151","1","Model Team","","2004","Hot Rod",,421,26.99,40,,,"http://www.1000steine.com/brickset/images/10151-1.jpg","No","No",0
+107,"10152","1","Advanced Models","Maersk","2004","Maersk Sealand Container Ship",,988,,75,,,"http://www.1000steine.com/brickset/images/10152-1.jpg","No","No",0
+108,"10153","1","Trains","9 V","2002","Train Motor 9 V",,3,22.49,24.99,,,"http://www.1000steine.com/brickset/images/10153-1.jpg","No","No",0
+8050,"10155","1","Advanced Models","Maersk","2010","Maersk Line Container Ship",,990,102.99,119.99,139.99,109.99,"http://www.1000steine.com/brickset/images/10155-1.jpg","No","No",0
+109,"10156","1","Town","Special","2004","LEGO Truck",1,105,8.99,15,,,"http://www.1000steine.com/brickset/images/10156-1.jpg","No","No",0
+110,"10157","1","World City","Trains","2004","High Speed Train Locomotive",2,143,19.99,25,,,"http://www.1000steine.com/brickset/images/10157-1.jpg","No","No",0
+111,"10158","1","World City","Trains","2004","High Speed Train Car",2,161,19.99,25,,,"http://www.1000steine.com/brickset/images/10158-1.jpg","No","No",0
+112,"10159","1","Town","Flight","2004","City Airport",12,928,69.99,90,,,"http://www.1000steine.com/brickset/images/10159-1.jpg","No","No",0
+113,"10160","1","Bulk Bricks","","2004","Black Ridge Tiles",,48,4.29,5.99,,,"http://www.1000steine.com/brickset/images/10160-1.jpg","No","No",0
+114,"10161","1","Bulk Bricks","","2004","Black Roof Tiles",,76,4.29,5.99,,,"http://www.1000steine.com/brickset/images/10161-1.jpg","No","No",0
+115,"10162","1","Bulk Bricks","","2004","Red Ridge Tiles",,48,,6,,,"http://www.1000steine.com/brickset/images/10162-1.jpg","No","No",0
+116,"10163","1","Bulk Bricks","","2004","Red Roof Tiles",,76,,6,,,"http://www.1000steine.com/brickset/images/10163-1.jpg","No","No",0
+117,"10165","1","Seasonal","Christmas","2004","Elf Boy",,27,1.99,2.5,,,"http://www.1000steine.com/brickset/images/10165-1.jpg","No","No",0
+118,"10166","1","Seasonal","Christmas","2004","Elf Girl",,31,1.98,2.5,,,"http://www.1000steine.com/brickset/images/10166-1.jpg","No","No",0
+4626,"10167","1","Creator","","2004","LEGO BrickMaster Welcome Kit",,180,,,,,"http://www.1000steine.com/brickset/images/10167-1.jpg","No","No",0
+4791,"10168","1","Seasonal","Easter","2005","Mrs. Bunny",,61,2.16,3.99,,,"http://www.1000steine.com/brickset/images/10168-1.jpg","No","No",0
+4792,"10169","1","Seasonal","Easter","2005","Chicken & Chicks",,57,2.16,3.99,,,"http://www.1000steine.com/brickset/images/10169-1.jpg","No","No",0
+4878,"10170","1","Trains","9 V","2005","TTX Intermodal Double-Stack Car",,366,,40,,,"http://www.1000steine.com/brickset/images/10170-1.jpg","No","No",0
+5592,"10173","1","Trains","9 V","2006","Holiday Train",7,965,49.99,89.99,,,"http://www.1000steine.com/brickset/images/10173-1.jpg","No","No",0
+5483,"10174","1","Star Wars","Ultimate Collector Series","2006","Imperial AT-ST",,1068,58.69,79.99,,,"http://www.1000steine.com/brickset/images/10174-1.jpg","No","No",0
+5535,"10175","1","Star Wars","Ultimate Collector Series","2006","Vader's TIE Advanced",,1212,79.99,99.99,,,"http://www.1000steine.com/brickset/images/10175-1.jpg","No","No",0
+5457,"10176","1","Castle","Knights' Kingdom I","2006","King's Castle",12,869,,99.99,,,"http://www.1000steine.com/brickset/images/10176-1.jpg","No","No",0
+5510,"10177","1","Advanced Models","Aircraft","2006","Boeing 787 Dreamliner",,1197,49.99,79.99,,,"http://www.1000steine.com/brickset/images/10177-1.jpg","No","No",0
+6111,"10178","1","Star Wars","Episode IV-VI","2007","Motorised Walking AT-AT",4,1137,89.99,129.99,159.99,,"http://www.1000steine.com/brickset/images/10178-1.jpg","No","No",0
+5860,"10179","1","Star Wars","Ultimate Collector Series","2007","Ultimate Collector's Millennium Falcon",5,5195,342.49,499.99,,,"http://www.1000steine.com/brickset/images/10179-1.jpg","No","No",0
+6032,"10181","1","Advanced Models","Buildings","2007","Eiffel Tower ",,3428,146.79,199.99,,,"http://www.1000steine.com/brickset/images/10181-1.jpg","No","No",0
+5868,"10182","1","Advanced Models","Modular Buildings","2007","Cafe Corner",3,2056,88.09,139.99,,,"http://www.1000steine.com/brickset/images/10182-1.jpg","No","No",0
+5864,"10183","1","Factory","Trains","2007","Hobby Trains",,1080,,100,,,"http://www.1000steine.com/brickset/images/10183-1.jpg","No","No",0
+6305,"10184","1","City","General","2008","Town Plan",8,1981,88.09,149.99,,,"http://www.1000steine.com/brickset/images/10184-1.jpg","No","No",0
+6510,"10185","1","Advanced Models","Modular Buildings","2008","Green Grocer",4,2352,99.99,149.99,219.99,,"http://www.1000steine.com/brickset/images/10185-1.jpg","No","No",0
+6528,"10186","1","Star Wars","Ultimate Collector Series","2008","General Grievous",,1085,63.59,89.99,,,"http://www.1000steine.com/brickset/images/10186-1.jpg","No","No",0
+6486,"10187","1","Advanced Models","Vehicles","2008","Volkswagen Beetle",,1626,78.29,119.99,,,"http://www.1000steine.com/brickset/images/10187-1.jpg","No","No",0
+6522,"10188","1","Star Wars","Episode IV-VI","2008","Death Star",24,3803,274.99,399.99,499.99,419.99,"http://www.1000steine.com/brickset/images/10188-1.jpg","No","No",0
+6518,"10189","1","Advanced Models","Buildings","2008","Taj Mahal",,5922,199.99,299.99,399.99,,"http://www.1000steine.com/brickset/images/10189-1.jpg","No","No",0
+5978,"10190","1","Factory","Modular Buildings","2007","Market Street",3,1248,59.99,89.99,,,"http://www.1000steine.com/brickset/images/10190-1.jpg","No","No",0
+6549,"10191","1","Factory","Space","2008","Star Justice",8,895,48.95,99.99,,,"http://www.1000steine.com/brickset/images/10191-1.jpg","No","No",0
+6550,"10192","1","Factory","Space","2008","Space Skulls",4,956,48.95,99.99,,,"http://www.1000steine.com/brickset/images/10192-1.jpg","No","No",0
+6869,"10193","1","Castle","","2009","Medieval Market Village",8,1601,71.99,99.99,134.99,99.99,"http://www.1000steine.com/brickset/images/10193-1.jpg","No","No",0
+7085,"10194","1","Trains","9 V","2009","Emerald Night",3,1085,69.99,99.99,129.99,89.99,"http://www.1000steine.com/brickset/images/10194-1.jpg","No","No",0
+7086,"10195","1","Star Wars","The Clone Wars","2009","Republic Dropship with AT-OT Walker",8,1758,183.99,249.99,349.99,249.99,"http://www.1000steine.com/brickset/images/10195-1.jpg","No","No",0
+7125,"10196","1","Advanced Models","Miscellaneous","2009","Grand Carousel",9,3263,179.99,249.99,349.99,,"http://www.1000steine.com/brickset/images/10196-1.jpg","No","No",0
+7156,"10197","1","Advanced Models","Modular Buildings","2009","Fire Brigade",4,2231,99.99,149.99,199.99,149.99,"http://www.1000steine.com/brickset/images/10197-1.jpg","No","No",0
+7127,"10198","1","Star Wars","Episode IV-VI","2009","Tantive IV",5,1408,122.99,149.99,199.99,149.99,"http://www.1000steine.com/brickset/images/10198-1.jpg","No","No",0
+7126,"10199","1","Seasonal","Winter Village","2009","Winter Village Toy Shop",7,815,44.99,59.99,79.99,59.99,"http://www.1000steine.com/brickset/images/10199-1.jpg","No","No",0
+6734,"10200","1","Factory","Custom Cars","2008","Custom Car Garage",4,893,48.95,69.99,,,"http://www.1000steine.com/brickset/images/10200-1.jpg","No","No",0
+119,"10201","1","Bionicle","Warriors","2003","Takutanuva",,399,34.99,50,,,"http://www.1000steine.com/brickset/images/10201-1.jpg","No","No",0
+120,"10202","1","Bionicle","Warriors","2004","Ultimate Dume",,564,34.99,50,,,"http://www.1000steine.com/brickset/images/10202-1.jpg","No","No",0
+5060,"10203","1","Bionicle","Warriors","2005","Voporak",,647,29.99,50,,,"http://www.1000steine.com/brickset/images/10203-1.jpg","No","No",0
+5623,"10204","1","Bionicle","Warriors","2006","Vezon & Kardas",,670,29.99,50,,,"http://www.1000steine.com/brickset/images/10204-1.jpg","No","No",0
+121,"10205","1","Trains","9 V","2002","Large Train Engine with Tender, Black ",,232,,,,,"http://www.1000steine.com/brickset/images/10205-1.jpg","No","No",0
+7299,"10210","1","Pirates","","2010","Imperial Flagship",9,1664,142.99,179.99,229.99,149.99,"http://www.1000steine.com/brickset/images/10210-1.jpg","No","No",0
+7685,"10211","1","Advanced Models","Modular Buildings","2010","Grand Emporium",7,2182,132.99,149.99,199.99,149.99,"http://www.1000steine.com/brickset/images/10211-1.jpg","No","No",0
+7681,"10212","1","Star Wars","Ultimate Collector Series","2010","Imperial Shuttle",5,2503,245.99,259.99,309.99,259.99,"http://www.1000steine.com/brickset/images/10212-1.jpg","No","No",0
+8020,"10213","1","Advanced Models","Space","2010","Shuttle Adventure",3,1204,81.99,99.99,129.99,,"http://www.1000steine.com/brickset/images/10213-1.jpg","No","No",0
+8049,"10214","1","Advanced Models","Buildings","2010","Tower Bridge",,4287,209.99,239.99,299.99,219.99,"http://www.1000steine.com/brickset/images/10214-1.jpg","No","No",0
+8075,"10215","1","Star Wars","Ultimate Collector Series","2010","Obi-Wan's Jedi Starfighter",,676,94.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/10215-1.jpg","No","No",0
+8048,"10216","1","Seasonal","Winter Village","2010","Winter Village Bakery",7,687,50.99,54.99,74.99,54.99,"http://www.1000steine.com/brickset/images/10216-1.jpg","No","No",0
+8201,"10217","1","Harry Potter","General","2011","Diagon Alley",12,2025,132.99,149.99,199.99,149.99,"http://www.1000steine.com/brickset/images/10217-1.jpg","No","No",0
+8704,"10218","1","Advanced Models","Modular Buildings","2011","Pet Shop",4,2032,119.99,149.99,199.99,149.99,"http://www.1000steine.com/brickset/images/10218-1.jpg","No","No",0
+8639,"10219","1","Trains","9 V","2011","Maersk Train",3,1237,91.99,119.99,154.99,119.99,"http://www.1000steine.com/brickset/images/10219-1.jpg","No","No",0
+8706,"10220","1","Advanced Models","Vehicles","2011","Volkswagen T1 Camper Van",,1332,79.99,119.99,129.99,99.99,"http://www.1000steine.com/brickset/images/10220-1.jpg","No","No",0
+8733,"10221","1","Star Wars","Ultimate Collector Series","2011","Super Star Destroyer ",5,3152,349.99,399.99,499.99,399.99,"http://www.1000steine.com/brickset/images/10221-1.jpg","No","No",0
+8705,"10222","1","Seasonal","Winter Village","2011","Winter Village Post Office",7,822,49.99,69.99,79.99,59.99,"http://www.1000steine.com/brickset/images/10222-1.jpg","No","No",0
+9022,"10223","1","Castle","Kingdoms","2012","Kingdoms Joust",9,1575,99.99,119.99,149.99,119.99,"http://www.1000steine.com/brickset/images/10223-1.jpg","No","No",0
+9283,"10224","1","Advanced Models","Modular Buildings","2012","Town Hall",8,2766,149.99,199.99,249.99,179.99,"http://www.1000steine.com/brickset/images/10224-1.jpg","No","No",0
+9286,"10225","1","Star Wars","Ultimate Collector Series","2012","R2-D2",1,2127,149.99,179.99,229.99,179.99,"http://www.1000steine.com/brickset/images/10225-1.jpg","No","No",0
+9287,"10226","1","Advanced Models","Aircraft","2012","Sopwith Camel",,883,79.99,99.99,129.99,89.99,"http://www.1000steine.com/brickset/images/10226-1.jpg","No","No",0
+9288,"10227","1","Star Wars","Ultimate Collector Series","2012","B-Wing Starfighter",,1487,169.99,199.99,249.99,199.99,"http://www.1000steine.com/brickset/images/10227-1.jpg","No","No",0
+9358,"10228","1","Monster Fighters","","2012","Haunted House",6,2064,149.99,179.99,199.99,179.99,"http://www.1000steine.com/brickset/images/10228-1.jpg","No","No",0
+9771,"10229","1","Seasonal","Winter Village","2012","Winter Village Cottage",8,1490,89.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/10229-1.jpg","No","No",0
+9006,"10230","1","Advanced Models","Modular Buildings","2012","Mini Modulars",,1356,59.99,79.99,99.99,69.99,"http://www.1000steine.com/brickset/images/10230-1.jpg","No","No",0
+8758,"10231","1","Advanced Models","Space","2011","Shuttle Expedition",3,1230,81.99,99.99,129.99,89.99,"http://www.1000steine.com/brickset/images/10231-1.jpg","No","No",0
+10248,"10232","1","Advanced Models","Modular Buildings","2013","Palace Cinema",6,2196,119.99,149.99,199.99,139.99,"http://www.1000steine.com/brickset/images/10232-1.jpg","No","No",0
+10032,"10233","1","Creator","Expert","2013","Horizon Express",6,1351,79.99,129.99,149.99,99.99,"http://www.1000steine.com/brickset/images/10233-1.jpg","No","No",0
+22809,"10234","1","Advanced Models","Buildings","2013","Sydney Opera House",,2989,249.99,319.99,379.99,279.99,"http://www.1000steine.com/brickset/images/10234-1.jpg","No","No",0
+22808,"10235","1","Seasonal","Winter Village","2013","Winter Village Market",9,1261,79.99,99.99,129.99,89.99,"http://www.1000steine.com/brickset/images/10235-1.jpg","No","No",0
+22807,"10236","1","Star Wars","Episode IV-VI","2013","Ewok Village",17,1990,199.99,249.99,299.99,249.99,"http://www.1000steine.com/brickset/images/10236-1.jpg","No","No",0
+22758,"10237","1","Lord of the Rings","The Two Towers","2013","Tower of Orthanc",5,2359,169.99,199.99,249.99,199.99,"http://www.1000steine.com/brickset/images/10237-1.jpg","No","No",0
+22578,"10240","1","Star Wars","Ultimate Collector Series","2013","Red Five X-wing Starfighter",1,1559,169.99,199.99,249.99,199.99,"http://www.1000steine.com/brickset/images/10240-1.jpg","No","No",0
+22879,"10241","1","Advanced Models","Maersk","2014","Maersk Line Triple-E",,1518,109.99,149.99,179.99,129.99,"http://www.1000steine.com/brickset/images/10241-1.jpg","No","No",0
+23620,"10242","1","Advanced Models","Vehicles","2014","MINI Cooper MK VII",,,,,,,,"No","No",0
+22933,"10243","1","Advanced Models","Modular Buildings","2014","Parisian Restaurant",5,2469,132.99,159.99,189.99,149.99,"http://www.1000steine.com/brickset/images/10243-1.jpg","No","No",0
+23619,"10244","1","Creator","Expert","2014","Fairground Mixer",,1746,119.99,149.99,,129.99,"http://www.1000steine.com/brickset/images/10244-1.jpg","No","No",0
+23621,"10245","1","Seasonal","Winter Village","2014","Santa's Workshop",,,,,,,,"No","No",0
+10245,"10250","1","Creator","","2013","Year Of The Snake",,243,,,,,"http://www.1000steine.com/brickset/images/10250-1.jpg","No","No",0
+8856,"10285","1","Mindstorms","NXT","2011","Compass Sensor",,1,49.99,54.99,69.99,54.99,"http://www.1000steine.com/brickset/images/10285-1.jpg","No","No",0
+8857,"10286","1","Mindstorms","NXT","2011","Colour Sensor ",,1,36.99,54.99,69.99,54.99,"http://www.1000steine.com/brickset/images/10286-1.jpg","No","No",0
+7029,"10287","1","Mindstorms","NXT","2009","Intelligent NXT Brick (Black)",,1,107.65,169.99,,,"http://www.1000steine.com/brickset/images/10287-1.jpg","No","No",0
+9921,"10500","1","Duplo","","2013","Horse Stable",,44,24.99,,,29.99,"http://www.1000steine.com/brickset/images/10500-1.jpg","No","No",0
+9922,"10501","1","Duplo","Zoo","2013","Zoo Friends",,5,3.99,4.99,5.99,4.99,"http://www.1000steine.com/brickset/images/10501-1.jpg","No","No",0
+

@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+5728,"8929","1","Bionicle","Matoran","2007","Defilak",,37,3.99,4.99,,,"http://www.1000steine.com/brickset/images/8929-1.jpg","No","No",0
+5729,"8930","1","Bionicle","Matoran","2007","Dekar",,37,3.99,4.99,,,"http://www.1000steine.com/brickset/images/8930-1.jpg","No","No",0
+5730,"8931","1","Bionicle","Matoran","2007","Thulox",,39,3.99,5,,,"http://www.1000steine.com/brickset/images/8931-1.jpg","No","No",0
+5731,"8932","1","Bionicle","Matoran","2007","Morak",,40,3.99,4.99,,,"http://www.1000steine.com/brickset/images/8932-1.jpg","No","No",0
+5750,"8934","1","Bionicle","Accessories","2007","Squid Ammo",,7,1.99,1.99,,,"http://www.1000steine.com/brickset/images/8934-1.jpg","No","No",0
+5764,"8935","1","Bionicle","Warriors","2007","Nocturn",,116,14.99,14.99,,,"http://www.1000steine.com/brickset/images/8935-1.jpg","No","No",0
+6127,"8939","1","Bionicle","Warriors","2007","Lesovikk",,149,14.99,19.99,,,"http://www.1000steine.com/brickset/images/8939-1.jpg","No","No",0
+5980,"8940","1","Bionicle","Warriors","2007","Karzahni",,373,24.99,39.99,,,"http://www.1000steine.com/brickset/images/8940-1.jpg","No","No",0
+6401,"8941","1","Bionicle","Battle Vehicles","2008","Rockoh T3",,390,29.35,39.99,,,"http://www.1000steine.com/brickset/images/8941-1.jpg","No","No",0
+6402,"8942","1","Bionicle","Battle Vehicles","2008","Jetrax T6",,422,39.15,49.99,,,"http://www.1000steine.com/brickset/images/8942-1.jpg","No","No",0
+6668,"8942","2","Bionicle","Battle Vehicles","2008","Jetrax T6",,422,39.15,49.99,,,"http://www.1000steine.com/brickset/images/8942-2.jpg","No","No",0
+6403,"8943","1","Bionicle","Battle Vehicles","2008","Axalara T9",,693,48.95,79.99,,,"http://www.1000steine.com/brickset/images/8943-1.jpg","No","No",0
+6250,"8944","1","Bionicle","Matoran","2008","Tanma",,14,3.99,6.99,,,"http://www.1000steine.com/brickset/images/8944-1.jpg","No","No",0
+6251,"8945","1","Bionicle","Matoran","2008","Solek",,14,3.99,6.99,,,"http://www.1000steine.com/brickset/images/8945-1.jpg","No","No",0
+6252,"8946","1","Bionicle","Matoran","2008","Photok",,14,3.99,6.99,,,"http://www.1000steine.com/brickset/images/8946-1.jpg","No","No",0
+6253,"8947","1","Bionicle","Matoran","2008","Radiak",,16,3.89,6.99,,,"http://www.1000steine.com/brickset/images/8947-1.jpg","No","No",0
+6254,"8948","1","Bionicle","Matoran","2008","Gavla",,14,3.99,6.99,,,"http://www.1000steine.com/brickset/images/8948-1.jpg","No","No",0
+6255,"8949","1","Bionicle","Matoran","2008","Kirop",,14,3.99,6.99,,,"http://www.1000steine.com/brickset/images/8949-1.jpg","No","No",0
+6359,"8952","1","Bionicle","Warriors","2008","Mutran and Vican",,90,9.79,14.99,,,"http://www.1000steine.com/brickset/images/8952-1.jpg","No","No",0
+6399,"8953","1","Bionicle","Warriors","2008","Makuta Icarax",,159,14.99,19.99,,,"http://www.1000steine.com/brickset/images/8953-1.jpg","No","No",0
+6400,"8954","1","Bionicle","Vehicles/Creatures","2008","Mazeka",,301,,29.99,,,"http://www.1000steine.com/brickset/images/8954-1.jpg","No","No",0
+6860,"8956","1","Power Miners","","2009","Stone Chopper",2,31,3.89,5.99,,,"http://www.1000steine.com/brickset/images/8956-1.jpg","No","No",0
+6846,"8957","1","Power Miners","","2009","Mine Mech",2,67,6.85,7.99,,,"http://www.1000steine.com/brickset/images/8957-1.jpg","No","No",0
+6847,"8958","1","Power Miners","","2009","Granite Grinder",2,94,8.79,9.99,,,"http://www.1000steine.com/brickset/images/8958-1.jpg","No","No",0
+6848,"8959","1","Power Miners","","2009","Claw Digger",2,197,15.65,19.99,,,"http://www.1000steine.com/brickset/images/8959-1.jpg","No","No",0
+6859,"8960","1","Power Miners","","2009","Thunder Driller",3,235,21.99,29.99,,,"http://www.1000steine.com/brickset/images/8960-1.jpg","No","No",0
+6849,"8961","1","Power Miners","","2009","Crystal Sweeper",4,474,41.09,69.99,,,"http://www.1000steine.com/brickset/images/8961-1.jpg","No","No",0
+6985,"8962","1","Power Miners","","2009","Crystal King",2,168,14.99,19.99,,,"http://www.1000steine.com/brickset/images/8962-1.jpg","No","No",0
+6973,"8963","1","Power Miners","","2009","Rock Wrecker",2,225,24.99,34.99,44.99,,"http://www.1000steine.com/brickset/images/8963-1.jpg","No","No",0
+6974,"8964","1","Power Miners","","2009","Titanium Command Rig",5,706,59.99,99.99,129.99,,"http://www.1000steine.com/brickset/images/8964-1.jpg","No","No",0
+6906,"8967","1","Agents","","2009","Gold Tooth's Getaway",2,68,8.79,9.99,,,"http://www.1000steine.com/brickset/images/8967-1.jpg","No","No",0
+6907,"8968","1","Agents","","2009","River Heist",3,203,15.65,19.99,,,"http://www.1000steine.com/brickset/images/8968-1.jpg","No","No",0
+6908,"8969","1","Agents","","2009","4-Wheeling Pursuit",2,320,21.49,29.99,,,"http://www.1000steine.com/brickset/images/8969-1.jpg","No","No",0
+6909,"8970","1","Agents","","2009","Robo Attack",6,414,31.29,49.99,,,"http://www.1000steine.com/brickset/images/8970-1.jpg","No","No",0
+6910,"8971","1","Agents","","2009","Aerial Defence Unit",7,733,41.09,79.99,,,"http://www.1000steine.com/brickset/images/8971-1.jpg","No","No",0
+6796,"8972","1","Bionicle","Agori","2009","Atakus",,13,4.89,6.99,,,"http://www.1000steine.com/brickset/images/8972-1.jpg","No","No",0
+6797,"8973","1","Bionicle","Agori","2009","Raanu",,14,4.89,6.99,,,"http://www.1000steine.com/brickset/images/8973-1.jpg","No","No",0
+6798,"8974","1","Bionicle","Agori","2009","Tarduk",,17,4.89,6.99,,,"http://www.1000steine.com/brickset/images/8974-1.jpg","No","No",0
+6799,"8975","1","Bionicle","Agori","2009","Berix",,15,4.89,6.99,,,"http://www.1000steine.com/brickset/images/8975-1.jpg","No","No",0
+6800,"8976","1","Bionicle","Agori","2009","Metus",,14,4.89,6.99,,,"http://www.1000steine.com/brickset/images/8976-1.jpg","No","No",0
+6801,"8977","1","Bionicle","Agori","2009","Zesk",,16,4.89,6.99,,,"http://www.1000steine.com/brickset/images/8977-1.jpg","No","No",0
+6802,"8978","1","Bionicle","Glatorian","2009","Skrall",,50,8.79,12.99,,,"http://www.1000steine.com/brickset/images/8978-1.jpg","No","No",0
+6803,"8979","1","Bionicle","Glatorian","2009","Malum",,59,8.79,12.99,,,"http://www.1000steine.com/brickset/images/8979-1.jpg","No","No",0
+6804,"8980","1","Bionicle","Glatorian","2009","Gresh",,55,8.79,12.99,,,"http://www.1000steine.com/brickset/images/8980-1.jpg","No","No",0
+6805,"8981","1","Bionicle","Glatorian","2009","Tarix",,57,8.79,12.99,,,"http://www.1000steine.com/brickset/images/8981-1.jpg","No","No",0
+6806,"8982","1","Bionicle","Glatorian","2009","Strakk",,46,8.79,12.99,,,"http://www.1000steine.com/brickset/images/8982-1.jpg","No","No",0
+6807,"8983","1","Bionicle","Glatorian","2009","Vorox",,51,8.79,12.99,,,"http://www.1000steine.com/brickset/images/8983-1.jpg","No","No",0
+6954,"8984","1","Bionicle","Glatorian Legends","2009","Stronius",,55,8.99,12.99,,,"http://www.1000steine.com/brickset/images/8984-1.jpg","No","No",0
+6955,"8985","1","Bionicle","Glatorian Legends","2009","Ackar",,55,8.99,12.99,14.99,,"http://www.1000steine.com/brickset/images/8985-1.jpg","No","No",0
+6956,"8986","1","Bionicle","Glatorian Legends","2009","Vastus",,52,8.99,12.99,,,"http://www.1000steine.com/brickset/images/8986-1.jpg","No","No",0
+6957,"8987","1","Bionicle","Glatorian Legends","2009","Kiina",,43,8.99,12.99,14.99,,"http://www.1000steine.com/brickset/images/8987-1.jpg","No","No",0
+6958,"8988","1","Bionicle","Glatorian Legends","2009","Gelu",,52,8.99,12.99,14.99,,"http://www.1000steine.com/brickset/images/8988-1.jpg","No","No",0
+6959,"8989","1","Bionicle","Glatorian Legends","2009","Mata Nui",,52,8.99,12.99,,,"http://www.1000steine.com/brickset/images/8989-1.jpg","No","No",0
+6808,"8990","1","Bionicle","Vehicles/Creatures","2009","Fero and Skirmix",,148,14.65,19.99,,,"http://www.1000steine.com/brickset/images/8990-1.jpg","No","No",0
+6809,"8991","1","Bionicle","Warriors","2009","Tuma",,188,14.65,19.99,,,"http://www.1000steine.com/brickset/images/8991-1.jpg","No","No",0
+6929,"8992","1","Bionicle","Vehicles/Creatures","2009","Cendox V1",,151,14.99,19.99,24.99,,"http://www.1000steine.com/brickset/images/8992-1.jpg","No","No",0
+6930,"8993","1","Bionicle","Vehicles/Creatures","2009","Kaxium V3",,251,19.99,29.99,,,"http://www.1000steine.com/brickset/images/8993-1.jpg","No","No",0
+6931,"8994","1","Bionicle","Vehicles/Creatures","2009","Baranus V7",,263,29.35,39.99,49.99,,"http://www.1000steine.com/brickset/images/8994-1.jpg","No","No",0
+6932,"8995","1","Bionicle","Vehicles/Creatures","2009","Thornatus V9",,438,44.99,59.99,79.99,,"http://www.1000steine.com/brickset/images/8995-1.jpg","No","No",0
+6933,"8996","1","Bionicle","Vehicles/Creatures","2009","Skopio XV-1",,849,59.99,89.99,,,"http://www.1000steine.com/brickset/images/8996-1.jpg","No","No",0
+7190,"8998","1","Bionicle","Warriors","2009","Toa Mata Nui",,366,29.35,49.99,,,"http://www.1000steine.com/brickset/images/8998-1.jpg","No","No",0
+6156,"9001","1","Education","","2007","Medium Storage Bin",,2,,96.5,,,,"No","No",0
+23228,"9006","1","Dacta","Duplo","1986","Play and Build Centre",,14,,,,,,"No","No",0
+4885,"9017","1","Education","","2003","Baby Discovery Set",4,45,43.83,,,,"http://www.1000steine.com/brickset/images/9017-1.jpg","No","No",0
+4886,"9019","1","Education","","2003","Baby Stack 'n' Learn Set",4,69,41,,,,"http://www.1000steine.com/brickset/images/9019-1.jpg","No","No",0
+4873,"9020","1","Dacta","","1998","LEGO Soft Starter Set",,84,,235.75,,,"http://www.1000steine.com/brickset/images/9020-1.jpg","No","No",0
+9293,"9023","1","Education","","2000","Soft Brick Activity Set",,7,,,,,"http://www.1000steine.com/brickset/images/9023-1.jpg","No","No",0
+5715,"9024","1","Education","","2005","LEGO Soft Imagination Set",,74,201,240,,,"http://www.1000steine.com/brickset/images/9024-1.jpg","No","No",0
+4874,"9026","1","Education","","2003","Baby Stack 'n' Learn Set",4,91,,,,,"http://www.1000steine.com/brickset/images/9026-1.jpg","No","No",0
+5856,"9027","1","Education","","2007","Duplo Bulk Set",,144,,,,,"http://www.1000steine.com/brickset/images/9027-1.jpg","No","No",0
+4887,"9031","1","Education","","2003","Vehicles Set",5,30,66.19,91,,,"http://www.1000steine.com/brickset/images/9031-1.jpg","No","No",0
+4848,"9040","1","Education","","2004","Learning Games Set",,94,79,89,,,"http://www.1000steine.com/brickset/images/9040-1.jpg","No","No",0
+4866,"9058","1","Dacta","","1988","Large Building Plates",,2,,22,,,"http://www.1000steine.com/brickset/images/9058-1.jpg","No","No",0
+22618,"9060","1","Dacta","Duplo","1986","Building plates",,6,,,,,"http://www.1000steine.com/brickset/images/9060-1.jpg","No","No",0
+4839,"9065","1","Education","","1999","Brick Bulk Set",,144,,30.25,,,"http://www.1000steine.com/brickset/images/9065-1.jpg","No","No",0
+4865,"9071","1","Dacta","","1998","Building Plates",,2,,18.5,,,"http://www.1000steine.com/brickset/images/9071-1.jpg","No","No",0
+6477,"9076","1","Education","Duplo","2008","Tubes Experiment Set",4,147,,90,,,"http://www.1000steine.com/brickset/images/9076-1.jpg","No","No",0
+7741,"9077","1","Education","Duplo","2009","Brick Runner Set",,132,,116,,,"http://www.1000steine.com/brickset/images/9077-1.jpg","No","No",0
+7887,"9078","1","Education","Duplo","2009","Duplo Special Elements Set",,109,,90,,,"http://www.1000steine.com/brickset/images/9078-1.jpg","No","No",0
+7742,"9079","1","Education","Duplo","2009","Small Building Plates",,15,,40,,,,"No","No",0
+4875,"9089","1","Education","","2004","Tubes Experiment Set",4,153,73,71,,,"http://www.1000steine.com/brickset/images/9089-1.jpg","No","No",0
+4840,"9090","1","Dacta","","1993","XL Duplo Bulk Set",8,550,,,,,"http://www.1000steine.com/brickset/images/9090-1.jpg","No","No",0
+7878,"9091","1","Education","","2010","Playhouse Set",,125,,,,,"http://www.1000steine.com/brickset/images/9091-1.jpg","No","No",0
+8949,"9092","1","Racers","","2012","Crazy Demon",1,86,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9092-1.jpg","No","No",0
+8950,"9093","1","Racers","","2012","Bone Cruncher",1,87,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9093-1.jpg","No","No",0
+8951,"9094","1","Racers","","2012","Star Striker",1,88,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9094-1.jpg","No","No",0
+8952,"9095","1","Racers","","2012","Nitro Predator",1,87,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9095-1.jpg","No","No",0
+7670,"9122","1","Duplo","Toolo","1999","Vehicles",2,86,,69,,,"http://www.1000steine.com/brickset/images/9122-1.jpg","No","No",0
+4892,"9126","1","Education","","2001","Dolls Medium Set",4,24,24.48,43.25,,,"http://www.1000steine.com/brickset/images/9126-1.jpg","No","No",0
+4893,"9127","1","Education","","2001","Dolls Large Set",8,63,78.3,,,,"http://www.1000steine.com/brickset/images/9127-1.jpg","No","No",0
+4888,"9130","1","Education","","2002","Around-the-House Set",7,125,95.87,91,,,"http://www.1000steine.com/brickset/images/9130-1.jpg","No","No",0
+4849,"9132","1","Education","","2004","Community Transport Set",9,50,44.81,52,,,"http://www.1000steine.com/brickset/images/9132-1.jpg","No","No",0
+4889,"9134","1","Education","","2002","Life-on-the-Farm Set",4,105,95.87,97,,,"http://www.1000steine.com/brickset/images/9134-1.jpg","No","No",0
+4890,"9137","1","Dacta","","1998","Farm Animals Set",2,32,,30.25,,,"http://www.1000steine.com/brickset/images/9137-1.jpg","No","No",0
+4891,"9139","1","Dacta","","1998","Push Train Set",2,74,,76.5,,,"http://www.1000steine.com/brickset/images/9139-1.jpg","No","No",0
+22622,"9150","1","Dacta","Duplo","1986","Duplo furniture",4,74,,,,,"http://www.1000steine.com/brickset/images/9150-1.jpg","No","No",0
+22621,"9151","1","Dacta","Duplo","1986","Duplo family",10,10,,,,,"http://www.1000steine.com/brickset/images/9151-1.jpg","No","No",0
+22626,"9154","1","Dacta","Duplo","1989","Bridge and rails",,32,,,,,"http://www.1000steine.com/brickset/images/9154-1.jpg","No","No",0
+22625,"9155","1","Dacta","Duplo","1988","Circus",,,,,,,"http://www.1000steine.com/brickset/images/9155-1.jpg","No","No",0
+4854,"9170","1","Dacta","","1995","Community People Set",18,18,,28.6,,,"http://www.1000steine.com/brickset/images/9170-1.jpg","No","No",0
+4855,"9171","1","Dacta","","1995","World People",24,24,,38.5,,,"http://www.1000steine.com/brickset/images/9171-1.jpg","No","No",0
+4876,"9203","2","Dacta","","1998","Tech Machines",6,117,,105,,,"http://www.1000steine.com/brickset/images/9203-2.jpg","No","No",0
+6478,"9206","1","Education","","2008","Tech Machines Set",,111,,,,,"http://www.1000steine.com/brickset/images/9206-1.jpg","No","No",0
+7881,"9207","1","Education","","2010","Community Vehicles Set",,,,,,,"http://www.1000steine.com/brickset/images/9207-1.jpg","No","No",0
+9301,"9209","1","Education","Duplo","2012","Community Services Set",,130,,,,,"http://www.1000steine.com/brickset/images/9209-1.jpg","No","No",0
+4623,"9210","1","Education","Explore","2002","Wild Animals Set",,57,74.37,72,,,"http://www.1000steine.com/brickset/images/9210-1.jpg","No","No",0
+5368,"9211","1","Education","Duplo","2006","Community Transport Set",8,61,,,,,"http://www.1000steine.com/brickset/images/9211-1.jpg","No","No",0
+5369,"9212","1","Education","Duplo","2006","Push Train Set",3,129,,,,,"http://www.1000steine.com/brickset/images/9212-1.jpg","No","No",0
+5846,"9213","1","Education","Duplo","2007","Dinosaurs Set",,95,,,,,"http://www.1000steine.com/brickset/images/9213-1.jpg","No","No",0
+5847,"9214","1","Education","Duplo","2007","Wild Animals Set",,121,,,,,"http://www.1000steine.com/brickset/images/9214-1.jpg","No","No",0
+6476,"9215","1","Education","","2008","Dolls Family Set",,87,,105,,,"http://www.1000steine.com/brickset/images/9215-1.jpg","No","No",0
+7889,"9217","1","Education","","2010","Farm Set",,,,,,,"http://www.1000steine.com/brickset/images/9217-1.jpg","No","No",0
+9302,"9218","1","Education","Duplo","2012","Wild Animals Set",,98,,,,,"http://www.1000steine.com/brickset/images/9218-1.jpg","No","No",0
+22623,"9220","1","Dacta","Duplo","1988","Farm Scene Mosaics",,81,,,,,"http://www.1000steine.com/brickset/images/9220-1.jpg","No","No",0
+22624,"9221","1","Dacta","Duplo","1988","Town Scene Mosaics",,81,,,,,"http://www.1000steine.com/brickset/images/9221-1.jpg","No","No",0
+5848,"9222","1","Education","Duplo","2007","World People Set",16,16,39.99,39.99,47.99,44.99,"http://www.1000steine.com/brickset/images/9222-1.jpg","No","No",0
+5370,"9224","1","Education","Duplo","2006","Community People Set",20,20,,36,,,"http://www.1000steine.com/brickset/images/9224-1.jpg","No","No",0
+5849,"9225","1","Education","Duplo","2007","Playhouse Set",5,120,,,,,"http://www.1000steine.com/brickset/images/9225-1.jpg","No","No",0
+5850,"9226","1","Education","Duplo","2007","Hospital Set",6,97,,,,,"http://www.1000steine.com/brickset/images/9226-1.jpg","No","No",0
+5851,"9227","1","Education","Duplo","2007","Farm Set",4,106,,,,,"http://www.1000steine.com/brickset/images/9227-1.jpg","No","No",0
+5852,"9228","1","Education","Duplo","2007","Farm Animals Set",1,51,,,,,"http://www.1000steine.com/brickset/images/9228-1.jpg","No","No",0
+5853,"9229","1","Education","Duplo","2007","Police Station Set",6,82,,,,,"http://www.1000steine.com/brickset/images/9229-1.jpg","No","No",0
+4841,"9230","1","Education","","2004","Town Set",8,215,67,62,,,"http://www.1000steine.com/brickset/images/9230-1.jpg","No","No",0
+4850,"9231","1","Education","Duplo","2005","Playhouse Set",4,105,,69,,,"http://www.1000steine.com/brickset/images/9231-1.jpg","No","No",0
+4851,"9232","1","Education","Duplo","2005","Hospital Set",7,100,,64,,,"http://www.1000steine.com/brickset/images/9232-1.jpg","No","No",0
+4877,"9233","1","Education","Duplo","2005","Farm Set",4,98,,,,,"http://www.1000steine.com/brickset/images/9233-1.jpg","No","No",0
+4856,"9234","1","Education","Duplo","2005","Dolls Family Set",6,76,,89,,,"http://www.1000steine.com/brickset/images/9234-1.jpg","No","No",0
+4852,"9236","1","Education","Duplo","2005","Garden Set",4,37,,26,,,"http://www.1000steine.com/brickset/images/9236-1.jpg","No","No",0
+4853,"9237","1","Education","Duplo","2005","Garage Set",1,44,,26,,,"http://www.1000steine.com/brickset/images/9237-1.jpg","No","No",0
+4829,"9238","1","Education","Duplo","2005","Farm Animals Set",1,43,,,,,"http://www.1000steine.com/brickset/images/9238-1.jpg","No","No",0
+4830,"9239","1","Education","Duplo","2005","Stable Set",2,46,,,,,"http://www.1000steine.com/brickset/images/9239-1.jpg","No","No",0
+5371,"9240","1","Education","Duplo","2006","Fire Rescue Services Set",4,129,,,,,"http://www.1000steine.com/brickset/images/9240-1.jpg","No","No",0
+5857,"9241","1","Education","","2007","Wheels Set",,360,,39.99,49.99,,"http://www.1000steine.com/brickset/images/9241-1.jpg","No","No",0
+4867,"9243","1","Dacta","","1998","Doors, Windows and Roof Tiles",,240,,,,,"http://www.1000steine.com/brickset/images/9243-1.jpg","No","No",0
+4713,"9247","1","Education","","2005","Community Workers",31,202,36.99,49.99,69.99,,"http://www.1000steine.com/brickset/images/9247-1.jpg","No","No",0
+5372,"9247","2","Education","","2006","Community Workers",31,235,36.99,49.99,69.99,,"http://www.1000steine.com/brickset/images/9247-2.jpg","No","No",0
+4842,"9251","1","Dacta","","1998","Big Bulk Set",,576,,23.75,,,"http://www.1000steine.com/brickset/images/9251-1.jpg","No","No",0
+9396,"9255","1","Dacta","System","1992","Basic Set",,177,,,,,,"No","No",0
+9300,"9265","1","Dacta","","1998","Roof Tiles",,250,,25.25,,,"http://www.1000steine.com/brickset/images/9265-1.jpg","No","No",0
+4868,"9269","1","Dacta","","1998","Wheels and Axles",,288,,34,,,"http://www.1000steine.com/brickset/images/9269-1.jpg","No","No",0
+4531,"9274","1","Education","","2004","Doors and Windows",,270,21.87,28.25,,,"http://www.1000steine.com/brickset/images/9274-1.jpg","No","No",0
+4689,"9279","1","Dacta","System","1997","Small Building Plates",,9,,14.99,,,"http://www.1000steine.com/brickset/images/9279-1.jpg","No","No",0
+4869,"9286","1","Dacta","","1998","Building Plates Set",,4,,21,,,"http://www.1000steine.com/brickset/images/9286-1.jpg","No","No",0
+9295,"9291","1","Dacta","","1997","Medium LEGO DACTA Basic Set",,822,,59.5,,,,"No","No",0
+4533,"9293","1","Dacta","","1996","Community Workers",30,182,,31.5,,,"http://www.1000steine.com/brickset/images/9293-1.jpg","No","No",0
+4535,"9301","1","Education","","1999","Traffic Signs",,172,,25.25,,,"http://www.1000steine.com/brickset/images/9301-1.jpg","No","No",0
+4843,"9302","1","Education","","2001","Community Builders Set",,1670,118.3,,,,"http://www.1000steine.com/brickset/images/9302-1.jpg","No","No",0
+4844,"9303","1","Education","","2001","Airport Set",4,1180,88.75,89,,,"http://www.1000steine.com/brickset/images/9303-1.jpg","No","No",0
+4845,"9306","1","Education","","2003","Bulk Set with Special Bricks",,610,29.81,32,,,"http://www.1000steine.com/brickset/images/9306-1.jpg","No","No",0
+6456,"9310","1","Education","","2007","Dinosaurs Set",,4,,,,,,"No","No",0
+7879,"9311","1","Education","","2010","City Buildings Set",9,822,,,,,"http://www.1000steine.com/brickset/images/9311-1.jpg","No","No",0
+7882,"9314","1","Education","","2010","Rescue Services Set",,1490,,149.95,,,"http://www.1000steine.com/brickset/images/9314-1.jpg","No","No",0
+4846,"9320","1","Education","","2003","Journey into Space",,631,71,93,,,"http://www.1000steine.com/brickset/images/9320-1.jpg","No","No",0
+5373,"9321","1","Education","","2006","World Transport Services Set",,1219,,,,,"http://www.1000steine.com/brickset/images/9321-1.jpg","No","No",0
+5854,"9322","1","Education","","2007","Town Developers Set",12,1860,,,,,"http://www.1000steine.com/brickset/images/9322-1.jpg","No","No",0
+5855,"9324","1","Education","","2007","Micro Building Set",,1641,,,,,"http://www.1000steine.com/brickset/images/9324-1.jpg","No","No",0
+7883,"9333","1","Education","","2010","Vehicles Set",,934,,,,,"http://www.1000steine.com/brickset/images/9333-1.jpg","No","No",0
+7880,"9334","1","Education","","2010","Animals Set",,,,,,,"http://www.1000steine.com/brickset/images/9334-1.jpg","No","No",0
+7892,"9335","1","Education","","2010","Space & Airport Set",,1189,,,,,"http://www.1000steine.com/brickset/images/9335-1.jpg","No","No",0
+8661,"9337","1","Education","Town","2011","Harbour Set",,906,,,,,"http://www.1000steine.com/brickset/images/9337-1.jpg","No","No",0
+9323,"9338","1","Serious Play","","2011","Mini-Kit",,57,,,,,,"No","No",0
+8612,"9348","1","Education","","2011","Community Minifigure Set",22,256,39.99,49.99,57.5,47.50,"http://www.1000steine.com/brickset/images/9348-1.jpg","No","No",0
+8613,"9349","1","Education","","2011","Fairytale and Historic Minifigure Set",22,227,39.99,49.99,57.5,47.50,"http://www.1000steine.com/brickset/images/9349-1.jpg","No","No",0
+9341,"9353","1","Dacta","Town","1991","Theme Set",,924,,,,,,"No","No",0
+9391,"9354","1","Dacta","Town","1991","Town Street Theme",,496,,,,,,"No","No",0
+8074,"9355","1","Dacta","","1990","Dacta Space Theme Set",8,509,,,,,"http://www.1000steine.com/brickset/images/9355-1.jpg","No","No",0
+9392,"9356","1","Dacta","Town","1986","Town Environment",8,605,,,,,"http://www.1000steine.com/brickset/images/9356-1.jpg","No","No",0
+9393,"9360","1","Dacta","Town","1986","Roadplates and Scenery",,85,,,,,"http://www.1000steine.com/brickset/images/9360-1.jpg","No","No",0
+8786,"9361","1","Dacta","","1991","People",24,36,,,,,"http://www.1000steine.com/brickset/images/9361-1.jpg","No","No",0
+23263,"9362","1","Dacta","","1991","Road plates",,8,,,,,,"No","No",0
+8000,"9364","1","Dacta","","1993","Hospital",19,522,,,,,"http://www.1000steine.com/brickset/images/9364-1.jpg","No","No",0
+8001,"9365","1","Dacta","","1993","Community Vehicles",13,739,,69,,,"http://www.1000steine.com/brickset/images/9365-1.jpg","No","No",0
+9296,"9366","1","Dacta","","1997","Town Set",,413,,67,,,,"No","No",0
+9394,"9370","1","Dacta","Town","1998","Lego System Road Plates",,10,,,,,,"No","No",0
+7007,"9376","1","Dacta","Castle","1997","Castle Set",14,321,,63.5,,,"http://www.1000steine.com/brickset/images/9376-1.jpg","No","No",0
+4730,"9377","1","Dacta","Adventurers","1998","Adventurers combined set",,3,,89.25,,,"http://www.1000steine.com/brickset/images/9377-1.jpg","No","No",0
+7884,"9384","1","Education","","2010","Bricks Set",,884,,,,,"http://www.1000steine.com/brickset/images/9384-1.jpg","No","No",0
+7885,"9385","1","Education","","2010","Sceneries Set",,1214,,,,,"http://www.1000steine.com/brickset/images/9385-1.jpg","No","No",0
+7886,"9386","1","Education","","2010","Doors, Windows",,278,,,,,"http://www.1000steine.com/brickset/images/9386-1.jpg","No","No",0
+8614,"9387","1","Education","","2011","Wheels Set",,286,39.99,39.99,45.99,37.99,"http://www.1000steine.com/brickset/images/9387-1.jpg","No","No",0
+9280,"9388","1","Education","","2012","Small building plates",,22,,,,,"http://www.1000steine.com/brickset/images/9388-1.jpg","No","No",0
+9281,"9389","1","Education","","2012","Community Starter Set",,1907,,,,,"http://www.1000steine.com/brickset/images/9389-1.jpg","No","No",0
+8879,"9390","1","Technic","","2012","Mini Tow Truck",,136,6.99,11.99,14.99,9.99,"http://www.1000steine.com/brickset/images/9390-1.jpg","No","No",0
+8881,"9391","1","Technic","","2012","Tracked Crane",,218,14.99,19.99,24.99,14.99,"http://www.1000steine.com/brickset/images/9391-1.jpg","No","No",0
+8880,"9392","1","Technic","","2012","Quad Bike",,199,17.99,24.99,29.99,19.99,"http://www.1000steine.com/brickset/images/9392-1.jpg","No","No",0
+9222,"9393","1","Technic","","2012","Tractor",,353,24.99,39.99,49.99,29.99,"http://www.1000steine.com/brickset/images/9393-1.jpg","No","No",0
+8878,"9394","1","Technic","","2012","Jet Plane",,499,29.99,49.99,64.99,39.99,"http://www.1000steine.com/brickset/images/9394-1.jpg","No","No",0
+8877,"9395","1","Technic","","2012","Pick-Up Tow Truck",,954,49.99,69.99,89.99,59.99,"http://www.1000steine.com/brickset/images/9395-1.jpg","No","No",0
+9166,"9396","1","Technic","","2012","Helicopter",,1056,69.99,119.99,149.99,89.99,"http://www.1000steine.com/brickset/images/9396-1.jpg","No","No",0
+9038,"9397","1","Technic","","2012","Logging Truck",,1308,99.99,139.99,179.99,119.99,"http://www.1000steine.com/brickset/images/9397-1.jpg","No","No",0
+9167,"9398","1","Technic","","2012","4x4 Crawler",,1327,139.99,199.99,249.99,169.99,"http://www.1000steine.com/brickset/images/9398-1.jpg","No","No",0
+4861,"9412","1","Education","","2003","Duplo Bricks",,,28.99,,,,"http://www.1000steine.com/brickset/images/9412-1.jpg","No","No",0
+8871,"9440","1","Ninjago","","2012","Venomari Shrine",1,86,5.99,6.99,9.99,7.99,"http://www.1000steine.com/brickset/images/9440-1.jpg","No","No",0
+8873,"9441","1","Ninjago","","2012","Kai's Blade Cycle",2,188,12.99,14.99,17.99,14.99,"http://www.1000steine.com/brickset/images/9441-1.jpg","No","No",0
+8872,"9442","1","Ninjago","","2012","Jay's Storm Fighter",2,242,19.99,24.99,29.99,19.99,"http://www.1000steine.com/brickset/images/9442-1.jpg","No","No",0
+8870,"9443","1","Ninjago","","2012","Rattlecopter",3,327,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/9443-1.jpg","No","No",0
+8874,"9444","1","Ninjago","","2012","Cole's Tread Assault",2,286,29.99,39.99,49.99,34.99,"http://www.1000steine.com/brickset/images/9444-1.jpg","No","No",0
+8875,"9445","1","Ninjago","","2012","Fangpyre Truck Ambush",4,452,39.99,49.99,64.99,49.99,"http://www.1000steine.com/brickset/images/9445-1.jpg","No","No",0
+8876,"9446","1","Ninjago","","2012","Destiny's Bounty",6,680,59.99,79.99,99.99,79.99,"http://www.1000steine.com/brickset/images/9446-1.jpg","No","No",0
+9228,"9447","1","Ninjago","","2012","Lasha's Bite Cycle",2,250,19.99,24.99,29.99,19.99,"http://www.1000steine.com/brickset/images/9447-1.jpg","No","No",0
+

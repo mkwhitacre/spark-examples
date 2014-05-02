@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+8229,"7929","1","Star Wars","Episode I","2011","The Battle of Naboo",12,241,25.99,24.99,34.99,29.99,"http://www.1000steine.com/brickset/images/7929-1.jpg","No","No",0
+4071,"7930","0","Clikits","","2004","Promotional Set",,1,,,,,"http://www.1000steine.com/brickset/images/7930-0.jpg","No","No",0
+8332,"7930","1","Star Wars","The Clone Wars","2011","Bounty Hunter Assault Gunship",4,389,40.99,49.99,64.99,49.99,"http://www.1000steine.com/brickset/images/7930-1.jpg","No","No",0
+4072,"7931","0","Clikits","","2004","Promotional Set",,1,,,,,"http://www.1000steine.com/brickset/images/7931-0.jpg","No","No",0
+8333,"7931","1","Star Wars","The Clone Wars","2011","T-6 Jedi Shuttle",4,389,49.99,59.99,79.99,69.99,"http://www.1000steine.com/brickset/images/7931-1.jpg","No","No",0
+7611,"7936","1","City","Trains","2010","Level Crossing",1,142,15.99,19.99,26.99,16.99,"http://www.1000steine.com/brickset/images/7936-1.jpg","No","No",0
+7610,"7937","1","City","Trains","2010","Train Station",4,361,35.99,49.99,69.99,39.99,"http://www.1000steine.com/brickset/images/7937-1.jpg","No","No",0
+7609,"7938","1","City","Trains","2010","Passenger Train",3,669,102.99,129.99,169.99,109.99,"http://www.1000steine.com/brickset/images/7938-1.jpg","No","No",0
+7608,"7939","1","City","Trains","2010","Cargo Train",4,839,129.99,179.99,239.99,169.99,"http://www.1000steine.com/brickset/images/7939-1.jpg","No","No",0
+5557,"7942","1","City","Fire","2007","Off-Road Fire Rescue",1,131,9.99,9.99,12.99,11.99,"http://www.1000steine.com/brickset/images/7942-1.jpg","No","No",0
+5558,"7944","1","City","Fire","2007","Fire Hovercraft",3,274,24.99,29.99,,,"http://www.1000steine.com/brickset/images/7944-1.jpg","No","No",0
+5559,"7945","1","City","Fire","2007","Fire Station",4,600,44.05,59.99,,,"http://www.1000steine.com/brickset/images/7945-1.jpg","No","No",0
+7604,"7946","1","Castle","Kingdoms","2010","King's Castle",8,933,81.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/7946-1.jpg","No","No",0
+7603,"7947","1","Castle","Kingdoms","2010","Prison Tower Rescue",5,365,45.99,49.99,69.99,49.99,"http://www.1000steine.com/brickset/images/7947-1.jpg","No","No",0
+7602,"7948","1","Castle","Kingdoms","2010","Outpost Attack",3,194,20.99,19.99,26.99,19.99,"http://www.1000steine.com/brickset/images/7948-1.jpg","No","No",0
+7605,"7949","1","Castle","Kingdoms","2010","Prison Carriage Rescue",3,50,10.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/7949-1.jpg","No","No",0
+7612,"7950","1","Castle","Kingdoms","2010","Knight's Showdown",2,61,4.99,6.99,9.99,6.99,"http://www.1000steine.com/brickset/images/7950-1.jpg","No","No",0
+22448,"7951","1","Duplo","","2001","XL Bucket",1,78,,,,,,"No","No",0
+7647,"7952","1","Castle","Seasonal","2010","Kingdoms Advent Calendar",9,167,24.99,34.99,39.99,,"http://www.1000steine.com/brickset/images/7952-1.jpg","No","No",0
+7613,"7953","1","Castle","Kingdoms","2010","Court Jester",1,22,2.99,3.99,4.99,,"http://www.1000steine.com/brickset/images/7953-1.jpg","No","No",0
+7614,"7955","1","Castle","Kingdoms","2010","Wizard",1,19,2.99,3.99,4.99,,"http://www.1000steine.com/brickset/images/7955-1.jpg","No","No",0
+8585,"7956","1","Star Wars","Episode IV-VI","2011","Ewok Attack",3,166,25.99,24.99,34.99,29.99,"http://www.1000steine.com/brickset/images/7956-1.jpg","No","No",0
+8586,"7957","1","Star Wars","The Clone Wars","2011","Sith Nightspeeder",3,213,25.99,24.99,34.99,29.99,"http://www.1000steine.com/brickset/images/7957-1.jpg","No","No",0
+8587,"7958","1","Star Wars","Seasonal","2011","Star Wars Advent Calendar",9,266,24.99,39.99,49.99,29.99,"http://www.1000steine.com/brickset/images/7958-1.jpg","No","No",0
+8588,"7959","1","Star Wars","The Clone Wars","2011","Geonosian Starfighter",3,155,29.99,29.99,39.99,39.99,"http://www.1000steine.com/brickset/images/7959-1.jpg","No","No",0
+8589,"7961","1","Star Wars","Episode I","2011","Darth Maul's Sith Infiltrator",4,479,59.99,69.99,89.99,69.99,"http://www.1000steine.com/brickset/images/7961-1.jpg","No","No",0
+8590,"7962","1","Star Wars","Episode I","2011","Anakin Skywalker and Sebulba's Podracers",5,810,81.99,89.99,119.99,99.99,"http://www.1000steine.com/brickset/images/7962-1.jpg","No","No",0
+8591,"7964","1","Star Wars","The Clone Wars","2011","Republic Frigate",5,1015,102.99,119.99,154.99,129.99,"http://www.1000steine.com/brickset/images/7964-1.jpg","No","No",0
+8592,"7965","1","Star Wars","Episode IV-VI","2011","Millennium Falcon",6,1254,132.99,139.99,179.99,149.99,"http://www.1000steine.com/brickset/images/7965-1.jpg","No","No",0
+7241,"7967","1","Racers","Power Racers","2010","Fast",,69,9.99,12.99,17.99,,"http://www.1000steine.com/brickset/images/7967-1.jpg","No","No",0
+7242,"7968","1","Racers","Power Racers","2010","Strong",,91,9.99,12.99,17.99,,"http://www.1000steine.com/brickset/images/7968-1.jpg","No","No",0
+4075,"7969","1","Duplo","","2001","XL Bucket",,106,,,,,"http://www.1000steine.com/brickset/images/7969-1.jpg","No","No",0
+7243,"7970","1","Racers","Power Racers","2010","Hero",,68,9.99,12.99,17.99,,"http://www.1000steine.com/brickset/images/7970-1.jpg","No","No",0
+7244,"7971","1","Racers","Power Racers","2010","Bad",,72,9.99,12.99,17.99,,"http://www.1000steine.com/brickset/images/7971-1.jpg","No","No",0
+4076,"7975","1","Duplo","","2000","XL Bucket",,107,,,,,,"No","No",0
+8230,"7976","1","Atlantis","","2011","Ocean Speeder",1,54,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/7976-1.jpg","No","No",0
+8231,"7977","1","Atlantis","","2011","Seabed Strider",2,105,8.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/7977-1.jpg","No","No",0
+8232,"7978","1","Atlantis","","2011","Angler Attack",2,200,18.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/7978-1.jpg","No","No",0
+6485,"7979","1","Castle","Seasonal","2008","Castle Advent Calendar",9,176,12.99,30,,,"http://www.1000steine.com/brickset/images/7979-1.jpg","No","No",0
+8233,"7984","1","Atlantis","","2011","Deep Sea Raider",2,265,25.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/7984-1.jpg","No","No",0
+8234,"7985","1","Atlantis","","2011","City of Atlantis",5,686,49.99,69.99,89.99,69.99,"http://www.1000steine.com/brickset/images/7985-1.jpg","No","No",0
+5684,"7990","1","City","Traffic","2007","Cement Mixer",1,213,13.69,14.99,,,"http://www.1000steine.com/brickset/images/7990-1.jpg","No","No",0
+5611,"7991","1","City","Traffic","2007","Recycle Truck",1,206,13.69,16.99,,,"http://www.1000steine.com/brickset/images/7991-1.jpg","No","No",0
+5683,"7992","1","City","Harbour","2007","Container Stacker",1,218,14.65,19.99,,,"http://www.1000steine.com/brickset/images/7992-1.jpg","No","No",0
+5612,"7993","1","City","Traffic","2007","Service Station",3,402,29.35,39.99,,,"http://www.1000steine.com/brickset/images/7993-1.jpg","No","No",0
+5613,"7994","1","City","Harbour","2007","LEGO City Harbour",5,659,58.69,89.99,,,"http://www.1000steine.com/brickset/images/7994-1.jpg","No","No",0
+5785,"7996","1","City","Trains","2007","Train Rail Crossing",,4,14.65,24.99,,,"http://www.1000steine.com/brickset/images/7996-1.jpg","No","No",0
+5793,"7997","1","City","Trains","2007","Train Station",5,387,31.29,44.99,,,"http://www.1000steine.com/brickset/images/7997-1.jpg","No","No",0
+5614,"7998","1","City","Traffic","2007","Heavy Hauler",1,332,34.99,34.99,,,"http://www.1000steine.com/brickset/images/7998-1.jpg","No","No",0
+4082,"8000","1","Star Wars","Technic","2000","Pit Droid",,223,,20,,,"http://www.1000steine.com/brickset/images/8000-1.jpg","No","No",0
+4083,"8001","1","Star Wars","Technic","2000","Battle Droid",,363,,30,,,"http://www.1000steine.com/brickset/images/8001-1.jpg","No","No",0
+4084,"8002","1","Star Wars","Technic","2000","Destroyer Droid",,558,,50,,,"http://www.1000steine.com/brickset/images/8002-1.jpg","No","No",0
+4085,"8003","1","Technic","Robo Riders","2000","Volcano Climber",,35,,,,,"http://www.1000steine.com/brickset/images/8003-1.jpg","No","No",0
+4086,"8004","1","Technic","Robo Riders","2000","Dirt Bike",,32,,,,,"http://www.1000steine.com/brickset/images/8004-1.jpg","No","No",0
+4087,"8005","1","Technic","Robo Riders","2000","Ice Explorer",,34,,,,,"http://www.1000steine.com/brickset/images/8005-1.jpg","No","No",0
+4088,"8006","1","Technic","Robo Riders","2000","Swamp Craft",,25,,,,,"http://www.1000steine.com/brickset/images/8006-1.jpg","No","No",0
+4089,"8007","1","Star Wars","Technic","2001","C-3PO",,341,29.99,35,,,"http://www.1000steine.com/brickset/images/8007-1.jpg","No","No",0
+4090,"8008","1","Star Wars","Technic","2001","Stormtrooper",,361,29.99,35,,,"http://www.1000steine.com/brickset/images/8008-1.jpg","No","No",0
+4091,"8009","1","Star Wars","Technic","2002","R2-D2",,240,17.99,20,,,"http://www.1000steine.com/brickset/images/8009-1.jpg","No","No",0
+4094,"8010","1","Star Wars","Technic","2002","Darth Vader",,391,34.99,40,,,"http://www.1000steine.com/brickset/images/8010-1.jpg","No","No",0
+4095,"8011","1","Star Wars","Technic","2002","Jango Fett",,422,29.99,30,,,"http://www.1000steine.com/brickset/images/8011-1.jpg","No","No",0
+4096,"8012","1","Star Wars","Technic","2002","Super Battle Droid",,379,29.99,35,,,"http://www.1000steine.com/brickset/images/8012-1.jpg","No","No",0
+6790,"8014","1","Star Wars","The Clone Wars","2009","Clone Walker Battle Pack",4,72,9.99,11.99,14.99,,"http://www.1000steine.com/brickset/images/8014-1.jpg","No","No",0
+6791,"8015","1","Star Wars","The Clone Wars","2009","Assassin Droids Battle Pack",5,94,9.99,11.99,14.99,,"http://www.1000steine.com/brickset/images/8015-1.jpg","No","No",0
+6792,"8016","1","Star Wars","The Clone Wars","2009","Hyena Droid Bomber",3,232,24.99,19.99,26.99,,"http://www.1000steine.com/brickset/images/8016-1.jpg","No","No",0
+6793,"8017","1","Star Wars","Episode IV-VI","2009","Darth Vader's TIE Fighter",1,251,34.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/8017-1.jpg","No","No",0
+6794,"8018","1","Star Wars","The Clone Wars","2009","Armored Assault Tank (AAT)",7,407,39.99,49.99,64.99,,"http://www.1000steine.com/brickset/images/8018-1.jpg","No","No",0
+6795,"8019","1","Star Wars","The Clone Wars","2009","Republic Attack Shuttle",3,636,49.99,59.99,79.99,,"http://www.1000steine.com/brickset/images/8019-1.jpg","No","No",0
+4098,"8020","1","Technic","Universal","1984","Universal Set",,119,,,,,"http://www.1000steine.com/brickset/images/8020-1.jpg","No","No",0
+4099,"8022","1","Technic","Universal","1993","Multi Model Starter Set",,118,,15.5,,,"http://www.1000steine.com/brickset/images/8022-1.jpg","No","No",0
+4100,"8024","1","Technic","Universal","1989","Universal Set",,113,,,,,"http://www.1000steine.com/brickset/images/8024-1.jpg","No","No",0
+6547,"8026","1","Bionicle","","2004","Kraatu",,20,,,,,"http://www.1000steine.com/brickset/images/8026-1.jpg","No","No",0
+6498,"8028","1","Star Wars","Mini Building Set","2008","Mini TIE-Fighter",,44,,,,,"http://www.1000steine.com/brickset/images/8028-1.jpg","No","No",0
+6497,"8029","1","Star Wars","Mini Building Set","2008","Mini Snowspeeder",,66,,,,,"http://www.1000steine.com/brickset/images/8029-1.jpg","No","No",0
+4102,"8030","1","Technic","Universal","1982","Universal Set",,141,,,,,"http://www.1000steine.com/brickset/images/8030-1.jpg","No","No",0
+6596,"8031","1","Star Wars","Mini Building Set","2008","V-19 Torrent",,66,,3.99,,,"http://www.1000steine.com/brickset/images/8031-1.jpg","No","No",0
+4103,"8032","1","Technic","Universal","1994","Multi Functional Starter Set",,215,,26.5,,,"http://www.1000steine.com/brickset/images/8032-1.jpg","No","No",0
+7030,"8033","1","Star Wars","Mini Building Set","2009","General Grievous' Starfighter",,44,,3.99,,,"http://www.1000steine.com/brickset/images/8033-1.jpg","No","No",0
+4104,"8034","1","Technic","Universal","1989","Universal Set",,187,,,,,"http://www.1000steine.com/brickset/images/8034-1.jpg","No","No",0
+4105,"8035","1","Technic","Universal","1986","Universal Set",,174,,,,,"http://www.1000steine.com/brickset/images/8035-1.jpg","No","No",0
+6937,"8036","1","Star Wars","The Clone Wars","2009","Separatist Shuttle",5,259,34.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/8036-1.jpg","No","No",0
+6938,"8037","1","Star Wars","The Clone Wars","2009","Anakin's Y-wing Starfighter",3,570,49.99,59.99,79.99,,"http://www.1000steine.com/brickset/images/8037-1.jpg","No","No",0
+6939,"8038","1","Star Wars","Episode IV-VI","2009","The Battle of Endor",12,890,84.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/8038-1.jpg","No","No",0
+6940,"8039","1","Star Wars","The Clone Wars","2009","Venator-Class Republic Attack Cruiser",5,1170,102.99,119.99,149.99,139.99,"http://www.1000steine.com/brickset/images/8039-1.jpg","No","No",0
+4107,"8040","1","Technic","Universal","1984","Universal Set",,163,,,,,"http://www.1000steine.com/brickset/images/8040-1.jpg","No","No",0
+7575,"8041","1","Technic","","2010","Race Truck",,608,45.99,59.99,79.99,49.99,"http://www.1000steine.com/brickset/images/8041-1.jpg","No","No",0
+4108,"8042","1","Technic","Universal","1993","Multi Model Pneumatic Set",,230,,38.5,,,"http://www.1000steine.com/brickset/images/8042-1.jpg","No","No",0
+7616,"8043","1","Technic","","2010","Motorized Excavator",,1123,142.99,199.99,249.99,169.99,"http://www.1000steine.com/brickset/images/8043-1.jpg","No","No",0
+4109,"8044","1","Technic","Universal","1989","Universal Pneumatic Set",,198,,,,,"http://www.1000steine.com/brickset/images/8044-1.jpg","No","No",0
+7214,"8045","1","Technic","","2010","Mini Telehandler",,117,9.99,10.99,14.99,9.99,"http://www.1000steine.com/brickset/images/8045-1.jpg","No","No",0
+7215,"8046","1","Technic","","2010","Helicopter",,152,15.99,19.99,26.99,16.99,"http://www.1000steine.com/brickset/images/8046-1.jpg","No","No",0
+7216,"8047","1","Technic","","2010","Compact Excavator",,252,20.99,24.99,34.99,22.99,"http://www.1000steine.com/brickset/images/8047-1.jpg","No","No",0
+7217,"8048","1","Technic","","2010","Buggy",,314,25.99,39.99,54.99,32.99,"http://www.1000steine.com/brickset/images/8048-1.jpg","No","No",0
+7218,"8049","1","Technic","","2010","Tractor with Log Loader",,525,49.99,59.99,79.99,59.99,"http://www.1000steine.com/brickset/images/8049-1.jpg","No","No",0
+4111,"8050","1","Technic","Universal","1982","Universal Motor Set",,141,,,,,"http://www.1000steine.com/brickset/images/8050-1.jpg","No","No",0
+7617,"8051","1","Technic","","2010","Motorbike",,467,35.99,39.99,54.99,42.99,"http://www.1000steine.com/brickset/images/8051-1.jpg","No","No",0
+7618,"8052","1","Technic","","2010","Container Truck",,686,49.99,69.99,89.99,69.99,"http://www.1000steine.com/brickset/images/8052-1.jpg","No","No",0
+7619,"8053","1","Technic","","2010","Mobile Crane",,1289,76.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/8053-1.jpg","No","No",0
+4112,"8054","1","Technic","Universal","1989","Universal Motor Set",,196,,,,,"http://www.1000steine.com/brickset/images/8054-1.jpg","No","No",0
+4113,"8055","1","Technic","Universal","1986","Universal Motor Set",,186,,,,,"http://www.1000steine.com/brickset/images/8055-1.jpg","No","No",0
+7270,"8056","1","Atlantis","","2010","Monster Crab Clash",1,68,4.99,6.99,9.99,,"http://www.1000steine.com/brickset/images/8056-1.jpg","No","No",0
+7271,"8057","1","Atlantis","","2010","Wreck Raider",2,64,7.99,9.99,12.99,,"http://www.1000steine.com/brickset/images/8057-1.jpg","No","No",0
+7272,"8058","1","Atlantis","","2010","Guardian of the Deep",1,144,13.49,14.99,19.99,,"http://www.1000steine.com/brickset/images/8058-1.jpg","No","No",0
+7273,"8059","1","Atlantis","","2010","Seabed Scavenger",2,119,12.99,14.99,19.99,,"http://www.1000steine.com/brickset/images/8059-1.jpg","No","No",0
+7274,"8060","1","Atlantis","","2010","Typhoon Turbo Sub",2,197,20.99,24.99,34.99,,"http://www.1000steine.com/brickset/images/8060-1.jpg","No","No",0
+7275,"8061","1","Atlantis","","2010","Gateway of the Squid",3,354,24.99,39.99,54.99,,"http://www.1000steine.com/brickset/images/8061-1.jpg","No","No",0
+4115,"8062","1","Technic","Universal","1994","Briefcase Set",,403,,68,,,"http://www.1000steine.com/brickset/images/8062-1.jpg","No","No",0
+7203,"8063","1","Technic","","2009","Tractor with Trailer",,1100,63.59,99.99,,,"http://www.1000steine.com/brickset/images/8063-1.jpg","No","No",0
+4116,"8064","1","Technic","Universal","1990","Universal Motor Set",,219,,55,,,"http://www.1000steine.com/brickset/images/8064-1.jpg","No","No",0
+8323,"8065","1","Technic","","2011","Mini Container Truck",,119,8.99,10.99,14.99,9.99,"http://www.1000steine.com/brickset/images/8065-1.jpg","No","No",0
+8324,"8066","1","Technic","","2011","Off-Roader",,141,15.99,19.99,24.99,14.99,"http://www.1000steine.com/brickset/images/8066-1.jpg","No","No",0
+8325,"8067","1","Technic","","2011","Mini Mobile Crane",,292,20.99,24.99,29.99,19.99,"http://www.1000steine.com/brickset/images/8067-1.jpg","No","No",0
+8326,"8068","1","Technic","","2011","Rescue Helicopter",,408,34.99,39.99,49.99,29.99,"http://www.1000steine.com/brickset/images/8068-1.jpg","No","No",0
+8327,"8069","1","Technic","","2011","Backhoe Loader",,609,49.99,59.99,79.99,49.99,"http://www.1000steine.com/brickset/images/8069-1.jpg","No","No",0
+8328,"8070","1","Technic","","2011","Super Car",,1281,99.99,119.99,154.99,109.99,"http://www.1000steine.com/brickset/images/8070-1.jpg","No","No",0
+8593,"8071","1","Technic","","2011","Bucket Truck",,593,40.99,49.99,64.99,39.99,"http://www.1000steine.com/brickset/images/8071-1.jpg","No","No",0
+7304,"8072","1","Atlantis","","2010","Sea Jet",1,23,2.99,3.99,4.99,,"http://www.1000steine.com/brickset/images/8072-1.jpg","No","No",0
+7302,"8073","1","Atlantis","","2010","Manta Warrior",1,13,2.99,3.99,4.99,,"http://www.1000steine.com/brickset/images/8073-1.jpg","No","No",0
+4118,"8074","1","Technic","Universal","1991","Universal Set with Flex System",,313,,,,,"http://www.1000steine.com/brickset/images/8074-1.jpg","No","No",0
+7276,"8075","1","Atlantis","","2010","Neptune Carrier",4,476,39.99,59.99,79.99,,"http://www.1000steine.com/brickset/images/8075-1.jpg","No","No",0
+7622,"8076","1","Atlantis","","2010","Deep Sea Striker",1,260,20.99,19.99,26.99,,"http://www.1000steine.com/brickset/images/8076-1.jpg","No","No",0
+7623,"8077","1","Atlantis","","2010","Atlantis Exploration HQ",3,473,40.99,49.99,69.99,49.99,"http://www.1000steine.com/brickset/images/8077-1.jpg","No","No",0
+7624,"8078","1","Atlantis","","2010","Portal of Atlantis",7,1007,81.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/8078-1.jpg","No","No",0
+7303,"8079","1","Atlantis","","2010","Shadow Snapper",1,246,24.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/8079-1.jpg","No","No",0
+7720,"8080","1","Atlantis","","2010","Undersea Explorer",1,364,39.99,39.99,54.99,,"http://www.1000steine.com/brickset/images/8080-1.jpg","No","No",0
+8594,"8081","1","Technic","","2011","Extreme Cruiser",,590,49.99,59.99,79.99,49.99,"http://www.1000steine.com/brickset/images/8081-1.jpg","No","No",0
+4120,"8082","1","Technic","Universal","1993","Multi Model Control Set",,459,,99,,,"http://www.1000steine.com/brickset/images/8082-1.jpg","No","No",0
+7208,"8083","1","Star Wars","Episode IV-VI","2010","Rebel Trooper Battle Pack",4,79,9.99,11.99,14.99,14.99,"http://www.1000steine.com/brickset/images/8083-1.jpg","No","No",0
+7206,"8084","1","Star Wars","Episode IV-VI","2010","Snowtrooper Battle Pack",4,74,9.99,11.99,14.99,14.99,"http://www.1000steine.com/brickset/images/8084-1.jpg","No","No",0
+7207,"8085","1","Star Wars","The Clone Wars","2010","Freeco Speeder",2,177,21.99,24.99,34.99,26.99,"http://www.1000steine.com/brickset/images/8085-1.jpg","No","No",0
+7209,"8086","1","Star Wars","The Clone Wars","2010","Droid Tri-Fighter",3,268,25.99,24.99,34.99,26.99,"http://www.1000steine.com/brickset/images/8086-1.jpg","No","No",0
+7211,"8087","1","Star Wars","Expanded Universe","2010","TIE Defender",2,304,39.99,49.99,69.99,,"http://www.1000steine.com/brickset/images/8087-1.jpg","No","No",0
+7212,"8088","1","Star Wars","The Clone Wars","2010","ARC-170 Starfighter",4,396,49.99,59.99,79.99,69.99,"http://www.1000steine.com/brickset/images/8088-1.jpg","No","No",0
+7576,"8089","1","Star Wars","Episode IV-VI","2010","Hoth Wampa Cave",3,297,35.99,39.99,54.99,49.99,"http://www.1000steine.com/brickset/images/8089-1.jpg","No","No",0
+4122,"8090","1","Technic","Universal","1982","Universal Set",,266,,,,,"http://www.1000steine.com/brickset/images/8090-1.jpg","No","No",0
+7570,"8091","1","Star Wars","Episode III","2010","Republic Swamp Speeder",5,176,30.99,29.99,39.99,36.99,"http://www.1000steine.com/brickset/images/8091-1.jpg","No","No",0
+7213,"8092","1","Star Wars","Episode IV-VI","2010","Luke's Landspeeder",6,163,25.99,24.99,34.99,26.99,"http://www.1000steine.com/brickset/images/8092-1.jpg","No","No",0
+7577,"8093","1","Star Wars","The Clone Wars","2010","Plo Koon's Jedi Starfighter",2,175,25.99,24.99,34.99,26.99,"http://www.1000steine.com/brickset/images/8093-1.jpg","No","No",0
+4123,"8094","1","Technic","Universal","1990","Control Centre",,546,,,,,"http://www.1000steine.com/brickset/images/8094-1.jpg","No","No",0
+7578,"8095","1","Star Wars","The Clone Wars","2010","General Grievous' Starfighter",4,454,45.99,49.99,69.99,49.99,"http://www.1000steine.com/brickset/images/8095-1.jpg","No","No",0
+7579,"8096","1","Star Wars","Episode III","2010","Emperor Palpatine's Shuttle",4,592,61.99,59.99,79.99,69.99,"http://www.1000steine.com/brickset/images/8096-1.jpg","No","No",0
+7580,"8097","1","Star Wars","Episode IV-VI","2010","Slave I",3,573,81.99,79.99,109.99,89.99,"http://www.1000steine.com/brickset/images/8097-1.jpg","No","No",0
+7581,"8098","1","Star Wars","The Clone Wars","2010","Clone Turbo Tank",6,1141,102.99,119.99,159.99,129.99,"http://www.1000steine.com/brickset/images/8098-1.jpg","No","No",0
+7642,"8099","1","Star Wars","Episode IV-VI","2010","Midi-Scale Imperial Star Destroyer",,423,34.99,39.99,49.99,,"http://www.1000steine.com/brickset/images/8099-1.jpg","No","No",0
+5578,"8100","1","Exo-Force","Golden City","2007","Cyclone Defender",1,92,4.99,7.99,,,"http://www.1000steine.com/brickset/images/8100-1.jpg","No","No",0
+5579,"8101","1","Exo-Force","Golden City","2007","Claw Crusher",1,99,4.99,7.99,,,"http://www.1000steine.com/brickset/images/8101-1.jpg","No","No",0
+5580,"8102","1","Exo-Force","Golden City","2007","Blade Titan",1,162,9.99,14.99,,,"http://www.1000steine.com/brickset/images/8102-1.jpg","No","No",0
+5581,"8103","1","Exo-Force","Golden City","2007","Sky Guardian",1,144,9.99,14.99,,,"http://www.1000steine.com/brickset/images/8103-1.jpg","No","No",0
+5582,"8104","1","Exo-Force","Golden City","2007","Shadow Crawler",2,161,9.99,14.99,,,"http://www.1000steine.com/brickset/images/8104-1.jpg","No","No",0
+5583,"8105","1","Exo-Force","Golden City","2007","Iron Condor",1,141,9.99,14.99,,,"http://www.1000steine.com/brickset/images/8105-1.jpg","No","No",0
+5786,"8106","1","Exo-Force","Golden City","2007","Aero Booster",1,312,19.99,29.99,,,"http://www.1000steine.com/brickset/images/8106-1.jpg","No","No",0
+5787,"8107","1","Exo-Force","Golden City","2007","Fight for the Golden Tower",2,571,34.99,49.99,,,"http://www.1000steine.com/brickset/images/8107-1.jpg","No","No",0
+5788,"8108","1","Exo-Force","Golden City","2007","Mobile Devastator",13,1009,59.99,89.99,,,"http://www.1000steine.com/brickset/images/8108-1.jpg","No","No",0
+8595,"8109","1","Technic","","2011","Flatbed Truck",,1115,71.99,99.99,129.99,89.99,"http://www.1000steine.com/brickset/images/8109-1.jpg","No","No",0
+8596,"8110","1","Technic","","2011","Mercedes-Benz Unimog U 400",,2048,154.99,199.99,249.99,189.99,"http://www.1000steine.com/brickset/images/8110-1.jpg","No","No",0
+6262,"8111","1","Exo-Force","Deep Jungle","2008","River Dragon",1,112,4.89,7.99,,,"http://www.1000steine.com/brickset/images/8111-1.jpg","No","No",0
+6263,"8112","1","Exo-Force","Deep Jungle","2008","Arachnoid Stalker",1,131,4.99,7.99,,,"http://www.1000steine.com/brickset/images/8112-1.jpg","No","No",0
+6264,"8113","1","Exo-Force","Deep Jungle","2008","Assault Tiger",1,163,9.99,14.99,,,"http://www.1000steine.com/brickset/images/8113-1.jpg","No","No",0
+6265,"8114","1","Exo-Force","Deep Jungle","2008","Chameleon Hunter",1,188,9.79,14.99,,,"http://www.1000steine.com/brickset/images/8114-1.jpg","No","No",0
+6266,"8115","1","Exo-Force","Deep Jungle","2008","Dark Panther",3,244,9.79,14.99,,,"http://www.1000steine.com/brickset/images/8115-1.jpg","No","No",0
+6306,"8117","1","Exo-Force","Deep Jungle","2008","Storm Lasher",1,283,14.65,19.99,,,"http://www.1000steine.com/brickset/images/8117-1.jpg","No","No",0
+6307,"8118","1","Exo-Force","Deep Jungle","2008","Hybrid Rescue Tank",2,347,19.99,29.99,,,"http://www.1000steine.com/brickset/images/8118-1.jpg","No","No",0
+6817,"8119","1","Racers","Tiny Turbos","2009","Thunder Racer",,48,3.89,4.99,,,"http://www.1000steine.com/brickset/images/8119-1.jpg","No","No",0
+6818,"8120","1","Racers","Tiny Turbos","2009","Rally Sprinter",,47,3.89,4.99,,,"http://www.1000steine.com/brickset/images/8120-1.jpg","No","No",0
+6816,"8121","1","Racers","Tiny Turbos","2009","Track Marshall",,48,3.89,4.99,,,"http://www.1000steine.com/brickset/images/8121-1.jpg","No","No",0
+6819,"8122","1","Racers","Tiny Turbos","2009","Desert Viper",,41,3.89,4.99,,,"http://www.1000steine.com/brickset/images/8122-1.jpg","No","No",0
+6820,"8123","1","Racers","Tiny Turbos","2009","Ferrari F1 Racers",,139,9.79,14.99,,,"http://www.1000steine.com/brickset/images/8123-1.jpg","No","No",0
+6821,"8124","1","Racers","Tiny Turbos","2009","Ice Rally",,170,9.79,14.99,,,"http://www.1000steine.com/brickset/images/8124-1.jpg","No","No",0
+6822,"8125","1","Racers","Tiny Turbos","2009","Thunder Raceway",,160,9.79,14.99,,,"http://www.1000steine.com/brickset/images/8125-1.jpg","No","No",0
+6823,"8126","1","Racers","Tiny Turbos","2009","Desert Challenge",,144,9.79,14.99,,,"http://www.1000steine.com/brickset/images/8126-1.jpg","No","No",0
+7721,"8128","1","Star Wars","The Clone Wars","2010","Cad Bane's Speeder",5,318,45.99,49.99,64.99,54.99,"http://www.1000steine.com/brickset/images/8128-1.jpg","No","No",0
+7645,"8129","1","Star Wars","Episode IV-VI","2010","AT-AT Walker",8,815,91.99,109.99,139.99,119.99,"http://www.1000steine.com/brickset/images/8129-1.jpg","No","No",0
+5737,"8130","1","Racers","Tiny Turbos","2007","Terrain Crusher",,44,2.99,4.99,,,"http://www.1000steine.com/brickset/images/8130-1.jpg","No","No",0
+5735,"8131","1","Racers","Tiny Turbos","2007","Raceway Rider",,51,2.99,4.99,,,"http://www.1000steine.com/brickset/images/8131-1.jpg","No","No",0
+5734,"8132","1","Racers","Tiny Turbos","2007","Night Driver",,41,2.99,4.99,,,"http://www.1000steine.com/brickset/images/8132-1.jpg","No","No",0
+5736,"8133","1","Racers","Tiny Turbos","2007","Rally Rider",,51,2.99,4.99,,,"http://www.1000steine.com/brickset/images/8133-1.jpg","No","No",0
+5733,"8134","1","Racers","Tiny Turbos","2007","Night Crusher",,265,12.99,19.99,,,"http://www.1000steine.com/brickset/images/8134-1.jpg","No","No",0
+5944,"8135","1","Racers","Tiny Turbos","2007","Bridge Chase",,542,29.99,39.99,,,"http://www.1000steine.com/brickset/images/8135-1.jpg","No","No",0
+5694,"8136","1","Racers","Power Racers","2007","Fire Crusher",,65,6.99,10,,,"http://www.1000steine.com/brickset/images/8136-1.jpg","No","No",0
+5695,"8137","1","Racers","Power Racers","2007","Booster Beast",,70,6.99,9.99,,,"http://www.1000steine.com/brickset/images/8137-1.jpg","No","No",0
+5696,"8138","1","Racers","Power Racers","2007","Phantom Crasher",,85,6.99,10,,,"http://www.1000steine.com/brickset/images/8138-1.jpg","No","No",0
+5697,"8139","1","Racers","Power Racers","2007","Night Blazer",,66,6.99,9.99,,,"http://www.1000steine.com/brickset/images/8139-1.jpg","No","No",0
+5698,"8140","1","Racers","Power Racers","2007","Tow Trasher",,182,12.99,19.99,,,"http://www.1000steine.com/brickset/images/8140-1.jpg","No","No",0
+5699,"8141","1","Racers","Power Racers","2007","Off-Road Power",,201,12.99,19.99,,,"http://www.1000steine.com/brickset/images/8141-1.jpg","No","No",0
+5568,"8142","1","Racers","Ferrari","2007","Ferrari 248 F1 1:24",,167,14.99,19.99,,,"http://www.1000steine.com/brickset/images/8142-1.jpg","No","No",0
+5569,"8143","1","Racers","Ferrari","2007","Ferrari F430 Challenge 1:17",,690,34.99,49.99,,,"http://www.1000steine.com/brickset/images/8143-1.jpg","No","No",0
+5570,"8144","1","Racers","Ferrari","2007","Ferrari 248 F1 Team (Michael Schumacher Edition)",8,726,49.99,69.99,,,"http://www.1000steine.com/brickset/images/8144-1.jpg","No","No",0
+9019,"8144","2","Racers","Ferrari","2007","Ferrari 248 F1 Team (Kimi Räikkönen Edition)",8,726,,,,,"http://www.1000steine.com/brickset/images/8144-2.jpg","No","No",0
+5615,"8145","1","Racers","Ferrari","2007","Ferrari 599 GTB Fiorano 1:10",,1327,79.99,109.99,,,"http://www.1000steine.com/brickset/images/8145-1.jpg","No","No",0
+5945,"8146","1","Racers","Power Racers","2007","Nitro Muscle",,598,39.99,49.99,,,"http://www.1000steine.com/brickset/images/8146-1.jpg","No","No",0
+5946,"8147","1","Racers","Tiny Turbos","2007","Bullet Run",,796,34.99,49.99,,,"http://www.1000steine.com/brickset/images/8147-1.jpg","No","No",0
+6272,"8148","1","Racers","Tiny Turbos","2008","EZ-Roadster",,45,2.99,4.99,,,"http://www.1000steine.com/brickset/images/8148-1.jpg","No","No",0
+6273,"8149","1","Racers","Tiny Turbos","2008","Midnight Streak",,43,2.99,4.99,,,"http://www.1000steine.com/brickset/images/8149-1.jpg","No","No",0
+6274,"8150","1","Racers","Tiny Turbos","2008","ZX Turbo",,55,2.99,4.99,,,"http://www.1000steine.com/brickset/images/8150-1.jpg","No","No",0
+6275,"8151","1","Racers","Tiny Turbos","2008","Adrift Sport",,52,2.99,4.99,,,"http://www.1000steine.com/brickset/images/8151-1.jpg","No","No",0
+6276,"8152","1","Racers","Tiny Turbos","2008","Speed Chasing",,142,7.79,12.99,,,"http://www.1000steine.com/brickset/images/8152-1.jpg","No","No",0
+6286,"8153","1","Racers","Tiny Turbos","2008","Ferrari F1 Truck",,270,15.65,19.99,,,"http://www.1000steine.com/brickset/images/8153-1.jpg","No","No",0
+6438,"8154","1","Racers","Tiny Turbos","2008","Brick Street Customs",,1021,34.25,69.99,,,"http://www.1000steine.com/brickset/images/8154-1.jpg","No","No",0
+6287,"8155","1","Racers","Tiny Turbos","2008","Ferrari F1 Pit",,482,24.99,39.99,,,"http://www.1000steine.com/brickset/images/8155-1.jpg","No","No",0
+6288,"8156","1","Racers","Ferrari","2008","Ferrari FXX 1:17",,626,31.29,49.99,,,"http://www.1000steine.com/brickset/images/8156-1.jpg","No","No",0
+

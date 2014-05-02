@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+1361,"3149","1","Scala","","2000","Happy Home",3,265,,100,,,"http://www.1000steine.com/brickset/images/3149-1.jpg","No","No",0
+1363,"3150","1","Scala","","2000","Puppy Playground",,35,,8,,,"http://www.1000steine.com/brickset/images/3150-1.jpg","No","No",0
+1364,"3151","1","Scala","","2000","Emma on the Move",1,65,,15,,,"http://www.1000steine.com/brickset/images/3151-1.jpg","No","No",0
+1365,"3152","1","Scala","","2000","Playroom for the Baby Thomas",1,81,,15,,,"http://www.1000steine.com/brickset/images/3152-1.jpg","No","No",0
+1366,"3155","1","Scala","","2000","Olivia in Smooth Dress",1,6,,9,,,"http://www.1000steine.com/brickset/images/3155-1.jpg","No","No",0
+1367,"3156","1","Scala","","2000","Hot Wear for Woman",,3,,5,,,"http://www.1000steine.com/brickset/images/3156-1.jpg","No","No",0
+1368,"3157","1","Scala","","2000","Cool Wear for Girls",,2,,5,,,"http://www.1000steine.com/brickset/images/3157-1.jpg","No","No",0
+1369,"3158","1","Scala","","2000","Christian in Tough Wear",1,7,,9,,,"http://www.1000steine.com/brickset/images/3158-1.jpg","No","No",0
+1370,"3159","1","Scala","","2000","Celebration",,41,,5,,,"http://www.1000steine.com/brickset/images/3159-1.jpg","No","No",0
+1372,"3160","1","Baby","","2001","Play Plane",1,1,3.99,,,,"http://www.1000steine.com/brickset/images/3160-1.jpg","No","No",0
+1373,"3161","1","Baby","","2001","Soft Stacking Hen",,5,12.99,10,,,"http://www.1000steine.com/brickset/images/3161-1.jpg","No","No",0
+1374,"3162","1","Baby","","2001","Take Along Friend",1,1,2.99,,,,"http://www.1000steine.com/brickset/images/3162-1.jpg","No","No",0
+1375,"3169","1","Baby","","2001","Crib and Mirror Adventure",,2,12.99,,,,"http://www.1000steine.com/brickset/images/3169-1.jpg","No","No",0
+1376,"3170","1","Baby","","2001","Light and Sound Stacker",,10,14.99,15,,,"http://www.1000steine.com/brickset/images/3170-1.jpg","No","No",0
+1377,"3172","1","Baby","","2001","Soft Frog Rattle",,1,2.99,,,,"http://www.1000steine.com/brickset/images/3172-1.jpg","No","No",0
+1378,"3173","1","Baby","","2001","Caterpillar Teether",,1,3.99,7,,,"http://www.1000steine.com/brickset/images/3173-1.jpg","No","No",0
+7261,"3177","1","City","Traffic","2010","Small Car",1,43,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/3177-1.jpg","No","No",0
+7262,"3178","1","City","Airport","2010","Seaplane",1,102,8.49,10.99,14.99,9.99,"http://www.1000steine.com/brickset/images/3178-1.jpg","No","No",0
+7263,"3179","1","City","Traffic","2010","Repair Truck",1,118,9.99,12.99,17.99,12.99,"http://www.1000steine.com/brickset/images/3179-1.jpg","No","No",0
+7264,"3180","1","City","Traffic","2010","Tank Truck",1,222,14.99,19.99,26.99,19.99,"http://www.1000steine.com/brickset/images/3180-1.jpg","No","No",0
+7298,"3181","1","City","Airport","2010","Passenger Plane",3,309,35.99,39.99,54.99,34.99,"http://www.1000steine.com/brickset/images/3181-1.jpg","No","No",0
+7265,"3182","1","City","Airport","2010","Airport",5,703,81.99,99.99,129.99,89.99,"http://www.1000steine.com/brickset/images/3182-1.jpg","No","No",0
+8893,"3183","1","Friends","","2012","Stephanie's Cool Convertible",1,130,14.99,14.99,17.99,14.99,"http://www.1000steine.com/brickset/images/3183-1.jpg","No","No",0
+9187,"3184","1","Friends","","2012","Adventure Camper",2,309,29.99,34.99,39.99,29.99,"http://www.1000steine.com/brickset/images/3184-1.jpg","No","No",0
+9188,"3185","1","Friends","","2012","Summer Riding Camp",4,1112,89.99,99.99,124.99,99.99,"http://www.1000steine.com/brickset/images/3185-1.jpg","No","No",0
+9189,"3186","1","Friends","","2012","Emma's Horse Trailer",1,218,19.99,24.99,29.99,24.99,"http://www.1000steine.com/brickset/images/3186-1.jpg","No","No",0
+8891,"3187","1","Friends","","2012","Butterfly Beauty Shop",2,221,24.99,24.99,29.99,24.99,"http://www.1000steine.com/brickset/images/3187-1.jpg","No","No",0
+8889,"3188","1","Friends","","2012","Heartlake Vet",2,343,39.99,44.99,49.99,39.99,"http://www.1000steine.com/brickset/images/3188-1.jpg","No","No",0
+9190,"3189","1","Friends","","2012","Heartlake Stables",2,401,49.99,49.99,64.99,54.99,"http://www.1000steine.com/brickset/images/3189-1.jpg","No","No",0
+5346,"3191","1","Duplo","","2006","Anniversary Bucket",,103,14.99,,,,"http://www.1000steine.com/brickset/images/3191-1.jpg","No","No",0
+6128,"3191","2","Duplo","","2006","Yellow Half-Tub, Special Edition",,103,14.99,15,,,"http://www.1000steine.com/brickset/images/3191-2.jpg","No","No",0
+9691,"3192","1","Clikits","","2006","Cool Friends Clips & Pad",,,,,,,,"No","No",0
+5222,"3193","1","Clikits","","2005","Fun Friends Frame",,14,,,,,"http://www.1000steine.com/brickset/images/3193-1.jpg","No","No",0
+1379,"3194","1","Clikits","","2004","Heart",,9,,,,,"http://www.1000steine.com/brickset/images/3194-1.jpg","No","No",0
+1380,"3195","1","Clikits","","2004","Daisy",,9,,,,,"http://www.1000steine.com/brickset/images/3195-1.jpg","No","No",0
+4624,"3196","1","Clikits","","2004","Star",,9,,,,,"http://www.1000steine.com/brickset/images/3196-1.jpg","No","No",0
+1381,"3197","1","Basic","","2001","Aircraft",,15,,,,,"http://www.1000steine.com/brickset/images/3197-1.jpg","No","No",0
+1384,"3200","1","Scala","","1997","Beauty Studio",1,31,,16.5,,,"http://www.1000steine.com/brickset/images/3200-1.jpg","No","No",0
+1385,"3201","1","Scala","","1997","Living Room",1,31,,,,,"http://www.1000steine.com/brickset/images/3201-1.jpg","No","No",0
+1386,"3202","1","Scala","","1997","Laundry Room",1,42,,,,,"http://www.1000steine.com/brickset/images/3202-1.jpg","No","No",0
+1387,"3203","1","Scala","","1997","Dressing Table",1,18,,,,,"http://www.1000steine.com/brickset/images/3203-1.jpg","No","No",0
+1388,"3204","1","Scala","","1998","Auntie Jane and Cousin Sophie",2,27,,,,,,"No","No",0
+1389,"3205","1","Scala","","1998","Julie's Picnic Lunch",1,26,,,,,,"No","No",0
+1390,"3206","1","Scala","","1998","Ashley's Snack Time",1,18,,,,,,"No","No",0
+1391,"3210","1","Scala","","1998","Party Dress and Accessories",,22,,,,,,"No","No",0
+1392,"3211","1","Scala","","1998","Accessories for Anna",,21,,,,,,"No","No",0
+1393,"3212","1","Baby","","2001","Star Teether",,1,2.99,,,,"http://www.1000steine.com/brickset/images/3212-1.jpg","No","No",0
+1394,"3219","1","Star Wars","Mini Building Set","2002","Mini TIE Fighter",,12,,,,,"http://www.1000steine.com/brickset/images/3219-1.jpg","No","No",0
+1396,"3220","1","Scala","","1998","My Dad",1,16,,,,,,"No","No",0
+7597,"3221","1","City","Traffic","2010","LEGO City Truck",2,278,29.99,34.99,44.99,29.99,"http://www.1000steine.com/brickset/images/3221-1.jpg","No","No",0
+7568,"3222","1","City","Airport","2010","Helicopter and Limousine",4,267,19.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/3222-1.jpg","No","No",0
+1397,"3223","1","Creator","Designer Set","2003","Little Fish",,43,,,,,"http://www.1000steine.com/brickset/images/3223-1.jpg","No","No",0
+1398,"3225","1","Trains","9 V","1998","Classic Train",3,281,,66,,,"http://www.1000steine.com/brickset/images/3225-1.jpg","No","No",0
+1399,"3226","1","Freestyle","","1998","Cars and Planes Set",2,311,,,,,"http://www.1000steine.com/brickset/images/3226-1.jpg","No","No",0
+1400,"3233","1","Freestyle","","1999","Freestyle Contraption",1,28,,,,,"http://www.1000steine.com/brickset/images/3233-1.jpg","No","No",0
+1401,"3234","1","Freestyle","","1999","Contraption Set",1,27,,,,,"http://www.1000steine.com/brickset/images/3234-1.jpg","No","No",0
+1402,"3235","1","Baby","","2001","Soft Ladybird and Bee",,1,,,,,"http://www.1000steine.com/brickset/images/3235-1.jpg","No","No",0
+1403,"3236","1","Baby","","2001","Roll 'n' Play",,1,4.99,,,,"http://www.1000steine.com/brickset/images/3236-1.jpg","No","No",0
+1404,"3237","1","Baby","","2001","Stacking Tower",,5,6.99,,,,"http://www.1000steine.com/brickset/images/3237-1.jpg","No","No",0
+1405,"3238","1","Baby","","2001","Shape and Colour Sorter",,9,12.99,,,,"http://www.1000steine.com/brickset/images/3238-1.jpg","No","No",0
+1407,"3240","1","Scala","","1997","Ashley's Miniature Garden",1,54,,,,,"http://www.1000steine.com/brickset/images/3240-1.jpg","No","No",0
+1408,"3241","1","Scala","","1997","Nursery",2,54,,22,,,"http://www.1000steine.com/brickset/images/3241-1.jpg","No","No",0
+1409,"3242","1","Scala","","1997","Bathroom",1,76,,,,,"http://www.1000steine.com/brickset/images/3242-1.jpg","No","No",0
+1410,"3243","1","Scala","","1997","Kitchen",2,92,,26.5,,,"http://www.1000steine.com/brickset/images/3243-1.jpg","No","No",0
+1411,"3244","1","Scala","","1998","Boutique",,,,,,,,"No","No",0
+1412,"3245","1","Scala","","1998","Ice Cream Parlour",,,,,,,,"No","No",0
+1415,"3259","1","Bionicle","Accessories","2002","Shooter + Disk",,2,,,,,"http://www.1000steine.com/brickset/images/3259-1.jpg","No","No",0
+1416,"3260","1","Scala","","1998","Swimming Pool",,,,,,,,"No","No",0
+1417,"3263","1","Duplo","Zooters","2001","Goozle",,10,6.99,10,,,"http://www.1000steine.com/brickset/images/3263-1.jpg","No","No",0
+1418,"3264","1","Duplo","Zooters","2001","Tez",,9,6.99,10,,,"http://www.1000steine.com/brickset/images/3264-1.jpg","No","No",0
+1419,"3265","1","Duplo","Zooters","2001","Wazo",,6,12.99,12,,,"http://www.1000steine.com/brickset/images/3265-1.jpg","No","No",0
+1420,"3266","1","Duplo","","2001","Tubes",,58,17.99,15,,,"http://www.1000steine.com/brickset/images/3266-1.jpg","No","No",0
+1421,"3267","1","Duplo","","2001","Brick Runner",,25,12.99,10,,,"http://www.1000steine.com/brickset/images/3267-1.jpg","No","No",0
+1422,"3270","1","Scala","","1997","Dream Cottage",1,120,,76,,,"http://www.1000steine.com/brickset/images/3270-1.jpg","No","No",0
+1423,"3271","1","Duplo","Bob the Builder","2001","Bob's Workshop",1,10,5.99,6,,,"http://www.1000steine.com/brickset/images/3271-1.jpg","No","No",0
+1424,"3272","1","Duplo","Bob the Builder","2001","Scoop on the Road",,21,9.99,10,,,"http://www.1000steine.com/brickset/images/3272-1.jpg","No","No",0
+1425,"3273","1","Duplo","Bob the Builder","2001","Bob, Lofty and the Mice",1,18,14.99,15,,,"http://www.1000steine.com/brickset/images/3273-1.jpg","No","No",0
+1426,"3274","1","Duplo","Bob the Builder","2001","Bob and Muck Repair the Barn",1,35,17.99,,,,"http://www.1000steine.com/brickset/images/3274-1.jpg","No","No",0
+1427,"3275","1","Duplo","Bob the Builder","2001","Bob's Big Building Box",1,51,19.99,20,,,"http://www.1000steine.com/brickset/images/3275-1.jpg","No","No",0
+1428,"3276","1","Duplo","Bob the Builder","2001","Muck and Scoop",2,52,29.99,30,,,"http://www.1000steine.com/brickset/images/3276-1.jpg","No","No",0
+1429,"3278","1","Duplo","Bob the Builder","2002","Wallpaper Wendy",1,9,4.99,5,,,"http://www.1000steine.com/brickset/images/3278-1.jpg","No","No",0
+1430,"3279","1","Duplo","Bob the Builder","2002","Bob at Work",1,11,4.99,5,,,"http://www.1000steine.com/brickset/images/3279-1.jpg","No","No",0
+1432,"3281","1","Duplo","Bob the Builder","2002","Naughty Spud",1,9,4.99,5,,,"http://www.1000steine.com/brickset/images/3281-1.jpg","No","No",0
+1433,"3282","1","Duplo","Bob the Builder","2002","Clock Tower Bob",1,49,22.99,20,,,"http://www.1000steine.com/brickset/images/3282-1.jpg","No","No",0
+1434,"3283","1","Duplo","Bob the Builder","2002","Dizzy's Birdwatch",1,44,24.99,30,,,"http://www.1000steine.com/brickset/images/3283-1.jpg","No","No",0
+1435,"3284","1","Explore","Bob the Builder","2003","Bob's Busy Day",1,9,4.99,5,,,"http://www.1000steine.com/brickset/images/3284-1.jpg","No","No",0
+1436,"3285","1","Explore","Bob the Builder","2003","Wendy in the Office",1,9,4.99,5,,,"http://www.1000steine.com/brickset/images/3285-1.jpg","No","No",0
+1437,"3286","1","Explore","Bob the Builder","2003","Spud and Bird",1,9,4.99,5,,,"http://www.1000steine.com/brickset/images/3286-1.jpg","No","No",0
+1438,"3287","1","Bionicle","Warriors","2003","Takutanuva",,399,,,,,"http://www.1000steine.com/brickset/images/3287-1.jpg","No","No",0
+6102,"3288","1","Duplo","Bob the Builder","2007","Packer",1,19,14.99,19.99,,,"http://www.1000steine.com/brickset/images/3288-1.jpg","No","No",0
+6103,"3289","1","Duplo","Bob the Builder","2007","Muck & Roley in the Sunflower Factory",1,37,24.99,29.99,,,"http://www.1000steine.com/brickset/images/3289-1.jpg","No","No",0
+1440,"3290","1","Scala","","1997","The Big Family House",3,265,,,,,"http://www.1000steine.com/brickset/images/3290-1.jpg","No","No",0
+4778,"3292","1","Duplo","Bob the Builder","2005","Dizzy's Bridge Set",1,20,4.99,,,,"http://www.1000steine.com/brickset/images/3292-1.jpg","No","No",0
+4779,"3293","1","Duplo","Bob the Builder","2005","Benny's Dig Set",,19,7.99,10,,,"http://www.1000steine.com/brickset/images/3293-1.jpg","No","No",0
+4780,"3294","1","Duplo","Bob the Builder","2005","Muck's Recycling Set",1,33,12.99,15,,,"http://www.1000steine.com/brickset/images/3294-1.jpg","No","No",0
+4781,"3295","1","Duplo","Bob the Builder","2005","Roley's Road Set",1,26,12.99,15,,,"http://www.1000steine.com/brickset/images/3295-1.jpg","No","No",0
+4782,"3296","1","Duplo","Bob the Builder","2005","Travis and the Mobile Caravan",1,24,17.99,20,,,"http://www.1000steine.com/brickset/images/3296-1.jpg","No","No",0
+4783,"3297","1","Duplo","Bob the Builder","2005","Scoop and Lofty at the Building Yard",1,59,29.99,29.99,,,"http://www.1000steine.com/brickset/images/3297-1.jpg","No","No",0
+5439,"3298","1","Duplo","Bob the Builder","2006","Lift and Load Sumsy",,12,9.99,10,,,"http://www.1000steine.com/brickset/images/3298-1.jpg","No","No",0
+5440,"3299","1","Duplo","Bob the Builder","2006","Scrambler and Dizzy at Bob's Workshop",1,50,24.99,19.99,,,"http://www.1000steine.com/brickset/images/3299-1.jpg","No","No",0
+5076,"3300","1","Duplo","Thomas the Tank Engine","2006","Harold the Helicopter",,7,9.99,10,,,"http://www.1000steine.com/brickset/images/3300-1.jpg","No","No",0
+5227,"3301","1","Duplo","Thomas the Tank Engine","2006","Cranky-Loading Crane",,34,19.99,20,,,"http://www.1000steine.com/brickset/images/3301-1.jpg","No","No",0
+1442,"3302","1","Town","Football","1998","Field Bases",,2,,,,,"http://www.1000steine.com/brickset/images/3302-1.jpg","No","No",0
+1443,"3303","1","Town","Football","1998","Goals and Linesmen",3,63,,,,,"http://www.1000steine.com/brickset/images/3303-1.jpg","No","No",0
+1444,"3304","1","Town","Football","1998","Dutch Footballer",1,4,,,,,"http://www.1000steine.com/brickset/images/3304-1.jpg","No","No",0
+1445,"3305","1","Town","Football","1998","World Team / Scottish Footballer",1,4,,,,,"http://www.1000steine.com/brickset/images/3305-1.jpg","No","No",0
+1446,"3306","1","Town","Football","1998","Goalkeepers",2,8,,,,,"http://www.1000steine.com/brickset/images/3306-1.jpg","No","No",0
+1447,"3308","1","Town","Football","1998","Side Stand",3,84,,,,,"http://www.1000steine.com/brickset/images/3308-1.jpg","No","No",0
+1448,"3309","1","Town","Football","1998","Head Stand",3,96,,,,,"http://www.1000steine.com/brickset/images/3309-1.jpg","No","No",0
+1449,"3310","1","Town","Football","1998","Press Box",2,93,,,,,"http://www.1000steine.com/brickset/images/3310-1.jpg","No","No",0
+1450,"3311","1","Town","Football","1998","Television Tower",2,99,,,,,"http://www.1000steine.com/brickset/images/3311-1.jpg","No","No",0
+1451,"3312","1","Town","Football","1998","Paramedic Unit",2,78,,,,,"http://www.1000steine.com/brickset/images/3312-1.jpg","No","No",0
+1452,"3313","1","Town","Football","1998","Lighting Towers",1,96,,,,,"http://www.1000steine.com/brickset/images/3313-1.jpg","No","No",0
+1453,"3314","1","Town","Football","1998","Police Unit",4,143,,,,,"http://www.1000steine.com/brickset/images/3314-1.jpg","No","No",0
+8888,"3315","1","Friends","","2012","Olivia's House",3,695,69.99,74.99,89.99,69.99,"http://www.1000steine.com/brickset/images/3315-1.jpg","No","No",0
+9267,"3316","1","Friends","","2012","Friends Advent Calendar",2,193,19.99,34.99,,19.99,"http://www.1000steine.com/brickset/images/3316-1.jpg","No","No",0
+1454,"3317","1","Town","Football","1998","German Footballer",1,4,,,,,"http://www.1000steine.com/brickset/images/3317-1.jpg","No","No",0
+1455,"3318","1","Town","Football","1998","English Footballer",1,4,,,,,"http://www.1000steine.com/brickset/images/3318-1.jpg","No","No",0
+1456,"3320","1","Town","Football","1998","Austrian Footballer",1,4,,,,,"http://www.1000steine.com/brickset/images/3320-1.jpg","No","No",0
+1457,"3323","1","Town","Football","1998","German Footballer and Ball",1,5,,,,,"http://www.1000steine.com/brickset/images/3323-1.jpg","No","No",0
+1458,"3324","1","Town","Football","1998","World Footballer and Ball",1,5,,,,,"http://www.1000steine.com/brickset/images/3324-1.jpg","No","No",0
+1459,"3325","1","Explore","Logic","2002","Intelligent Train Deluxe Set",4,90,89.99,100,,,"http://www.1000steine.com/brickset/images/3325-1.jpg","No","No",0
+1460,"3326","1","Explore","Logic","2002","Intelligent Train Cargo",1,14,24.99,25,,,"http://www.1000steine.com/brickset/images/3326-1.jpg","No","No",0
+1461,"3327","1","Explore","Logic","2002","Intelligent Train Station",2,26,24.99,25,,,"http://www.1000steine.com/brickset/images/3327-1.jpg","No","No",0
+1463,"3330","1","Basic","","1998","Racing Car",,17,,0.6,,,"http://www.1000steine.com/brickset/images/3330-1.jpg","No","No",0
+1464,"3331","1","Basic","","1998","Bird",,14,,0.6,,,"http://www.1000steine.com/brickset/images/3331-1.jpg","No","No",0
+1465,"3332","1","Basic","","1998","Plane",,18,,0.6,,,"http://www.1000steine.com/brickset/images/3332-1.jpg","No","No",0
+1466,"3333","1","Basic","","1998","Helicopter",,17,,0.6,,,"http://www.1000steine.com/brickset/images/3333-1.jpg","No","No",0
+1467,"3334","1","Explore","Logic","2002","Intelligent Train Tunnel",,10,12.99,13,,,"http://www.1000steine.com/brickset/images/3334-1.jpg","No","No",0
+1468,"3335","1","Explore","Logic","2002","Intelligent Train Starter Set",3,25,49.99,50,,,"http://www.1000steine.com/brickset/images/3335-1.jpg","No","No",0
+5863,"3336","1","Duplo","","2000","Half-Tub Green",,90,,,,,,"No","No",0
+1469,"3340","1","Star Wars","Minifig Pack","2000","Emperor Palpatine, Darth Maul and Darth Vader Minifig Pack - Star Wars #1",3,32,,5,,,"http://www.1000steine.com/brickset/images/3340-1.jpg","No","No",0
+1470,"3341","1","Star Wars","Minifig Pack","2000","Luke Skywalker, Han Solo and Boba Fett Minifig Pack - Star Wars #2",3,22,,5,,,"http://www.1000steine.com/brickset/images/3341-1.jpg","No","No",0
+1471,"3342","1","Star Wars","Minifig Pack","2000","Chewbacca and 2 Biker Scouts Minifig Pack - Star Wars #3",3,22,,5,,,"http://www.1000steine.com/brickset/images/3342-1.jpg","No","No",0
+1472,"3343","1","Star Wars","Minifig Pack","2000","2 Battle Droids and Command Officer Minifig Pack - Star Wars #4",3,30,,5,,,"http://www.1000steine.com/brickset/images/3343-1.jpg","No","No",0
+1473,"3344","1","Castle","Ninja","2000","One Minifig Pack - Ninja #1",1,9,,,,,"http://www.1000steine.com/brickset/images/3344-1.jpg","No","No",0
+1474,"3345","1","Castle","Ninja","2000","Three Minifig Pack - Ninja #2",3,21,,,,,"http://www.1000steine.com/brickset/images/3345-1.jpg","No","No",0
+1475,"3346","1","Castle","Ninja","2000","Three Minifig Pack - Ninja #3",3,22,,5,,,"http://www.1000steine.com/brickset/images/3346-1.jpg","No","No",0
+1476,"3347","1","Rock Raiders","","2000","One Minifig Pack - Rock Raiders #1",1,8,,,,,"http://www.1000steine.com/brickset/images/3347-1.jpg","No","No",0
+1477,"3348","1","Rock Raiders","","2000","Three Minifig Pack - Rock Raiders #2",3,23,,,,,"http://www.1000steine.com/brickset/images/3348-1.jpg","No","No",0
+1478,"3349","1","Rock Raiders","","2000","Three Minifig Pack - Rock Raiders #3",3,26,,,,,"http://www.1000steine.com/brickset/images/3349-1.jpg","No","No",0
+1480,"3350","1","Town","City","2000","Three Minifig Pack - City #1",3,24,,5,,,"http://www.1000steine.com/brickset/images/3350-1.jpg","No","No",0
+1481,"3351","1","Town","City","2000","Three Minifig Pack - City #2",3,21,,5,,,"http://www.1000steine.com/brickset/images/3351-1.jpg","No","No",0
+6098,"3352","1","Duplo","Thomas the Tank Engine","2007","Salty the Dockyard Diesel",,8,14.65,12.99,,,"http://www.1000steine.com/brickset/images/3352-1.jpg","No","No",0
+6099,"3353","1","Duplo","Thomas the Tank Engine","2007","Spencer and Sir Topham Hatt",1,45,24.49,29.99,,,"http://www.1000steine.com/brickset/images/3353-1.jpg","No","No",0
+6100,"3354","1","Duplo","Thomas the Tank Engine","2007","Gordon's Express",,13,19.55,19.99,,,"http://www.1000steine.com/brickset/images/3354-1.jpg","No","No",0
+1482,"3361","1","Explore","Imagination","2002","Music Twister",,4,22.99,30,,,"http://www.1000steine.com/brickset/images/3361-1.jpg","No","No",0
+1483,"3362","1","Explore","Imagination","2002","Music Tapper",,4,24.99,30,,,"http://www.1000steine.com/brickset/images/3362-1.jpg","No","No",0
+1484,"3363","1","Explore","Imagination","2002","Music Roller",,4,24.99,35,,,"http://www.1000steine.com/brickset/images/3363-1.jpg","No","No",0
+1485,"3364","1","Explore","Imagination","2002","Music Composer",,7,29.99,50,,,"http://www.1000steine.com/brickset/images/3364-1.jpg","No","No",0
+8239,"3365","1","City","Space","2011","Space Moon Buggy",1,37,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/3365-1.jpg","No","No",0
+8240,"3366","1","City","Space","2011","Satellite Launch Pad",1,165,13.99,19.99,24.99,16.99,"http://www.1000steine.com/brickset/images/3366-1.jpg","No","No",0
+8241,"3367","1","City","Space","2011","Space Shuttle",1,231,26.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/3367-1.jpg","No","No",0
+8242,"3368","1","City","Space","2011","Space Centre",4,494,49.99,69.99,89.99,59.99,"http://www.1000steine.com/brickset/images/3368-1.jpg","No","No",0
+1486,"3370","1","Explore","Imagination","2002","Music Extras",,6,9.99,8,,,"http://www.1000steine.com/brickset/images/3370-1.jpg","No","No",0
+1487,"3371","1","Explore","Imagination","2002","Music Extras",,4,9.99,8,,,"http://www.1000steine.com/brickset/images/3371-1.jpg","No","No",0
+1489,"3380","1","Adventurers","Orient Expedition","2003","Johnny Thunder",1,6,,,,,"http://www.1000steine.com/brickset/images/3380-1.jpg","No","No",0
+1490,"3381","1","Adventurers","Orient Expedition","2003","Sam Sinister",1,5,,,,,"http://www.1000steine.com/brickset/images/3381-1.jpg","No","No",0
+1491,"3382","1","Adventurers","Orient Expedition","2003","China Girl",1,4,,,,,"http://www.1000steine.com/brickset/images/3382-1.jpg","No","No",0
+1492,"3383","1","World City","Trains","2003","Chef",1,6,,,,,"http://www.1000steine.com/brickset/images/3383-1.jpg","No","No",0
+1493,"3384","1","World City","Trains","2003","Construction Worker",1,4,,,,,"http://www.1000steine.com/brickset/images/3384-1.jpg","No","No",0
+1494,"3385","1","World City","Trains","2003","Train Conductor",1,6,,,,,"http://www.1000steine.com/brickset/images/3385-1.jpg","No","No",0
+1495,"3386","1","Island Xtreme Stunts","","2003","Pepper",1,4,,,,,"http://www.1000steine.com/brickset/images/3386-1.jpg","No","No",0
+1496,"3387","1","Island Xtreme Stunts","","2003","Brickster",1,4,,,,,"http://www.1000steine.com/brickset/images/3387-1.jpg","No","No",0
+1497,"3388","1","Island Xtreme Stunts","","2003","Beach Dude",1,4,,,,,"http://www.1000steine.com/brickset/images/3388-1.jpg","No","No",0
+1498,"3389","1","Sports","Gravity Games","2003","Skater Boy",1,5,,,,,"http://www.1000steine.com/brickset/images/3389-1.jpg","No","No",0
+1499,"3390","1","Sports","Basketball","2003","Street Basket",1,5,,,,,"http://www.1000steine.com/brickset/images/3390-1.jpg","No","No",0
+1500,"3391","1","Alpha Team","Mission Deep Sea","2003","Dash the Diver",1,8,,,,,"http://www.1000steine.com/brickset/images/3391-1.jpg","No","No",0
+1502,"3401","1","Sports","Football","2000","Shoot 'n' Score",2,22,,6,,,"http://www.1000steine.com/brickset/images/3401-1.jpg","No","No",0
+7672,"3401","2","Sports","Football","2000","Shoot 'n' Score (Zidane Edition)",2,22,,,,,"http://www.1000steine.com/brickset/images/3401-2.jpg","No","No",0
+1503,"3402","1","Sports","Football","2000","Stand with Lights",2,62,,10,,,"http://www.1000steine.com/brickset/images/3402-1.jpg","No","No",0
+1504,"3403","1","Sports","Football","2000","Fans' Grandstand with Scoreboard",3,81,,15,,,"http://www.1000steine.com/brickset/images/3403-1.jpg","No","No",0
+1505,"3404","1","Sports","Football","2000","Black Team Transport",6,127,,20,,,"http://www.1000steine.com/brickset/images/3404-1.jpg","No","No",0
+9655,"3404","2","Sports","Football","2002","Black Team Transport (With LEGO Football)",,127,,,,,,"No","No",0
+1506,"3405","1","Sports","Football","2000","Americas Team Bus",6,131,,20,,,"http://www.1000steine.com/brickset/images/3405-1.jpg","No","No",0
+1507,"3406","1","Sports","Football","2000","Blue Team Transport",6,133,,20,,,"http://www.1000steine.com/brickset/images/3406-1.jpg","No","No",0
+1508,"3407","1","Sports","Football","2000","Red Team Transport",6,133,,20,,,"http://www.1000steine.com/brickset/images/3407-1.jpg","No","No",0
+1509,"3408","1","Sports","Football","2000","Super Sports Coverage",5,222,,30,,,"http://www.1000steine.com/brickset/images/3408-1.jpg","No","No",0
+1510,"3409","1","Sports","Football","2000","Championship Challenge",12,294,,50,,,"http://www.1000steine.com/brickset/images/3409-1.jpg","No","No",0
+1512,"3410","1","Sports","Football","2000","Field Expander",4,53,,15,,,"http://www.1000steine.com/brickset/images/3410-1.jpg","No","No",0
+1513,"3411","1","Sports","Football","2000","Americas Team Bus",6,131,,20,,,"http://www.1000steine.com/brickset/images/3411-1.jpg","No","No",0
+1514,"3412","1","Sports","Football","2000","Point Shooting",1,24,,5,,,"http://www.1000steine.com/brickset/images/3412-1.jpg","No","No",0
+1515,"3413","1","Sports","Football","2000","Goalkeeper",1,27,,5,,,"http://www.1000steine.com/brickset/images/3413-1.jpg","No","No",0
+1516,"3414","1","Sports","Football","2000","Precision Shooting",1,24,,5,,,"http://www.1000steine.com/brickset/images/3414-1.jpg","No","No",0
+1517,"3415","1","Sports","Football","2001","Japanese Soccer Team",,,,,,,"http://www.1000steine.com/brickset/images/3415-1.jpg","No","No",0
+1518,"3416","1","Sports","Football","2001","Women's Team",6,62,,9.95,,,"http://www.1000steine.com/brickset/images/3416-1.jpg","No","No",0
+1519,"3418","1","Sports","Football","2001","Point Shooting",1,24,,,,,"http://www.1000steine.com/brickset/images/3418-1.jpg","No","No",0
+1520,"3419","1","Sports","Football","2001","Precision Shooting",1,24,,,,,"http://www.1000steine.com/brickset/images/3419-1.jpg","No","No",0
+1521,"3420","1","Sports","Football","2002","Championship Challenge II",12,388,39.99,50,,,"http://www.1000steine.com/brickset/images/3420-1.jpg","No","No",0
+9428,"3420","2","Sports","Football","2003","Championship Challenge II (Bayern Munich FC Edition)",12,389,,,,,,"No","No",0
+9429,"3420","3","Sports","Football","2002","Championship Challenge II (L'Equipe de France Edition)",12,,,,,,,"No","No",0
+1522,"3421","1","Sports","Football","2002","3 vs 3 Shootout",6,225,24.99,30,,,"http://www.1000steine.com/brickset/images/3421-1.jpg","No","No",0
+1523,"3422","1","Sports","Football","2002","Shoot 'n' Save",2,110,14.99,20,,,"http://www.1000steine.com/brickset/images/3422-1.jpg","No","No",0
+9430,"3422","2","Sports","Football","2003","Shoot 'n' Save (Bayern Munich FC Edition)",2,110,,,,,,"No","No",0
+1524,"3423","1","Sports","Football","2002","Freekick Frenzy",2,54,7.99,10,,,"http://www.1000steine.com/brickset/images/3423-1.jpg","No","No",0
+1525,"3424","1","Sports","Football","2002","Target Practice",1,37,4.99,7,,,"http://www.1000steine.com/brickset/images/3424-1.jpg","No","No",0
+1526,"3425","1","Sports","Football","2002","US National Team Cup Edition Set",22,548,69.99,90,,,"http://www.1000steine.com/brickset/images/3425-1.jpg","No","No",0
+9656,"3425","2","Sports","Football","2002","Grand Championship Cup ",22,570,,,,,"http://www.1000steine.com/brickset/images/3425-2.jpg","No","No",0
+1527,"3426","1","Sports","Football","2002","Adidas Team Transport",6,133,,20,,,"http://www.1000steine.com/brickset/images/3426-1.jpg","No","No",0
+1528,"3427","1","Sports","Basketball","2003","NBA Slam Dunk",1,53,4.99,8,,,"http://www.1000steine.com/brickset/images/3427-1.jpg","No","No",0
+

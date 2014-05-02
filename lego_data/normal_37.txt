@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+9178,"9448","1","Ninjago","","2012","Samurai Mech",3,452,29.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/9448-1.jpg","No","No",0
+9179,"9449","1","Ninjago","","2012","Ultra Sonic Raider",6,622,59.99,79.99,99.99,79.99,"http://www.1000steine.com/brickset/images/9449-1.jpg","No","No",0
+9180,"9450","1","Ninjago","","2012","Epic Dragon Battle",7,915,89.99,119.99,129.99,119.99,"http://www.1000steine.com/brickset/images/9450-1.jpg","No","No",0
+4917,"9453","1","Dacta","","1997","Universal School Set",,716,,73.75,,,"http://www.1000steine.com/brickset/images/9453-1.jpg","No","No",0
+23627,"9454","1","Dacta","","1992","Function Set",,356,,,,,,"No","No",0
+9149,"9455","1","Ninjago","","2012","Fangpyre Mech",2,255,19.99,24.99,29.99,24.99,"http://www.1000steine.com/brickset/images/9455-1.jpg","No","No",0
+9150,"9456","1","Ninjago","","2012","Spinner Battle Arena",2,418,34.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/9456-1.jpg","No","No",0
+9151,"9457","1","Ninjago","","2012","Fangpyre Wrecking Ball",3,415,49.99,49.99,64.99,49.99,"http://www.1000steine.com/brickset/images/9457-1.jpg","No","No",0
+9159,"9461","1","Monster Fighters","","2012","The Swamp Creature",2,70,4.99,6.99,9.99,7.99,"http://www.1000steine.com/brickset/images/9461-1.jpg","No","No",0
+9160,"9462","1","Monster Fighters","","2012","The Mummy",2,90,8.99,11.99,14.99,9.99,"http://www.1000steine.com/brickset/images/9462-1.jpg","No","No",0
+9161,"9463","1","Monster Fighters","","2012","The Werewolf",2,243,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/9463-1.jpg","No","No",0
+9162,"9464","1","Monster Fighters","","2012","The Vampyre Hearse",3,314,24.99,34.99,44.99,29.99,"http://www.1000steine.com/brickset/images/9464-1.jpg","No","No",0
+9263,"9465","1","Monster Fighters","","2012","The Zombies",4,447,34.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/9465-1.jpg","No","No",0
+9163,"9466","1","Monster Fighters","","2012","The Crazy Scientist & His Monster",4,430,39.99,49.99,64.99,49.99,"http://www.1000steine.com/brickset/images/9466-1.jpg","No","No",0
+9164,"9467","1","Monster Fighters","","2012","The Ghost Train",5,741,59.99,79.99,99.99,79.99,"http://www.1000steine.com/brickset/images/9467-1.jpg","No","No",0
+9165,"9468","1","Monster Fighters","","2012","Vampyre Castle",7,949,79.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/9468-1.jpg","No","No",0
+9181,"9469","1","Lord of the Rings","The Fellowship of the Ring","2012","Gandalf Arrives",2,83,11.99,12.99,15.99,14.99,"http://www.1000steine.com/brickset/images/9469-1.jpg","No","No",0
+9182,"9470","1","Lord of the Rings","The Return of the King","2012","Shelob Attacks",3,227,19.99,19.99,24.99,26.99,"http://www.1000steine.com/brickset/images/9470-1.jpg","No","No",0
+9183,"9471","1","Lord of the Rings","The Two Towers","2012","Uruk-Hai Army",6,257,29.99,29.99,39.99,39.99,"http://www.1000steine.com/brickset/images/9471-1.jpg","No","No",0
+9184,"9472","1","Lord of the Rings","The Fellowship of the Ring","2012","Attack On Weathertop",5,430,49.99,59.99,74.99,59.99,"http://www.1000steine.com/brickset/images/9472-1.jpg","No","No",0
+9185,"9473","1","Lord of the Rings","The Fellowship of the Ring","2012","The Mines of Moria",9,776,69.99,79.99,99.99,79.99,"http://www.1000steine.com/brickset/images/9473-1.jpg","No","No",0
+9186,"9474","1","Lord of the Rings","The Two Towers","2012","The Battle Of Helm's Deep",8,1368,99.99,129.99,169.99,139.99,"http://www.1000steine.com/brickset/images/9474-1.jpg","No","No",0
+9264,"9476","1","Lord of the Rings","The Fellowship of the Ring","2012","The Orc Forge",4,366,39.99,39.99,49.99,49.99,"http://www.1000steine.com/brickset/images/9476-1.jpg","No","No",0
+8947,"9478","1","Cars","","2012","Francesco Bernoulli",,49,4.99,6.99,9.99,7.99,"http://www.1000steine.com/brickset/images/9478-1.jpg","No","No",0
+8948,"9479","1","Cars","","2012","Ivan Mater",,52,4.99,6.99,9.99,7.99,"http://www.1000steine.com/brickset/images/9479-1.jpg","No","No",0
+8944,"9480","1","Cars","","2012","Finn McMissile",,52,4.99,6.99,9.99,7.99,"http://www.1000steine.com/brickset/images/9480-1.jpg","No","No",0
+8945,"9481","1","Cars","","2012","Jeff Gorvette",,54,4.99,6.99,9.99,7.99,"http://www.1000steine.com/brickset/images/9481-1.jpg","No","No",0
+8943,"9483","1","Cars","","2012","Agent Mater's Escape",,144,14.99,14.99,17.99,17.99,"http://www.1000steine.com/brickset/images/9483-1.jpg","No","No",0
+8942,"9484","1","Cars","","2012","Red's Water Rescue",,199,19.99,19.99,24.99,24.99,"http://www.1000steine.com/brickset/images/9484-1.jpg","No","No",0
+8946,"9485","1","Cars","","2012","Ultimate Race Set",,280,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/9485-1.jpg","No","No",0
+8941,"9486","1","Cars","","2012","Oil Rig Escape",,422,49.99,49.99,64.99,59.99,"http://www.1000steine.com/brickset/images/9486-1.jpg","No","No",0
+8883,"9488","1","Star Wars","The Clone Wars","2012","Elite Clone Trooper & Commando Droid Battle Pack",4,98,11.99,12.99,15.99,16.99,"http://www.1000steine.com/brickset/images/9488-1.jpg","No","No",0
+8885,"9489","1","Star Wars","Episode IV-VI","2012","Endor Rebel Trooper & Imperial Trooper Battle Pack",4,77,11.99,12.99,15.99,16.99,"http://www.1000steine.com/brickset/images/9489-1.jpg","No","No",0
+8887,"9490","1","Star Wars","Episode IV-VI","2012","Droid Escape",4,137,19.99,19.99,24.99,26.99,"http://www.1000steine.com/brickset/images/9490-1.jpg","No","No",0
+8886,"9491","1","Star Wars","The Clone Wars","2012","Geonosian Cannon",4,132,19.99,19.99,24.99,26.99,"http://www.1000steine.com/brickset/images/9491-1.jpg","No","No",0
+8797,"9492","1","Star Wars","Episode IV-VI","2012","TIE Fighter",4,413,49.99,54.99,69.99,49.99,"http://www.1000steine.com/brickset/images/9492-1.jpg","No","No",0
+8882,"9493","1","Star Wars","Episode IV-VI","2012","X-wing Starfighter",4,560,49.99,59.99,74.99,69.99,"http://www.1000steine.com/brickset/images/9493-1.jpg","No","No",0
+9077,"9494","1","Star Wars","Episode III","2012","Anakin's Jedi Interceptor",5,300,34.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/9494-1.jpg","No","No",0
+9079,"9495","1","Star Wars","Episode IV-VI","2012","Gold Leader's Y-wing Starfighter",3,458,49.99,49.99,64.99,49.99,"http://www.1000steine.com/brickset/images/9495-1.jpg","No","No",0
+9206,"9496","1","Star Wars","Episode IV-VI","2012","Desert Skiff",4,213,24.99,24.99,29.99,29.99,"http://www.1000steine.com/brickset/images/9496-1.jpg","No","No",0
+9207,"9497","1","Star Wars","The Old Republic","2012","Republic Striker-class Starfighter",3,376,39.99,44.99,49.99,49.99,"http://www.1000steine.com/brickset/images/9497-1.jpg","No","No",0
+9204,"9498","1","Star Wars","The Clone Wars","2012","Saesee Tiin's Jedi Starfighter",3,244,29.99,29.99,39.99,39.99,"http://www.1000steine.com/brickset/images/9498-1.jpg","No","No",0
+9202,"9499","1","Star Wars","Episode I","2012","Gungan Sub",4,465,54.99,69.99,89.99,69.99,"http://www.1000steine.com/brickset/images/9499-1.jpg","No","No",0
+9205,"9500","1","Star Wars","The Old Republic","2012","Sith Fury-class Interceptor",3,741,79.99,89.99,119.99,99.99,"http://www.1000steine.com/brickset/images/9500-1.jpg","No","No",0
+9208,"9509","1","Star Wars","Seasonal","2012","Star Wars Advent Calendar",10,234,24.99,49.99,49.99,29.99,"http://www.1000steine.com/brickset/images/9509-1.jpg","No","No",0
+9201,"9515","1","Star Wars","The Clone Wars","2012","Malevolence",6,1092,99.99,119.99,149.99,119.99,"http://www.1000steine.com/brickset/images/9515-1.jpg","No","No",0
+9203,"9516","1","Star Wars","Episode IV-VI","2012","Jabba's Palace",9,717,119.99,119.99,149.99,139.99,"http://www.1000steine.com/brickset/images/9516-1.jpg","No","No",0
+9265,"9525","1","Star Wars","The Clone Wars","2012","Pre Vizsla's Mandalorian Fighter",3,403,49.99,49.99,59.99,49.99,"http://www.1000steine.com/brickset/images/9525-1.jpg","No","No",0
+9266,"9526","1","Star Wars","Episode III","2012","Palpatine's Arrest",6,645,59.99,89.99,119.99,89.99,"http://www.1000steine.com/brickset/images/9526-1.jpg","No","No",0
+6622,"9530","1","Education","","2008","Letters Set",,156,,,,,"http://www.1000steine.com/brickset/images/9530-1.jpg","No","No",0
+6623,"9531","1","Education","","2008","Numbers and Mosaics Set",,352,,,,,"http://www.1000steine.com/brickset/images/9531-1.jpg","No","No",0
+9340,"9533","1","Education","","1999","Numbers Set",,168,,,,,,"No","No",0
+7017,"9534","1","Education","","2000","Mosaic Tiles",,258,,64,,,"http://www.1000steine.com/brickset/images/9534-1.jpg","No","No",0
+4831,"9540","1","Education","","2004","Early Maths 4+ Numbers Set",4,112,62.1,81,,,"http://www.1000steine.com/brickset/images/9540-1.jpg","No","No",0
+4832,"9541","1","Education","","2004","Early Maths 4+ Measurement Set",4,101,57.7,76,,,"http://www.1000steine.com/brickset/images/9541-1.jpg","No","No",0
+4833,"9542","1","Education","","2004","Early Maths 4+ Shape & Space Set",,132,57.7,76,,,"http://www.1000steine.com/brickset/images/9542-1.jpg","No","No",0
+4834,"9543","1","Education","","2005","Let's Play Maths",,124,56.48,80,,,"http://www.1000steine.com/brickset/images/9543-1.jpg","No","No",0
+4835,"9544","1","Education","","2005","Maths Machines",2,555,56.48,100,,,"http://www.1000steine.com/brickset/images/9544-1.jpg","No","No",0
+4836,"9545","1","Education","","2005","Numbers Set",,144,42.12,57,,,"http://www.1000steine.com/brickset/images/9545-1.jpg","No","No",0
+4837,"9546","1","Education","","2005","Mosaics Set",,260,73.63,69,,,"http://www.1000steine.com/brickset/images/9546-1.jpg","No","No",0
+4847,"9547","1","Education","","2005","Letters Set",,146,48.94,59,,,"http://www.1000steine.com/brickset/images/9547-1.jpg","No","No",0
+8866,"9551","1","Ninjago","Booster pack","2012","Kendo Cole",1,28,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/9551-1.jpg","No","No",0
+8867,"9552","1","Ninjago","Booster pack","2012","Lloyd Garmadon",1,21,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/9552-1.jpg","No","No",0
+8865,"9553","1","Ninjago","Booster pack","2012","Jay ZX",1,28,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/9553-1.jpg","No","No",0
+9233,"9554","1","Ninjago","Booster pack","2012","Zane ZX",1,37,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/9554-1.jpg","No","No",0
+9232,"9555","1","Ninjago","Booster pack","2012","Mezmo",1,32,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/9555-1.jpg","No","No",0
+9235,"9556","1","Ninjago","Booster pack","2012","Bytar",1,25,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/9556-1.jpg","No","No",0
+9234,"9557","1","Ninjago","Booster pack","2012","Lizaru",1,17,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/9557-1.jpg","No","No",0
+8860,"9558","1","Ninjago","","2012","Training Set",1,219,14.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/9558-1.jpg","No","No",0
+8868,"9561","1","Ninjago","Spinners","2012","Kai ZX",1,21,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9561-1.jpg","No","No",0
+8862,"9562","1","Ninjago","Spinners","2012","Lasha",1,21,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9562-1.jpg","No","No",0
+8863,"9563","1","Ninjago","Spinners","2012","Kendo Zane",1,22,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9563-1.jpg","No","No",0
+8861,"9564","1","Ninjago","Spinners","2012","Snappa",1,20,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9564-1.jpg","No","No",0
+8864,"9566","1","Ninjago","Spinners","2012","Samurai X",1,23,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9566-1.jpg","No","No",0
+8869,"9567","1","Ninjago","Spinners","2012","Fang-Suei",1,19,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9567-1.jpg","No","No",0
+9193,"9569","1","Ninjago","Spinners","2012","Spitta",1,20,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9569-1.jpg","No","No",0
+9194,"9570","1","Ninjago","Spinners","2012","NRG Jay",1,20,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9570-1.jpg","No","No",0
+9195,"9571","1","Ninjago","Spinners","2012","Fangdam",1,20,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9571-1.jpg","No","No",0
+9196,"9572","1","Ninjago","Spinners","2012","NRG Cole",1,20,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9572-1.jpg","No","No",0
+9197,"9573","1","Ninjago","Spinners","2012","Slithraa",1,20,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9573-1.jpg","No","No",0
+9198,"9574","1","Ninjago","","2012","Lloyd ZX",1,23,7.49,9.99,12.99,,"http://www.1000steine.com/brickset/images/9574-1.jpg","No","No",0
+8859,"9579","1","Ninjago","","2012","Starter Set",2,62,12.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/9579-1.jpg","No","No",0
+7025,"9580","1","Education","","2009","WeDo Construction Set",,158,,130,,,"http://www.1000steine.com/brickset/images/9580-1.jpg","No","No",0
+8148,"9581","1","Education","Mindstorms","2009","LEGO USB Hub",,1,,,,,,"No","No",0
+8149,"9583","1","Education","Mindstorms","2009","Motion Sensor",,1,,,,,,"No","No",0
+8150,"9584","1","Education","Mindstorms","2009","Tilt Sensor",,1,,,,,,"No","No",0
+9303,"9585","1","Education","","2012","WeDo Resource Set",,326,,,,,"http://www.1000steine.com/brickset/images/9585-1.jpg","No","No",0
+9199,"9590","1","Ninjago","Spinners","2012","NRG Zane",1,23,7.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9590-1.jpg","No","No",0
+9200,"9591","1","Ninjago","","2012","Weapon Pack",2,73,12.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/9591-1.jpg","No","No",0
+8846,"9594","1","Education","Mindstorms","2011","Green City Challenge Set",,,,,,,"http://www.1000steine.com/brickset/images/9594-1.jpg","No","No",0
+9294,"9604","1","Dacta","","1992","LEGO Technic and Pneumatic Elements",,124,,36.95,,,,"No","No",0
+9433,"9605","1","Dacta","Technic","1995","4.5V Technic Resource Set",,268,,,,,"http://www.1000steine.com/brickset/images/9605-1.jpg","No","No",0
+23267,"9609","1","Dacta","Technic","1995","Technology Resource Set",,1718,,,,,"http://www.1000steine.com/brickset/images/9609-1.jpg","No","No",0
+4894,"9610","1","Dacta","Technic","1993","Gears Set",2,67,,12.5,,,"http://www.1000steine.com/brickset/images/9610-1.jpg","No","No",0
+4895,"9612","1","Dacta","Technic","1993","Levers Set",,62,,15,,,"http://www.1000steine.com/brickset/images/9612-1.jpg","No","No",0
+4896,"9614","1","Dacta","Technic","1993","Pulleys Mini Set",,77,,15,,,"http://www.1000steine.com/brickset/images/9614-1.jpg","No","No",0
+4897,"9615","1","Dacta","Technic","1997","Motor Add-On for Simple Mechanisms",,3,,32,,,"http://www.1000steine.com/brickset/images/9615-1.jpg","No","No",0
+4898,"9616","1","Dacta","Technic","1997","Wheels and Axles Set",1,74,,15,,,"http://www.1000steine.com/brickset/images/9616-1.jpg","No","No",0
+22775,"9617","1","Dacta","","1997","Introducing Air Power ",,89,,,,,"http://www.1000steine.com/brickset/images/9617-1.jpg","No","No",0
+4899,"9618","1","Dacta","Technic","1997","Structures Set",,463,,,,,"http://www.1000steine.com/brickset/images/9618-1.jpg","No","No",0
+6620,"9628","1","Education","Supplementary Set","2008","Power Add-On Set",,3,,,,,"http://www.1000steine.com/brickset/images/9628-1.jpg","No","No",0
+4900,"9630","1","Dacta","Technic","1997","Simple Mechanisms Set",,277,,80,,,"http://www.1000steine.com/brickset/images/9630-1.jpg","No","No",0
+5858,"9632","1","Education","","2007","Science and Technology Base Set",2,352,,,,,"http://www.1000steine.com/brickset/images/9632-1.jpg","No","No",0
+9395,"9633","1","Education","Technic","1999","Advanced Air Power Set",,211,,,,,"http://www.1000steine.com/brickset/images/9633-1.jpg","No","No",0
+7027,"9641","1","Education","","2008","Pneumatics Add-On Set",,31,,55,,,"http://www.1000steine.com/brickset/images/9641-1.jpg","No","No",0
+8776,"9647","1","Education","Studios","2000","Camera and Software Kit",,2,,,,,"http://www.1000steine.com/brickset/images/9647-1.jpg","No","No",0
+6479,"9648","1","Education","","2008","Education Resource Set",,672,,59,,,"http://www.1000steine.com/brickset/images/9648-1.jpg","No","No",0
+5377,"9649","1","Education","","2003","Technology Resource Set",,1110,56.51,55,,,"http://www.1000steine.com/brickset/images/9649-1.jpg","No","No",0
+4901,"9650","1","Education","","2002","Scenery Resource Set",16,679,56.51,55,,,"http://www.1000steine.com/brickset/images/9650-1.jpg","No","No",0
+9432,"9653","1","Dacta","Duplo","1995","Mechanical Toy Shop",2,32,,,,,,"No","No",0
+4902,"9654","1","Dacta","","1997","Early Simple Machines II Set",2,99,,92.75,,,"http://www.1000steine.com/brickset/images/9654-1.jpg","No","No",0
+4903,"9655","1","Dacta","","1997","Fun Time Gears II Set",,50,,52.25,,,"http://www.1000steine.com/brickset/images/9655-1.jpg","No","No",0
+6621,"9656","1","Education","Duplo","2008","Early Simple Machines Set",,102,74.99,,,,"http://www.1000steine.com/brickset/images/9656-1.jpg","No","No",0
+22473,"9657","1","Miscellaneous","FIRST LEGO League","2012","FIRST LEGO League Challenge 2012 - Senior Solutions",,1615,,,,,,"No","No",0
+4838,"9660","1","Dacta","","1995","Early Structures",2,107,,69,,,"http://www.1000steine.com/brickset/images/9660-1.jpg","No","No",0
+23030,"9664","1","Miscellaneous","FIRST LEGO League","2013","FLL Challenge 2013 Nature's Fury",,2031,,,,,,"No","No",0
+4906,"9665","1","Dacta","Technic","2003","Mechanical Engineering",,318,,150,,,"http://www.1000steine.com/brickset/images/9665-1.jpg","No","No",0
+8144,"9667","1","Education","Mindstorms","2010","LEGO Solar Panel",,1,,,,,"http://www.1000steine.com/brickset/images/9667-1.jpg","No","No",0
+8145,"9668","1","Education","Mindstorms","2010","Energy Display",,1,,,,,"http://www.1000steine.com/brickset/images/9668-1.jpg","No","No",0
+8146,"9669","1","Education","Mindstorms","2010","Energy Storage",,1,,,,,"http://www.1000steine.com/brickset/images/9669-1.jpg","No","No",0
+8147,"9670","1","Education","Mindstorms","2010","E-Motor",,1,,,,,"http://www.1000steine.com/brickset/images/9670-1.jpg","No","No",0
+8962,"9674","1","Star Wars","Planet Set","2012","Naboo Starfighter & Naboo",1,56,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9674-1.jpg","No","No",0
+8964,"9675","1","Star Wars","Planet Set","2012","Sebulba's Podracer & Tatooine",1,80,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9675-1.jpg","No","No",0
+8963,"9676","1","Star Wars","Planet Set","2012","TIE Interceptor & Death Star",1,65,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9676-1.jpg","No","No",0
+9092,"9677","1","Star Wars","Planet Set","2012","X-wing Starfighter & Yavin 4",1,77,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9677-1.jpg","No","No",0
+9093,"9678","1","Star Wars","Planet Set","2012","Twin-Pod Cloud Car & Bespin",1,78,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9678-1.jpg","No","No",0
+9094,"9679","1","Star Wars","Planet Set","2012","AT-ST & Endor",1,65,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/9679-1.jpg","No","No",0
+7671,"9680","1","Education","","1999","Energy Work, Power Starter Set",,,,250,,,"http://www.1000steine.com/brickset/images/9680-1.jpg","No","No",0
+4907,"9684","1","Education","","2003","Renewable Energy Set",4,729,170.65,170,,,"http://www.1000steine.com/brickset/images/9684-1.jpg","No","No",0
+7888,"9686","1","Education","","2009","Simple & Powered Machines Set",2,396,,135,,,"http://www.1000steine.com/brickset/images/9686-1.jpg","No","No",0
+7961,"9688","1","Education","","2010","Renewable Energy Add-On Set",,12,,,,,"http://www.1000steine.com/brickset/images/9688-1.jpg","No","No",0
+9304,"9689","1","Education","Technic","2012","Simple Machines Set",,204,,,,,"http://www.1000steine.com/brickset/images/9689-1.jpg","No","No",0
+7891,"9693","1","Education","","2010","NXT DC Rechargeable Battery",,1,59.99,59.99,64.99,56.99,"http://www.1000steine.com/brickset/images/9693-1.jpg","No","No",0
+7890,"9694","1","Education","","2010","Colour Sensor",,1,21.99,34.99,37.99,25.99,"http://www.1000steine.com/brickset/images/9694-1.jpg","No","No",0
+8151,"9695","1","Education","Mindstorms","2010","LEGO Mindstorms Education Resource Set",,821,,,,,"http://www.1000steine.com/brickset/images/9695-1.jpg","No","No",0
+22474,"9696","1","Miscellaneous","FIRST LEGO League","2010","FIRST LEGO League Challenge 2010 - Body Forward v46",,,,,,,,"No","No",0
+22475,"9697","1","Miscellaneous","FIRST LEGO League","2011","FIRST LEGO League Challenge 2011 - Food Factor",,,,,,,,"No","No",0
+22476,"9698","1","Miscellaneous","FIRST LEGO League","2009","FIRST LEGO League Challenge 2009 - Smart Move",,,,,,,,"No","No",0
+10117,"9699","1","Miscellaneous","FIRST LEGO League","2008","FIRST LEGO League Challenge 2008 - Climate Connections",12,,,,,,,"No","No",0
+9399,"9701","1","Dacta","Technic","1995","Control Lab Building Set",,557,,,,,"http://www.1000steine.com/brickset/images/9701-1.jpg","No","No",0
+9400,"9702","1","Dacta","Technic","1993","Control System Building Set",2,221,,,,,"http://www.1000steine.com/brickset/images/9702-1.jpg","No","No",0
+4555,"9709","1","Mindstorms","1.0","1999","RCX Programmable LEGO Brick",,1,,110,,,"http://www.1000steine.com/brickset/images/9709-1.jpg","No","No",0
+4556,"9713","1","Mindstorms","1.0","1998","Infrared Transmission Tower",,2,,25,,,"http://www.1000steine.com/brickset/images/9713-1.jpg","No","No",0
+4557,"9719","1","Mindstorms","1.0","1998","Robotics Invention System",,733,,200,,,"http://www.1000steine.com/brickset/images/9719-1.jpg","No","No",0
+4908,"9723","1","Education","","2000","Cities & Transportation",,388,,110,,,"http://www.1000steine.com/brickset/images/9723-1.jpg","No","No",0
+4909,"9725","1","Dacta","","1998","Amusement Park Set",5,301,,100,,,"http://www.1000steine.com/brickset/images/9725-1.jpg","No","No",0
+4558,"9730","1","Mindstorms","1.0","1998","Robo Sports",,91,,50,,,"http://www.1000steine.com/brickset/images/9730-1.jpg","No","No",0
+4559,"9731","1","Mindstorms","1.5","2000","Vision Command",,138,,100,,,"http://www.1000steine.com/brickset/images/9731-1.jpg","No","No",0
+4560,"9732","1","Mindstorms","1.0","1998","Extreme Creatures",,148,,50,,,"http://www.1000steine.com/brickset/images/9732-1.jpg","No","No",0
+4561,"9735","1","Mindstorms","1.0","1999","Robotics Discovery Set",,390,,150,,,"http://www.1000steine.com/brickset/images/9735-1.jpg","No","No",0
+4562,"9736","1","Mindstorms","1.5","2000","Exploration Mars",,155,,50,,,"http://www.1000steine.com/brickset/images/9736-1.jpg","No","No",0
+4563,"9738","1","Mindstorms","1.0","1999","RCX Remote Control Unit",,1,,19.75,,,"http://www.1000steine.com/brickset/images/9738-1.jpg","No","No",0
+4564,"9739","1","Mindstorms","1.5","2000","Micro Scout PC Link",,,,,,,,"No","No",0
+9398,"9743","1","Education","System","2003","Chromosomes - Student Set",,136,,,,,,"No","No",0
+4565,"9747","1","Mindstorms","1.5","1999","Robotics Invention System",,726,,200,,,"http://www.1000steine.com/brickset/images/9747-1.jpg","No","No",0
+4566,"9748","1","Mindstorms","Star Wars","1999","Droid Developer Kit",,657,,100,,,"http://www.1000steine.com/brickset/images/9748-1.jpg","No","No",0
+7045,"9749","1","Mindstorms","NXT","2009","NXT Temperature Sensor",,1,,,,,"http://www.1000steine.com/brickset/images/9749-1.jpg","No","No",0
+22875,"9751","1","Dacta","Technic","1995","Control Lab Serial Interface & Adapter",,2,,,,,"http://www.1000steine.com/brickset/images/9751-1.jpg","No","No",0
+4567,"9754","1","Mindstorms","Star Wars","2000","Dark Side Development Kit",,578,,100,,,"http://www.1000steine.com/brickset/images/9754-1.jpg","No","No",0
+4568,"9755","1","Mindstorms","1.0","1999","Temperature Sensor",,1,,24,,,"http://www.1000steine.com/brickset/images/9755-1.jpg","No","No",0
+4569,"9756","1","Mindstorms","1.0","1999","Rotation Sensor",,1,,15,,,"http://www.1000steine.com/brickset/images/9756-1.jpg","No","No",0
+4570,"9757","1","Mindstorms","1.0","1999","Touch Sensor",,2,,11,,,"http://www.1000steine.com/brickset/images/9757-1.jpg","No","No",0
+4571,"9758","1","Mindstorms","1.0","1999","Light Sensor",,1,,19.75,,,"http://www.1000steine.com/brickset/images/9758-1.jpg","No","No",0
+22477,"9761","1","Miscellaneous","FIRST LEGO League","2004","FIRST LEGO League Challenge 2004 - No Limits",,,,,,,,"No","No",0
+22478,"9762","1","Miscellaneous","FIRST LEGO League","2005","FIRST LEGO League Challenge 2005 - Ocean Odyssey",,,,,,,,"No","No",0
+10118,"9763","1","Miscellaneous","FIRST LEGO League","2006","FIRST LEGO League Challenge 2006 - Nano Quest",2,,,,,,,"No","No",0
+22479,"9764","1","Miscellaneous","FIRST LEGO League","2007","FIRST LEGO League Challenge 2007 - Power Puzzle",1,,,,,,,"No","No",0
+4910,"9783","1","Education","","2001","Infrared Transmitter with USB Cable",,2,26.41,30,,,"http://www.1000steine.com/brickset/images/9783-1.jpg","No","No",0
+22480,"9784","1","Miscellaneous","FIRST LEGO League","2001","FIRST LEGO League Challenge 2001 - Arctic Impact",5,,,,,,,"No","No",0
+4911,"9785","1","Education","","2003","Robo Technology Set with Serial Transmitter",1,219,127.87,150,,,"http://www.1000steine.com/brickset/images/9785-1.jpg","No","No",0
+4912,"9786","1","Education","","2003","Robo Technology Set with USB Transmitter",1,217,127.87,150,,,"http://www.1000steine.com/brickset/images/9786-1.jpg","No","No",0
+22481,"9788","1","Miscellaneous","FIRST LEGO League","2003","FIRST LEGO League Challenge 2003 - Mission Mars",,,,,,,,"No","No",0
+22482,"9789","2","Miscellaneous","FIRST LEGO League","2002","FIRST LEGO League Challenge 2002 - City Sights",,,,,,,,"No","No",0
+4913,"9793","1","Education","","2003","Team Challenge Set with Serial Transmitter",,833,216.88,200,,,"http://www.1000steine.com/brickset/images/9793-1.jpg","No","No",0
+4914,"9794","1","Education","","2003","Team Challenge Set with USB Transmitter",,831,216.88,200,,,"http://www.1000steine.com/brickset/images/9794-1.jpg","No","No",0
+4915,"9795","1","Education","","2001","Intelligent House Set",,156,98.47,105,,,"http://www.1000steine.com/brickset/images/9795-1.jpg","No","No",0
+5859,"9797","1","Education","","2007","Mindstorms Education Base Set",,431,,250,,,"http://www.1000steine.com/brickset/images/9797-1.jpg","No","No",0
+5493,"9798","1","Mindstorms","NXT","2006","Rechargeable Battery",,1,31.99,54.99,,,"http://www.1000steine.com/brickset/images/9798-1.jpg","No","No",0
+6480,"9799","1","Education","","2008","Vernier NXT Sensor Adaptor",,1,,,,,"http://www.1000steine.com/brickset/images/9799-1.jpg","No","No",0
+4870,"9805","1","Education","","1999","Duplo Play Wall",,4,,159.75,,,"http://www.1000steine.com/brickset/images/9805-1.jpg","No","No",0
+4916,"9833","1","Dacta","","1996","Transformer 9 V",,1,13.99,23.99,33.99,,"http://www.1000steine.com/brickset/images/9833-1.jpg","No","No",0
+5495,"9833","2","Mindstorms","NXT","2006","Transformer",,1,13.99,23.99,33.99,,"http://www.1000steine.com/brickset/images/9833-2.jpg","No","No",0
+5374,"9840","1","Education","Storage","2006","Storage Solution (6 Pack)",,12,,,,,"http://www.1000steine.com/brickset/images/9840-1.jpg","No","No",0
+5513,"9841","1","Mindstorms","NXT","2006","NXT Intelligent Brick",,1,119.99,149.99,170.99,159.99,"http://www.1000steine.com/brickset/images/9841-1.jpg","No","No",0
+5511,"9842","1","Mindstorms","NXT","2006","Interactive Servo Motor",,1,19.99,19.99,22.99,24.99,"http://www.1000steine.com/brickset/images/9842-1.jpg","No","No",0
+5515,"9843","1","Mindstorms","NXT","2006","Touch Sensor",,1,14.99,19.99,21.99,17.99,"http://www.1000steine.com/brickset/images/9843-1.jpg","No","No",0
+5512,"9844","1","Mindstorms","NXT","2006","Light Sensor",,1,14.99,19.99,21.99,17.99,"http://www.1000steine.com/brickset/images/9844-1.jpg","No","No",0
+5514,"9845","1","Mindstorms","NXT","2006","Sound Sensor",,1,19.99,28.99,32.99,25.99,"http://www.1000steine.com/brickset/images/9845-1.jpg","No","No",0
+5516,"9846","1","Mindstorms","NXT","2006","Ultrasonic Sensor",,1,24.99,33.99,37.99,32.99,"http://www.1000steine.com/brickset/images/9846-1.jpg","No","No",0
+5550,"9847","1","Mindstorms","NXT","2006","Bluetooth Dongle",,1,28.99,32.5,37.99,31.99,"http://www.1000steine.com/brickset/images/9847-1.jpg","No","No",0
+9297,"9876","1","Dacta","","1992","Large Turntables",,2,,8.75,,,,"No","No",0
+23609,"9888","1","Dacta","Technic","2002","9-Volt Touch Sensor ",,1,,,,,,"No","No",0
+4572,"9889","1","Mindstorms","1.0","2004","Temperature Sensor",,1,24.67,25,,,"http://www.1000steine.com/brickset/images/9889-1.jpg","No","No",0
+5378,"9891","1","Dacta","","1995","Angle Sensor",,1,,25,,,"http://www.1000steine.com/brickset/images/9891-1.jpg","No","No",0
+9397,"9892","1","Dacta","Supplementary Set","1993","Brick Separators",,2,,,,,,"No","No",0
+4573,"9911","1","Mindstorms","1.0","2004","Touch Sensor and Leads",,3,10.41,12,,,"http://www.1000steine.com/brickset/images/9911-1.jpg","No","No",0
+5376,"9912","1","Education","","1999","Solar Cell",,1,,35,,,"http://www.1000steine.com/brickset/images/9912-1.jpg","No","No",0
+5375,"9916","1","Education","","1999","Capacitor",,1,,15,,,"http://www.1000steine.com/brickset/images/9916-1.jpg","No","No",0
+4574,"9917","1","Education","Mindstorms","2000","DCP Sensor Connector Cable",,1,,59,,,"http://www.1000steine.com/brickset/images/9917-1.jpg","No","No",0
+4871,"9920","1","Dacta","Storage","1990","Yellow Storage Box with Lid",,,,12.5,,,"http://www.1000steine.com/brickset/images/9920-1.jpg","No","No",0
+

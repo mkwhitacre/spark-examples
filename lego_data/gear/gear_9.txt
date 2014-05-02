@@ -1,0 +1,49 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+4811,"PC384","1","Gear","Video Games/PC","2005","LEGO Star Wars: The Video Game",,,,,,,"http://www.1000steine.com/brickset/images/PC384-1.jpg","No","No",0
+5816,"PC601","1","Gear","Video Games/PC","2006","BIONICLE Heroes",,,,29.99,,,"http://www.1000steine.com/brickset/images/PC601-1.jpg","No","No",0
+5528,"PC918","1","Gear","Video Games/PC","2006","LEGO Star Wars II: The Original Trilogy",,,,19.99,,,"http://www.1000steine.com/brickset/images/PC918-1.jpg","No","No",0
+4813,"PS2380","1","Gear","Video Games/PS2","2005","LEGO Star Wars: The Video Game",,,,,,,"http://www.1000steine.com/brickset/images/PS2380-1.jpg","No","No",0
+5828,"PS2586","1","Gear","Video Games/PS2","2006","BIONICLE Heroes",,,,29.99,,,"http://www.1000steine.com/brickset/images/PS2586-1.jpg","No","No",0
+5532,"PS2935","1","Gear","Video Games/PS2","2006","LEGO Star Wars II: The Original Trilogy",,,,39.99,,,"http://www.1000steine.com/brickset/images/PS2935-1.jpg","No","No",0
+6309,"PS3038","1","Gear","Video Games/PS3","2007","LEGO Star Wars: The Complete Saga",,,,49.99,,,"http://www.1000steine.com/brickset/images/PS3038-1.jpg","No","No",0
+5598,"PSP939","1","Gear","Video Games/PSP","2006","LEGO Star Wars II: The Original Trilogy",,,,19.99,,,"http://www.1000steine.com/brickset/images/PSP939-1.jpg","No","No",0
+6140,"S020","1","Gear","Clothing","2007","Classic Skate Sneaker – Brown",,,,34.99,,,"http://www.1000steine.com/brickset/images/S020-1.jpg","No","No",0
+6109,"S035","1","Gear","Clothing","2007","Bionicle Mesh Sport Sneaker - Red",,,,39.99,,,,"No","No",0
+9108,"SWDVDBD","1","Gear","CD/DVDs","2011","The Padawan Menace",1,,,,,,"http://www.1000steine.com/brickset/images/SWDVDBD-1.jpg","No","No",0
+10094,"THESTIG","1","Gear","Key Chains/Miscellaneous","2012","Top Gear The Stig Key Chain",,,2.49,,,,"http://www.1000steine.com/brickset/images/THESTIG-1.jpg","No","No",0
+6146,"TS26","1","Gear","Clothing","2007","Bionicle Piraka T-Shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS26-1.jpg","No","No",0
+6141,"TS39","1","Gear","Clothing","2006","Batman T-Shirt",,,,,,,"http://www.1000steine.com/brickset/images/TS39-1.jpg","No","No",0
+6147,"TS40","1","Gear","Clothing","2006","Bionicle Toa Nuparu Long Sleeve T-Shirt",,,,19.99,,,"http://www.1000steine.com/brickset/images/TS40-1.jpg","No","No",0
+6148,"TS41","1","Gear","Clothing","2007","Star Wars Original Trilogy T-Shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS41-1.jpg","No","No",0
+6145,"TS43","1","Gear","Clothing","2007","Star Wars Classic Battle T-Shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS43-1.jpg","No","No",0
+6144,"TS44","1","Gear","Clothing","2007","Star Wars Lord Vader T-Shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS44-1.jpg","No","No",0
+6143,"TS45","1","Gear","Clothing","2007","Star Wars Master Yoda T-Shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS45-1.jpg","No","No",0
+6142,"TS46","1","Gear","Clothing","2007","Star Wars Kenobi vs. Vader T-Shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS46-1.jpg","No","No",0
+5973,"TS59","1","Gear","Clothing","2007","Bionicle Barraki Kalmah T-Shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS59-1.jpg","No","No",0
+6392,"TS62","1","Gear","Clothing","2007","Star Wars Classic Characters T-shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS62-1.jpg","No","No",0
+6393,"TS64","1","Gear","Clothing","2007","Star Wars Beware of the Dark Side T-shirt",,,,19.99,,,"http://www.1000steine.com/brickset/images/TS64-1.jpg","No","No",0
+6839,"TS65","1","Gear","Clothing","2008","Stars Wars Action Lineup T-Shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS65-1.jpg","No","No",0
+6886,"TS66","1","Gear","Clothing","2008","Lego Batman Roof Top T-shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS66-1.jpg","No","No",0
+6677,"TS67","1","Gear","Clothing","2008","LEGO Club Lime Green T-shirt",,,,14.99,,,"http://www.1000steine.com/brickset/images/TS67-1.jpg","No","No",0
+5537,"W003","1","Gear","Watches/Clocks","2006","Brick Print Fabric Watch",,,,,,,"http://www.1000steine.com/brickset/images/W003-1.jpg","No","No",0
+6372,"W004","1","Gear","Watches/Clocks","2007","R2-D2 Watch",,,14.99,19.99,,,"http://www.1000steine.com/brickset/images/W004-1.jpg","No","No",0
+6373,"W005","1","Gear","Watches/Clocks","2007","Darth Vader Watch",,,14.99,19.99,,,"http://www.1000steine.com/brickset/images/W005-1.jpg","No","No",0
+6374,"W006","1","Gear","Watches/Clocks","2007","Luke Skywalker Watch",,,14.99,19.99,29.99,,"http://www.1000steine.com/brickset/images/W006-1.jpg","No","No",0
+6391,"W007","1","Gear","Watches/Clocks","2007","Clone Trooper Watch",,,14.99,19.99,,,"http://www.1000steine.com/brickset/images/W007-1.jpg","No","No",0
+5541,"W010","1","Gear","Watches/Clocks","2006","Constellation Watch",,,,,,,"http://www.1000steine.com/brickset/images/W010-1.jpg","No","No",0
+5539,"W027","1","Gear","Watches/Clocks","2006","Classic Elastic Watch",,,,19.99,,,"http://www.1000steine.com/brickset/images/W027-1.jpg","No","No",0
+5417,"W097","1","Gear","Watches/Clocks","2006","Classic Watch Grey",,,,19.99,,,"http://www.1000steine.com/brickset/images/W097-1.jpg","No","No",0
+5255,"W098","1","Gear","Watches/Clocks","2006","Classic Watch Blue",,,,,,,"http://www.1000steine.com/brickset/images/W098-1.jpg","No","No",0
+5540,"W099","1","Gear","Watches/Clocks","2006","Click & Build Watch",,,,12.99,,,"http://www.1000steine.com/brickset/images/W099-1.jpg","No","No",0
+5552,"W294","1","Gear","Watches/Clocks","2006","Brick Outline Fabric Watch",,,,19.99,,,"http://www.1000steine.com/brickset/images/W294-1.jpg","No","No",0
+5536,"W324","1","Gear","Watches/Clocks","2006","Blueprint Fabric Watch",,,,,,,"http://www.1000steine.com/brickset/images/W324-1.jpg","No","No",0
+5538,"W341","1","Gear","Watches/Clocks","2006","Classic Creator Watch",,,,19.99,,,"http://www.1000steine.com/brickset/images/W341-1.jpg","No","No",0
+4608,"W9910","1","Gear","Watches/Clocks","2001","Cyclone Master Watch",,,,,,,"http://www.1000steine.com/brickset/images/W9910-1.jpg","No","No",0
+4609,"W9950","1","Gear","Watches/Clocks","2002","Quasar Digital Watch",,,,,,,"http://www.1000steine.com/brickset/images/W9950-1.jpg","No","No",0
+6310,"WII063","1","Gear","Video Games/Wii","2007","LEGO Star Wars: The Complete Saga",,,,49.99,,,"http://www.1000steine.com/brickset/images/WII063-1.jpg","No","No",0
+6311,"XB3076","1","Gear","Video Games/Xbox 360","2007","LEGO Star Wars: The Complete Saga",,,,49.99,,,"http://www.1000steine.com/brickset/images/XB3076-1.jpg","No","No",0
+5530,"XB376","1","Gear","Video Games/Xbox 360","2006","LEGO Star Wars II: The Original Trilogy Video Game",,,,19.99,,,"http://www.1000steine.com/brickset/images/XB376-1.jpg","No","No",0
+4814,"XB382","1","Gear","Video Games/Xbox","2005","LEGO Star Wars: The Video Game",,,,,,,"http://www.1000steine.com/brickset/images/XB382-1.jpg","No","No",0
+5812,"XB386","1","Gear","Video Games/Xbox 360","2006","BIONICLE Heroes",,,,,,,"http://www.1000steine.com/brickset/images/XB386-1.jpg","No","No",0
+5531,"XB975","1","Gear","Video Games/Xbox","2006","LEGO Star Wars II: The Original Trilogy",,,,19.99,,,"http://www.1000steine.com/brickset/images/XB975-1.jpg","No","No",0
+

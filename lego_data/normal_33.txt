@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+4255,"8430","1","Technic","","2002","Mag Wheel Master",,318,,35,,,"http://www.1000steine.com/brickset/images/8430-1.jpg","No","No",0
+4256,"8431","1","Technic","","2002","Pneumatic Crane Truck",,862,,85,,,"http://www.1000steine.com/brickset/images/8431-1.jpg","No","No",0
+4257,"8432","1","Technic","","1998","Concept Car",,471,,,,,"http://www.1000steine.com/brickset/images/8432-1.jpg","No","No",0
+4258,"8433","1","Technic","","2004","Cool Movers",,215,9.99,13,,,"http://www.1000steine.com/brickset/images/8433-1.jpg","No","No",0
+4259,"8434","1","Technic","","2004","Aircraft",,445,24.99,35,,,"http://www.1000steine.com/brickset/images/8434-1.jpg","No","No",0
+4260,"8435","1","Technic","","2004","4WD",,763,34.99,45,,,"http://www.1000steine.com/brickset/images/8435-1.jpg","No","No",0
+4261,"8436","1","Technic","","2004","Truck",,1027,59.99,90,,,"http://www.1000steine.com/brickset/images/8436-1.jpg","No","No",0
+4262,"8437","1","Technic","","1997","Future Car",,419,,54,,,"http://www.1000steine.com/brickset/images/8437-1.jpg","No","No",0
+4263,"8438","1","Technic","","2003","Pneumatic Crane Truck",,848,,85,,,"http://www.1000steine.com/brickset/images/8438-1.jpg","No","No",0
+4264,"8439","1","Technic","","2004","Front End Loader",,582,,70,,,"http://www.1000steine.com/brickset/images/8439-1.jpg","No","No",0
+4265,"8440","1","Technic","","1995","Formula Flash",,414,,54,,,"http://www.1000steine.com/brickset/images/8440-1.jpg","No","No",0
+4266,"8441","1","Technic","","2003","Fork-Lift Truck",,70,4.99,6,,,"http://www.1000steine.com/brickset/images/8441-1.jpg","No","No",0
+4267,"8443","1","Technic","","1996","Pneumatic Log Loader",,327,,59,,,"http://www.1000steine.com/brickset/images/8443-1.jpg","No","No",0
+4268,"8444","1","Technic","","1999","Air Enforcer",,309,,30,,,"http://www.1000steine.com/brickset/images/8444-1.jpg","No","No",0
+4269,"8445","1","Technic","","1999","Indy Storm",,446,,40,,,"http://www.1000steine.com/brickset/images/8445-1.jpg","No","No",0
+4270,"8446","1","Technic","","1999","Crane Truck",,582,,60,,,"http://www.1000steine.com/brickset/images/8446-1.jpg","No","No",0
+4271,"8448","1","Technic","","1999","Super Street Sensation",,1437,,130,,,"http://www.1000steine.com/brickset/images/8448-1.jpg","No","No",0
+4273,"8450","1","Technic","Competition","1999","The Mission",,643,,,,,"http://www.1000steine.com/brickset/images/8450-1.jpg","No","No",0
+4274,"8451","1","Technic","","2003","Dump Truck",,183,14.99,20,,,"http://www.1000steine.com/brickset/images/8451-1.jpg","No","No",0
+4275,"8453","1","Technic","","2003","Front-End Loader",,214,14.99,20,,,"http://www.1000steine.com/brickset/images/8453-1.jpg","No","No",0
+4276,"8454","1","Technic","","2003","Rescue Truck",,639,49.99,70,,,"http://www.1000steine.com/brickset/images/8454-1.jpg","No","No",0
+4277,"8455","1","Technic","","2003","Back-Hoe",,704,69.99,100,,,"http://www.1000steine.com/brickset/images/8455-1.jpg","No","No",0
+4278,"8456","1","Technic","","1996","Fiber Optic Multi Set",,404,,74,,,"http://www.1000steine.com/brickset/images/8456-1.jpg","No","No",0
+4279,"8457","1","Technic","","2000","Power Puller",1,979,,100,,,"http://www.1000steine.com/brickset/images/8457-1.jpg","No","No",0
+4280,"8458","1","Technic","","2000","Silver Champion",,1431,,170,,,"http://www.1000steine.com/brickset/images/8458-1.jpg","No","No",0
+4281,"8459","1","Technic","","1997","Pneumatic Front-End Loader",,591,,82,,,"http://www.1000steine.com/brickset/images/8459-1.jpg","No","No",0
+4283,"8460","1","Technic","","1995","Pneumatic Crane Truck",,850,,99,,,"http://www.1000steine.com/brickset/images/8460-1.jpg","No","No",0
+4284,"8461","1","Racers","Williams F1","2002","Williams F1 Team Racer",,1484,99.99,130,,,"http://www.1000steine.com/brickset/images/8461-1.jpg","No","No",0
+4285,"8462","1","Technic","","1998","Tow Truck",,774,,122,,,"http://www.1000steine.com/brickset/images/8462-1.jpg","No","No",0
+4286,"8463","1","Technic","","2001","Forklift",1,235,,30,,,"http://www.1000steine.com/brickset/images/8463-1.jpg","No","No",0
+4287,"8464","1","Technic","","2001","Pneumatic Front-End Loader",,591,,70,,,"http://www.1000steine.com/brickset/images/8464-1.jpg","No","No",0
+4288,"8465","1","Technic","","2001","Extreme Off-Roader",,365,29.99,40,,,"http://www.1000steine.com/brickset/images/8465-1.jpg","No","No",0
+4289,"8466","1","Technic","","2001","4X4 Off-Roader",,1102,79.99,120,,,"http://www.1000steine.com/brickset/images/8466-1.jpg","No","No",0
+4290,"8468","1","Racers","Drome Racers","2002","Power Crusher",,87,4.99,8,,,"http://www.1000steine.com/brickset/images/8468-1.jpg","No","No",0
+4291,"8469","1","Racers","Drome Racers","2002","Slammer Raptor",,144,7.99,10,,,"http://www.1000steine.com/brickset/images/8469-1.jpg","No","No",0
+4292,"8470","1","Racers","Drome Racers","2002","Slammer G-Force",,148,9.99,15,,,"http://www.1000steine.com/brickset/images/8470-1.jpg","No","No",0
+4293,"8471","1","Racers","Drome Racers","2002","Nitro Burner",,119,14.99,20,,,"http://www.1000steine.com/brickset/images/8471-1.jpg","No","No",0
+4294,"8472","1","Racers","Drome Racers","2002","Mud & Street Racer",,353,49.99,69.99,,,"http://www.1000steine.com/brickset/images/8472-1.jpg","No","No",0
+4295,"8473","1","Racers","Drome Racers","2002","Nitro Race Team",,510,39.99,50,,,"http://www.1000steine.com/brickset/images/8473-1.jpg","No","No",0
+4296,"8475","1","Racers","Drome Racers","2002","RC Race Buggy",,284,79.99,130,,,"http://www.1000steine.com/brickset/images/8475-1.jpg","No","No",0
+4297,"8479","1","Technic","","1997","Barcode Multi-Set",,1280,,164,,,"http://www.1000steine.com/brickset/images/8479-1.jpg","No","No",0
+4298,"8480","1","Technic","","1996","Space Shuttle",,1368,,158,,,"http://www.1000steine.com/brickset/images/8480-1.jpg","No","No",0
+4299,"8482","1","Technic","Competition","1998","CyberMaster",1,900,,,,,"http://www.1000steine.com/brickset/images/8482-1.jpg","No","No",0
+4996,"8483","1","Technic","","1998","CyberMaster",1,900,,,,,"http://www.1000steine.com/brickset/images/8483-1.jpg","No","No",0
+8603,"8484","1","Cars","","2011","Ultimate Building Lightning McQueen",,242,25.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/8484-1.jpg","No","No",0
+4300,"8485","1","Technic","","1995","Control Centre II",,1079,,219,,,"http://www.1000steine.com/brickset/images/8485-1.jpg","No","No",0
+8604,"8486","1","Cars","","2011","Mack's Team Truck",,374,30.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/8486-1.jpg","No","No",0
+8605,"8487","1","Cars","","2011","Flo's V8 Cafe",,517,49.99,59.99,74.99,69.99,"http://www.1000steine.com/brickset/images/8487-1.jpg","No","No",0
+6277,"8490","1","Racers","Power Racers","2008","Desert Hopper",,92,6.99,9.99,,,"http://www.1000steine.com/brickset/images/8490-1.jpg","No","No",0
+6278,"8491","1","Racers","Power Racers","2008","Ram Rod",,72,6.99,9.99,,,"http://www.1000steine.com/brickset/images/8491-1.jpg","No","No",0
+6279,"8492","1","Racers","Power Racers","2008","Mud Hopper",,59,6.99,9.99,,,"http://www.1000steine.com/brickset/images/8492-1.jpg","No","No",0
+6280,"8493","1","Racers","Power Racers","2008","Red Ace",,82,6.85,9.99,,,"http://www.1000steine.com/brickset/images/8493-1.jpg","No","No",0
+6281,"8494","1","Racers","Power Racers","2008","Ring of Fire",,268,19.99,29.99,,,"http://www.1000steine.com/brickset/images/8494-1.jpg","No","No",0
+6440,"8495","1","Racers","Tiny Turbos","2008","Crosstown Craze",,503,24.49,39.99,,,"http://www.1000steine.com/brickset/images/8495-1.jpg","No","No",0
+6441,"8496","1","Racers","Power Racers","2008","Desert Hammer",,510,29.35,49.99,,,"http://www.1000steine.com/brickset/images/8496-1.jpg","No","No",0
+4302,"8500","1","Technic","Slizer","1999","Torch",,33,,6,,,"http://www.1000steine.com/brickset/images/8500-1.jpg","No","No",0
+4303,"8501","1","Technic","Slizer","1999","Ski",,34,,6,,,"http://www.1000steine.com/brickset/images/8501-1.jpg","No","No",0
+4304,"8502","1","Technic","Slizer","1999","Turbo",,45,,6,,,"http://www.1000steine.com/brickset/images/8502-1.jpg","No","No",0
+4305,"8503","1","Technic","Slizer","1999","Scuba",,39,,6,,,"http://www.1000steine.com/brickset/images/8503-1.jpg","No","No",0
+4306,"8504","1","Technic","Slizer","1999","Jet",,44,,6,,,"http://www.1000steine.com/brickset/images/8504-1.jpg","No","No",0
+4307,"8505","1","Technic","Slizer","1999","Amazon",,36,,6,,,"http://www.1000steine.com/brickset/images/8505-1.jpg","No","No",0
+4308,"8506","1","Technic","Slizer","1999","Granite",,34,,6,,,"http://www.1000steine.com/brickset/images/8506-1.jpg","No","No",0
+4309,"8507","1","Technic","Slizer","1999","Electro",,37,,6,,,"http://www.1000steine.com/brickset/images/8507-1.jpg","No","No",0
+4310,"8508","1","Technic","Slizer","1999","Supplementary Discs",,5,,2,,,"http://www.1000steine.com/brickset/images/8508-1.jpg","No","No",0
+4311,"8509","1","Technic","Robo Riders","2000","Swamp",,45,,6,,,"http://www.1000steine.com/brickset/images/8509-1.jpg","No","No",0
+4313,"8510","1","Technic","Robo Riders","2000","Lava",,35,,6,,,"http://www.1000steine.com/brickset/images/8510-1.jpg","No","No",0
+4317,"8511","1","Technic","Robo Riders","2000","Frost",,44,,6,,,"http://www.1000steine.com/brickset/images/8511-1.jpg","No","No",0
+4318,"8512","1","Technic","Robo Riders","2000","Onyx",,37,,6,,,"http://www.1000steine.com/brickset/images/8512-1.jpg","No","No",0
+4319,"8513","1","Technic","Robo Riders","2000","Dust",,46,,6,,,"http://www.1000steine.com/brickset/images/8513-1.jpg","No","No",0
+4320,"8514","1","Technic","Robo Riders","2000","Power",,32,,6,,,"http://www.1000steine.com/brickset/images/8514-1.jpg","No","No",0
+4321,"8515","1","Technic","Robo Riders","2000","RoboRider Wheels",,4,,2,,,"http://www.1000steine.com/brickset/images/8515-1.jpg","No","No",0
+4322,"8516","1","Technic","Robo Riders","2000","Super RoboRider",,125,,,,,"http://www.1000steine.com/brickset/images/8516-1.jpg","No","No",0
+7316,"8517","1","Ben 10","Alien Force","2010","Humungousaur",,14,12.99,14.99,19.99,,"http://www.1000steine.com/brickset/images/8517-1.jpg","No","No",0
+7314,"8518","1","Ben 10","Alien Force","2010","Jet Ray",,16,12.99,14.99,19.99,,"http://www.1000steine.com/brickset/images/8518-1.jpg","No","No",0
+7315,"8519","1","Ben 10","Alien Force","2010","Big Chill",,20,12.99,14.99,19.99,,"http://www.1000steine.com/brickset/images/8519-1.jpg","No","No",0
+4324,"8520","1","Technic","Slizer","1999","Millennium Slizer",,135,,20,,,"http://www.1000steine.com/brickset/images/8520-1.jpg","No","No",0
+4325,"8521","1","Technic","Slizer","2000","Flare",,44,,6,,,"http://www.1000steine.com/brickset/images/8521-1.jpg","No","No",0
+4326,"8522","1","Technic","Slizer","2000","Spark",,35,,6,,,"http://www.1000steine.com/brickset/images/8522-1.jpg","No","No",0
+4327,"8523","1","Technic","Slizer","2000","Blaster",,88,,15,,,"http://www.1000steine.com/brickset/images/8523-1.jpg","No","No",0
+4328,"8525","1","Bionicle","Accessories","2001","Masks",,6,,2,,,"http://www.1000steine.com/brickset/images/8525-1.jpg","No","No",0
+5306,"8527","1","Mindstorms","NXT","2006","Mindstorms NXT",,577,179.99,249.99,,,"http://www.1000steine.com/brickset/images/8527-1.jpg","No","No",0
+5591,"8528","1","Mindstorms","NXT","2006","Converter Cables for Mindstorms NXT",,3,8.99,9.99,14.99,10.99,"http://www.1000steine.com/brickset/images/8528-1.jpg","No","No",0
+5590,"8529","1","Mindstorms","NXT","2006","Connector Cables for Mindstorms NXT",,7,8.99,9.99,14.99,10.99,"http://www.1000steine.com/brickset/images/8529-1.jpg","No","No",0
+4330,"8530","1","Bionicle","Accessories","2001","Masks",,6,1.49,,,,"http://www.1000steine.com/brickset/images/8530-1.jpg","No","No",0
+4331,"8531","1","Bionicle","Toa Mata","2001","Pohatu",,49,4.99,7,,,"http://www.1000steine.com/brickset/images/8531-1.jpg","No","No",0
+4332,"8532","1","Bionicle","Toa Mata","2001","Onua",,30,4.99,7,,,"http://www.1000steine.com/brickset/images/8532-1.jpg","No","No",0
+4333,"8533","1","Bionicle","Toa Mata","2001","Gali",,35,4.99,7,,,"http://www.1000steine.com/brickset/images/8533-1.jpg","No","No",0
+4334,"8534","1","Bionicle","Toa Mata","2001","Tahu",,33,4.99,7,,,"http://www.1000steine.com/brickset/images/8534-1.jpg","No","No",0
+4335,"8535","1","Bionicle","Toa Mata","2001","Lewa",,36,4.99,7,,,"http://www.1000steine.com/brickset/images/8535-1.jpg","No","No",0
+4336,"8536","1","Bionicle","Toa Mata","2001","Kopaka",,33,4.99,7,,,"http://www.1000steine.com/brickset/images/8536-1.jpg","No","No",0
+4337,"8537","1","Bionicle","Rahi","2001","Nui-Rama",,154,10.99,15,,,"http://www.1000steine.com/brickset/images/8537-1.jpg","No","No",0
+4338,"8538","1","Bionicle","Rahi","2001","Muaka & Kane-ra",,633,44.99,70,,,"http://www.1000steine.com/brickset/images/8538-1.jpg","No","No",0
+4339,"8539","1","Bionicle","Rahi","2001","Manas",,457,69.99,90,,,"http://www.1000steine.com/brickset/images/8539-1.jpg","No","No",0
+4341,"8540","1","Bionicle","Turaga","2001","Vakama",,28,,3,,,"http://www.1000steine.com/brickset/images/8540-1.jpg","No","No",0
+4342,"8541","1","Bionicle","Turaga","2001","Matau",,25,,3,,,"http://www.1000steine.com/brickset/images/8541-1.jpg","No","No",0
+4343,"8542","1","Bionicle","Turaga","2001","Onewa",,29,,3,,,"http://www.1000steine.com/brickset/images/8542-1.jpg","No","No",0
+4344,"8543","1","Bionicle","Turaga","2001","Nokama",,27,,3,,,"http://www.1000steine.com/brickset/images/8543-1.jpg","No","No",0
+4345,"8544","1","Bionicle","Turaga","2001","Nuju",,29,,3,,,"http://www.1000steine.com/brickset/images/8544-1.jpg","No","No",0
+4346,"8545","1","Bionicle","Turaga","2001","Whenua",,28,,3,,,"http://www.1000steine.com/brickset/images/8545-1.jpg","No","No",0
+4347,"8546","1","Bionicle","Matoran","2001","Bionicle Power Pack",,9,9.99,15,,,"http://www.1000steine.com/brickset/images/8546-1.jpg","No","No",0
+6983,"8547","1","Mindstorms","NXT 2.0","2009","Mindstorms NXT 2.0",,619,234.99,279.99,349.99,299.00,"http://www.1000steine.com/brickset/images/8547-1.jpg","No","No",0
+4348,"8548","1","Bionicle","Rahi","2001","Nui-Jaga",,226,22.99,35,,,"http://www.1000steine.com/brickset/images/8548-1.jpg","No","No",0
+4349,"8549","1","Bionicle","Rahi","2001","Tarakava",,411,29.99,50,,,"http://www.1000steine.com/brickset/images/8549-1.jpg","No","No",0
+4351,"8550","1","Bionicle","Bohrok Va","2002","Gahlok Va",,26,1.99,3,,,"http://www.1000steine.com/brickset/images/8550-1.jpg","No","No",0
+4352,"8551","1","Bionicle","Bohrok Va","2002","Kohrak Va",,28,1.99,3,,,"http://www.1000steine.com/brickset/images/8551-1.jpg","No","No",0
+4353,"8552","1","Bionicle","Bohrok Va","2002","Lehvak Va",,28,1.99,3,,,"http://www.1000steine.com/brickset/images/8552-1.jpg","No","No",0
+4354,"8553","1","Bionicle","Bohrok Va","2002","Pahrak Va",,27,1.99,3,,,"http://www.1000steine.com/brickset/images/8553-1.jpg","No","No",0
+4355,"8554","1","Bionicle","Bohrok Va","2002","Tahnok Va",,27,1.99,3,,,"http://www.1000steine.com/brickset/images/8554-1.jpg","No","No",0
+4356,"8555","1","Bionicle","Bohrok Va","2002","Nuhvok Va",,26,1.99,3,,,"http://www.1000steine.com/brickset/images/8555-1.jpg","No","No",0
+4357,"8556","1","Bionicle","Warriors","2002","Boxor Vehicle",,157,12.99,15,,,"http://www.1000steine.com/brickset/images/8556-1.jpg","No","No",0
+4358,"8557","1","Bionicle","Warriors","2002","Exo-Toa",,378,24.99,35,,,"http://www.1000steine.com/brickset/images/8557-1.jpg","No","No",0
+4359,"8558","1","Bionicle","Warriors","2002","Cahdok and Gahdok",,636,49.99,60,,,"http://www.1000steine.com/brickset/images/8558-1.jpg","No","No",0
+4360,"8559","1","Bionicle","Accessories","2002","Krana",,5,1.49,,,,"http://www.1000steine.com/brickset/images/8559-1.jpg","No","No",0
+4362,"8560","1","Bionicle","Bohrok","2002","Pahrak",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8560-1.jpg","No","No",0
+4363,"8561","1","Bionicle","Bohrok","2002","Nuhvok",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8561-1.jpg","No","No",0
+4364,"8562","1","Bionicle","Bohrok","2002","Gahlok",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8562-1.jpg","No","No",0
+4365,"8563","1","Bionicle","Bohrok","2002","Tahnok",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8563-1.jpg","No","No",0
+4366,"8564","1","Bionicle","Bohrok","2002","Lehvak",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8564-1.jpg","No","No",0
+4367,"8565","1","Bionicle","Bohrok","2002","Kohrak",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8565-1.jpg","No","No",0
+4368,"8566","1","Bionicle","Toa Nuva","2002","Onua Nuva",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8566-1.jpg","No","No",0
+4369,"8567","1","Bionicle","Toa Nuva","2002","Lewa Nuva",,37,4.99,8,,,"http://www.1000steine.com/brickset/images/8567-1.jpg","No","No",0
+4370,"8568","1","Bionicle","Toa Nuva","2002","Pohatu Nuva",,40,4.99,8,,,"http://www.1000steine.com/brickset/images/8568-1.jpg","No","No",0
+4371,"8569","1","Bionicle","Accessories","2002","Krana",,5,,2,,,"http://www.1000steine.com/brickset/images/8569-1.jpg","No","No",0
+4373,"8570","1","Bionicle","Toa Nuva","2002","Gali Nuva",,44,4.99,8,,,"http://www.1000steine.com/brickset/images/8570-1.jpg","No","No",0
+4374,"8571","1","Bionicle","Toa Nuva","2002","Kopaka Nuva",,42,4.99,8,,,"http://www.1000steine.com/brickset/images/8571-1.jpg","No","No",0
+4375,"8572","1","Bionicle","Toa Nuva","2002","Tahu Nuva",,36,4.99,8,,,"http://www.1000steine.com/brickset/images/8572-1.jpg","No","No",0
+4376,"8573","1","Bionicle","Bohrok-Kal","2003","Nuhvok-Kal",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8573-1.jpg","No","No",0
+4377,"8574","1","Bionicle","Bohrok-Kal","2003","Tahnok-Kal",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8574-1.jpg","No","No",0
+4378,"8575","1","Bionicle","Bohrok-Kal","2003","Kohrak-Kal",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8575-1.jpg","No","No",0
+4379,"8576","1","Bionicle","Bohrok-Kal","2003","Lehvak-Kal",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8576-1.jpg","No","No",0
+4380,"8577","1","Bionicle","Bohrok-Kal","2003","Pahrak-Kal",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8577-1.jpg","No","No",0
+4381,"8578","1","Bionicle","Bohrok-Kal","2003","Gahlok-Kal",,41,4.99,8,,,"http://www.1000steine.com/brickset/images/8578-1.jpg","No","No",0
+4383,"8580","1","Bionicle","Accessories","2003","Kraata",,3,1.49,2,,,"http://www.1000steine.com/brickset/images/8580-1.jpg","No","No",0
+4384,"8581","1","Bionicle","Matoran","2003","Kopeke",,25,1.99,4,,,"http://www.1000steine.com/brickset/images/8581-1.jpg","No","No",0
+4385,"8582","1","Bionicle","Matoran","2003","Matoro",,25,1.99,4,,,"http://www.1000steine.com/brickset/images/8582-1.jpg","No","No",0
+4386,"8583","1","Bionicle","Matoran","2003","Hahli",,25,1.99,4,,,"http://www.1000steine.com/brickset/images/8583-1.jpg","No","No",0
+4387,"8584","1","Bionicle","Matoran","2003","Hewkii",,25,1.99,4,,,"http://www.1000steine.com/brickset/images/8584-1.jpg","No","No",0
+4388,"8585","1","Bionicle","Matoran","2003","Hafu",,25,1.99,4,,,"http://www.1000steine.com/brickset/images/8585-1.jpg","No","No",0
+4389,"8586","1","Bionicle","Matoran","2003","Macku",,25,1.99,4,,,"http://www.1000steine.com/brickset/images/8586-1.jpg","No","No",0
+4390,"8587","1","Bionicle","Rahkshi","2003","Rahkshi Panrahk",,45,5.99,9,,,"http://www.1000steine.com/brickset/images/8587-1.jpg","No","No",0
+4391,"8588","1","Bionicle","Rahkshi","2003","Rahkshi Kurahk",,45,5.99,9,,,"http://www.1000steine.com/brickset/images/8588-1.jpg","No","No",0
+4392,"8589","1","Bionicle","Rahkshi","2003","Rahkshi Lerahk",,45,5.99,9,,,"http://www.1000steine.com/brickset/images/8589-1.jpg","No","No",0
+4393,"8590","1","Bionicle","Rahkshi","2003","Rahkshi Guurahk",,45,5.99,9,,,"http://www.1000steine.com/brickset/images/8590-1.jpg","No","No",0
+4394,"8591","1","Bionicle","Rahkshi","2003","Rahkshi Vorahk",,45,5.99,9,,,"http://www.1000steine.com/brickset/images/8591-1.jpg","No","No",0
+4395,"8592","1","Bionicle","Rahkshi","2003","Rahkshi Turahk",,45,5.99,9,,,"http://www.1000steine.com/brickset/images/8592-1.jpg","No","No",0
+4396,"8593","1","Bionicle","Warriors","2003","Makuta",,199,14.99,20,,,"http://www.1000steine.com/brickset/images/8593-1.jpg","No","No",0
+4397,"8594","1","Bionicle","Warriors","2003","Jaller and Gukko",,172,14.99,20,,,"http://www.1000steine.com/brickset/images/8594-1.jpg","No","No",0
+4398,"8595","1","Bionicle","Warriors","2003","Takua and Pewku",,221,14.99,20,,,"http://www.1000steine.com/brickset/images/8595-1.jpg","No","No",0
+4399,"8596","1","Bionicle","Warriors","2003","Takanuva",,200,19.99,30,,,"http://www.1000steine.com/brickset/images/8596-1.jpg","No","No",0
+4400,"8597","1","Bionicle","Accessories","2002","Krana Nuva",,2,,,,,"http://www.1000steine.com/brickset/images/8597-1.jpg","No","No",0
+4401,"8598","1","Bionicle","Accessories","2002","Kanohi Nuva and Krana Pack",,5,,2,,,"http://www.1000steine.com/brickset/images/8598-1.jpg","No","No",0
+4402,"8599","1","Bionicle","Accessories","2003","Krana-Kal",,5,,2,,,"http://www.1000steine.com/brickset/images/8599-1.jpg","No","No",0
+4404,"8600","1","Bionicle","Accessories","2003","Krana-Kal Bag",,5,1.49,,,,"http://www.1000steine.com/brickset/images/8600-1.jpg","No","No",0
+4405,"8601","1","Bionicle","Toa Metru","2004","Vakama",,48,5.99,8,,,"http://www.1000steine.com/brickset/images/8601-1.jpg","No","No",0
+9366,"8601","2","Bionicle","Toa Metru","2004","Toa Vakama (SDCC 2004 exclusive)",,48,,,,,,"No","No",0
+4406,"8602","1","Bionicle","Toa Metru","2004","Nokama",,46,5.99,8,,,"http://www.1000steine.com/brickset/images/8602-1.jpg","No","No",0
+4407,"8603","1","Bionicle","Toa Metru","2004","Whenua",,49,5.99,8,,,"http://www.1000steine.com/brickset/images/8603-1.jpg","No","No",0
+4408,"8604","1","Bionicle","Toa Metru","2004","Onewa",,44,5.99,8,,,"http://www.1000steine.com/brickset/images/8604-1.jpg","No","No",0
+4409,"8605","1","Bionicle","Toa Metru","2004","Matau",,46,5.99,8,,,"http://www.1000steine.com/brickset/images/8605-1.jpg","No","No",0
+4410,"8606","1","Bionicle","Toa Metru","2004","Nuju",,48,5.99,8,,,"http://www.1000steine.com/brickset/images/8606-1.jpg","No","No",0
+4411,"8607","1","Bionicle","Matoran","2004","Nuhrii",,27,2.99,4,,,"http://www.1000steine.com/brickset/images/8607-1.jpg","No","No",0
+4412,"8608","1","Bionicle","Matoran","2004","Vhisola",,27,2.99,4,,,"http://www.1000steine.com/brickset/images/8608-1.jpg","No","No",0
+4413,"8609","1","Bionicle","Matoran","2004","Tehutti",,27,2.99,4,,,"http://www.1000steine.com/brickset/images/8609-1.jpg","No","No",0
+4414,"8610","1","Bionicle","Matoran","2004","Ahkmou",,27,2.99,4,,,"http://www.1000steine.com/brickset/images/8610-1.jpg","No","No",0
+4415,"8611","1","Bionicle","Matoran","2004","Orkahm",,27,2.99,4,,,"http://www.1000steine.com/brickset/images/8611-1.jpg","No","No",0
+4416,"8612","1","Bionicle","Matoran","2004","Ehrye",,30,2.99,4,,,"http://www.1000steine.com/brickset/images/8612-1.jpg","No","No",0
+4417,"8613","1","Bionicle","Accessories","2004","Kanoka Disk Launcher Pack",,4,1.49,2,,,"http://www.1000steine.com/brickset/images/8613-1.jpg","No","No",0
+4418,"8614","1","Bionicle","Vahki","2004","Nuurakh",,32,5.99,9,,,"http://www.1000steine.com/brickset/images/8614-1.jpg","No","No",0
+4419,"8615","1","Bionicle","Vahki","2004","Bordakh",,32,5.99,9,,,"http://www.1000steine.com/brickset/images/8615-1.jpg","No","No",0
+4420,"8616","1","Bionicle","Vahki","2004","Vorzakh",,32,5.99,9,,,"http://www.1000steine.com/brickset/images/8616-1.jpg","No","No",0
+4421,"8617","1","Bionicle","Vahki","2004","Zadakh",,32,5.99,9,,,"http://www.1000steine.com/brickset/images/8617-1.jpg","No","No",0
+4422,"8618","1","Bionicle","Vahki","2004","Rorzakh",,32,5.99,9,,,"http://www.1000steine.com/brickset/images/8618-1.jpg","No","No",0
+4423,"8619","1","Bionicle","Vahki","2004","Keerakh",,32,5.99,9,,,"http://www.1000steine.com/brickset/images/8619-1.jpg","No","No",0
+4424,"8620","1","Technic","Arctic","1986","Snow Scooter",1,100,,,,,"http://www.1000steine.com/brickset/images/8620-1.jpg","No","No",0
+4425,"8621","1","Bionicle","Warriors","2004","Turaga Dume and Nivawk",,180,14.99,20,,,"http://www.1000steine.com/brickset/images/8621-1.jpg","No","No",0
+4426,"8622","1","Bionicle","Warriors","2004","Nidhiki",,170,14.99,20,,,"http://www.1000steine.com/brickset/images/8622-1.jpg","No","No",0
+4427,"8623","1","Bionicle","Warriors","2004","Krekka",,214,14.99,20,,,"http://www.1000steine.com/brickset/images/8623-1.jpg","No","No",0
+5480,"8624","1","Bionicle","Playsets","2006","Race for the Mask of Life",8,507,29.99,59.99,,,"http://www.1000steine.com/brickset/images/8624-1.jpg","No","No",0
+5338,"8625","1","Bionicle","Warriors","2006","Umbra",,179,14.99,25,,,"http://www.1000steine.com/brickset/images/8625-1.jpg","No","No",0
+5381,"8626","1","Bionicle","Warriors","2006","Irnakk",,124,19.99,25,,,"http://www.1000steine.com/brickset/images/8626-1.jpg","No","No",0
+6412,"8630","1","Agents","","2008","Gold Hunt",3,352,21.49,29.99,,,"http://www.1000steine.com/brickset/images/8630-1.jpg","No","No",0
+6414,"8631","1","Agents","","2008","Jetpack Pursuit",2,88,8.79,9.99,,,"http://www.1000steine.com/brickset/images/8631-1.jpg","No","No",0
+6415,"8632","1","Agents","","2008","Swamp Raid",2,231,15.65,19.99,,,"http://www.1000steine.com/brickset/images/8632-1.jpg","No","No",0
+6416,"8633","1","Agents","","2008","Speedboat Rescue",3,340,31.29,39.99,,,"http://www.1000steine.com/brickset/images/8633-1.jpg","No","No",0
+6417,"8634","1","Agents","","2008","Turbocar Chase",3,498,41.09,49.99,,,"http://www.1000steine.com/brickset/images/8634-1.jpg","No","No",0
+6418,"8635","1","Agents","","2008","Mobile Command Center",7,1154,73.39,89.99,,,"http://www.1000steine.com/brickset/images/8635-1.jpg","No","No",0
+6419,"8636","1","Agents","","2008","Deep Sea Quest",4,520,34.99,49.99,,,"http://www.1000steine.com/brickset/images/8636-1.jpg","No","No",0
+6413,"8637","1","Agents","","2008","Volcano Base",6,718,48.95,69.99,,,"http://www.1000steine.com/brickset/images/8637-1.jpg","No","No",0
+8606,"8638","1","Cars","","2011","Spy Jet Escape",,339,45.99,49.99,64.99,49.99,"http://www.1000steine.com/brickset/images/8638-1.jpg","No","No",0
+8607,"8639","1","Cars","","2011","Big Bentley Bust Out",,743,71.99,69.99,89.99,79.99,"http://www.1000steine.com/brickset/images/8639-1.jpg","No","No",0
+4428,"8640","1","Technic","Arctic","1986","Polar Copter",1,238,,,,,"http://www.1000steine.com/brickset/images/8640-1.jpg","No","No",0
+4614,"8641","1","Racers","Tiny Turbos","2005","Flame Glider",,52,2.99,4,,,"http://www.1000steine.com/brickset/images/8641-1.jpg","No","No",0
+4615,"8642","1","Racers","Tiny Turbos","2005","Monster Crusher",,43,2.99,4,,,"http://www.1000steine.com/brickset/images/8642-1.jpg","No","No",0
+4617,"8643","1","Racers","Tiny Turbos","2005","Power Cruiser",,46,2.99,4,,,"http://www.1000steine.com/brickset/images/8643-1.jpg","No","No",0
+4618,"8644","1","Racers","Tiny Turbos","2005","Street Maniac",,36,2.99,4,,,"http://www.1000steine.com/brickset/images/8644-1.jpg","No","No",0
+4611,"8645","1","Racers","Power Racers","2005","Muscle Slammer Bike",,126,6.99,10,,,"http://www.1000steine.com/brickset/images/8645-1.jpg","No","No",0
+4612,"8646","1","Racers","Power Racers","2005","Speed Slammer Bike",,126,6.99,10,,,"http://www.1000steine.com/brickset/images/8646-1.jpg","No","No",0
+4616,"8647","1","Racers","Power Racers","2005","Night Racer",,76,6.99,10,,,"http://www.1000steine.com/brickset/images/8647-1.jpg","No","No",0
+4613,"8648","1","Racers","Power Racers","2005","Buzz Saw",,64,6.99,10,,,"http://www.1000steine.com/brickset/images/8648-1.jpg","No","No",0
+4763,"8649","1","Racers","Power Racers","2005","Nitro Menace",,620,34.99,50,,,"http://www.1000steine.com/brickset/images/8649-1.jpg","No","No",0
+

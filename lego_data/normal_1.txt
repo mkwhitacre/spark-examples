@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+22667,"001","1","Samsonite","Basic","1965","Gear Set",,43,,4.95,,,"http://www.1000steine.com/brickset/images/001-1.jpg","No","No",0
+22683,"1","3","Samsonite","Basic","1967","Velveeta Set 1",,74,,1,,,,"No","No",0
+7465,"1","7","Universal Building Set","","1973","Basic Set",,107,,,,,"http://www.1000steine.com/brickset/images/1-7.jpg","No","No",0
+7693,"1","8","Minitalia","","1971","Small house set",,67,,,,,"http://www.1000steine.com/brickset/images/1-8.jpg","No","No",0
+22697,"1","9","Samsonite","Basic","1969","Life Cereal Wheel Toy Set",,301,,5,,,,"No","No",0
+9652,"1","10","LEGOLAND","Promotional","1971","Mini-Wheel Model Maker No. 1",,,,,,,"http://www.1000steine.com/brickset/images/1-10.jpg","No","No",0
+8415,"1","11","Basic","","1981","Basic Souvenir Box",,38,,,,,"http://www.1000steine.com/brickset/images/1-11.jpg","No","No",0
+7694,"1","12","Minitalia","","1977","Small basic set",,,,,,,"http://www.1000steine.com/brickset/images/1-12.jpg","No","No",0
+22722,"1","13","Samsonite","Model Maker","1971","Kraft Velveeta Mini-Wheel Model Maker Set 1",,86,,2,,,,"No","No",0
+22668,"002","1","Samsonite","Basic","1965","Motor Pak",,3,,4.95,,,"http://www.1000steine.com/brickset/images/002-1.jpg","No","No",0
+22684,"2","4","Samsonite","Basic","1967","Velveeta Set 2",,141,,2,,,,"No","No",0
+7466,"2","7","Universal Building Set","","1973","Basic Set",,184,,,,,"http://www.1000steine.com/brickset/images/2-7.jpg","No","No",0
+7695,"2","8","Minitalia","","1971","Medium house set",,109,,,,,"http://www.1000steine.com/brickset/images/2-8.jpg","No","No",0
+22698,"2","9","Samsonite","Basic","1969","Life Cereal Starter Set",,159,,2,,,,"No","No",0
+7696,"2","11","Minitalia","","1977","Medium basic set",,128,,,,,"http://www.1000steine.com/brickset/images/2-11.jpg","No","No",0
+22723,"2","12","Samsonite","Model Maker","1971","Kraft Velveeta Mini-Wheel Model Maker Set 2",,63,,2,,,,"No","No",0
+22669,"003","1","Samsonite","Basic","1965","Master Mechanic Set",,418,,17.95,,,,"No","No",0
+22685,"3","3","Samsonite","Basic","1967","Velveeta Set 3",,300,,5,,,,"No","No",0
+7467,"3","4","Universal Building Set","","1973","Basic Set",,184,,,,,"http://www.1000steine.com/brickset/images/3-4.jpg","No","No",0
+7697,"3","6","Minitalia","","1971","Medium house set",,158,,,,,"http://www.1000steine.com/brickset/images/3-6.jpg","No","No",0
+22699,"3","7","Samsonite","Basic","1969","Life Cereal Accessories Set",,156,,2,,,,"No","No",0
+22724,"3","8","Samsonite","Model Maker","1971","Kraft Velveeta Mini-Wheel Model Maker Set 3",,65,,2,,,,"No","No",0
+22670,"004","1","Samsonite","Basic","1965","Master Builder Set",,670,,19.95,,,"http://www.1000steine.com/brickset/images/004-1.jpg","No","No",0
+22686,"4","2","Samsonite","Basic","1967","Velveeta Set 4",,321,,10,,,,"No","No",0
+7468,"4","3","Universal Building Set","","1973","Basic Set",,230,,,,,"http://www.1000steine.com/brickset/images/4-3.jpg","No","No",0
+7698,"4","4","Minitalia","","1971","Large house set",,233,,,,,"http://www.1000steine.com/brickset/images/4-4.jpg","No","No",0
+22725,"4","5","Samsonite","Model Maker","1971","Kraft Velveeta Mini-Wheel Model Maker Set 4",,,,4.75,,,,"No","No",0
+22687,"5","2","Samsonite","Basic","1967","Velveeta Set 5",,156,,2,,,,"No","No",0
+22677,"005","2","Samsonite","Basic","1966","Discovery Set",,328,,10,,,,"No","No",0
+7469,"5","3","Universal Building Set","","1973","Basic Set",,349,,7,,,"http://www.1000steine.com/brickset/images/5-3.jpg","No","No",0
+7699,"5","4","Minitalia","","1971","Large house set",,307,,,,,"http://www.1000steine.com/brickset/images/5-4.jpg","No","No",0
+22726,"5","5","Samsonite","Model Maker","1971","Kraft Velveeta Mini-Wheel Model Maker Set 5",,,,6.75,,,,"No","No",0
+22688,"6","2","Samsonite","Basic","1967","Velveeta Set 6",,101,,2,,,,"No","No",0
+7470,"6","3","Universal Building Set","","1973","Basic Set",,349,,,,,"http://www.1000steine.com/brickset/images/6-3.jpg","No","No",0
+22727,"6","4","Samsonite","Model Maker","1971","Kraft Velveeta Mini-Wheel Model Maker Set 6",,77,,1,,,,"No","No",0
+3761,"7","1","Basic","","1978","Basic Building Set, 3+",,2,,3.5,,,"http://www.1000steine.com/brickset/images/7-1.jpg","No","No",0
+7471,"7","3","Universal Building Set","","1973","Basic Set",,415,,16,,,"http://www.1000steine.com/brickset/images/7-3.jpg","No","No",0
+22715,"7","4","Samsonite","Basic","1967","Velveeta Set 7",,1,,3.75,,,,"No","No",0
+22728,"7","5","Samsonite","Model Maker","1971","Kraft Velveeta Mini-Wheel Model Maker Set 7",,159,,2,,,,"No","No",0
+4079,"8","1","Basic","","1978","Basic Building Set, 3+",,1,,5.5,,,"http://www.1000steine.com/brickset/images/8-1.jpg","No","No",0
+7239,"8","3","Universal Building Set","","1973","Basic Set #8",,776,,19,,,"http://www.1000steine.com/brickset/images/8-3.jpg","No","No",0
+22729,"8","4","Samsonite","Model Maker","1971","Kraft Velveeta Mini-Wheel Model Maker Set 8",,301,,5,,,,"No","No",0
+4522,"9","1","Basic","","1978","Basic Building Set, 3+",,116,,,,,"http://www.1000steine.com/brickset/images/9-1.jpg","No","No",0
+22730,"9","2","Samsonite","Model Maker","1971","Kraft Velveeta Mini-Wheel Model Maker Set 9",,550,,8,,,,"No","No",0
+2,"10","1","Basic","","1976","Basic Building Set, 3+",,152,,2.75,,,"http://www.1000steine.com/brickset/images/10-1.jpg","No","No",0
+7530,"010","2","Duplo","","1973","Pre-School Set",,17,,,,,,"No","No",0
+22731,"10","2","Samsonite","Model Maker","1971","Kraft Velveeta Mini-Wheel Model Maker Set 10",,101,,2,,,,"No","No",0
+8359,"010","3","Classic","","1968","Basic building set",,78,,,,,"http://www.1000steine.com/brickset/images/010-3.jpg","No","No",0
+8406,"011","1","Classic","","1968","Basic building set",,146,,,,,"http://www.1000steine.com/brickset/images/011-1.jpg","No","No",0
+7521,"0011","2","Town","Accessories","1979","Town Minifigures",3,3,,75,,,"http://www.1000steine.com/brickset/images/0011-2.jpg","No","No",0
+7700,"11","2","Minitalia","","1973","Small pre-school set",,32,,,,,"http://www.1000steine.com/brickset/images/11-2.jpg","No","No",0
+5024,"0011","3","Castle","Bonus/Value Pack","1987","2 For 1 Bonus Offer",,151,,1.5,,,"http://www.1000steine.com/brickset/images/0011-3.jpg","No","No",0
+7522,"0012","1","Space","","1979","Space minifigures",2,4,,,,,"http://www.1000steine.com/brickset/images/0012-1.jpg","No","No",0
+7701,"12","2","Minitalia","","1973","Medium pre-school set",,,,,,,"http://www.1000steine.com/brickset/images/12-2.jpg","No","No",0
+7523,"0013","1","Space","","1979","Space minifigures",2,4,,,,,"http://www.1000steine.com/brickset/images/0013-1.jpg","No","No",0
+7702,"13","2","Minitalia","","1973","Large pre-school set",,,,,,,"http://www.1000steine.com/brickset/images/13-2.jpg","No","No",0
+7524,"0014","1","Space","","1979","Space minifigures",2,4,,,,,"http://www.1000steine.com/brickset/images/0014-1.jpg","No","No",0
+7703,"14","3","Minitalia","","1973","Small house set",,,,,,,"http://www.1000steine.com/brickset/images/14-3.jpg","No","No",0
+7563,"0015","1","Space","","1979","Space Mini-Figures",3,18,,,,,"http://www.1000steine.com/brickset/images/0015-1.jpg","No","No",0
+23464,"15","1","Castle","Classic","1984","Castle Mini Figures",6,10,,,,,,"No","No",0
+7704,"15","2","Minitalia","","1973","Large house set",,157,,,,,"http://www.1000steine.com/brickset/images/15-2.jpg","No","No",0
+7525,"0016","1","Castle","","1979","Castle minifigures",3,6,,,,,"http://www.1000steine.com/brickset/images/0016-1.jpg","No","No",0
+7705,"16","2","Minitalia","","1973","City square",,,,,,,"http://www.1000steine.com/brickset/images/16-2.jpg","No","No",0
+7706,"17","2","Minitalia","","1973","Airport",,,,,,,"http://www.1000steine.com/brickset/images/17-2.jpg","No","No",0
+707,"20","1","Basic","","1976","Basic Building Set, 3+",,217,,,,,"http://www.1000steine.com/brickset/images/20-1.jpg","No","No",0
+7531,"020","2","Duplo","","1973","Building Set",,25,,,,,,"No","No",0
+22671,"021","1","Samsonite","Basic","1965","Wheel Set",,185,,4.95,,,"http://www.1000steine.com/brickset/images/021-1.jpg","No","No",0
+7707,"21","2","Minitalia","","1971","Truck",,33,,,,,"http://www.1000steine.com/brickset/images/21-2.jpg","No","No",0
+7708,"22","1","Minitalia","","1971","Car",,47,,,,,"http://www.1000steine.com/brickset/images/22-1.jpg","No","No",0
+8207,"022","1","Classic","","1968","Basic Building Set",,110,,,,,"http://www.1000steine.com/brickset/images/022-1.jpg","No","No",0
+22672,"022","2","Samsonite","Basic","1965","Doll Furniture",,301,,,,,,"No","No",0
+22519,"22","3","Assorted","","1995","Value Pack Italy",,91,,,,,"http://www.1000steine.com/brickset/images/22-3.jpg","No","No",0
+7709,"23","1","Minitalia","","1971","Delivery truck",,64,,,,,"http://www.1000steine.com/brickset/images/23-1.jpg","No","No",0
+7710,"24","1","Minitalia","","1971","Train",,88,,,,,"http://www.1000steine.com/brickset/images/24-1.jpg","No","No",0
+1119,"028","1","Duplo","","1979","Nursery Furniture",2,2,,,,,"http://www.1000steine.com/brickset/images/028-1.jpg","No","No",0
+1233,"30","1","Basic","","1976","Basic Building Set, 3+",,258,,,,,"http://www.1000steine.com/brickset/images/30-1.jpg","No","No",0
+7711,"30","2","Minitalia","","1973","Small ship",,26,,,,,"http://www.1000steine.com/brickset/images/30-2.jpg","No","No",0
+7532,"030","2","Duplo","","1973","Building Set",,29,,,,,,"No","No",0
+7712,"31","1","Minitalia","","1973","Medium ship",,39,,,,,"http://www.1000steine.com/brickset/images/31-1.jpg","No","No",0
+1382,"032","1","Duplo","","1979","Living Room Furniture",3,14,,,,,"http://www.1000steine.com/brickset/images/032-1.jpg","No","No",0
+7713,"32","2","Minitalia","","1973","Large ship",,57,,,,,"http://www.1000steine.com/brickset/images/32-2.jpg","No","No",0
+7143,"033","1","Duplo","","1979","Farm Animals",1,21,,,,,"http://www.1000steine.com/brickset/images/033-1.jpg","No","No",0
+7142,"033","2","Classic","","1968","Basic Building Set",,182,,,,,"http://www.1000steine.com/brickset/images/033-2.jpg","No","No",0
+1866,"40","1","Basic","","1976","Basic Building Set, 3+",,258,,,,,"http://www.1000steine.com/brickset/images/40-1.jpg","No","No",0
+1946,"041","1","Duplo","","1979","Play-Box",,4,,,,,,"No","No",0
+22678,"042","1","Samsonite","Pre-School/Jumbo","1966","Jumbo Brick Pull Toy",,6,,3.5,,,,"No","No",0
+8362,"044","1","Classic","","1968","Basic building set",,234,,,,,"http://www.1000steine.com/brickset/images/044-1.jpg","No","No",0
+22700,"044","2","Samsonite","Pre-School/Jumbo","1969","Pre-School Set",,30,,,,,,"No","No",0
+2159,"045","1","Duplo","","1979","Farm",5,65,,,,,"http://www.1000steine.com/brickset/images/045-1.jpg","No","No",0
+2391,"50","1","Basic","","1976","Basic Building Set, 3+",,390,,,,,"http://www.1000steine.com/brickset/images/50-1.jpg","No","No",0
+9581,"54","1","Space","UFO","1997","UFO Action Pack",,96,,,,,"http://www.1000steine.com/brickset/images/54-1.jpg","No","No",0
+8363,"055","2","Classic","","1968","Basic building set",,,,,,,"http://www.1000steine.com/brickset/images/055-2.jpg","No","No",0
+22701,"060","3","Samsonite","Pre-School/Jumbo","1969","Jumbo Brick School Set",,60,,,,,,"No","No",0
+5291,"061","2","PreSchool","","1978","Puppy",,8,,,,,,"No","No",0
+3146,"063","1","PreSchool","","1978","Ducks",,5,,,,,,"No","No",0
+8364,"066","1","Classic","","1968","Basic building set",,407,,,,,"http://www.1000steine.com/brickset/images/066-1.jpg","No","No",0
+22717,"66","1","Samsonite","Basic","1968","Governor Set",,387,,12.95,,,,"No","No",0
+7038,"070","1","Classic","","1966","Universal Building Set",,,,,,,"http://www.1000steine.com/brickset/images/070-1.jpg","No","No",0
+3789,"071","1","Duplo","","1979","Block Box",,24,,,,,,"No","No",0
+5260,"74","1","PreSchool","","1976","PreSchool Set",,20,,,,,"http://www.1000steine.com/brickset/images/74-1.jpg","No","No",0
+5261,"75","1","PreSchool","","1975","PreSchool Set",,16,,,,,"http://www.1000steine.com/brickset/images/75-1.jpg","No","No",0
+5262,"77","1","PreSchool","","1975","PreSchool Set",,20,,,,,"http://www.1000steine.com/brickset/images/77-1.jpg","No","No",0
+7355,"077","1","Universal Building Set","","1971","Large Basic Set",,20,,,,,,"No","No",0
+7418,"078","1","Samsonite","Basic","1970","Roadway Base Plate",,1,,1.99,,,"http://www.1000steine.com/brickset/images/078-1.jpg","No","No",0
+5263,"78","1","PreSchool","","1975","PreSchool Set",,32,,,,,,"No","No",0
+22707,"78","3","Samsonite","Basic","1975","Basic Set",,330,,,,,,"No","No",0
+8403,"080","1","Classic","","1967","Basic building set with train",,718,,,,,"http://www.1000steine.com/brickset/images/080-1.jpg","No","No",0
+22692,"080","2","Samsonite","Basic","1968","Ambassador Set",,560,,25,,,,"No","No",0
+7989,"080","3","PreSchool","","1976","Police Station",4,28,,,,,,"No","No",0
+7990,"081","1","PreSchool","","1976","Train Station",5,53,,,,,,"No","No",0
+7991,"082","1","PreSchool","","1976","LEGOVille",7,66,,,,,,"No","No",0
+5287,"085","1","PreSchool","","1977","Racer",1,4,,,,,,"No","No",0
+4403,"086","1","PreSchool","","1978","Tub Boat",1,3,,,,,,"No","No",0
+5289,"087","1","PreSchool","","1977","Taxi",1,5,,,,,,"No","No",0
+5293,"88","1","PreSchool","","1977","Camping",,9,,,,,,"No","No",0
+7327,"088","1","Basic","Universal Building Set","1970","Super Set",,615,,,,,"http://www.1000steine.com/brickset/images/088-1.jpg","No","No",0
+22706,"88","2","Samsonite","Basic","1973","88 Piece Set",,88,,,,,"http://www.1000steine.com/brickset/images/88-2.jpg","No","No",0
+5292,"089","1","PreSchool","","1977","Mary's House",3,17,,,,,,"No","No",0
+22679,"99","1","Samsonite","Basic","1966","Small Basic Set",,99,,2.95,,,,"No","No",0
+8341,"100","1","Trains","","1966","4.5v motor with wheels",,16,,,,,"http://www.1000steine.com/brickset/images/100-1.jpg","No","No",0
+7533,"101","2","Samsonite","Basic","1972","Imagination Beginner Set 1",,290,,4.95,,,"http://www.1000steine.com/brickset/images/101-2.jpg","No","No",0
+8342,"101","3","Trains","","1966","Battery box",,1,,,,,"http://www.1000steine.com/brickset/images/101-3.jpg","No","No",0
+8365,"102","1","Classic","","1968","Motor with battery box",,24,,,,,,"No","No",0
+7534,"102","2","Samsonite","Basic","1972","Imagination Basic Set 2",,426,,6.95,,,,"No","No",0
+22702,"102","3","Samsonite","Basic","1969","Super Value Set",,102,,,,,"http://www.1000steine.com/brickset/images/102-3.jpg","No","No",0
+8380,"103","1","Classic","","1969","4.5v motor",,32,,,,,"http://www.1000steine.com/brickset/images/103-1.jpg","No","No",0
+7328,"103","2","Samsonite","Basic","1972","Imagination Standard Set 3",,576,,9.95,,,"http://www.1000steine.com/brickset/images/103-2.jpg","No","No",0
+7419,"104","1","Trains","4.5/12 V","1970","4.5V Replacement Motor",,1,,,,,"http://www.1000steine.com/brickset/images/104-1.jpg","No","No",0
+7535,"104","2","Samsonite","Basic","1972","Imagination Deluxe Set 4",,737,,12.95,,,"http://www.1000steine.com/brickset/images/104-2.jpg","No","No",0
+123,"105","1","Town","Special","1984","Mail Van",1,65,,,,,"http://www.1000steine.com/brickset/images/105-1.jpg","No","No",0
+5265,"105","2","Universal Building Set","","1973","Building Set",,150,,,,,"http://www.1000steine.com/brickset/images/105-2.jpg","No","No",0
+7356,"105","3","Samsonite","Basic","1972","Imagination Master Series 5",,917,,14.95,,,,"No","No",0
+125,"106","1","Town","Special","1985","UNICEF Van",1,59,,,,,"http://www.1000steine.com/brickset/images/106-1.jpg","No","No",0
+130,"107","1","Basic","Supplementaries","1976","Universal Motor",,137,,,,,"http://www.1000steine.com/brickset/images/107-1.jpg","No","No",0
+129,"107","2","Town","Special","1985","Mail Truck",1,31,,,,,"http://www.1000steine.com/brickset/images/107-2.jpg","No","No",0
+7357,"107","3","Samsonite","Model Maker","1968","4.5V Reversible Power Unit",,16,,10.95,,,"http://www.1000steine.com/brickset/images/107-3.jpg","No","No",0
+7474,"108","1","Basic","","1976","Battery box",,1,,,,,"http://www.1000steine.com/brickset/images/108-1.jpg","No","No",0
+141,"110","1","Universal Building Set","","1977","Building Set, 3+",,131,,,,,"http://www.1000steine.com/brickset/images/110-1.jpg","No","No",0
+7358,"110","2","Samsonite","Basic","1972","Vehicle Accessory Pack",,61,,,,,,"No","No",0
+152,"111","1","Universal Building Set","","1977","Building Set, 3+",,173,,,,,"http://www.1000steine.com/brickset/images/111-1.jpg","No","No",0
+8343,"111","2","Trains","","1966"," Starter train set without motor",,123,,,,,"http://www.1000steine.com/brickset/images/111-2.jpg","No","No",0
+7359,"111","3","Samsonite","Basic","1972","Building Accessory Pack",,111,,,,,,"No","No",0
+159,"112","1","Universal Building Set","","1977","Building Set, 3+",,200,,,,,"http://www.1000steine.com/brickset/images/112-1.jpg","No","No",0
+501,"112","2","Trains","4.5/12 V","1966","Locomotive with Motor",,76,,,,,"http://www.1000steine.com/brickset/images/112-2.jpg","No","No",0
+7959,"112","3","Basic","","1973","40x40 baseplate",,2,,,,,,"No","No",0
+170,"113","1","Universal Building Set","","1977","Building Set, 3+",,293,,,,,"http://www.1000steine.com/brickset/images/113-1.jpg","No","No",0
+500,"113","2","Trains","4.5/12 V","1966","Motorized Train Set",,271,,,,,"http://www.1000steine.com/brickset/images/113-2.jpg","No","No",0
+22718,"113","3","Samsonite","Train","1968","Motorized Train Set",,402,,16.9899,,,,"No","No",0
+172,"114","1","Universal Building Set","","1977","Building Set, 3+",,390,,,,,"http://www.1000steine.com/brickset/images/114-1.jpg","No","No",0
+8344,"114","2","Trains","","1966","Small train set",,88,,,,,"http://www.1000steine.com/brickset/images/114-2.jpg","No","No",0
+5266,"115","1","Universal Building Set","","1973","Building Set",,190,,,,,"http://www.1000steine.com/brickset/images/115-1.jpg","No","No",0
+8345,"115","2","Trains","","1966","Starter train set with motor",,139,,,,,,"No","No",0
+8350,"116","1","Trains","","1967","Starter train set with motor",,439,,,,,"http://www.1000steine.com/brickset/images/116-1.jpg","No","No",0
+22719,"116","2","Samsonite","Train","1968","Deluxe Motorized Train Set",,360,,20,,,,"No","No",0
+8351,"117","1","Trains","","1967","Locomotive without motor",,107,,,,,"http://www.1000steine.com/brickset/images/117-1.jpg","No","No",0
+8366,"118","1","Trains","","1968","Electric train",,110,,,,,"http://www.1000steine.com/brickset/images/118-1.jpg","No","No",0
+22721,"118","2","Samsonite","Train","1969","Train Set",,451,,19.9899,,,,"No","No",0
+8367,"119","1","Trains","","1968","Super train set",,436,,,,,"http://www.1000steine.com/brickset/images/119-1.jpg","No","No",0
+8381,"120","1","Trains","","1969","Freight train set",,175,,,,,"http://www.1000steine.com/brickset/images/120-1.jpg","No","No",0
+22673,"120","2","Samsonite","Basic","1965","Small Basic Set",,120,,2.95,,,,"No","No",0
+194,"121","1","Fabuland","","1979","Roadster",1,22,,,,,"http://www.1000steine.com/brickset/images/121-1.jpg","No","No",0
+8382,"122","1","Trains","","1969","Locomotive and tender",,102,,,,,"http://www.1000steine.com/brickset/images/122-1.jpg","No","No",0
+8383,"123","1","Trains","","1969","Passenger coach",,98,,,,,"http://www.1000steine.com/brickset/images/123-1.jpg","No","No",0
+6726,"124","1","Trains","4.5/12 V","1969","Goods Wagon",,56,,,,,"http://www.1000steine.com/brickset/images/124-1.jpg","No","No",0
+8409,"125","1","Trains","","1969","Tipper wagon",,20,,,,,"http://www.1000steine.com/brickset/images/125-1.jpg","No","No",0
+5267,"125","2","Universal Building Set","","1974","Universal Building Set",,,,,,,"http://www.1000steine.com/brickset/images/125-2.jpg","No","No",0
+22710,"125","3","Samsonite","Basic","1966","Small Basic Set",,125,,3.95,,,,"No","No",0
+6020,"126","1","LEGOLAND","","1970","Steam Locomotive (Push)",,60,,,,,"http://www.1000steine.com/brickset/images/126-1.jpg","No","No",0
+7360,"127","1","Trains","4.5/12 V","1971","Complete Train with 3 Wagons",,575,7.4,,,,"http://www.1000steine.com/brickset/images/127-1.jpg","No","No",0
+229,"128","1","Fabuland","","1979","Taxi Station",1,33,,,,,"http://www.1000steine.com/brickset/images/128-1.jpg","No","No",0
+7361,"128","2","Trains","4.5/12 V","1971","Mobile Crane (Train Base)",,23,0.88,,,,"http://www.1000steine.com/brickset/images/128-2.jpg","No","No",0
+7362,"128","3","Trains","4.5/12 V","1971","Mobile Crane (Plate Base)",,38,,,,,,"No","No",0
+249,"130","1","Trains","4.5/12 V","1972","Double Tipper Wagon",,20,,,,,"http://www.1000steine.com/brickset/images/130-1.jpg","No","No",0
+7391,"131","1","Trains","4.5/12 V","1972","Passenger Coach",,67,,,,,"http://www.1000steine.com/brickset/images/131-1.jpg","No","No",0
+250,"132","1","Fabuland","","1979","Cottage",2,113,,,,,"http://www.1000steine.com/brickset/images/132-1.jpg","No","No",0
+7392,"132","2","Trains","4.5/12 V","1972","Port Crane and Flat Waggon",,60,,,,,"http://www.1000steine.com/brickset/images/132-2.jpg","No","No",0
+7985,"133","1","Trains","4.5/12 V","1975","Locomotive",,87,,,,,"http://www.1000steine.com/brickset/images/133-1.jpg","No","No",0
+252,"134","1","Trains","4.5/12 V","1975","Mobile Crane and Wagon",,86,2.4,,,,"http://www.1000steine.com/brickset/images/134-1.jpg","No","No",0
+251,"134","2","Fabuland","","1979","Service Station",2,59,,,,,"http://www.1000steine.com/brickset/images/134-2.jpg","No","No",0
+5237,"135","1","Universal Building Set","","1973","Building Set",,338,,,,,"http://www.1000steine.com/brickset/images/135-1.jpg","No","No",0
+261,"136","1","Trains","4.5/12 V","1975","Tanker Wagon",,83,1.55,,,,"http://www.1000steine.com/brickset/images/136-1.jpg","No","No",0
+266,"137","1","Fabuland","","1979","Hospital",3,106,,,,,"http://www.1000steine.com/brickset/images/137-1.jpg","No","No",0
+7437,"137","2","Trains","4.5/12 V","1975","Passenger sleeping car",,82,,,,,"http://www.1000steine.com/brickset/images/137-2.jpg","No","No",0
+8385,"138","1","Trains","","1969","Electronic train",,111,,,,,"http://www.1000steine.com/brickset/images/138-1.jpg","No","No",0
+8386,"139","1","Trains","","1969","Electronic train control unit",,13,,,,,"http://www.1000steine.com/brickset/images/139-1.jpg","No","No",0
+285,"140","1","Fabuland","","1979","Town Hall",3,134,,,,,"http://www.1000steine.com/brickset/images/140-1.jpg","No","No",0
+7329,"140","2","Basic","Universal Building Set","1970","Basic Set With Motor",,96,,,,,"http://www.1000steine.com/brickset/images/140-2.jpg","No","No",0
+5243,"145","1","Universal Building Set","","1974","Universal Building Set",,338,,,,,"http://www.1000steine.com/brickset/images/145-1.jpg","No","No",0
+327,"146","1","Trains","4.5/12 V","1976","Level Crossing",1,68,,,,,"http://www.1000steine.com/brickset/images/146-1.jpg","No","No",0
+340,"147","1","Trains","4.5/12 V","1976","Refridgerated Wagon",2,115,,,,,"http://www.1000steine.com/brickset/images/147-1.jpg","No","No",0
+352,"148","1","Trains","4.5/12 V","1975","Station",5,293,,,,,"http://www.1000steine.com/brickset/images/148-1.jpg","No","No",0
+7181,"149","1","Trains","4.5/12 V","1976","Fuel Refinery",3,328,,,,,"http://www.1000steine.com/brickset/images/149-1.jpg","No","No",0
+7932,"150","1","Trains","4.5/12 V","1966","Straight Track",,28,,2,,,"http://www.1000steine.com/brickset/images/150-1.jpg","No","No",0
+7930,"151","1","Trains","4.5/12 V","1966","Curved Track",,28,,2,,,"http://www.1000steine.com/brickset/images/151-1.jpg","No","No",0
+22711,"151","2","Samsonite","Basic","1966","151 Piece Basic Set",,151,,2.99,,,,"No","No",0
+8346,"152","1","Trains","","1966","Two wagons",,28,,,,,"http://www.1000steine.com/brickset/images/152-1.jpg","No","No",0
+8347,"153","1","Trains","","1966","Large train wagon",,18,,,,,"http://www.1000steine.com/brickset/images/153-1.jpg","No","No",0
+397,"154","1","Trains","4.5/12 V","1967","Switch Track",,4,,2,,,"http://www.1000steine.com/brickset/images/154-1.jpg","No","No",0
+7931,"155","1","Trains","4.5/12 V","1967","Cross Rails, Straight Track and Base Plates",,14,,2,,,"http://www.1000steine.com/brickset/images/155-1.jpg","No","No",0
+8407,"156","1","Trains","","1968","Signals",,6,,,,,"http://www.1000steine.com/brickset/images/156-1.jpg","No","No",0
+

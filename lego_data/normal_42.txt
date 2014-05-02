@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+23359,"44027","1","HERO Factory","","2014","BREEZ Flea Machine",,102,,14.99,,,,"No","No",0
+23360,"44028","1","HERO Factory","","2014","SURGE & ROCKA Combat Machine",,188,,24.99,,,,"No","No",0
+23361,"44029","1","HERO Factory","","2014","QUEEN Beast vs. FURNO, EVO & STORMER",,217,,34.99,,,,"No","No",0
+10353,"45000","1","Education","","2013","Creative Builder",,,,,,,"http://www.1000steine.com/brickset/images/45000-1.jpg","No","No",0
+10354,"45001","1","Education","","2013","Playground",,,,,,,"http://www.1000steine.com/brickset/images/45001-1.jpg","No","No",0
+10246,"45002","1","Education","","2013","Tech Machines Set",,,,,,,"http://www.1000steine.com/brickset/images/45002-1.jpg","No","No",0
+10355,"45003","1","Education","","2013","Soft Starter Set",,,,,,,"http://www.1000steine.com/brickset/images/45003-1.jpg","No","No",0
+10356,"45080","1","Education","","2013","Creative Cards",,,,,,,"http://www.1000steine.com/brickset/images/45080-1.jpg","No","No",0
+10357,"45100","1","Education","","2013","StoryStarter Core Set",,1147,,115.95,,,"http://www.1000steine.com/brickset/images/45100-1.jpg","No","No",0
+10199,"45110","1","Education","","2012","BuildToExpress Set",2,200,,,,,"http://www.1000steine.com/brickset/images/45110-1.jpg","No","No",0
+22855,"45500","1","Mindstorms","","2013","EV3 Intelligent Brick",,1,199.99,,,,"http://www.1000steine.com/brickset/images/45500-1.jpg","No","No",0
+22856,"45501","1","Education","Mindstorms","2013","DC Rechargeable Battery",,,,,,,"http://www.1000steine.com/brickset/images/45501-1.jpg","No","No",0
+22857,"45502","1","Mindstorms","","2013","EV3 Large Servo Motor",,1,24.99,,,,"http://www.1000steine.com/brickset/images/45502-1.jpg","No","No",0
+22858,"45503","1","Mindstorms","","2013","EV3 Medium Servo Motor",,1,19.99,,,,"http://www.1000steine.com/brickset/images/45503-1.jpg","No","No",0
+22859,"45504","1","Mindstorms","","2013","EV3 Ultrasonic Sensor",,1,,31.99,,,"http://www.1000steine.com/brickset/images/45504-1.jpg","No","No",0
+22860,"45505","1","Mindstorms","","2013","EV3 Gyro Sensor",,1,,29.99,,,"http://www.1000steine.com/brickset/images/45505-1.jpg","No","No",0
+22861,"45506","1","Mindstorms","","2013","EV3 Colour Sensor",,1,,34.99,,,"http://www.1000steine.com/brickset/images/45506-1.jpg","No","No",0
+22862,"45507","1","Mindstorms","","2013","EV3 Touch Sensor",,1,,19.99,,,"http://www.1000steine.com/brickset/images/45507-1.jpg","No","No",0
+22863,"45508","1","Mindstorms","","2013","EV3 Infrared Beacon",,1,,29.99,,,"http://www.1000steine.com/brickset/images/45508-1.jpg","No","No",0
+22864,"45509","1","Mindstorms","","2013","EV3 Infrared Sensor",,1,,29.99,,,"http://www.1000steine.com/brickset/images/45509-1.jpg","No","No",0
+22865,"45514","1","Education","Mindstorms","2013","Cable Pack",,,14.99,12.99,15.99,15.99,"http://www.1000steine.com/brickset/images/45514-1.jpg","No","No",0
+22866,"45515","1","Education","Mindstorms","2013","Bluetooth Dongle",,,,,,,,"No","No",0
+22867,"45516","1","Education","Mindstorms","2013","WiFi Dongle",,,,,,,,"No","No",0
+22868,"45544","1","Education","Mindstorms","2013","Education EV3 Core Set",,,,,,,"http://www.1000steine.com/brickset/images/45544-1.jpg","No","No",0
+22869,"45560","1","Education","Mindstorms","2013","Education EV3 Expansion Set",,,,,,,"http://www.1000steine.com/brickset/images/45560-1.jpg","No","No",0
+10305,"50003","1","Games","","2013","Batman",8,257,19.99,29.99,,29.99,"http://www.1000steine.com/brickset/images/50003-1.jpg","No","No",0
+10306,"50004","1","Games","","2013","Story Mixer",,425,,29.99,,,"http://www.1000steine.com/brickset/images/50004-1.jpg","No","No",0
+10307,"50006","1","Games","","2013","Legends of Chima",12,211,14.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/50006-1.jpg","No","No",0
+10308,"50011","1","Games","","2013","The Battle for Helms Deep",28,338,29.99,29.99,,34.99,"http://www.1000steine.com/brickset/images/50011-1.jpg","No","No",0
+8217,"55001","1","Miscellaneous","LEGO Universe","2010","Universe Rocket",,55,7.99,9.99,,,"http://www.1000steine.com/brickset/images/55001-1.jpg","No","No",0
+9909,"60000","1","City","Fire","2013","Fire Motorcycle",1,40,4.99,6.99,8.99,5.99,"http://www.1000steine.com/brickset/images/60000-1.jpg","No","No",0
+10093,"60001","1","City","Fire","2013","Fire Chief Car",2,80,7.99,11.99,14.99,9.99,"http://www.1000steine.com/brickset/images/60001-1.jpg","No","No",0
+9911,"60002","1","City","Fire","2013","Fire Truck",2,209,14.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/60002-1.jpg","No","No",0
+9912,"60003","1","City","Fire","2013","Fire Emergency",3,301,24.99,39.99,49.99,29.99,"http://www.1000steine.com/brickset/images/60003-1.jpg","No","No",0
+9913,"60004","1","City","Fire","2013","Fire Station",5,752,69.99,99.99,119.99,79.99,"http://www.1000steine.com/brickset/images/60004-1.jpg","No","No",0
+9914,"60005","1","City","Fire","2013","Fire Boat",4,222,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/60005-1.jpg","No","No",0
+9915,"60006","1","City","Police","2013","Police ATV",2,51,4.99,6.99,8.99,5.99,"http://www.1000steine.com/brickset/images/60006-1.jpg","No","No",0
+9916,"60007","1","City","Police","2013","High Speed Chase",3,283,19.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/60007-1.jpg","No","No",0
+9917,"60008","1","City","Police","2013","Museum Break-in",6,563,49.99,69.99,89.99,59.99,"http://www.1000steine.com/brickset/images/60008-1.jpg","No","No",0
+10149,"60009","1","City","Police","2013","Helicopter Arrest",5,352,39.99,49.99,59.99,49.99,"http://www.1000steine.com/brickset/images/60009-1.jpg","No","No",0
+10092,"60010","1","City","Fire","2013","Fire Helicopter",2,232,29.99,39.99,49.99,34.99,"http://www.1000steine.com/brickset/images/60010-1.jpg","No","No",0
+10272,"60011","1","City","Coast Guard","2013","Surfer Rescue",2,32,4.99,6.99,8.99,5.99,"http://www.1000steine.com/brickset/images/60011-1.jpg","No","No",0
+10268,"60012","1","City","Coast Guard","2013","Coast Guard 4x4 & Diving Boat",2,128,9.99,19.99,24.99,12.99,"http://www.1000steine.com/brickset/images/60012-1.jpg","No","No",0
+10273,"60013","1","City","Coast Guard","2013","Coast Guard Helicopter",4,230,24.99,39.99,49.99,29.99,"http://www.1000steine.com/brickset/images/60013-1.jpg","No","No",0
+10274,"60014","1","City","Coast Guard","2013","Coast Guard Patrol",6,449,59.99,79.99,99.99,69.99,"http://www.1000steine.com/brickset/images/60014-1.jpg","No","No",0
+10275,"60015","1","City","Coast Guard","2013","Coast Guard Plane",3,279,34.99,44.99,59.99,39.99,"http://www.1000steine.com/brickset/images/60015-1.jpg","No","No",0
+10063,"60016","1","City","Traffic","2013","Tanker Truck",1,191,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/60016-1.jpg","No","No",0
+10064,"60017","1","City","Traffic","2013","Flatbed Truck",2,212,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/60017-1.jpg","No","No",0
+10065,"60018","1","City","Traffic","2013","Cement Mixer",2,221,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/60018-1.jpg","No","No",0
+10269,"60019","1","City","Airport","2013","Stunt Plane",2,140,9.99,19.99,24.99,12.99,"http://www.1000steine.com/brickset/images/60019-1.jpg","No","No",0
+10270,"60020","1","City","Cargo","2013","Cargo Truck",3,321,24.99,39.99,49.99,29.99,"http://www.1000steine.com/brickset/images/60020-1.jpg","No","No",0
+10271,"60021","1","City","Cargo","2013","Cargo Heliplane",3,393,34.99,44.99,59.99,39.99,"http://www.1000steine.com/brickset/images/60021-1.jpg","No","No",0
+10276,"60022","1","City","Cargo","2013","Cargo Terminal",5,658,69.99,99.99,129.99,89.99,"http://www.1000steine.com/brickset/images/60022-1.jpg","No","No",0
+10254,"60023","1","City","Traffic","2013","LEGO City Starter Set",5,272,19.99,29.99,39.99,24.99,"http://www.1000steine.com/brickset/images/60023-1.jpg","No","No",0
+10277,"60024","1","City","Seasonal","2013","City Advent Calendar",8,244,19.99,29.99,39.99,19.99,"http://www.1000steine.com/brickset/images/60024-1.jpg","No","No",0
+10255,"60025","1","City","Traffic","2013","Grand Prix Truck",3,315,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/60025-1.jpg","No","No",0
+10278,"60026","1","City","Traffic","2013","Town Square",9,914,79.99,119.99,149.99,99.99,"http://www.1000steine.com/brickset/images/60026-1.jpg","No","No",0
+10256,"60027","1","City","Traffic","2013","Monster Truck Transporter",3,299,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/60027-1.jpg","No","No",0
+22819,"60031","1","City","Traffic","2013","City Corner",,483,,,,,"http://www.1000steine.com/brickset/images/60031-1.jpg","No","No",0
+23297,"60032","1","City","Arctic","2014","Arctic Snowmobile",,44,,6.99,,,"http://www.1000steine.com/brickset/images/60032-1.jpg","No","No",0
+23298,"60033","1","City","Arctic","2014","Arctic Ice Crawler",,113,,14.99,,,"http://www.1000steine.com/brickset/images/60033-1.jpg","No","No",0
+23299,"60034","1","City","Arctic","2014","Arctic Helicrane",,262,,39.99,,,"http://www.1000steine.com/brickset/images/60034-1.jpg","No","No",0
+23300,"60035","1","City","Arctic","2014","Arctic Outpost",,374,,49.99,,,"http://www.1000steine.com/brickset/images/60035-1.jpg","No","No",0
+23301,"60036","1","City","Arctic","2014","Arctic Base Camp",,733,,89.99,,,"http://www.1000steine.com/brickset/images/60036-1.jpg","No","No",0
+23014,"60041","1","City","Police","2014","Crook Pursuit",2,38,4.99,6.99,8.99,5.99,"http://www.1000steine.com/brickset/images/60041-1.jpg","No","No",0
+22991,"60042","1","City","Police","2014","High Speed Police Chase",3,110,12.99,19.99,24.99,14.99,"http://www.1000steine.com/brickset/images/60042-1.jpg","No","No",0
+22992,"60043","1","City","Police","2014","Prisoner Transporter",3,196,17.99,24.99,29.99,19.99,"http://www.1000steine.com/brickset/images/60043-1.jpg","No","No",0
+22993,"60044","1","City","Police","2014","Mobile Police Unit",,375,29.99,44.99,59.99,29.99,"http://www.1000steine.com/brickset/images/60044-1.jpg","No","No",0
+22994,"60045","1","City","Police","2014","Police Patrol",3,408,39.99,44.99,59.99,39.99,"http://www.1000steine.com/brickset/images/60045-1.jpg","No","No",0
+23015,"60046","1","City","Police","2014","Helicopter Surveillance",5,528,49.99,74.99,89.99,59.99,"http://www.1000steine.com/brickset/images/60046-1.jpg","No","No",0
+23016,"60047","1","City","Police","2014","Police Station",7,854,79.99,99.99,119.99,99.99,"http://www.1000steine.com/brickset/images/60047-1.jpg","No","No",0
+23220,"60048","1","City","Police","2014","Police Dog Unit",3,249,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/60048-1.jpg","No","No",0
+23184,"60049","1","City","Police","2014","Helicopter Transporter",4,382,34.99,44.99,54.99,39.99,"http://www.1000steine.com/brickset/images/60049-1.jpg","No","No",0
+23293,"60050","1","City","Trains","2014","Train Station",,423,,64.99,,,"http://www.1000steine.com/brickset/images/60050-1.jpg","No","No",0
+23294,"60051","1","City","Trains","2014","High-Speed Passenger Train",,610,,149.99,,,"http://www.1000steine.com/brickset/images/60051-1.jpg","No","No",0
+23295,"60052","1","City","Trains","2014","Cargo Train",,888,,199.99,,,"http://www.1000steine.com/brickset/images/60052-1.jpg","No","No",0
+22982,"60053","1","City","Traffic","2014","Race Car",1,100,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/60053-1.jpg","No","No",0
+22983,"60054","1","City","Traffic","2014","Light Repair Truck",1,95,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/60054-1.jpg","No","No",0
+22984,"60055","1","City","Traffic","2014","Monster Truck",1,78,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/60055-1.jpg","No","No",0
+22985,"60056","1","City","Traffic","2014","Tow Truck",1,227,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/60056-1.jpg","No","No",0
+22986,"60057","1","City","Traffic","2014","Camper Van",2,195,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/60057-1.jpg","No","No",0
+22987,"60058","1","City","Traffic","2014","SUV with Watercraft",2,219,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/60058-1.jpg","No","No",0
+22988,"60059","1","City","Traffic","2014","Logging Truck",2,228,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/60059-1.jpg","No","No",0
+22989,"60060","1","City","Traffic","2014","Auto Transporter",2,350,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/60060-1.jpg","No","No",0
+22990,"60061","1","City","Traffic","2014","Airport Fire Truck",2,326,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/60061-1.jpg","No","No",0
+23418,"60062","1","City","Arctic","2014","Arctic Ice Breaker",,,,,,,,"No","No",0
+23296,"60063","1","City","Seasonal","2014","City Advent Calendar",,218,,29.99,,,,"No","No",0
+9888,"70000","1","Legends Of Chima","","2013","Razcal's Glider",1,109,7.99,11.99,14.99,9.99,"http://www.1000steine.com/brickset/images/70000-1.jpg","No","No",0
+9889,"70001","1","Legends Of Chima","","2013","Crawley's Claw Ripper",2,139,12.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70001-1.jpg","No","No",0
+9891,"70002","1","Legends Of Chima","","2013","Lennox' Lion Attack",2,230,17.99,24.99,29.99,19.99,"http://www.1000steine.com/brickset/images/70002-1.jpg","No","No",0
+9892,"70003","1","Legends Of Chima","","2013","Eris' Eagle Interceptor",3,348,29.99,34.99,39.99,32.99,"http://www.1000steine.com/brickset/images/70003-1.jpg","No","No",0
+9893,"70004","1","Legends Of Chima","","2013","Wakz' Pack Tracker",3,297,29.99,29.99,39.99,32.99,"http://www.1000steine.com/brickset/images/70004-1.jpg","No","No",0
+9894,"70005","1","Legends Of Chima","","2013","Laval's Royal Fighter",3,417,39.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/70005-1.jpg","No","No",0
+9895,"70006","1","Legends Of Chima","","2013","Cragger's Command Ship",6,609,69.99,79.99,99.99,79.99,"http://www.1000steine.com/brickset/images/70006-1.jpg","No","No",0
+10200,"70007","1","Legends Of Chima","","2013","Eglor's Twin Bike",2,223,19.99,24.99,29.99,19.99,"http://www.1000steine.com/brickset/images/70007-1.jpg","No","No",0
+10201,"70008","1","Legends Of Chima","","2013","Gorzan's Gorilla Striker",4,505,49.99,49.99,59.99,49.99,"http://www.1000steine.com/brickset/images/70008-1.jpg","No","No",0
+10202,"70009","1","Legends Of Chima","","2013","Worriz's Combat Lair",6,664,59.99,69.99,89.99,69.99,"http://www.1000steine.com/brickset/images/70009-1.jpg","No","No",0
+10203,"70010","1","Legends Of Chima","","2013","The Lion CHI Temple",7,1258,99.99,119.99,149.99,119.99,"http://www.1000steine.com/brickset/images/70010-1.jpg","No","No",0
+10161,"70011","1","Legends Of Chima","Speedorz","2013","Eagles' Castle",3,369,34.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/70011-1.jpg","No","No",0
+22926,"70012","1","Service Packs","Technic","1985","V-belts / Rubber Bands",,20,,,,,,"No","No",0
+9890,"70012","2","Legends Of Chima","","2013","Razar's CHI Raider",3,412,39.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/70012-2.jpg","No","No",0
+9896,"70013","1","Legends Of Chima","","2013","Equila's Ultra Striker",3,339,39.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/70013-1.jpg","No","No",0
+10204,"70014","1","Legends Of Chima","","2013","The Croc Swamp Hideout",5,647,69.99,69.99,89.99,69.99,"http://www.1000steine.com/brickset/images/70014-1.jpg","No","No",0
+9897,"70100","1","Legends Of Chima","Speedorz","2013","Ring of Fire",1,83,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70100-1.jpg","No","No",0
+9898,"70101","1","Legends Of Chima","Speedorz","2013","Target Practice",1,101,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70101-1.jpg","No","No",0
+9899,"70102","1","Legends Of Chima","Speedorz","2013","CHI Waterfall",1,106,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70102-1.jpg","No","No",0
+9900,"70103","1","Legends Of Chima","Speedorz","2013","Boulder Bowling",1,93,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70103-1.jpg","No","No",0
+9983,"70104","1","Legends Of Chima","Speedorz","2013","Jungle Gates",1,81,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70104-1.jpg","No","No",0
+9984,"70105","1","Legends Of Chima","Speedorz","2013","Nest Dive",1,97,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70105-1.jpg","No","No",0
+9986,"70106","1","Legends Of Chima","Speedorz","2013","Ice Tower",1,101,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70106-1.jpg","No","No",0
+10205,"70107","1","Legends Of Chima","Speedorz","2013","Skunk Attack",1,97,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70107-1.jpg","No","No",0
+10206,"70108","1","Legends Of Chima","Speedorz","2013","Royal Roost",1,105,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70108-1.jpg","No","No",0
+10207,"70109","1","Legends Of Chima","Speedorz","2013","Whirling Vines",1,77,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70109-1.jpg","No","No",0
+10208,"70110","1","Legends Of Chima","Speedorz","2013","Tower Target",1,92,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70110-1.jpg","No","No",0
+10209,"70111","1","Legends Of Chima","Speedorz","2013","Swamp Jump",1,91,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70111-1.jpg","No","No",0
+10210,"70112","1","Legends Of Chima","Speedorz","2013","Croc Chomp",1,105,9.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70112-1.jpg","No","No",0
+9878,"70113","1","Legends Of Chima","Speedorz","2013","CHI Battles",2,92,14.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70113-1.jpg","No","No",0
+10211,"70114","1","Legends Of Chima","Speedorz","2013","Sky Joust",2,117,14.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70114-1.jpg","No","No",0
+9985,"70115","1","Legends Of Chima","Speedorz","2013","Ultimate Speedor Tournament",2,246,19.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/70115-1.jpg","No","No",0
+22938,"70123","1","Legends Of Chima","Legend Beasts","2014","Lion Legend Beast",1,120,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/70123-1.jpg","No","No",0
+22939,"70124","1","Legends Of Chima","Legend Beasts","2014","Eagle Legend Beast",1,104,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/70124-1.jpg","No","No",0
+22940,"70125","1","Legends Of Chima","Legend Beasts","2014","Gorilla Legend Beast",1,106,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/70125-1.jpg","No","No",0
+22941,"70126","1","Legends Of Chima","Legend Beasts","2014","Crocodile Legend Beast",1,121,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/70126-1.jpg","No","No",0
+22942,"70127","1","Legends Of Chima","Legend Beasts","2014","Wolf Legend Beast",1,110,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/70127-1.jpg","No","No",0
+22943,"70128","1","Legends Of Chima","","2014","Braptor's Wing Striker",2,146,12.99,14.99,17.99,14.99,"http://www.1000steine.com/brickset/images/70128-1.jpg","No","No",0
+22944,"70129","1","Legends Of Chima","","2014","Lavertus' Twin Blade",2,183,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70129-1.jpg","No","No",0
+22945,"70130","1","Legends Of Chima","","2014","Sparratus' Spider Stalker",2,292,17.99,24.99,29.99,24.99,"http://www.1000steine.com/brickset/images/70130-1.jpg","No","No",0
+22946,"70131","1","Legends Of Chima","","2014","Rogon's Rock Flinger",3,257,24.99,29.99,39.99,32.99,"http://www.1000steine.com/brickset/images/70131-1.jpg","No","No",0
+22947,"70132","1","Legends Of Chima","","2014","Scorm's Scorpion Stinger",3,434,34.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/70132-1.jpg","No","No",0
+22948,"70133","1","Legends Of Chima","","2014","Spinlyn's Cavern",3,407,34.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/70133-1.jpg","No","No",0
+22949,"70134","1","Legends Of Chima","","2014","Lavertus' Outland Base",4,684,49.99,59.99,74.99,59.99,"http://www.1000steine.com/brickset/images/70134-1.jpg","No","No",0
+23419,"70135","1","Legends Of Chima","","2014","Cragger's Fire Striker",,,,,,,"http://www.1000steine.com/brickset/images/70135-1.jpg","No","No",0
+22950,"70136","1","Legends Of Chima","Speedorz","2014","Banana Bash",1,120,9.99,12.99,17.99,14.99,"http://www.1000steine.com/brickset/images/70136-1.jpg","No","No",0
+22951,"70137","1","Legends Of Chima","Speedorz","2014","Bat Strike",1,97,9.99,12.99,17.99,14.99,"http://www.1000steine.com/brickset/images/70137-1.jpg","No","No",0
+22952,"70138","1","Legends Of Chima","Speedorz","2014","Web Dash",1,78,9.99,12.99,17.99,14.99,"http://www.1000steine.com/brickset/images/70138-1.jpg","No","No",0
+22953,"70139","1","Legends Of Chima","Speedorz","2014","Sky Launch",1,111,9.99,12.99,17.99,14.99,"http://www.1000steine.com/brickset/images/70139-1.jpg","No","No",0
+22954,"70140","1","Legends Of Chima","Speedorz","2014","Stinger Duel",2,85,14.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70140-1.jpg","No","No",0
+23334,"70141","1","Legends Of Chima","","2014","Vardy's Ice Vulture Glider",,217,,19.99,,,"http://www.1000steine.com/brickset/images/70141-1.jpg","No","No",0
+23335,"70142","1","Legends Of Chima","","2014","Eris' Fire Eagle Flyer",,330,,29.99,,,"http://www.1000steine.com/brickset/images/70142-1.jpg","No","No",0
+23336,"70143","1","Legends Of Chima","","2014","Sir Fangar's Sabre-Tooth Walker",,415,,39.99,,,"http://www.1000steine.com/brickset/images/70143-1.jpg","No","No",0
+23372,"70144","1","Legends Of Chima","","2014","Laval's Fire Lion",,450,,49.99,,,"http://www.1000steine.com/brickset/images/70144-1.jpg","No","No",0
+23337,"70145","1","Legends Of Chima","","2014","Maula's Ice Mammoth Stomper",,604,,89.99,,,"http://www.1000steine.com/brickset/images/70145-1.jpg","No","No",0
+23338,"70146","1","Legends Of Chima","","2014","Flying Phoenix Fire Temple",,1301,,119.99,,,"http://www.1000steine.com/brickset/images/70146-1.jpg","No","No",0
+23585,"70147","1","Legends Of Chima","","2014","Sir Fangar's Ice Fortress",,,,,,,"http://www.1000steine.com/brickset/images/70147-1.jpg","No","No",0
+23339,"70149","1","Legends Of Chima","","2014","Scorching Blades",,77,,12.99,,,,"No","No",0
+23327,"70150","1","Legends Of Chima","","2014","Flaming Claws",,74,,12.99,,,,"No","No",0
+23328,"70151","1","Legends Of Chima","","2014","Frozen Spikes",,77,,12.99,,,,"No","No",0
+23329,"70152","1","Legends Of Chima","","2014","Lava Breakout",,59,,12.99,,,,"No","No",0
+23330,"70153","1","Legends Of Chima","","2014","Fang Trap",,79,,12.99,,,,"No","No",0
+23331,"70154","1","Legends Of Chima","","2014","Frozen Fortress",,58,,12.99,,,,"No","No",0
+23332,"70155","1","Legends Of Chima","","2014","Inferno Pit",,74,,12.99,,,,"No","No",0
+23333,"70156","1","Legends Of Chima","","2014","Fire vs. Ice",,102,,19.99,,,,"No","No",0
+23439,"70160","1","Agents","","2014","Riverside Raid",,88,,11.99,,,"http://www.1000steine.com/brickset/images/70160-1.jpg","No","No",0
+23307,"70161","1","Agents","","2014","Tremor Track Infiltration",,241,,19.99,,,"http://www.1000steine.com/brickset/images/70161-1.jpg","No","No",0
+23308,"70162","1","Agents","","2014","Infearno Interception",,313,,29.99,,,"http://www.1000steine.com/brickset/images/70162-1.jpg","No","No",0
+23309,"70163","1","Agents","","2014","Toxikita's Toxic Meltdown",,429,,39.99,,,"http://www.1000steine.com/brickset/images/70163-1.jpg","No","No",0
+23310,"70164","1","Agents","","2014","Hurricane Heist",,589,,69.99,,,"http://www.1000steine.com/brickset/images/70164-1.jpg","No","No",0
+23311,"70165","1","Agents","","2014","Ultra Agents Mission HQ",,1048,,99.99,,,"http://www.1000steine.com/brickset/images/70165-1.jpg","No","No",0
+10212,"70200","1","Legends Of Chima","Constraction","2013","CHI Laval",,55,10.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70200-1.jpg","No","No",0
+10213,"70201","1","Legends Of Chima","Constraction","2013","CHI Eris",,67,10.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70201-1.jpg","No","No",0
+10214,"70202","1","Legends Of Chima","Constraction","2013","CHI Gorzan",,59,10.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70202-1.jpg","No","No",0
+10215,"70203","1","Legends Of Chima","Constraction","2013","CHI Cragger",,65,10.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70203-1.jpg","No","No",0
+10216,"70204","1","Legends Of Chima","Constraction","2013","CHI Worriz",,55,10.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70204-1.jpg","No","No",0
+10217,"70205","1","Legends Of Chima","Constraction","2013","CHI Razar",,68,10.99,14.99,19.99,14.99,"http://www.1000steine.com/brickset/images/70205-1.jpg","No","No",0
+23320,"70206","1","Legends Of Chima","","2014","CHI Laval",,49,,14.99,,,"http://www.1000steine.com/brickset/images/70206-1.jpg","No","No",0
+23321,"70207","1","Legends Of Chima","","2014","CHI Cragger",,58,,14.99,,,"http://www.1000steine.com/brickset/images/70207-1.jpg","No","No",0
+23322,"70208","1","Legends Of Chima","","2014","CHI Panthar",,59,,14.99,,,"http://www.1000steine.com/brickset/images/70208-1.jpg","No","No",0
+23323,"70209","1","Legends Of Chima","","2014","CHI Mungus",,64,,14.99,,,"http://www.1000steine.com/brickset/images/70209-1.jpg","No","No",0
+23324,"70210","1","Legends Of Chima","","2014","CHI Vardy",,68,,14.99,,,"http://www.1000steine.com/brickset/images/70210-1.jpg","No","No",0
+23325,"70211","1","Legends Of Chima","","2014","CHI Fluminox",,91,,19.99,,,"http://www.1000steine.com/brickset/images/70211-1.jpg","No","No",0
+23326,"70212","1","Legends Of Chima","","2014","CHI Sir Fangar",,97,,19.99,,,"http://www.1000steine.com/brickset/images/70212-1.jpg","No","No",0
+10143,"70400","1","Castle","","2013","Forest Ambush",4,90,7.99,11.99,14.99,9.99,"http://www.1000steine.com/brickset/images/70400-1.jpg","No","No",0
+10144,"70401","1","Castle","","2013","Gold Getaway",3,199,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70401-1.jpg","No","No",0
+10145,"70402","1","Castle","","2013","The Gatehouse Raid",4,248,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/70402-1.jpg","No","No",0
+10146,"70403","1","Castle","","2013","Dragon Mountain",5,376,34.99,49.99,59.99,49.99,"http://www.1000steine.com/brickset/images/70403-1.jpg","No","No",0
+10147,"70404","1","Castle","","2013","King's Castle",7,996,79.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/70404-1.jpg","No","No",0
+9882,"70500","1","Ninjago","","2013","Kai's Fire Mech",2,102,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/70500-1.jpg","No","No",0
+9883,"70501","1","Ninjago","","2013","Warrior Bike",2,210,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70501-1.jpg","No","No",0
+9884,"70502","1","Ninjago","","2013","Cole's Earth Driller",2,171,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70502-1.jpg","No","No",0
+9885,"70503","1","Ninjago","","2013","The Golden Dragon",3,252,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/70503-1.jpg","No","No",0
+9886,"70504","1","Ninjago","","2013","Garmatron",3,328,29.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/70504-1.jpg","No","No",0
+9887,"70505","1","Ninjago","","2013","Temple of Light",5,565,59.99,69.99,89.99,64.99,"http://www.1000steine.com/brickset/images/70505-1.jpg","No","No",0
+10000,"70700","1","Space","Galaxy Squad","2013","Space Swarmer",2,86,7.99,11.99,14.99,9.99,"http://www.1000steine.com/brickset/images/70700-1.jpg","No","No",0
+10001,"70701","1","Space","Galaxy Squad","2013","Swarm Interceptor",2,218,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70701-1.jpg","No","No",0
+10002,"70702","1","Space","Galaxy Squad","2013","Warp Stinger",3,310,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/70702-1.jpg","No","No",0
+10003,"70703","1","Space","Galaxy Squad","2013","Star Slicer",3,311,34.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/70703-1.jpg","No","No",0
+10004,"70704","1","Space","Galaxy Squad","2013","Vermin Vaporizer",3,506,49.99,59.99,74.99,49.99,"http://www.1000steine.com/brickset/images/70704-1.jpg","No","No",0
+10005,"70705","1","Space","Galaxy Squad","2013","Bug Obliterator",4,711,59.99,79.99,99.99,69.99,"http://www.1000steine.com/brickset/images/70705-1.jpg","No","No",0
+10250,"70706","1","Space","Galaxy Squad","2013","Crater Creeper",2,171,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70706-1.jpg","No","No",0
+10251,"70707","1","Space","Galaxy Squad","2013","CLS-89 Eradicator Mech",2,440,34.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/70707-1.jpg","No","No",0
+10252,"70708","1","Space","Galaxy Squad","2013","Hive Crawler",3,560,49.99,69.99,89.99,59.99,"http://www.1000steine.com/brickset/images/70708-1.jpg","No","No",0
+10253,"70709","1","Space","Galaxy Squad","2013","Galactic Titan",5,1012,79.99,99.99,129.99,99.99,"http://www.1000steine.com/brickset/images/70709-1.jpg","No","No",0
+23091,"70720","1","Ninjago","","2014","Hover Hunter",2,79,9.99,11.99,15.99,9.99,"http://www.1000steine.com/brickset/images/70720-1.jpg","No","No",0
+23092,"70721","1","Ninjago","","2014","Kai Fighter",2,196,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70721-1.jpg","No","No",0
+23093,"70722","1","Ninjago","","2014","OverBorg Attack",2,207,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/70722-1.jpg","No","No",0
+23094,"70723","1","Ninjago","","2014","Thunder Raider",3,334,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/70723-1.jpg","No","No",0
+23095,"70724","1","Ninjago","","2014","NinjaCopter",4,516,49.99,59.99,74.99,49.99,"http://www.1000steine.com/brickset/images/70724-1.jpg","No","No",0
+23096,"70725","1","Ninjago","","2014","Nindroid MechDragon",5,691,69.99,89.99,109.99,79.99,"http://www.1000steine.com/brickset/images/70725-1.jpg","No","No",0
+23185,"70726","1","Ninjago","","2014","Destructoid",3,253,24.99,34.99,44.99,29.99,"http://www.1000steine.com/brickset/images/70726-1.jpg","No","No",0
+23362,"70727","1","Ninjago","","2014","X-1 Ninja Charger",,426,,39.99,,,"http://www.1000steine.com/brickset/images/70727-1.jpg","No","No",0
+

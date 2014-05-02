@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+2672,"5278","1","Service Packs","Technic","1994","Chain Links",,35,,4,,,"http://www.1000steine.com/brickset/images/5278-1.jpg","No","No",0
+2673,"5279","1","Service Packs","Technic","1993","Steering Elements, Plates and Gear Racks",,16,,,,,"http://www.1000steine.com/brickset/images/5279-1.jpg","No","No",0
+2674,"5280","1","Service Packs","Technic","1993","Lift-Arms and Triangles",,10,,3.25,,,"http://www.1000steine.com/brickset/images/5280-1.jpg","No","No",0
+2675,"5281","1","Service Packs","","1994","Balloon Tyres 49.6 mm",,4,,4,,,"http://www.1000steine.com/brickset/images/5281-1.jpg","No","No",0
+2676,"5282","1","Service Packs","","1994","Balloon Tyres 68.8 mm",,4,,6,,,"http://www.1000steine.com/brickset/images/5282-1.jpg","No","No",0
+2677,"5283","1","Service Packs","","1994","Balloon Tyres 43.2 mm",,4,,4,,,"http://www.1000steine.com/brickset/images/5283-1.jpg","No","No",0
+2678,"5284","1","Service Packs","","1994","Loading Grabs with Crane Hook",,3,,4,,,"http://www.1000steine.com/brickset/images/5284-1.jpg","No","No",0
+2679,"5285","1","Service Packs","Technic","1994","Two Large Shock Absorbers",,2,,4.5,,,"http://www.1000steine.com/brickset/images/5285-1.jpg","No","No",0
+2680,"5286","1","Service Packs","Technic","1994","Toggle Joints and Connectors",,64,,4.5,,,"http://www.1000steine.com/brickset/images/5286-1.jpg","No","No",0
+2681,"5287","1","Service Packs","Technic","1995","Plates and Gear Racks",,18,,4,,,"http://www.1000steine.com/brickset/images/5287-1.jpg","No","No",0
+2682,"5288","1","Service Packs","","1995","Gear Blocks, Housings and Axles",,12,,,,,"http://www.1000steine.com/brickset/images/5288-1.jpg","No","No",0
+2683,"5289","1","Service Packs","Technic","1996","Toggle Joints and Connectors",,64,,4.5,,,"http://www.1000steine.com/brickset/images/5289-1.jpg","No","No",0
+2684,"5290","1","Service Packs","Technic","1996","Plates, Gear Racks",,16,,3.5,,,"http://www.1000steine.com/brickset/images/5290-1.jpg","No","No",0
+2685,"5291","1","Service Packs","Technic","1996","Lift-Arms, Triangles",,12,,3,,,"http://www.1000steine.com/brickset/images/5291-1.jpg","No","No",0
+2686,"5292","1","Service Packs","Technic","1996","Technic Suitcase",,1,,,,,"http://www.1000steine.com/brickset/images/5292-1.jpg","No","No",0
+2687,"5293","1","Service Packs","","1996","Battery Box - Basic and Technic",,1,,12.25,,,"http://www.1000steine.com/brickset/images/5293-1.jpg","No","No",0
+2688,"5294","1","Service Packs","Technic","1998","Toggle Joints and Connectors",,60,,4,,,"http://www.1000steine.com/brickset/images/5294-1.jpg","No","No",0
+2689,"5295","1","Service Packs","Technic","1998","Steering Accessories",,12,,,,,"http://www.1000steine.com/brickset/images/5295-1.jpg","No","No",0
+2692,"5300","1","Service Packs","Trains","1991","Train Motor 9 V",,3,,25,,,"http://www.1000steine.com/brickset/images/5300-1.jpg","No","No",0
+2693,"5301","1","Service Packs","Trains","1992","Wagon / Carriage Plate 6 x 28, Grey",,1,,3,,,"http://www.1000steine.com/brickset/images/5301-1.jpg","No","No",0
+2694,"5302","1","Service Packs","Trains","1992","2 Bogie Plates",,2,,2,,,"http://www.1000steine.com/brickset/images/5302-1.jpg","No","No",0
+2695,"5303","1","Service Packs","Trains","1992","2 Buffers and 2 Magnetic Couplings",,6,,3,,,"http://www.1000steine.com/brickset/images/5303-1.jpg","No","No",0
+2696,"5304","1","Service Packs","Trains","1992","Wheel Sets",,2,,3,,,"http://www.1000steine.com/brickset/images/5304-1.jpg","No","No",0
+2697,"5305","1","Service Packs","Trains","1992","Train Connecting Lead 9 V",,1,,6,,,"http://www.1000steine.com/brickset/images/5305-1.jpg","No","No",0
+2698,"5306","1","Service Packs","Trains","1992","Plates 2 x 2 with Wire 9 V 26 cm",,1,,,,,"http://www.1000steine.com/brickset/images/5306-1.jpg","No","No",0
+2699,"5307","1","Service Packs","Trains","1992","Headlight Bricks",,3,,,,,"http://www.1000steine.com/brickset/images/5307-1.jpg","No","No",0
+2700,"5308","1","Service Packs","Trains","1994","Headlight Bricks",,3,,,,,"http://www.1000steine.com/brickset/images/5308-1.jpg","No","No",0
+2701,"5309","1","Service Packs","Trains","1996","Wagon Plate Red 6 x 28",,1,,3,,,"http://www.1000steine.com/brickset/images/5309-1.jpg","No","No",0
+2702,"5310","1","Service Packs","Trains","1996","Light Brick Conductor (9 V)",,4,,5,,,"http://www.1000steine.com/brickset/images/5310-1.jpg","No","No",0
+2703,"5311","1","Service Packs","Trains","1996","Two 2 x 2 Plates with Wire, 25.6 cm",,1,,,,,"http://www.1000steine.com/brickset/images/5311-1.jpg","No","No",0
+2704,"5313","1","Service Packs","","1999","Town / Space Accessories",,17,,3,,,"http://www.1000steine.com/brickset/images/5313-1.jpg","No","No",0
+2705,"5314","1","Service Packs","Town","1999","Town / Res-Q Equipment",,31,,3,,,"http://www.1000steine.com/brickset/images/5314-1.jpg","No","No",0
+2706,"5315","1","Service Packs","","1999","Connectors",,60,,3,,,"http://www.1000steine.com/brickset/images/5315-1.jpg","No","No",0
+2707,"5316","1","Service Packs","","1999","Transparent Accessories",,62,,3.5,,,"http://www.1000steine.com/brickset/images/5316-1.jpg","No","No",0
+2708,"5317","1","Service Packs","Western","1999","Wild West Accessories",,39,,,,,"http://www.1000steine.com/brickset/images/5317-1.jpg","No","No",0
+2709,"5318","1","Service Packs","","1999","Head Wear",,23,,3,,,"http://www.1000steine.com/brickset/images/5318-1.jpg","No","No",0
+2710,"5319","1","Service Packs","","1999","Decorated Elements",,19,,3,,,"http://www.1000steine.com/brickset/images/5319-1.jpg","No","No",0
+2712,"5320","1","Service Packs","","1999","Small Plates Assorted, White",,66,,4,,,"http://www.1000steine.com/brickset/images/5320-1.jpg","No","No",0
+2713,"5321","1","Service Packs","","1999","Large White Plates Assorted",,10,,4,,,"http://www.1000steine.com/brickset/images/5321-1.jpg","No","No",0
+2714,"5322","1","Duplo","","2001","Duplo Bucket",,60,7.99,18,,,"http://www.1000steine.com/brickset/images/5322-1.jpg","No","No",0
+2715,"5327","1","Duplo","","2001","Duplo Bucket",,60,,,,,,"No","No",0
+2717,"5336","1","Duplo","","2001","Duplo Bucket",,43,,,,,,"No","No",0
+4928,"5339","1","Duplo","","2001","Small Bucket with Dog",1,42,,18,,,"http://www.1000steine.com/brickset/images/5339-1.jpg","No","No",0
+2719,"5342","1","Duplo","","2001","Duplo Bucket",,34,,,,,,"No","No",0
+4793,"5349","1","Quatro","","2005","Quatro 100",,100,19.99,,,,"http://www.1000steine.com/brickset/images/5349-1.jpg","No","No",0
+2722,"5350","1","Explore","Together","2004","Large Explore Bucket",,90,14.99,,,,"http://www.1000steine.com/brickset/images/5350-1.jpg","No","No",0
+2723,"5351","1","Duplo","","2004","Duplo Bucket",,90,14.99,,,,"http://www.1000steine.com/brickset/images/5351-1.jpg","No","No",0
+2724,"5352","1","Duplo","","2004","Duplo Tub",,139,29.99,20,,,"http://www.1000steine.com/brickset/images/5352-1.jpg","No","No",0
+5066,"5352","2","Duplo","","2005","50th Anniversary Tub",,139,29.99,20,,,"http://www.1000steine.com/brickset/images/5352-2.jpg","No","No",0
+2725,"5353","1","Duplo","","2004","Duplo Tub",,139,19.99,,,,"http://www.1000steine.com/brickset/images/5353-1.jpg","No","No",0
+2726,"5354","1","Duplo","","2004","Tube",,80,9.99,,,,"http://www.1000steine.com/brickset/images/5354-1.jpg","No","No",0
+2727,"5355","1","Quatro","","2004","Small Quatro Bucket",,20,7.49,10,,,"http://www.1000steine.com/brickset/images/5355-1.jpg","No","No",0
+2728,"5356","1","Quatro","","2004","Medium Quatro Bucket",,50,19.99,15,,,"http://www.1000steine.com/brickset/images/5356-1.jpg","No","No",0
+2729,"5357","1","Quatro","","2004","Large Quatro Bucket",,75,18.99,20,,,"http://www.1000steine.com/brickset/images/5357-1.jpg","No","No",0
+2730,"5358","1","Quatro","","2004","Quatro XL",,100,29.99,,,,"http://www.1000steine.com/brickset/images/5358-1.jpg","No","No",0
+2731,"5359","1","Explore","Imagination","2004","BRICK-O-DILE",,26,19.99,15,,,"http://www.1000steine.com/brickset/images/5359-1.jpg","No","No",0
+4794,"5361","1","Quatro","","2005","Quatro 50",,50,12.99,,,,"http://www.1000steine.com/brickset/images/5361-1.jpg","No","No",0
+5211,"5363","1","Quatro","","2005","Mountain Climber",,15,,25,,,"http://www.1000steine.com/brickset/images/5363-1.jpg","No","No",0
+22871,"5367","1","Duplo","","2005","Yellow Tub",,100,,,,,,"No","No",0
+9107,"5369","1","Creator","","2005","Creator Tub",,700,,20,,,"http://www.1000steine.com/brickset/images/5369-1.jpg","No","No",0
+4978,"5370","1","Make and Create","","2005","Make and Create Bucket",,700,9.99,,,,"http://www.1000steine.com/brickset/images/5370-1.jpg","No","No",0
+4977,"5371","1","Duplo","","2005","Duplo Bucket Green",,120,9.99,,,,"http://www.1000steine.com/brickset/images/5371-1.jpg","No","No",0
+6472,"5372","1","Castle","Fantasy Era","2008","Skeleton Chariot",,20,,,,,"http://www.1000steine.com/brickset/images/5372-1.jpg","No","No",0
+6474,"5373","1","Castle","Fantasy Era","2008","Knight & Catapault",,21,,,,,"http://www.1000steine.com/brickset/images/5373-1.jpg","No","No",0
+5845,"5378","1","Harry Potter","Order of the Phoenix","2007","Hogwarts Castle",9,943,69.99,89.99,,,"http://www.1000steine.com/brickset/images/5378-1.jpg","No","No",0
+5712,"5380","1","Duplo","","2007","Duplo Large Brick Box",1,71,19.99,29.99,,,"http://www.1000steine.com/brickset/images/5380-1.jpg","No","No",0
+9837,"5380","2","Duplo","","2008","Large Brick Box - Green Plate Version",1,71,,,,,,"No","No",0
+2732,"5381","1","Service Packs","Adventurers","1998","Adventure Accessories",,27,,4,,,"http://www.1000steine.com/brickset/images/5381-1.jpg","No","No",0
+2733,"5382","1","Service Packs","Aquazone","1998","Aquazone Accessories",,19,,4,,,"http://www.1000steine.com/brickset/images/5382-1.jpg","No","No",0
+2734,"5383","1","Service Packs","Castle","1998","Castle Accessories",1,34,,3,,,"http://www.1000steine.com/brickset/images/5383-1.jpg","No","No",0
+2735,"5384","1","Service Packs","Space","1998","Space Accessories",,21,,4.5,,,"http://www.1000steine.com/brickset/images/5384-1.jpg","No","No",0
+2736,"5385","1","Duplo","","2004","Special Edition Bucket",,40,,,,,"http://www.1000steine.com/brickset/images/5385-1.jpg","No","No",0
+2737,"5386","1","Service Packs","","1998","Antenna and Control Sticks",,38,,3,,,"http://www.1000steine.com/brickset/images/5386-1.jpg","No","No",0
+2738,"5387","1","Service Packs","Belville","1998","Belville Beach Accessories",,13,,3.5,,,"http://www.1000steine.com/brickset/images/5387-1.jpg","No","No",0
+2739,"5388","1","Service Packs","","1998","Hinges, Couplings, Turntables",,26,,3,,,"http://www.1000steine.com/brickset/images/5388-1.jpg","No","No",0
+2740,"5389","1","Service Packs","Divers","1998","Diving Accessories",,37,,4.5,,,"http://www.1000steine.com/brickset/images/5389-1.jpg","No","No",0
+2741,"5390","1","Service Packs","","1998","Crane and Digger Accessories",,14,,4,,,"http://www.1000steine.com/brickset/images/5390-1.jpg","No","No",0
+2742,"5391","1","Service Packs","","1997","Battery Box 9 V For Electric System",,1,,5,,,"http://www.1000steine.com/brickset/images/5391-1.jpg","No","No",0
+2743,"5392","1","Service Packs","Western","1997","Western Accessories",,34,,5,,,"http://www.1000steine.com/brickset/images/5392-1.jpg","No","No",0
+2744,"5393","1","Service Packs","","1997","Headgear (Hats and Hair)",,31,,3,,,"http://www.1000steine.com/brickset/images/5393-1.jpg","No","No",0
+2745,"5394","1","Service Packs","","1997","3 Horses and Saddles",,12,,4.5,,,"http://www.1000steine.com/brickset/images/5394-1.jpg","No","No",0
+2746,"5395","1","Service Packs","Belville","1996","Belville Hospital Accessories",,5,,,,,"http://www.1000steine.com/brickset/images/5395-1.jpg","No","No",0
+2747,"5396","1","Service Packs","","1996","Transparent Windows and Bricks",,8,,3.5,,,"http://www.1000steine.com/brickset/images/5396-1.jpg","No","No",0
+2748,"5397","1","Service Packs","","1996","Magnet and Magnet Holder",,12,,4,,,"http://www.1000steine.com/brickset/images/5397-1.jpg","No","No",0
+2749,"5398","1","Service Packs","","1996","Decorated Elements",,43,,4.25,,,"http://www.1000steine.com/brickset/images/5398-1.jpg","No","No",0
+2750,"5399","1","Service Packs","Belville","1999","Belville Accessories",,25,,,,,"http://www.1000steine.com/brickset/images/5399-1.jpg","No","No",0
+2754,"5400","1","Service Packs","Scala","1998","LEGO Scala Fashion Accessories",,12,,,,,"http://www.1000steine.com/brickset/images/5400-1.jpg","No","No",0
+2755,"5401","1","Service Packs","Scala","1998","LEGO Scala Kitchen Accessories",,14,,,,,"http://www.1000steine.com/brickset/images/5401-1.jpg","No","No",0
+2756,"5402","1","Service Packs","Scala","1998","LEGO Scala Floor Plate 17.5 x 35 cm",,1,,,,,"http://www.1000steine.com/brickset/images/5402-1.jpg","No","No",0
+2757,"5403","1","Service Packs","Scala","1998","LEGO Scala Floor Plate 35 x 35 cm",,1,,,,,"http://www.1000steine.com/brickset/images/5403-1.jpg","No","No",0
+2758,"5404","1","Service Packs","Scala","1998","LEGO Scala Basic House",,28,,,,,"http://www.1000steine.com/brickset/images/5404-1.jpg","No","No",0
+2759,"5405","1","Service Packs","Scala","1998","LEGO Scala Floor Plate 17.5 x 35 cm",,1,,,,,"http://www.1000steine.com/brickset/images/5405-1.jpg","No","No",0
+2760,"5413","1","Service Packs","Scala","1999","LEGO Scala Service",,21,,,,,"http://www.1000steine.com/brickset/images/5413-1.jpg","No","No",0
+2761,"5414","1","Service Packs","Scala","1999","LEGO Scala Crazy Cooking",,24,,,,,"http://www.1000steine.com/brickset/images/5414-1.jpg","No","No",0
+2762,"5415","1","Service Packs","Scala","1999","LEGO Scala",,15,,4,,,"http://www.1000steine.com/brickset/images/5415-1.jpg","No","No",0
+5713,"5416","1","Duplo","","2007","Duplo Brick Box",,33,12.99,14.99,17.99,17.99,"http://www.1000steine.com/brickset/images/5416-1.jpg","No","No",0
+5766,"5417","1","Duplo","","2007","Duplo Deluxe Brick Box",1,95,34.25,49.99,,,"http://www.1000steine.com/brickset/images/5417-1.jpg","No","No",0
+6034,"5419","1","Duplo","","2007","Build a Farm",1,107,24.99,29.99,,,"http://www.1000steine.com/brickset/images/5419-1.jpg","No","No",0
+2764,"5420","1","Explore","Being Me","2002","Soft Frog Rattle",,1,2.99,5,,,"http://www.1000steine.com/brickset/images/5420-1.jpg","No","No",0
+2765,"5421","1","Explore","Being Me","2002","Star Teether",,1,2.99,2,,,"http://www.1000steine.com/brickset/images/5421-1.jpg","No","No",0
+2766,"5422","1","Explore","Being Me","2002","Caterpillar Teether",,1,3.99,5,,,"http://www.1000steine.com/brickset/images/5422-1.jpg","No","No",0
+2767,"5423","1","Explore","Being Me","2002","Crib and Mirror Adventure",,2,12.99,10,,,"http://www.1000steine.com/brickset/images/5423-1.jpg","No","No",0
+2768,"5424","1","Explore","Being Me","2002","Take Along Friend",1,1,2.99,5,,,"http://www.1000steine.com/brickset/images/5424-1.jpg","No","No",0
+2769,"5425","1","Explore","Being Me","2002","Soft Stacking Hen",,5,12.99,10,,,"http://www.1000steine.com/brickset/images/5425-1.jpg","No","No",0
+2770,"5426","1","Explore","Being Me","2002","Shape and Colour Sorter",,9,12.99,10,,,"http://www.1000steine.com/brickset/images/5426-1.jpg","No","No",0
+2771,"5427","1","Explore","Being Me","2002","Light and Sound Stacker",,10,14.99,,,,"http://www.1000steine.com/brickset/images/5427-1.jpg","No","No",0
+2772,"5428","1","Explore","Being Me","2002","Musical Apple",,1,6.99,,,,"http://www.1000steine.com/brickset/images/5428-1.jpg","No","No",0
+2773,"5429","1","Explore","Being Me","2002","Play Plane",1,1,3.99,5,,,"http://www.1000steine.com/brickset/images/5429-1.jpg","No","No",0
+2774,"5430","1","Explore","Being Me","2002","Squirt Frog",,1,3.99,5,,,"http://www.1000steine.com/brickset/images/5430-1.jpg","No","No",0
+2775,"5431","1","Explore","Being Me","2002","Roll 'n' Play",,1,4.99,5,,,"http://www.1000steine.com/brickset/images/5431-1.jpg","No","No",0
+2776,"5432","1","Explore","Being Me","2002","Bendy Caterpillar",,3,6.99,8,,,"http://www.1000steine.com/brickset/images/5432-1.jpg","No","No",0
+2777,"5433","1","Explore","Being Me","2002","Stacking Tower",,5,6.99,8,,,"http://www.1000steine.com/brickset/images/5433-1.jpg","No","No",0
+2778,"5434","1","Explore","Being Me","2002","LEGO Baby Stack 'n' Learn",2,36,17.99,20,,,"http://www.1000steine.com/brickset/images/5434-1.jpg","No","No",0
+5199,"5436","1","Baby","","2004","Stack 'n' Learn",,2,,,,,"http://www.1000steine.com/brickset/images/5436-1.jpg","No","No",0
+2779,"5437","1","Explore","Imagination","2003","Chicken",,6,,2,,,"http://www.1000steine.com/brickset/images/5437-1.jpg","No","No",0
+2781,"5441","1","Explore","Being Me","2003","Smiling Rattle",,2,3.99,,,,"http://www.1000steine.com/brickset/images/5441-1.jpg","No","No",0
+2782,"5443","1","Explore","Being Me","2003","Curly Hanging Rattle",,2,4.99,,,,"http://www.1000steine.com/brickset/images/5443-1.jpg","No","No",0
+2783,"5446","1","Explore","Being Me","2003","Roll 'n' Tip",,1,7.99,,,,"http://www.1000steine.com/brickset/images/5446-1.jpg","No","No",0
+2784,"5449","1","Explore","Being Me","2003","Stack 'n' Learn Sorter",,13,9.99,7,,,"http://www.1000steine.com/brickset/images/5449-1.jpg","No","No",0
+2786,"5450","1","Explore","Being Me","2003","Discovery Bird",,2,12.99,,,,"http://www.1000steine.com/brickset/images/5450-1.jpg","No","No",0
+2787,"5451","1","Explore","Being Me","2003","Musical Sea Mobile",,,24.99,,,,"http://www.1000steine.com/brickset/images/5451-1.jpg","No","No",0
+2788,"5453","1","Baby","","2004","Baby Elephant Stacker",,6,4.99,,,,"http://www.1000steine.com/brickset/images/5453-1.jpg","No","No",0
+2789,"5454","1","Baby","","2004","Stack & Learn Giraffe",,5,7.99,10,,,"http://www.1000steine.com/brickset/images/5454-1.jpg","No","No",0
+2790,"5455","1","Baby","","2004","Stacking Jungle Set",,8,14.99,25,,,"http://www.1000steine.com/brickset/images/5455-1.jpg","No","No",0
+2791,"5458","1","Baby","","2004","Pull Along Duck and Duckling",,7,12.99,20,,,"http://www.1000steine.com/brickset/images/5458-1.jpg","No","No",0
+4651,"5460","1","Baby","","2005","Happy Flower Rattle & Teether",,2,2.99,,,,"http://www.1000steine.com/brickset/images/5460-1.jpg","No","No",0
+4652,"5461","1","Baby","","2005","Shape Sorter House",,12,7.99,13,,,"http://www.1000steine.com/brickset/images/5461-1.jpg","No","No",0
+4653,"5462","1","Baby","","2005","Bathtime Boat",1,4,7.99,10,,,"http://www.1000steine.com/brickset/images/5462-1.jpg","No","No",0
+4654,"5463","1","Baby","","2005","Play Train",1,6,7.99,10,,,"http://www.1000steine.com/brickset/images/5463-1.jpg","No","No",0
+4655,"5464","1","Baby","","2005","Play Plane",1,2,3.99,,,,"http://www.1000steine.com/brickset/images/5464-1.jpg","No","No",0
+4656,"5465","1","Baby","","2005","Bendy Caterpillar",,3,6.99,,,,"http://www.1000steine.com/brickset/images/5465-1.jpg","No","No",0
+5442,"5470","1","Quatro","","2006","My First Quatro Figure",1,18,7.99,10,,,"http://www.1000steine.com/brickset/images/5470-1.jpg","No","No",0
+5310,"5475","1","Make and Create","","2006","Girls Fantasy Bucket",,190,5.99,8,,,"http://www.1000steine.com/brickset/images/5475-1.jpg","No","No",0
+5213,"5476","1","Quatro","","2005","My First Quatro Set",,20,7.99,12.99,,,"http://www.1000steine.com/brickset/images/5476-1.jpg","No","No",0
+5229,"5477","1","Make and Create","","2006","LEGO Classic House Building",,233,9.99,14.99,,,"http://www.1000steine.com/brickset/images/5477-1.jpg","No","No",0
+5344,"5480","1","Duplo","","2006","Duplo Town Building",2,87,14.99,,,,"http://www.1000steine.com/brickset/images/5480-1.jpg","No","No",0
+5459,"5481","1","Duplo","","2006","Duplo Zoo",2,128,24.99,25,,,"http://www.1000steine.com/brickset/images/5481-1.jpg","No","No",0
+5443,"5482","1","Make and Create","","2006","Ultimate House Building Set",,674,24.99,25,,,"http://www.1000steine.com/brickset/images/5482-1.jpg","No","No",0
+5441,"5483","1","Make and Create","","2006","Ready Steady Build & Race Set",,692,24.99,,,,"http://www.1000steine.com/brickset/images/5483-1.jpg","No","No",0
+12978,"5484","1","Duplo","","2006","{Zoo animal}",,,,,,,"http://www.1000steine.com/brickset/images/5484-1.jpg","No","No",0
+7122,"5485","1","Duplo","LEGO Ville","2006","Zoo selection",1,4,,,,,"http://www.1000steine.com/brickset/images/5485-1.jpg","No","No",0
+6989,"5486","1","Duplo","","2009","Fun With Duplo Bricks",,90,21.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/5486-1.jpg","No","No",0
+6966,"5487","1","Bricks and More","","2009","Fun With LEGO Bricks",,700,21.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/5487-1.jpg","No","No",0
+6990,"5488","1","Duplo","","2009","Duplo Farm Building Set",2,102,29.99,39.99,64.99,,"http://www.1000steine.com/brickset/images/5488-1.jpg","No","No",0
+6965,"5489","1","Bricks and More","","2009","Ultimate LEGO Vehicle Building Set",1,675,29.99,44.99,64.99,44.99,"http://www.1000steine.com/brickset/images/5489-1.jpg","No","No",0
+5688,"5491","1","Make and Create","","2006","XXL 2000",,2000,,40,,,"http://www.1000steine.com/brickset/images/5491-1.jpg","No","No",0
+5808,"5491","2","Make and Create","","2007","LEGO XXL 2000 Barrel",,2000,,,,,"http://www.1000steine.com/brickset/images/5491-2.jpg","No","No",0
+9440,"5492","1","Duplo","Bonus/Value Pack","2006","Limited Edition Green Brick Tub",,121,,,,,,"No","No",0
+5861,"5493","1","Make and Create","","2007","Emergency Rescue Box",,705,,30,,,"http://www.1000steine.com/brickset/images/5493-1.jpg","No","No",0
+2793,"5494","1","Explore","Imagination","2003","Rolling Duck",,4,,,,,"http://www.1000steine.com/brickset/images/5494-1.jpg","No","No",0
+7318,"5497","1","Duplo","","2010","Play with Numbers",1,58,24.99,24.99,34.99,29.99,"http://www.1000steine.com/brickset/images/5497-1.jpg","No","No",0
+4798,"5503","1","Duplo","","2005","Duplo Dog",,32,7.99,10,,,"http://www.1000steine.com/brickset/images/5503-1.jpg","No","No",0
+4706,"5504","1","Duplo","","2005","Duplo Airplane",,32,7.99,10,,,"http://www.1000steine.com/brickset/images/5504-1.jpg","No","No",0
+7573,"5506","1","Duplo","","2010","Duplo Large Brick Box",1,71,25.99,29.99,29.99,27.99,"http://www.1000steine.com/brickset/images/5506-1.jpg","No","No",0
+7590,"5507","1","Duplo","","2010","Duplo Deluxe Brick Box",2,102,35.99,49.99,49.99,44.99,"http://www.1000steine.com/brickset/images/5507-1.jpg","No","No",0
+7589,"5508","1","Bricks and More","","2010","LEGO Deluxe Brick Box",2,704,35.99,49.99,59.99,44.99,"http://www.1000steine.com/brickset/images/5508-1.jpg","No","No",0
+7714,"5509","1","Duplo","","2010","Duplo Basic Bricks",,45,10.49,,,12.99,"http://www.1000steine.com/brickset/images/5509-1.jpg","No","No",0
+2797,"5510","1","Model Team","","1986","Off-Road 4 x 4",,285,,,,,"http://www.1000steine.com/brickset/images/5510-1.jpg","No","No",0
+8027,"5511","1","Duplo","","2010","LEGO Duplo XXL Box",,201,49.99,,,59.99,"http://www.1000steine.com/brickset/images/5511-1.jpg","No","No",0
+8028,"5512","1","Bricks and More","","2010","LEGO XXL Box",,1600,49.99,,,59.99,"http://www.1000steine.com/brickset/images/5512-1.jpg","No","No",0
+6450,"5513","1","Duplo","","2004","Duplo Tubular Chest",2,113,29.99,,,,,"No","No",0
+5839,"5514","1","Duplo","","2007","Fun Building with LEGO Duplo",,42,,,,,"http://www.1000steine.com/brickset/images/5514-1.jpg","No","No",0
+5840,"5515","1","Make and Create","","2007","Fun Building with LEGO Bricks",,240,,11.99,,,"http://www.1000steine.com/brickset/images/5515-1.jpg","No","No",0
+6950,"5516","1","Duplo","","2007","XXL Cannister",,215,,,,,"http://www.1000steine.com/brickset/images/5516-1.jpg","No","No",0
+5875,"5517","1","Make and Create","","2006","XXL 1800",,1800,,,,,"http://www.1000steine.com/brickset/images/5517-1.jpg","No","No",0
+6059,"5518","1","Duplo","","2007","Duplo Creative Building",,74,14.99,,,,"http://www.1000steine.com/brickset/images/5518-1.jpg","No","No",0
+6060,"5519","1","Make and Create","","2007","LEGO Creative Building",,481,14.99,25,,,"http://www.1000steine.com/brickset/images/5519-1.jpg","No","No",0
+2799,"5521","1","Model Team","","1993","Sea Jet",,401,,36.5,,,"http://www.1000steine.com/brickset/images/5521-1.jpg","No","No",0
+6457,"5522","1","Bricks and More","","2008","Golden Anniversary Set",,700,19.99,39.99,,,"http://www.1000steine.com/brickset/images/5522-1.jpg","No","No",0
+5040,"5524","1","Factory","","2005","Airport",,607,24.49,40,,,"http://www.1000steine.com/brickset/images/5524-1.jpg","No","No",0
+5041,"5525","1","Factory","","2005","Amusement Park",,1344,43.99,70,,,"http://www.1000steine.com/brickset/images/5525-1.jpg","No","No",0
+5042,"5526","1","Factory","","2005","Skyline",,2747,,130,,,"http://www.1000steine.com/brickset/images/5526-1.jpg","No","No",0
+6083,"5527","1","Duplo","","2007","Duplo Canister Green",,80,,,,,"http://www.1000steine.com/brickset/images/5527-1.jpg","No","No",0
+6084,"5528","1","Make and Create","","2007","LEGO Canister Red",,700,,,,,"http://www.1000steine.com/brickset/images/5528-1.jpg","No","No",0
+7638,"5529","1","Bricks and More","","2010","Basic Bricks",,325,13.99,,,12.99,"http://www.1000steine.com/brickset/images/5529-1.jpg","No","No",0
+6552,"5531","1","City","Police","2005","Police Motorcycle",1,18,,,,,"http://www.1000steine.com/brickset/images/5531-1.jpg","No","No",0
+6553,"5532","1","City","Fire","2005","Fire Car",1,28,,,,,"http://www.1000steine.com/brickset/images/5532-1.jpg","No","No",0
+2801,"5533","1","Model Team","","1999","Red Fury",,393,,50,,,"http://www.1000steine.com/brickset/images/5533-1.jpg","No","No",0
+6350,"5536","1","Duplo","","2007","LEGO DUPLO Fun Creations",1,105,,,,,"http://www.1000steine.com/brickset/images/5536-1.jpg","No","No",0
+6351,"5537","1","Make and Create","","2007","LEGO Cool Creations",,683,,,,,"http://www.1000steine.com/brickset/images/5537-1.jpg","No","No",0
+6942,"5538","1","Duplo","","2009","Duplo Creative Bucket",,76,19.99,29.99,39.99,24.99,"http://www.1000steine.com/brickset/images/5538-1.jpg","No","No",0
+6943,"5539","1","Bricks and More","","2009","Creative Bucket",,480,19.99,29.99,39.99,24.99,"http://www.1000steine.com/brickset/images/5539-1.jpg","No","No",0
+2803,"5540","1","Model Team","","1986","Formula 1 Racer",,451,,,,,"http://www.1000steine.com/brickset/images/5540-1.jpg","No","No",0
+2804,"5541","1","Model Team","","1995","Blue Fury",,421,,39.5,,,"http://www.1000steine.com/brickset/images/5541-1.jpg","No","No",0
+2805,"5542","1","Model Team","","1998","Black Thunder",,483,,40,,,"http://www.1000steine.com/brickset/images/5542-1.jpg","No","No",0
+6506,"5543","1","Duplo","Thomas the Tank Engine","2008","Percy at the Sheds",,34,17.59,19.99,,,"http://www.1000steine.com/brickset/images/5543-1.jpg","No","No",0
+6507,"5544","1","Duplo","Thomas the Tank Engine","2008","Thomas Starter Set",1,82,39.99,49.99,,,"http://www.1000steine.com/brickset/images/5544-1.jpg","No","No",0
+6999,"5545","1","Duplo","Thomas the Tank Engine","2009","Stanley at Great Waterton",,19,17.59,19.99,,,"http://www.1000steine.com/brickset/images/5545-1.jpg","No","No",0
+7000,"5546","1","Duplo","Thomas the Tank Engine","2009","Thomas at Morgan's Mine",,22,22.99,29.99,,,"http://www.1000steine.com/brickset/images/5546-1.jpg","No","No",0
+7001,"5547","1","Duplo","Thomas the Tank Engine","2009","James Celebrates Sodor Day",1,34,24.99,29.99,,,"http://www.1000steine.com/brickset/images/5547-1.jpg","No","No",0
+7715,"5548","1","Duplo","","2010","Duplo Building Fun",,81,19.99,29.99,39.99,24.99,"http://www.1000steine.com/brickset/images/5548-1.jpg","No","No",0
+7718,"5549","1","Bricks and More","","2010","LEGO Building Fun",,651,19.99,29.99,39.99,24.99,"http://www.1000steine.com/brickset/images/5549-1.jpg","No","No",0
+2808,"5550","1","Model Team","","1991","Custom Rally Van",,525,,49.5,,,"http://www.1000steine.com/brickset/images/5550-1.jpg","No","No",0
+4860,"5552","1","Duplo","Thomas the Tank Engine","2005","James at Knapford Station",,32,19.99,20,,,"http://www.1000steine.com/brickset/images/5552-1.jpg","No","No",0
+4857,"5554","1","Duplo","Thomas the Tank Engine","2005","Thomas Load and Carry Train Set",,61,29.99,29.99,,,"http://www.1000steine.com/brickset/images/5554-1.jpg","No","No",0
+4858,"5555","1","Duplo","Thomas the Tank Engine","2005","Toby at Wellsworth Station",,18,14.99,15,,,"http://www.1000steine.com/brickset/images/5555-1.jpg","No","No",0
+4859,"5556","1","Duplo","Thomas the Tank Engine","2005","Percy at the Water Tower",,15,9.99,10,,,"http://www.1000steine.com/brickset/images/5556-1.jpg","No","No",0
+6964,"5560","1","Bricks and More","","2009","Large Pink Brick Box",1,402,25.99,29.99,39.99,27.99,"http://www.1000steine.com/brickset/images/5560-1.jpg","No","No",0
+2810,"5561","1","Model Team","","1997","Big Foot 4 x 4",,761,,88,,,"http://www.1000steine.com/brickset/images/5561-1.jpg","No","No",0
+2811,"5563","1","Model Team","","1999","Racing Truck",,788,,80,,,"http://www.1000steine.com/brickset/images/5563-1.jpg","No","No",0
+

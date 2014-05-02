@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+6036,"851524","1","Gear","Housewares","2007","Egg Cup Set",,,4.89,,,,"http://www.1000steine.com/brickset/images/851524-1.jpg","No","No",0
+6740,"851537","1","Gear","Key Chains/City","2007","Firefighter Keychain",,,2.95,,,,"http://www.1000steine.com/brickset/images/851537-1.jpg","No","No",0
+6135,"851591","1","Gear","Role-play toys","2007","Piraka Ball Shooter",,,,19.99,,,"http://www.1000steine.com/brickset/images/851591-1.jpg","No","No",0
+5899,"851617","1","Gear","Housewares","2007","LEGOville Zoo Dinner Set",,,8.99,14.99,,,"http://www.1000steine.com/brickset/images/851617-1.jpg","No","No",0
+6545,"851624","1","Gear","Clothing","2007","City Police Cap",,,7.49,,,,"http://www.1000steine.com/brickset/images/851624-1.jpg","No","No",0
+5940,"851625","1","Gear","Role-play toys","2007","Toy Police Badge",,,4.99,,,,"http://www.1000steine.com/brickset/images/851625-1.jpg","No","No",0
+6573,"851626","1","Gear","Key Chains/City","2008","Police Officer Key Chain",,,2.99,4.99,5.99,,"http://www.1000steine.com/brickset/images/851626-1.jpg","No","No",0
+5947,"851627","1","Gear","Key Chains/Miscellaneous","2007","Key Chain Name Kit",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/851627-1.jpg","No","No",0
+5932,"851641","1","Gear","Trading/Playing cards","2007","City Memory Game",,,6.49,7.99,,,"http://www.1000steine.com/brickset/images/851641-1.jpg","No","No",0
+6149,"851648","1","Gear","Stationery","2007","Magnetic Notepad",,,,4.99,,,"http://www.1000steine.com/brickset/images/851648-1.jpg","No","No",0
+6709,"851652","1","Gear","Housewares","2007","Corkscrew & Bottle Opener",,,6.99,,,,"http://www.1000steine.com/brickset/images/851652-1.jpg","No","No",0
+6686,"851659","1","Gear","Key Chains/Star Wars","2008","Boba Fett Keyring",,,2.99,4.99,5.49,3.99,"http://www.1000steine.com/brickset/images/851659-1.jpg","No","No",0
+6722,"851680","1","Gear","Seasonal","2007","Santa Gift Wrap and Tags",,,1.95,,,,"http://www.1000steine.com/brickset/images/851680-1.jpg","No","No",0
+6481,"851683","1","Gear","Key Chains/Star Wars","2006","Imperial Royal Guard Keyring",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/851683-1.jpg","No","No",0
+6743,"851686","1","Gear","Key Chains/Batman","2007","Batman Keyring",,,2.99,,,,"http://www.1000steine.com/brickset/images/851686-1.jpg","No","No",0
+5832,"851687","1","Gear","Key Chains/Batman","2007","Robin Key Chain",,,2.99,3.99,,,"http://www.1000steine.com/brickset/images/851687-1.jpg","No","No",0
+5831,"851689","1","Gear","Magnets/Batman","2007","Catwoman Minifigure Magnet Set",,,7.49,12.99,,,"http://www.1000steine.com/brickset/images/851689-1.jpg","No","No",0
+22411,"851734","1","Gear","Key Chains/Castle","2005","King Jayko",,,,,,,"http://www.1000steine.com/brickset/images/851734-1.jpg","No","No",0
+6037,"851757","1","Gear","Role-play toys","2007","Fire Extinguisher",,,4.99,,,,"http://www.1000steine.com/brickset/images/851757-1.jpg","No","No",0
+6742,"851814","1","Gear","Key Chains/Batman","2007","The Joker Keyring",,,2.99,,,,"http://www.1000steine.com/brickset/images/851814-1.jpg","No","No",0
+6741,"851815","1","Gear","Key Chains/Batman","2007","Catwoman Keyring",,,2.99,,,,"http://www.1000steine.com/brickset/images/851815-1.jpg","No","No",0
+6136,"851821","1","Gear","Role-play toys","2007","Exo-Force Blaster",,,,14.99,,,"http://www.1000steine.com/brickset/images/851821-1.jpg","No","No",0
+6132,"851831","1","Gear","Role-play toys","2007","Viking Helmet",,,,,,,"http://www.1000steine.com/brickset/images/851831-1.jpg","No","No",0
+6137,"851836","1","Gear","Magnets/Exo-Force","2007","Exo-Force Magnet Set",,,,12.99,,,"http://www.1000steine.com/brickset/images/851836-1.jpg","No","No",0
+5888,"851838","1","Gear","Key Chains/SpongeBob SquarePants","2007","SpongeBob Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/851838-1.jpg","No","No",0
+5889,"851839","1","Gear","Key Chains/SpongeBob SquarePants","2007","Patrick Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/851839-1.jpg","No","No",0
+6723,"851841","1","Gear","Seasonal","2007","Gift Wrap Santa Mini-Figure & Tree",,,1.95,,,,"http://www.1000steine.com/brickset/images/851841-1.jpg","No","No",0
+6710,"851846","1","Gear","Housewares","2007","Coaster Set",,,7.35,,,,"http://www.1000steine.com/brickset/images/851846-1.jpg","No","No",0
+6721,"851847","1","Gear","Board Games","2007","Ludo with Mini-Figures",,,24.99,,,,"http://www.1000steine.com/brickset/images/851847-1.jpg","No","No",0
+6720,"851848","1","Gear","Board Games","2007","Tic Tac Toe",,,9.79,,,,"http://www.1000steine.com/brickset/images/851848-1.jpg","No","No",0
+5890,"851853","1","Gear","Key Chains/SpongeBob SquarePants","2007","Mr. Krabs Key Chain",,,2.95,3.99,,,"http://www.1000steine.com/brickset/images/851853-1.jpg","No","No",0
+5894,"851854","1","Gear","Magnets/SpongeBob SquarePants","2007","SpongeBob Minifigure Magnet Set",,,7.49,12.99,,,"http://www.1000steine.com/brickset/images/851854-1.jpg","No","No",0
+6712,"851855","1","Gear","Stationery","2007","Classic LEGO Gift Wrap",,,,,,,"http://www.1000steine.com/brickset/images/851855-1.jpg","No","No",0
+6139,"851868","1","Gear","Role-play toys","2007","Princess Crown",,,,7.99,,,"http://www.1000steine.com/brickset/images/851868-1.jpg","No","No",0
+5930,"851873","1","Gear","Role-play toys","2007","Picnic Tea Set",,,,,,,"http://www.1000steine.com/brickset/images/851873-1.jpg","No","No",0
+5910,"851875","1","Gear","Role-play toys","2007","Sword Takadox",,,3.99,9.99,,,"http://www.1000steine.com/brickset/images/851875-1.jpg","No","No",0
+6134,"851876","1","Gear","Role-play toys","2007","Takadox Mask",,,,9.99,,,"http://www.1000steine.com/brickset/images/851876-1.jpg","No","No",0
+5929,"851877","1","Gear","Role-play toys","2007","Barraki Pump Action Water Gun",,,12.99,24.99,,,"http://www.1000steine.com/brickset/images/851877-1.jpg","No","No",0
+5909,"851878","1","Gear","Role-play toys","2007","Splashy Barraki Squid",,,3.99,7.99,,,"http://www.1000steine.com/brickset/images/851878-1.jpg","No","No",0
+5908,"851893","1","Gear","Role-play toys","2007","Exo-Force Rocket Launcher",,,9.99,16.99,,,"http://www.1000steine.com/brickset/images/851893-1.jpg","No","No",0
+5959,"851894","1","Gear","Role-play toys","2007","King's Sword",,,4.89,9.99,,,"http://www.1000steine.com/brickset/images/851894-1.jpg","No","No",0
+5927,"851895","1","Gear","Role-play toys","2007","King's Cape with Fur",,,8.99,14.99,,,"http://www.1000steine.com/brickset/images/851895-1.jpg","No","No",0
+5928,"851896","1","Gear","Role-play toys","2007","King's Crown",,,6.85,12.99,,,"http://www.1000steine.com/brickset/images/851896-1.jpg","No","No",0
+5911,"851897","1","Gear","Housewares","2007","Fire Department Drinking Bottle",,,5.99,,,,"http://www.1000steine.com/brickset/images/851897-1.jpg","No","No",0
+5912,"851898","1","Gear","Role-play toys","2007","Fire Axe",,,3.99,,,,"http://www.1000steine.com/brickset/images/851898-1.jpg","No","No",0
+5913,"851899","1","Gear","Role-play toys","2007","City Police Flashlight",,,4.89,9.99,,,"http://www.1000steine.com/brickset/images/851899-1.jpg","No","No",0
+5914,"851901","1","Gear","Role-play toys","2007","City Police Megaphone",,,6.85,11.99,,,"http://www.1000steine.com/brickset/images/851901-1.jpg","No","No",0
+5904,"851902","1","Gear","Role-play toys","2007","City Police Investigator Set",,,7.79,14.99,,,"http://www.1000steine.com/brickset/images/851902-1.jpg","No","No",0
+5905,"851903","1","Gear","Bags","2007","LEGO Brick Backpack Blue",,,13.69,19.99,,,"http://www.1000steine.com/brickset/images/851903-1.jpg","No","No",0
+5922,"851904","1","Gear","Bags","2007","Brick Wallet Blue",,,4.99,6.99,,,"http://www.1000steine.com/brickset/images/851904-1.jpg","No","No",0
+5923,"851905","1","Gear","Bags","2007","LEGO Brick Sports Bag Blue",,,14.65,24.99,,,"http://www.1000steine.com/brickset/images/851905-1.jpg","No","No",0
+6038,"851906","1","Gear","Stationery","2007","Activity Planner",,,7.99,,,,"http://www.1000steine.com/brickset/images/851906-1.jpg","No","No",0
+5925,"851908","1","Gear","Housewares","2007","Key Rack",,,12.69,19.99,,,"http://www.1000steine.com/brickset/images/851908-1.jpg","No","No",0
+5957,"851910","1","Gear","Stationery","2007","Classic Stripes Pink Stationery Set",,,3.89,7.99,,,"http://www.1000steine.com/brickset/images/851910-1.jpg","No","No",0
+5958,"851911","1","Gear","Stationery","2007","Classic Stripes Blue Stationery Set",,,3.89,7.99,,,"http://www.1000steine.com/brickset/images/851911-1.jpg","No","No",0
+6138,"851915","1","Gear","Housewares","2007","LEGO Brick Cake / Jelly Mould",,,7.85,14.99,,,"http://www.1000steine.com/brickset/images/851915-1.jpg","No","No",0
+6085,"851917","1","Gear","Storage","2007","Storage Tray Unit",,,34.99,49.99,,,"http://www.1000steine.com/brickset/images/851917-1.jpg","No","No",0
+5924,"851918","1","Gear","Bags","2007","LEGO Brick Lunch Bag Blue",,,9.99,17.99,,,"http://www.1000steine.com/brickset/images/851918-1.jpg","No","No",0
+5960,"851931","1","Gear","Role-play toys","2007","Pirate Cleaver",,,3.99,,,,"http://www.1000steine.com/brickset/images/851931-1.jpg","No","No",0
+5961,"851933","1","Gear","Role-play toys","2007","Pirate Sword",,,3.99,9.99,,,"http://www.1000steine.com/brickset/images/851933-1.jpg","No","No",0
+5962,"851935","1","Gear","Role-play toys","2007","Splash Cannon Balls",,,3.99,,,,"http://www.1000steine.com/brickset/images/851935-1.jpg","No","No",0
+5926,"851936","1","Gear","Miscellaneous","2007","Treasure Chest Coin Bank",,,5.99,,,,"http://www.1000steine.com/brickset/images/851936-1.jpg","No","No",0
+5948,"851937","1","Gear","Key Chains/Star Wars","2007","Astromech Droid Key Chain",,,2.95,3.99,,,"http://www.1000steine.com/brickset/images/851937-1.jpg","No","No",0
+5915,"851938","1","Gear","Key Chains/Star Wars","2007","Princess Leia Key Chain",,,2.99,3.99,,,"http://www.1000steine.com/brickset/images/851938-1.jpg","No","No",0
+5895,"851939","1","Gear","Magnets/Star Wars","2007","Star Wars Magnet Set",,,7.49,12.99,,,"http://www.1000steine.com/brickset/images/851939-1.jpg","No","No",0
+6133,"851941","1","Gear","Role-play toys","2007","Viking Cape",,,,,,,"http://www.1000steine.com/brickset/images/851941-1.jpg","No","No",0
+5931,"851942","1","Gear","Role-play toys","2007","Viking Armour",,,14.99,,,,"http://www.1000steine.com/brickset/images/851942-1.jpg","No","No",0
+6068,"851949","1","Gear","Role-play toys","2007","King's Shield",,,5.99,9.99,14.99,,"http://www.1000steine.com/brickset/images/851949-1.jpg","No","No",0
+6039,"851950","1","Gear","Bags","2007","LEGO Brick Backpack Pink",,,13.69,19.99,,,"http://www.1000steine.com/brickset/images/851950-1.jpg","No","No",0
+5963,"851951","1","Gear","Housewares","2007","Classic Stripes Plastic Tumblers",,,9.99,17,,,"http://www.1000steine.com/brickset/images/851951-1.jpg","No","No",0
+6063,"851954","1","Gear","Stationery","2007","Aqua Raiders Stationery Set",,,3.99,6.99,,,"http://www.1000steine.com/brickset/images/851954-1.jpg","No","No",0
+6064,"851955","1","Gear","Role-play toys","2007","Aqua Raiders Water Blaster",,,6.99,16.99,,,"http://www.1000steine.com/brickset/images/851955-1.jpg","No","No",0
+6075,"851958","1","Gear","Stationery","2007","Secret Diary Plush",,,6.85,,,,"http://www.1000steine.com/brickset/images/851958-1.jpg","No","No",0
+6040,"851960","1","Gear","Stationery","2007","Duplo Zoo Sticker Sheet",,,1.99,,,,"http://www.1000steine.com/brickset/images/851960-1.jpg","No","No",0
+6074,"851970","1","Gear","Stationery","2007","Belville Stationery Set",,,3.99,,,,"http://www.1000steine.com/brickset/images/851970-1.jpg","No","No",0
+6041,"851973","1","Gear","Housewares","2007","Belville Ice Cube Tray",,,3.89,7.99,,,"http://www.1000steine.com/brickset/images/851973-1.jpg","No","No",0
+6065,"851974","1","Gear","Stationery","2007","Bionicle Stationery Set",,,3.89,7.99,,,"http://www.1000steine.com/brickset/images/851974-1.jpg","No","No",0
+6066,"851975","1","Gear","Role-play toys","2007","Toa Mahri Dart Shooter",,,3.89,24.99,,,"http://www.1000steine.com/brickset/images/851975-1.jpg","No","No",0
+6042,"851976","1","Gear","Stationery","2007","Lenticular Bionicle Notebook",,,,7.99,,,"http://www.1000steine.com/brickset/images/851976-1.jpg","No","No",0
+6043,"851988","1","Gear","Miscellaneous","2007","Duplo Zoo Height Chart",,,5.85,9.99,,,"http://www.1000steine.com/brickset/images/851988-1.jpg","No","No",0
+6076,"851994","1","Gear","Stationery","2007","Manga Tutorial Set",,,3.89,,,,"http://www.1000steine.com/brickset/images/851994-1.jpg","No","No",0
+6044,"851999","1","Gear","Key Chains/Harry Potter","2007","Hagrid Key Chain",,,2.99,3.99,,,"http://www.1000steine.com/brickset/images/851999-1.jpg","No","No",0
+6045,"852000","1","Gear","Key Chains/Harry Potter","2007","Hermione Key Chain",,,2.99,3.99,,,"http://www.1000steine.com/brickset/images/852000-1.jpg","No","No",0
+6071,"852001","1","Gear","Board Games","2007","Castle Chess Set",24,,29.99,49.99,,,"http://www.1000steine.com/brickset/images/852001-1.jpg","No","No",0
+6046,"852003","1","Gear","Role-play toys","2007","Castle Skeleton Sword",,,4.89,9.99,,,"http://www.1000steine.com/brickset/images/852003-1.jpg","No","No",0
+6047,"852004","1","Gear","Role-play toys","2007","Castle Skeleton Shield",,,5.99,9.99,,,"http://www.1000steine.com/brickset/images/852004-1.jpg","No","No",0
+6070,"852005","1","Gear","Role-play toys","2007","Knight Hero Helmet",,,4.89,,,,"http://www.1000steine.com/brickset/images/852005-1.jpg","No","No",0
+6048,"852007","1","Gear","Role-play toys","2007","Knight's Shield",,,5.99,9.99,,,"http://www.1000steine.com/brickset/images/852007-1.jpg","No","No",0
+6069,"852008","1","Gear","Role-play toys","2007","Knight Hero Armour",,,14.65,,,,"http://www.1000steine.com/brickset/images/852008-1.jpg","No","No",0
+6049,"852009","1","Gear","Magnets/Castle","2007","Castle Minifigure Magnet Set",,,5.99,12.99,,,"http://www.1000steine.com/brickset/images/852009-1.jpg","No","No",0
+6073,"852011","1","Gear","Stationery","2007","LEGO City Stationery Set",,,4.89,9.99,,,"http://www.1000steine.com/brickset/images/852011-1.jpg","No","No",0
+6050,"852012","1","Gear","Magnets/City","2007","City Minifigure Magnet Set",,,5.99,12.99,,,"http://www.1000steine.com/brickset/images/852012-1.jpg","No","No",0
+6072,"852015","1","Gear","Clothing","2007","Construction Worker Vest",,,6.99,,,,"http://www.1000steine.com/brickset/images/852015-1.jpg","No","No",0
+6154,"852017","1","Gear","Stationery","2007","Foldable Ruler",,,1.99,3.99,,,"http://www.1000steine.com/brickset/images/852017-1.jpg","No","No",0
+5965,"852018","1","Gear","Housewares","2007","Classic Stripes Towel",,,7.79,14.99,,,"http://www.1000steine.com/brickset/images/852018-1.jpg","No","No",0
+6114,"852019","1","Gear","Role-play toys","2007","Space Hero Air Blaster",,,9.99,19.99,,,"http://www.1000steine.com/brickset/images/852019-1.jpg","No","No",0
+6370,"852020","1","Gear","Role-play toys","2007","Space Hero Suit",,,,24.99,,,"http://www.1000steine.com/brickset/images/852020-1.jpg","No","No",0
+6051,"852021","1","Gear","Key Chains/SpongeBob SquarePants","2007","Squidward Key Chain",,,2.95,3.99,,,"http://www.1000steine.com/brickset/images/852021-1.jpg","No","No",0
+9422,"852023","1","Gear","Key Chains/Animal","2006","Julius the Monkey Key Chain",,,,0,,,"http://www.1000steine.com/brickset/images/852023-1.jpg","No","No",0
+5941,"852026","1","Gear","Clothing","2007","DUPLO White Children's T-shirt",,,,,,,"http://www.1000steine.com/brickset/images/852026-1.jpg","No","No",0
+5942,"852028","1","Gear","Clothing","2007","DUPLO Beige Bucket Hat",,,6.99,,,,"http://www.1000steine.com/brickset/images/852028-1.jpg","No","No",0
+5939,"852037","1","Gear","Clothing","2007","Exo-Force Navy Children's T-shirt",,,,,,,"http://www.1000steine.com/brickset/images/852037-1.jpg","No","No",0
+5938,"852038","1","Gear","Clothing","2007","Exo-Force Turquoise Children's T-shirt",,,,,,,"http://www.1000steine.com/brickset/images/852038-1.jpg","No","No",0
+5937,"852043","1","Gear","Clothing","2007","Grey Racers Cap",,,7.99,,,,"http://www.1000steine.com/brickset/images/852043-1.jpg","No","No",0
+6052,"852053","1","Gear","Clothing","2007","Bionicle Barraki Children's T-shirt",,,,,,,"http://www.1000steine.com/brickset/images/852053-1.jpg","No","No",0
+5967,"852054","1","Gear","Clothing","2007","Bionicle Ehlek Children's T-shirt",,,,,,,"http://www.1000steine.com/brickset/images/852054-1.jpg","No","No",0
+6053,"852064","1","Gear","Clothing","2007","Classic Yellow Children's T-Shirt",,,,,,,"http://www.1000steine.com/brickset/images/852064-1.jpg","No","No",0
+6054,"852066","1","Gear","Clothing","2007","Classic Women's White Slimfit Polo",,,,,,,"http://www.1000steine.com/brickset/images/852066-1.jpg","No","No",0
+6055,"852068","1","Gear","Clothing","2007","Classic Men's White Polo",,,,,,,"http://www.1000steine.com/brickset/images/852068-1.jpg","No","No",0
+5916,"852080","1","Gear","Key Chains/Batman","2007","Two-Face Key Chain",,,2.99,3.99,,,"http://www.1000steine.com/brickset/images/852080-1.jpg","No","No",0
+5917,"852081","1","Gear","Key Chains/Batman","2007","The Penguin Key Chain",,,2.99,3.99,,,"http://www.1000steine.com/brickset/images/852081-1.jpg","No","No",0
+6711,"852084","1","Gear","Housewares","2007","Classic Stripes Melamine Plates",,,7.79,,,,"http://www.1000steine.com/brickset/images/852084-1.jpg","No","No",0
+5918,"852085","1","Gear","Magnets/Star Wars","2007","Star Wars Magnet Set",,,7.49,12.99,,,"http://www.1000steine.com/brickset/images/852085-1.jpg","No","No",0
+6168,"852086","1","Gear","Magnets/Star Wars","2007","Star Wars Magnet Set: Darth Maul, Anakin and Naboo Fighter Pilot",,,7.49,12.99,,,"http://www.1000steine.com/brickset/images/852086-1.jpg","No","No",0
+6067,"852088","1","Gear","Role-play toys","2007","Castle Skeleton Armour",,,14.99,,,,"http://www.1000steine.com/brickset/images/852088-1.jpg","No","No",0
+6056,"852089","1","Gear","Magnets/Batman","2007","Mr Freeze Minifigure Magnet Set",,,7.49,12.99,,,"http://www.1000steine.com/brickset/images/852089-1.jpg","No","No",0
+6057,"852090","1","Gear","Key Chains/Batman","2007","Riddler Key Chain",,,2.95,3.99,,,"http://www.1000steine.com/brickset/images/852090-1.jpg","No","No",0
+6058,"852091","1","Gear","Key Chains/Harry Potter","2007","Harry Potter Key Chain",,,2.99,3.99,,,"http://www.1000steine.com/brickset/images/852091-1.jpg","No","No",0
+5949,"852095","1","Gear","Key Chains/Brick","2007","Yellow Brick Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/852095-1.jpg","No","No",0
+5950,"852096","1","Gear","Key Chains/Brick","2007","Green Brick Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/852096-1.jpg","No","No",0
+5951,"852097","1","Gear","Key Chains/Brick","2007","Orange Brick Key Chain",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/852097-1.jpg","No","No",0
+5952,"852098","1","Gear","Key Chains/Brick","2007","Black Brick Key Chain",,,2.99,4.99,5.99,,"http://www.1000steine.com/brickset/images/852098-1.jpg","No","No",0
+5953,"852099","1","Gear","Key Chains/Brick","2007","Lime Green Brick Key Chain",,,2.99,4.99,5.99,,"http://www.1000steine.com/brickset/images/852099-1.jpg","No","No",0
+5954,"852100","1","Gear","Key Chains/Brick","2007","White Brick Key Chain",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/852100-1.jpg","No","No",0
+6184,"852113","1","Gear","Key Chains/Star Wars","2007","Millennium Falcon Bag Charm",,,5.99,9.99,,,"http://www.1000steine.com/brickset/images/852113-1.jpg","No","No",0
+6182,"852114","1","Gear","Key Chains/Star Wars","2007","Y-wing Fighter Bag Charm",,,5.85,9.99,,,"http://www.1000steine.com/brickset/images/852114-1.jpg","No","No",0
+6181,"852115","1","Gear","Key Chains/Star Wars","2007","Vader's TIE Fighter Bag Charm",,,5.85,9.99,,,"http://www.1000steine.com/brickset/images/852115-1.jpg","No","No",0
+6206,"852116","1","Gear","Seasonal","2007","Santa Gift Bag",,,,4.99,,,"http://www.1000steine.com/brickset/images/852116-1.jpg","No","No",0
+6371,"852117","1","Gear","Seasonal","2007","LEGO City Gift Bag",,,,4.99,,,"http://www.1000steine.com/brickset/images/852117-1.jpg","No","No",0
+6160,"852119","1","Gear","Magnets/Seasonal","2007","Santa Magnet Set",1,,3.99,5.99,,,"http://www.1000steine.com/brickset/images/852119-1.jpg","No","No",0
+6159,"852124","1","Gear","Seasonal","2007","Santa Stocking",,,6.35,9.99,,,"http://www.1000steine.com/brickset/images/852124-1.jpg","No","No",0
+6163,"852129","1","Gear","Key Chains/Star Wars","2007","Emperor Palpatine Key Chain",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/852129-1.jpg","No","No",0
+6161,"852130","1","Gear","Key Chains/Batman","2007","Scarecrow Key Chain",,,2.99,3.99,,,"http://www.1000steine.com/brickset/images/852130-1.jpg","No","No",0
+6162,"852131","1","Gear","Key Chains/Batman","2007","Mr. Freeze Key Chain",,,2.95,3.99,,,"http://www.1000steine.com/brickset/images/852131-1.jpg","No","No",0
+6167,"852132","1","Gear","Board Games","2007","Castle Tic Tac Toe",10,,9.79,14.99,,,"http://www.1000steine.com/brickset/images/852132-1.jpg","No","No",0
+6204,"852133","1","Gear","Seasonal","2007","Santa Holiday Cards",,,,9.99,,,"http://www.1000steine.com/brickset/images/852133-1.jpg","No","No",0
+6519,"852145","1","Gear","Key Chains/Indiana Jones","2008","Indiana Jones Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/852145-1.jpg","No","No",0
+6520,"852146","1","Gear","Key Chains/Indiana Jones","2008","Professor Henry Jones Key Chain",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/852146-1.jpg","No","No",0
+6521,"852147","1","Gear","Key Chains/Indiana Jones","2008","Indiana Jones Guard Key Chain",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/852147-1.jpg","No","No",0
+6572,"852165","1","Gear","Role-play toys","2008","Jewellery Box with Sound Fairy",,,9.79,,,,"http://www.1000steine.com/brickset/images/852165-1.jpg","No","No",0
+6542,"852171","1","Gear","Role-play toys","2008","Phantoka Spheres Shooter",,,11.75,19.99,,,"http://www.1000steine.com/brickset/images/852171-1.jpg","No","No",0
+6530,"852172","1","Gear","Clothing","2008","Phantoka T-shirt",,,11.99,,,,"http://www.1000steine.com/brickset/images/852172-1.jpg","No","No",0
+10241,"852182","1","Gear","Key Chains/Clikits","2008","Cat keychain",,,,,,,,"No","No",0
+6523,"852194","1","Gear","Key Chains/Castle","2008","Dwarf Key Chain",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/852194-1.jpg","No","No",0
+6524,"852198","1","Gear","Role-play toys","2008","Dwarf Foam Axe",,,4.99,,,,"http://www.1000steine.com/brickset/images/852198-1.jpg","No","No",0
+6531,"852204","1","Gear","Clothing","2008","Police Officer Minifigure T-shirt",,,11.99,,,,"http://www.1000steine.com/brickset/images/852204-1.jpg","No","No",0
+6540,"852206","1","Gear","Bags","2008","Firefighter Backpack",,,14.65,19.99,,,"http://www.1000steine.com/brickset/images/852206-1.jpg","No","No",0
+6725,"852214","1","Gear","Housewares","2008","1x1 Salt & Pepper Shaker",,,3.99,4.99,,,"http://www.1000steine.com/brickset/images/852214-1.jpg","No","No",0
+6537,"852216","1","Gear","Magnets/Seasonal","2008","Easter Magnet Set",,,3.99,,,,"http://www.1000steine.com/brickset/images/852216-1.jpg","No","No",0
+6538,"852217","1","Gear","Seasonal","2008","Plush Bunny with Duplo Bricks",,,9.99,,,,"http://www.1000steine.com/brickset/images/852217-1.jpg","No","No",0
+6532,"852221","1","Gear","Clothing","2008","LEGO Retro T-shirt",,,13.69,,,,"http://www.1000steine.com/brickset/images/852221-1.jpg","No","No",0
+7102,"852227","1","Gear","Trading/Playing cards","2009","Pirate Playing Cards",,,2.99,4.99,6.99,,"http://www.1000steine.com/brickset/images/852227-1.jpg","No","No",0
+6613,"852231","1","Gear","Miscellaneous","2008","Castle Coin Bank",1,,6.35,14.99,,,"http://www.1000steine.com/brickset/images/852231-1.jpg","No","No",0
+6525,"852238","1","Gear","Key Chains/SpongeBob SquarePants","2008","Mrs. Puff Key Chain",,,2.95,3.99,,,"http://www.1000steine.com/brickset/images/852238-1.jpg","No","No",0
+6526,"852239","1","Gear","Key Chains/SpongeBob SquarePants","2008","SpongeBob Spacesuit Key Chain",,,2.95,3.99,,,"http://www.1000steine.com/brickset/images/852239-1.jpg","No","No",0
+6527,"852240","1","Gear","Key Chains/SpongeBob SquarePants","2008","Sandy Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/852240-1.jpg","No","No",0
+6571,"852242","1","Gear","Magnets/SpongeBob SquarePants","2008","SpongeBob Space Magnet Set",,,,,,,"http://www.1000steine.com/brickset/images/852242-1.jpg","No","No",0
+6533,"852243","1","Gear","Clothing","2009","SW Darth Vader T-shirt",,,13.69,,,,"http://www.1000steine.com/brickset/images/852243-1.jpg","No","No",0
+6534,"852244","1","Gear","Clothing","2008","LEGO Star Wars Stormtrooper Army T-shirt",,,13.69,,,,"http://www.1000steine.com/brickset/images/852244-1.jpg","No","No",0
+6586,"852245","1","Gear","Key Chains/Star Wars","2008","Landspeeder Bag Charm",,,5.85,4.99,,,"http://www.1000steine.com/brickset/images/852245-1.jpg","No","No",0
+6587,"852246","1","Gear","Key Chains/Star Wars","2008","Slave I Bag Charm",,,5.85,4.99,,,"http://www.1000steine.com/brickset/images/852246-1.jpg","No","No",0
+6588,"852247","1","Gear","Key Chains/Star Wars","2008","Jedi Starfighter Bag Charm",,,5.85,4.99,,,"http://www.1000steine.com/brickset/images/852247-1.jpg","No","No",0
+9757,"852266","1","Gear","Key Chains/Animal","2008","LEGOLAND Ollie Keychain",,,3.99,,,,"http://www.1000steine.com/brickset/images/852266-1.jpg","No","No",0
+6535,"852270","1","Gear","Bags","2008","Fairy Coin Purse",,,,4.99,,,"http://www.1000steine.com/brickset/images/852270-1.jpg","No","No",0
+6543,"852273","1","Gear","Key Chains/Brick","2008","Pink Brick Key Chain",,,2.99,4.99,5.99,,"http://www.1000steine.com/brickset/images/852273-1.jpg","No","No",0
+6632,"852274","1","Gear","Key Chains/Brick","2008","Light Blue Brick Key Chain",,,,4.99,,,"http://www.1000steine.com/brickset/images/852274-1.jpg","No","No",0
+6541,"852279","1","Gear","Role-play toys","2008","Phantoka Sphere Shooter Accessory Pack",,,2.95,7.99,,,"http://www.1000steine.com/brickset/images/852279-1.jpg","No","No",0
+6669,"852283","1","Gear","Housewares","2008","Fashion Picture Frame",,,4.89,,,,"http://www.1000steine.com/brickset/images/852283-1.jpg","No","No",0
+6612,"852286","1","Gear","Stationery","2008","Fashion Diary Stationery Set",,,8.79,14.99,,,"http://www.1000steine.com/brickset/images/852286-1.jpg","No","No",0
+6628,"852292","1","Gear","Stationery","2008","Stationery Activity Set",,,4.89,,,,"http://www.1000steine.com/brickset/images/852292-1.jpg","No","No",0
+6529,"852293","1","Gear","Board Games","2008","Castle Giant Chess Set",33,,136.99,199.99,,,"http://www.1000steine.com/brickset/images/852293-1.jpg","No","No",0
+6629,"852294","1","Gear","Role-play toys","2008","Dwarf Helmet EVA",,,5.39,,,,"http://www.1000steine.com/brickset/images/852294-1.jpg","No","No",0
+6638,"852302","1","Gear","Stationery","2008","Gadget Pen",,,2.95,,,,"http://www.1000steine.com/brickset/images/852302-1.jpg","No","No",0
+9374,"852308","1","Gear","Role-play toys","2008","Agents ID Card with Lanyard ",,,,,,,,"No","No",0
+6633,"852309","1","Gear","Key Chains/Brick","2008","Light Up Brick Key Chain",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/852309-1.jpg","No","No",0
+6630,"852312","1","Gear","Clothing","2008","Cap Batman 2008",,,6.85,,,,"http://www.1000steine.com/brickset/images/852312-1.jpg","No","No",0
+6619,"852314","1","Gear","Key Chains/Batman","2008","Batman (Grey Suit) Key Chain",,,2.99,3.99,,,"http://www.1000steine.com/brickset/images/852314-1.jpg","No","No",0
+6840,"852315","1","Gear","Key Chains/Batman","2008","Harley Quinn Keychain",,,,3.99,,,"http://www.1000steine.com/brickset/images/852315-1.jpg","No","No",0
+6631,"852317","1","Gear","Clothing","2008","T-shirt Batman",,,13.69,,,,"http://www.1000steine.com/brickset/images/852317-1.jpg","No","No",0
+6617,"852318","1","Gear","Bags","2008","Phantoka Backpack",,,14.65,24.99,,,"http://www.1000steine.com/brickset/images/852318-1.jpg","No","No",0
+6616,"852319","1","Gear","Housewares","2008","Phantoka Alu Drinking Bottle",,,5.85,9.99,,,"http://www.1000steine.com/brickset/images/852319-1.jpg","No","No",0
+6618,"852323","1","Gear","Bags","2008","Phantoka Wallet",,,5.85,9.99,,,"http://www.1000steine.com/brickset/images/852323-1.jpg","No","No",0
+6639,"852330","1","Gear","Clothing","2008","Lanyard LEGO Classic",,,2.95,7.99,,,"http://www.1000steine.com/brickset/images/852330-1.jpg","No","No",0
+6640,"852333","1","Gear","Key Chains/Miscellaneous","2008","Key Chain Name Programme",,,4.89,9.99,,,"http://www.1000steine.com/brickset/images/852333-1.jpg","No","No",0
+6634,"852335","1","Gear","Stationery","2008","LEGO Classic Notebook",,,,7.99,,,"http://www.1000steine.com/brickset/images/852335-1.jpg","No","No",0
+6635,"852336","1","Gear","Stationery","2008","Mechanical Pencil & Pen Set",,,3.45,2.99,,,"http://www.1000steine.com/brickset/images/852336-1.jpg","No","No",0
+6615,"852339","1","Gear","Housewares","2008","Play Rug",,,13.69,19.99,,,"http://www.1000steine.com/brickset/images/852339-1.jpg","No","No",0
+6636,"852341","1","Gear","Housewares","2008","Minifigure Ice Lollipop Mould",,,5.85,12.99,,,"http://www.1000steine.com/brickset/images/852341-1.jpg","No","No",0
+6854,"852346","1","Gear","Clothing","2008","LEGO Star Wars T-shirt 2008 Yoda",,,13.69,,,,"http://www.1000steine.com/brickset/images/852346-1.jpg","No","No",0
+6625,"852347","1","Gear","Key Chains/Star Wars","2008","Shock Trooper Key Chain",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/852347-1.jpg","No","No",0
+6626,"852348","1","Gear","Key Chains/Star Wars","2008","Rebel Trooper Key Chain",,,2.99,4.99,5.99,,"http://www.1000steine.com/brickset/images/852348-1.jpg","No","No",0
+6692,"852349","1","Gear","Key Chains/Star Wars","2008","Shadow Trooper Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/852349-1.jpg","No","No",0
+6684,"852350","1","Gear","Key Chains/Star Wars","2008","Anakin Skywalker Key Chain",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/852350-1.jpg","No","No",0
+6690,"852351","1","Gear","Key Chains/Star Wars","2008","Obi-Wan Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/852351-1.jpg","No","No",0
+6691,"852352","1","Gear","Key Chains/Star Wars","2008","Plo Koon Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/852352-1.jpg","No","No",0
+6683,"852353","1","Gear","Key Chains/Star Wars","2008","Ahsoka Key Chain",,,2.99,4.99,5.99,,"http://www.1000steine.com/brickset/images/852353-1.jpg","No","No",0
+6685,"852354","1","Gear","Key Chains/Star Wars","2008","Asajj Ventress Key Chain",,,2.95,4.99,,,"http://www.1000steine.com/brickset/images/852354-1.jpg","No","No",0
+6688,"852355","1","Gear","Key Chains/Star Wars","2008","Commander Cody Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/852355-1.jpg","No","No",0
+6687,"852356","1","Gear","Key Chains/Star Wars","2008","Captain Rex Key Chain",,,2.99,4.99,,,"http://www.1000steine.com/brickset/images/852356-1.jpg","No","No",0
+6627,"852394","1","Gear","Role-play toys","2008","Sword Hero",,,4.89,9.99,,,"http://www.1000steine.com/brickset/images/852394-1.jpg","No","No",0
+

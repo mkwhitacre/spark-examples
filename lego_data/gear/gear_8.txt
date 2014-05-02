@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+9875,"9002014","1","Gear","Watches/Clocks","2011","LEGO Creator Watch",,,,,,,,"No","No",0
+10163,"9002731","1","Gear","Watches/Clocks","2011","Toy Story Woody Minifigure Clock",,,24.99,,,,"http://www.1000steine.com/brickset/images/9002731-1.jpg","No","No",0
+22820,"9003066","1","Gear","Watches/Clocks","2012","HERO Factory watch",,,,,,,,"No","No",0
+10130,"9003073","1","Gear","Watches/Clocks","2011","Anakin Skywalker Minifigure Alarm Clock",,,24.99,,,,"http://www.1000steine.com/brickset/images/9003073-1.jpg","No","No",0
+22751,"9003400","1","Gear","Watches/Clocks","2011","Kingdoms Watch",,,,,,,"http://www.1000steine.com/brickset/images/9003400-1.jpg","No","No",0
+22771,"9003455","1","Gear","Watches/Clocks","2013","City Fire watch",,,,,,,"http://www.1000steine.com/brickset/images/9003455-1.jpg","No","No",0
+10370,"9003936","1","Gear","Watches/Clocks","2012","Captain Rex Minifigure Clock",,,24.99,,,,,"No","No",0
+22609,"9005251","1","Gear","Watches/Clocks","2012","Fang-Suei Minifigure Clock",,,23.99,,,,,"No","No",0
+10238,"9005602","1","Gear","Watches/Clocks","2012","Savage Opress Alarm Clock",,,24.99,,,,,"No","No",0
+8025,"ANN2011","1","Gear","Books/Miscellaneous","2010","LEGO Official Annual 2011",,,,,,,"http://www.1000steine.com/brickset/images/ANN2011-1.jpg","No","No",0
+9627,"ANN2012","1","Gear","Books/Miscellaneous","2011","LEGO Official Annual 2012",,,7.99,,,,"http://www.1000steine.com/brickset/images/ANN2012-1.jpg","No","No",0
+22754,"ANN2013","1","Gear","Books/Miscellaneous","2012","LEGO Official Annual 2013",,,,,,,,"No","No",0
+5897,"B014","1","Gear","Magnets/City","2006","City Mini-Figure Magnets",,,4.99,,,,,"No","No",0
+5487,"B031","1","Gear","Books/Bionicle","2006","Dark Hunters",,,,,,,"http://www.1000steine.com/brickset/images/B031-1.jpg","No","No",0
+6300,"B032","1","Gear","Books/Exo-Force","2007","EXO-FORCE #3: Search for the Golden City",,,,3.99,,,"http://www.1000steine.com/brickset/images/B032-1.jpg","No","No",0
+5624,"B048","1","Gear","Books/Bionicle","2006","Bionicle Legends #3: Power Play",,,,4.99,,,"http://www.1000steine.com/brickset/images/B048-1.jpg","No","No",0
+5817,"B058","1","Gear","Books/Bionicle","2006","Bionicle Legends #5: Inferno",,,,4.99,,,"http://www.1000steine.com/brickset/images/B058-1.jpg","No","No",0
+5836,"B074","1","Gear","Books/Bionicle","2006","BIONICLE Legends #4: Legacy of Evil",,,,4.99,,,"http://www.1000steine.com/brickset/images/B074-1.jpg","No","No",0
+5829,"B082","1","Gear","Books/Exo-Force","2006","EXO-FORCE #1: Escape from Sentai Mountain",,,,3.99,,,"http://www.1000steine.com/brickset/images/B082-1.jpg","No","No",0
+5830,"B090","1","Gear","Books/Exo-Force","2006","EXO-FORCE #2: Attack of the Robots",,,,3.99,,,"http://www.1000steine.com/brickset/images/B090-1.jpg","No","No",0
+9601,"B09STK01","1","Gear","Books/Dorling Kindersley/Sticker book","2009","LEGO Minifigure Ultimate Sticker Collection",,,7.99,,,,,"No","No",0
+4979,"B100","1","Gear","Books/Miscellaneous","1998","Crazy Action Contraptions",,,,19.99,,,"http://www.1000steine.com/brickset/images/B100-1.jpg","No","No",0
+6899,"B110","1","Gear","Books/Miscellaneous","2008","Crazy Action Contraptions Vol. 2",,,,,,,"http://www.1000steine.com/brickset/images/B110-1.jpg","No","No",0
+6301,"B112","1","Gear","Books/Exo-Force","2007","EXO-FORCE Collector's Guide",,,,5.99,,,"http://www.1000steine.com/brickset/images/B112-1.jpg","No","No",0
+9512,"B12FRND","1","Gear","Books/Promotional","2012","Friends Special Edition",,,,,,,,"No","No",0
+4580,"B156","1","Gear","Books/Bionicle","2003","Bionicle: The Official Guide",,,,,,,"http://www.1000steine.com/brickset/images/B156-1.jpg","No","No",0
+4581,"B164","1","Gear","Books/Bionicle","2003","Bionicle Chronicles #1: Tale of the Toa",,,,,,,"http://www.1000steine.com/brickset/images/B164-1.jpg","No","No",0
+4582,"B172","1","Gear","Books/Bionicle","2003","Bionicle Chronicles #2: Beware the Bohrok",,,,,,,"http://www.1000steine.com/brickset/images/B172-1.jpg","No","No",0
+4583,"B180","1","Gear","Books/Bionicle","2003","Bionicle: Mask of Light Movie Novelization",,,,,,,"http://www.1000steine.com/brickset/images/B180-1.jpg","No","No",0
+4789,"B194","1","Gear","Books/Bionicle","2005","Bionicle Adventures #7: Web of the Visorak",,,,,,,"http://www.1000steine.com/brickset/images/B194-1.jpg","No","No",0
+4584,"B199","1","Gear","Books/Bionicle","2003","Bionicle Chronicles #3: Makuta's Revenge",,,,,,,"http://www.1000steine.com/brickset/images/B199-1.jpg","No","No",0
+4585,"B202","1","Gear","Books/Bionicle","2003","Bionicle Collector's Sticker Book",,,,,,,"http://www.1000steine.com/brickset/images/B202-1.jpg","No","No",0
+4790,"B216","1","Gear","Books/Bionicle","2005","Bionicle Adventures #8: Challenge of the Hordika",,,,,,,"http://www.1000steine.com/brickset/images/B216-1.jpg","No","No",0
+4586,"B220","1","Gear","Books/Bionicle","2004","Bionicle Adventures #5: Voyage of Fear",,,,,,,"http://www.1000steine.com/brickset/images/B220-1.jpg","No","No",0
+4705,"B239","1","Gear","Books/Bionicle","2004","Bionicle Adventures #6: Maze of Shadows",,,,,,,"http://www.1000steine.com/brickset/images/B239-1.jpg","No","No",0
+4587,"B310","1","Gear","Books/Bionicle","2004","Bionicle Adventures #1: Mystery of Metru Nui",,,,,,,"http://www.1000steine.com/brickset/images/B310-1.jpg","No","No",0
+4980,"B321","1","Gear","Books/Knights' Kingdom","2005","Welcome to the Kingdom of Morcia: A Sticker Storybook",,,,,,,"http://www.1000steine.com/brickset/images/B321-1.jpg","No","No",0
+4588,"B329","1","Gear","Books/Bionicle","2004","Bionicle Adventures #2: Toa Metru vs. Morbuzakh!",,,,,,,"http://www.1000steine.com/brickset/images/B329-1.jpg","No","No",0
+4589,"B337","1","Gear","Books/Bionicle","2004","Bionicle Adventures #3: The Darkness Below",,,,,,,"http://www.1000steine.com/brickset/images/B337-1.jpg","No","No",0
+4590,"B345","1","Gear","Books/Bionicle","2004","Bionicle Metru Nui: City of Legends Guide",,,,,,,"http://www.1000steine.com/brickset/images/B345-1.jpg","No","No",0
+4591,"B478","1","Gear","Books/Bionicle","2004","Bionicle Adventures #4: Legends of Metru Nui",,,,,,,"http://www.1000steine.com/brickset/images/B478-1.jpg","No","No",0
+4592,"B500","1","Gear","Books/Dorling Kindersley","1999","The Ultimate LEGO Book",,,,,,,"http://www.1000steine.com/brickset/images/B500-1.jpg","No","No",0
+6218,"B506","1","Gear","Books/Mindstorms","2007","Mindstorms NXT Idea Book: Design, Invent and Build",,,,29.95,,,"http://www.1000steine.com/brickset/images/B506-1.jpg","No","No",0
+4921,"B536","1","Gear","Books/Bionicle","2005","Bionicle Chronicles Boxed Set",,,,,,,"http://www.1000steine.com/brickset/images/B536-1.jpg","No","No",0
+5071,"B542","1","Gear","Books/Miscellaneous","2005","The Unofficial LEGO Builder's Guide",,,,24.95,,,"http://www.1000steine.com/brickset/images/B542-1.jpg","No","No",0
+4593,"B565","1","Gear","Books/Mindstorms","2004","Jin Sato's LEGO Mindstorms: The Master's Technique",,,,,,,"http://www.1000steine.com/brickset/images/B565-1.jpg","No","No",0
+5245,"B586","1","Gear","Books/Bionicle","2005","Bionicle Adventures #9: Web of Shadows",,,,,,,"http://www.1000steine.com/brickset/images/B586-1.jpg","No","No",0
+5246,"B594","1","Gear","Books/Bionicle","2005","Bionicle Adventures #10: Time Trap",,,,,,,"http://www.1000steine.com/brickset/images/B594-1.jpg","No","No",0
+5402,"B608","1","Gear","Books/Bionicle","2006","Bionicle Legends: Island of Doom #1",,,,,,,"http://www.1000steine.com/brickset/images/B608-1.jpg","No","No",0
+5247,"B616","1","Gear","Books/Bionicle","2005","Bionicle Encyclopedia",,,,6.99,,,"http://www.1000steine.com/brickset/images/B616-1.jpg","No","No",0
+4594,"B706","1","Gear","Books/Bionicle","2004","Bionicle Chronicles #4: Tales of the Masks",,,,,,,"http://www.1000steine.com/brickset/images/B706-1.jpg","No","No",0
+6713,"B8516","1","Gear","Clothing","2008","Batman T-Shirt",,,,,,,"http://www.1000steine.com/brickset/images/B8516-1.jpg","No","No",0
+6061,"B8518","1","Gear","Clothing","2006","Exo-Force T-Shirt",,,9.99,,,,"http://www.1000steine.com/brickset/images/B8518-1.jpg","No","No",0
+5974,"B915","1","Gear","Books/Mindstorms","2007","Maximum LEGO NXT: Building Robots with Java Brains",,,,32.95,,,"http://www.1000steine.com/brickset/images/B915-1.jpg","No","No",0
+5416,"B955","1","Gear","Books/Bionicle","2006","Bionicle Legends #2: Dark Destiny",,,,4.99,,,"http://www.1000steine.com/brickset/images/B955-1.jpg","No","No",0
+9509,"BATCOM01","1","Gear","Books/Promotional","2006","Batman Secret Files & Origins - Special Collectors Edition",,,,,,,,"No","No",0
+9530,"BB173","3","Gear","Storage","1971","Holdall Storage Bag",,,,,,,,"No","No",0
+9531,"BB173","2","Gear","Storage","1972","Holdall Storage Bag",,,,,,,,"No","No",0
+9532,"BB173","1","Gear","Storage","1975","Holdall Storage Bag",,,,,,,,"No","No",0
+9536,"BIOCOM01SP1","1","Gear","Books/Promotional","2003","Bionicle # 1 Six Heroes One Destiny (SDCC Edition)",,,,0,,,,"No","No",0
+6603,"C001","1","Gear","Watches/Clocks","2008","LEGO Star Wars Clock",,,19.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/C001-1.jpg","No","No",0
+4595,"C2614","1","Gear","Watches/Clocks","2003","Basketball Clock",,,,,,,"http://www.1000steine.com/brickset/images/C2614-1.jpg","No","No",0
+5481,"CDB25","1","Gear","CD/DVDs","2005",""From the LEGO Vaults" CD-Rom",,,,,,,"http://www.1000steine.com/brickset/images/CDB25-1.jpg","No","No",0
+5505,"CDB26","1","Gear","CD/DVDs","2006","'From the LEGO Vaults' CD-Rom, Volume 2",,,,19.99,,,"http://www.1000steine.com/brickset/images/CDB26-1.jpg","No","No",0
+9603,"CITYDVD","1","Gear","CD/DVDs","2012","LEGO City: Mini Movie Collection DVD",,,0,,,,,"No","No",0
+7926,"DKATLANTIS","1","Gear","Books/Dorling Kindersley/Brickmaster","2010","Brickmaster Atlantis",2,,,,,,"http://www.1000steine.com/brickset/images/DKATLANTIS-1.jpg","No","No",0
+7222,"DKCASTLE","1","Gear","Books/Dorling Kindersley/Brickmaster","2009","Brickmaster Castle",2,,,,,,"http://www.1000steine.com/brickset/images/DKCASTLE-1.jpg","No","No",0
+7349,"DKCITY","1","Gear","Books/Dorling Kindersley/Brickmaster","2011","Brickmaster City",2,,,,,,"http://www.1000steine.com/brickset/images/DKCITY-1.jpg","No","No",0
+9765,"DKHPCMW","1","Gear","Books/Dorling Kindersley","2012","Harry Potter Characters of the Magical World",1,,14.99,,,,"http://www.1000steine.com/brickset/images/DKHPCMW-1.jpg","No","No",0
+9626,"DKHPMAGICAL","1","Gear","Books/Dorling Kindersley/Sticker book","2011","Harry Potter Magical Adventures Ultimate Sticker Book",,,4.99,,,,"http://www.1000steine.com/brickset/images/DKHPMAGICAL-1.jpg","No","No",0
+8830,"DKNINJAGO","1","Gear","Books/Dorling Kindersley/Brickmaster","2011","Brickmaster Ninjago",2,,,,,,"http://www.1000steine.com/brickset/images/DKNINJAGO-1.jpg","No","No",0
+7223,"DKPIRATES","1","Gear","Books/Dorling Kindersley/Brickmaster","2009","Brickmaster Pirates",2,,,,,,"http://www.1000steine.com/brickset/images/DKPIRATES-1.jpg","No","No",0
+8102,"DKSS","1","Gear","Books/Dorling Kindersley","2009","Standing Small",,,,,,,"http://www.1000steine.com/brickset/images/DKSS-1.jpg","No","No",0
+22979,"DKSTARWARS","1","Gear","Books/Dorling Kindersley/Brickmaster","2013","Brickmaster Star Wars: Battle for the Stolen Crystals",,,,,,,"http://www.1000steine.com/brickset/images/DKSTARWARS-1.jpg","No","No",0
+9760,"DKSWESSEN","1","Gear","Books/Dorling Kindersley","2011","LEGO Star Wars: The Essential Book Collection",,,12.99,,,,"http://www.1000steine.com/brickset/images/DKSWESSEN-1.jpg","No","No",0
+9606,"DKSWHEROES","1","Gear","Books/Dorling Kindersley/Sticker book","2011","Star Wars Heroes Ultimate Sticker Book ",,,4.99,,,,"http://www.1000steine.com/brickset/images/DKSWHEROES-1.jpg","No","No",0
+9609,"DKSWVILLAINS","1","Gear","Books/Dorling Kindersley/Sticker book","2011","Star Wars Villains Ultimate Sticker Book ",,,4.99,,,,"http://www.1000steine.com/brickset/images/DKSWVILLAINS-1.jpg","No","No",0
+9599,"DVD246","1","Gear","CD/DVDs","2006","Bionicle 3: Web Of Shadows DVD",,,,,,,"http://www.1000steine.com/brickset/images/DVD246-1.jpg","No","No",0
+9597,"DVD503","1","Gear","CD/DVDs","2003","Bionicle: Mask Of Light DVD",,,15.99,,,,"http://www.1000steine.com/brickset/images/DVD503-1.jpg","No","No",0
+9598,"DVD803","1","Gear","CD/DVDs","2004","Bionicle 2: Legends Of Metru Nui DVD",,,,,,,"http://www.1000steine.com/brickset/images/DVD803-1.jpg","No","No",0
+5627,"EL136","1","Gear","Miscellaneous","2006","DINO ATTACK Minifigure Parachute",,,,,,,"http://www.1000steine.com/brickset/images/EL136-1.jpg","No","No",0
+5629,"EL150","1","Gear","Miscellaneous","2006","DINO ATTACK Sand Mould Set",,,,,,,"http://www.1000steine.com/brickset/images/EL150-1.jpg","No","No",0
+5626,"EL151","1","Gear","Miscellaneous","2006","DINO ATTACK Chalk Eggs",,,,,,,"http://www.1000steine.com/brickset/images/EL151-1.jpg","No","No",0
+5631,"EL416","1","Gear","Stationery","2006","DUPLO Princesses Coloring Pack",,,,,,,"http://www.1000steine.com/brickset/images/EL416-1.jpg","No","No",0
+5632,"EL429","1","Gear","Housewares","2006","LEGO Chef Apron",,,,,,,"http://www.1000steine.com/brickset/images/EL429-1.jpg","No","No",0
+5625,"EL557","1","Gear","Stationery","2006","Belville Princesses Stationary Set",,,,4.99,,,"http://www.1000steine.com/brickset/images/EL557-1.jpg","No","No",0
+5549,"EL571","1","Gear","Housewares","2006","Coaster Set",,,7.49,12.99,,,"http://www.1000steine.com/brickset/images/EL571-1.jpg","No","No",0
+5628,"EL612","1","Gear","Stationery","2006","DINO ATTACK Pencil Set",,,,,,,"http://www.1000steine.com/brickset/images/EL612-1.jpg","No","No",0
+5600,"EL709","1","Gear","Storage","2006","Store & Carry Case",,,,14.99,,,"http://www.1000steine.com/brickset/images/EL709-1.jpg","No","No",0
+5547,"EL715","1","Gear","Housewares","2006","Corkscrew & Bottle Opener",,,,15,,,"http://www.1000steine.com/brickset/images/EL715-1.jpg","No","No",0
+5721,"EL771","1","Gear","Role-play toys","2006","City Firefighter Water Blaster",,,,,,,"http://www.1000steine.com/brickset/images/EL771-1.jpg","No","No",0
+5479,"EL792","1","Gear","Housewares","2006","Salt and Pepper Shaker Set",,,,4.99,,,"http://www.1000steine.com/brickset/images/EL792-1.jpg","No","No",0
+5633,"EL895","1","Gear","Role-play toys","2006","Sword of Lord Vladek",,,,,,,"http://www.1000steine.com/brickset/images/EL895-1.jpg","No","No",0
+5964,"EL913","1","Gear","Housewares","2007","Classic Calculator",,,,4.99,,,"http://www.1000steine.com/brickset/images/EL913-1.jpg","No","No",0
+5630,"EL986","1","Gear","Stationery","2006","DUPLO Castle Coloring Pack",,,,,,,"http://www.1000steine.com/brickset/images/EL986-1.jpg","No","No",0
+5542,"G1752","1","Gear","Board Games","2006","LEGO Dominos Game",,,,12.99,,,"http://www.1000steine.com/brickset/images/G1752-1.jpg","No","No",0
+5524,"G1753","1","Gear","Board Games","2006","LEGO Checkers",,,,12.99,,,"http://www.1000steine.com/brickset/images/G1753-1.jpg","No","No",0
+5837,"G1754","1","Gear","Board Games","2006","BIONICLE The Quest Game",,,,14.99,,,"http://www.1000steine.com/brickset/images/G1754-1.jpg","No","No",0
+5543,"G572","1","Gear","Board Games","2006","LEGO Ludo",16,,,39.99,,,"http://www.1000steine.com/brickset/images/G572-1.jpg","No","No",0
+5544,"G574","1","Gear","Board Games","2006","LEGO Tic-Tac-Toe",10,,,19.99,,,"http://www.1000steine.com/brickset/images/G574-1.jpg","No","No",0
+5525,"G577","1","Gear","Board Games","2006","Vikings Chess Set",24,,29.99,,,,"http://www.1000steine.com/brickset/images/G577-1.jpg","No","No",0
+4998,"G678","1","Gear","Board Games","2005","Knights' Kingdom Chess Set",24,,29.99,,,,"http://www.1000steine.com/brickset/images/G678-1.jpg","No","No",0
+5814,"GBA275","1","Gear","Video Games/Game Boy Advance","2006","BIONICLE Heroes",,,,29.99,,,"http://www.1000steine.com/brickset/images/GBA275-1.jpg","No","No",0
+4812,"GBA381","1","Gear","Video Games/Game Boy Advance","2005","LEGO Star Wars: The Video Game",,,,,,,"http://www.1000steine.com/brickset/images/GBA381-1.jpg","No","No",0
+4596,"GBA684","1","Gear","Video Games/Game Boy Advance","2004","LEGO Knights' Kingdom",,,,,,,"http://www.1000steine.com/brickset/images/GBA684-1.jpg","No","No",0
+6946,"GBA685","1","Gear","Video Games/Game Boy Advance","2005","BIONICLE: Maze of Shadows",,,,,,,,"No","No",0
+5527,"GBA960","1","Gear","Video Games/Game Boy Advance","2006","LEGO Star Wars II: The Original Trilogy",,,,19.99,,,"http://www.1000steine.com/brickset/images/GBA960-1.jpg","No","No",0
+5815,"GC190","1","Gear","Video Games/Gamecube","2006","BIONICLE Heroes",,,,29.99,,,"http://www.1000steine.com/brickset/images/GC190-1.jpg","No","No",0
+6383,"GC383","1","Gear","Video Games/Gamecube","2005","LEGO Star Wars: The Video Game",,,,,,,,"No","No",0
+5599,"GC958","1","Gear","Video Games/Gamecube","2006","LEGO Star Wars II: The Original Trilogy",,,,39.99,,,"http://www.1000steine.com/brickset/images/GC958-1.jpg","No","No",0
+9461,"GGSW001","1","Gear","Miscellaneous","2007","Blackhole Stormtrooper Maquette (Gentle Giant)",,,,64.99,,,"http://www.1000steine.com/brickset/images/GGSW001-1.jpg","No","No",0
+9462,"GGSW002","1","Gear","Miscellaneous","2007","Darth Vader Maquette (Gentle Giant)",,,,64.99,,,"http://www.1000steine.com/brickset/images/GGSW002-1.jpg","No","No",0
+9463,"GGSW003","1","Gear","Miscellaneous","2007","Stormtrooper Maquette (Gentle Giant)",,,,64.99,,,"http://www.1000steine.com/brickset/images/GGSW003-1.jpg","No","No",0
+9464,"GGSW004","1","Gear","Miscellaneous","2007","Boba Fett Maquette (Gentle Giant)",,,,64.99,,,"http://www.1000steine.com/brickset/images/GGSW004-1.jpg","No","No",0
+6302,"GGSW005","1","Gear","Miscellaneous","2007","Luke Skywalker Pilot Maquette",,,,19.99,,,"http://www.1000steine.com/brickset/images/GGSW005-1.jpg","No","No",0
+5634,"GW563","1","Gear","Seasonal","2006","LEGO Holiday Minifigure Gift Wrap & Tags",,,,2.99,,,"http://www.1000steine.com/brickset/images/GW563-1.jpg","No","No",0
+5548,"GW980","1","Gear","Housewares","2006","Classic Gift Wrap",,,,2.99,,,"http://www.1000steine.com/brickset/images/GW980-1.jpg","No","No",0
+6110,"H107","1","Gear","Clothing","2006","Toa Whenua Hat",,,,11.99,,,,"No","No",0
+6299,"HEROWII","1","Gear","Video Games/Wii","2007","BIONICLE Heroes",,,,,,,"http://www.1000steine.com/brickset/images/HEROWII-1.jpg","No","No",0
+9475,"HQSR","1","Gear","Books/Promotional","2012","Heroica: Quest For The Secret Relics",,,,0,,,,"No","No",0
+5680,"K2226","1","Gear","Bedding","2005","CLIKITS Bedcovers Set",,,26.99,,,,"http://www.1000steine.com/brickset/images/K2226-1.jpg","No","No",0
+5679,"K2326","1","Gear","Bedding","2006","Bedcover LEGO Classic",,,,,,,"http://www.1000steine.com/brickset/images/K2326-1.jpg","No","No",0
+5676,"K2356","1","Gear","Bedding","2006","Bedcover Toa Hordika ",,,26.99,,,,"http://www.1000steine.com/brickset/images/K2356-1.jpg","No","No",0
+5675,"K2357","1","Gear","Bedding","2006","Bedcover Toa Hordika",,,26.99,,,,"http://www.1000steine.com/brickset/images/K2357-1.jpg","No","No",0
+4694,"K7503","1","Gear","Stationery","2004","Eraser Set",,,,,,,"http://www.1000steine.com/brickset/images/K7503-1.jpg","No","No",0
+6879,"K810010","1","Gear","Bedding","2008","Duplo 3-Piece Bedding Set Green - Baby",,,27.88,,,,"http://www.1000steine.com/brickset/images/K810010-1.jpg","No","No",0
+6880,"K810012","1","Gear","Bedding","2008","Duplo 3-Piece Bedding Set Green - Junior",,,33.28,,,,"http://www.1000steine.com/brickset/images/K810012-1.jpg","No","No",0
+6881,"K810020","1","Gear","Bedding","2008","Duplo 3-Piece Bedding Set Pink - Baby",,,27.88,,,,"http://www.1000steine.com/brickset/images/K810020-1.jpg","No","No",0
+6882,"K810022","1","Gear","Bedding","2008","Duplo 3-Piece Bedding Set Pink - Junior",,,33.28,,,,"http://www.1000steine.com/brickset/images/K810022-1.jpg","No","No",0
+6178,"K851951","1","Gear","Housewares","2007","Classic Picnic Set",,,19.99,,,,"http://www.1000steine.com/brickset/images/K851951-1.jpg","No","No",0
+6177,"K851988","1","Gear","Miscellaneous","2007","DUPLO Height Chart with Zoo Sticker Set",,,7.98,,,,"http://www.1000steine.com/brickset/images/K851988-1.jpg","No","No",0
+5969,"KB058","1","Gear","Books/Bionicle","2007","Bionicle Legends Gift Set #2",,,,12.99,,,"http://www.1000steine.com/brickset/images/KB058-1.jpg","No","No",0
+5738,"KB608","1","Gear","Books/Bionicle","2006","Bionicle Legends Gift Set",,,,,,,"http://www.1000steine.com/brickset/images/KB608-1.jpg","No","No",0
+6316,"KC201","1","Gear","Key Chains/Star Wars","2007","Boba Fett Keyring",,,,3.99,,,"http://www.1000steine.com/brickset/images/KC201-1.jpg","No","No",0
+6693,"KC28","1","Gear","Key Chains/Star Wars","2002","C-3PO Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/KC28-1.jpg","No","No",0
+4597,"KC584","1","Gear","Key Chains/Bionicle","2003","Bionicle Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/KC584-1.jpg","No","No",0
+4598,"KC663","1","Gear","Key Chains/Studios","2004","Vampire Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/KC663-1.jpg","No","No",0
+4600,"KC705","1","Gear","Key Chains/Spider Man","2004","Spider Man Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/KC705-1.jpg","No","No",0
+5526,"KC777","1","Gear","Key Chains/Harry Potter","2006","Professor Dumbledore Keychain",,,,3.99,,,"http://www.1000steine.com/brickset/images/KC777-1.jpg","No","No",0
+4704,"KC839","1","Gear","Key Chains/Bionicle","2004","Toa Hordika Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/KC839-1.jpg","No","No",0
+4601,"KC845","1","Gear","Key Chains/Harry Potter","2004","Harry Potter Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/KC845-1.jpg","No","No",0
+4602,"KC860","1","Gear","Key Chains/Harry Potter","2004","Hagrid Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/KC860-1.jpg","No","No",0
+4603,"KC864","1","Gear","Key Chains/Harry Potter","2004","Dumbledore Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/KC864-1.jpg","No","No",0
+5656,"KC915","1","Gear","Key Chains/World City","2006","Agent Keychain",,,,,,,"http://www.1000steine.com/brickset/images/KC915-1.jpg","No","No",0
+9437,"KCP03","1","Gear","Key Chains/Promotional","1980","WWF Female Minifigure Key Chain",,,0,0,,,,"No","No",0
+9420,"KCP04","1","Gear","Key Chains/Promotional","2005","Nvidia Female Minifigure Key Chain",,,,0,,,,"No","No",0
+9421,"KCP05","1","Gear","Key Chains/Promotional","2005","Nvidia Male Minifigure Key Chain",,,,0,,,,"No","No",0
+5063,"KP3101","1","Gear","Pens","2005","Limited Edition Pen Set",,,,,,,"http://www.1000steine.com/brickset/images/KP3101-1.jpg","No","No",0
+6858,"KSB28","1","Gear","Bonus/Value Pack","2008","LEGO BrickMaster Sample Magazine",,,,8.99,,,"http://www.1000steine.com/brickset/images/KSB28-1.jpg","No","No",0
+6861,"LBMNDS","1","Gear","Video Games/DS","2008","LEGO Batman: The Videogame",,,19.99,,,,,"No","No",0
+6866,"LBMPC","1","Gear","Video Games/PC","2008","LEGO Batman: The Videogame",,,19.55,,,,"http://www.1000steine.com/brickset/images/LBMPC-1.jpg","No","No",0
+6863,"LBMPS2","1","Gear","Video Games/PS2","2008","LEGO Batman: The Videogame",,,19.99,,,,"http://www.1000steine.com/brickset/images/LBMPS2-1.jpg","No","No",0
+6864,"LBMPS3","1","Gear","Video Games/PS3","2008","LEGO Batman: The Videogame",,,29.35,,,,"http://www.1000steine.com/brickset/images/LBMPS3-1.jpg","No","No",0
+6865,"LBMPSP","1","Gear","Video Games/PSP","2008","LEGO Batman: The Videogame",,,,,,,"http://www.1000steine.com/brickset/images/LBMPSP-1.jpg","No","No",0
+6862,"LBMWII","1","Gear","Video Games/Wii","2008","LEGO Batman: The Videogame",,,29.35,,,,"http://www.1000steine.com/brickset/images/LBMWII-1.jpg","No","No",0
+6867,"LBMX360","1","Gear","Video Games/Xbox 360","2008","LEGO Batman: The Videogame",,,29.99,,,,"http://www.1000steine.com/brickset/images/LBMX360-1.jpg","No","No",0
+6604,"LIJNDS","1","Gear","Video Games/DS","2008","LEGO Indiana Jones: The Original Adventures",,,24.99,29.99,,,"http://www.1000steine.com/brickset/images/LIJNDS-1.jpg","No","No",0
+6609,"LIJPC","1","Gear","Video Games/PC","2008","LEGO Indiana Jones: The Original Adventures",,,17.99,29.99,,,"http://www.1000steine.com/brickset/images/LIJPC-1.jpg","No","No",0
+6606,"LIJPS2","1","Gear","Video Games/PS2","2008","LEGO Indiana Jones: The Original Adventures",,,24.99,39.99,,,"http://www.1000steine.com/brickset/images/LIJPS2-1.jpg","No","No",0
+6607,"LIJPS3","1","Gear","Video Games/PS3","2008","LEGO Indiana Jones: The Original Adventures",,,29.35,49.99,,,"http://www.1000steine.com/brickset/images/LIJPS3-1.jpg","No","No",0
+6608,"LIJPSP","1","Gear","Video Games/PSP","2008","LEGO Indiana Jones: The Original Adventures",,,,39.99,,,"http://www.1000steine.com/brickset/images/LIJPSP-1.jpg","No","No",0
+6605,"LIJWII","1","Gear","Video Games/Wii","2008","LEGO Indiana Jones: The Original Adventures",,,29.35,49.99,,,"http://www.1000steine.com/brickset/images/LIJWII-1.jpg","No","No",0
+6610,"LIJXB360","1","Gear","Video Games/Xbox 360","2008","LEGO Indiana Jones: The Original Adventures",,,,49.99,,,"http://www.1000steine.com/brickset/images/LIJXB360-1.jpg","No","No",0
+22666,"LOTRDVDBD","1","Gear","CD/DVDs","2013","The Hobbit - An Unexpected Journey Blu-Ray with Bilbo Baggins Minifigure",1,,,,,,"http://www.1000steine.com/brickset/images/LOTRDVDBD-1.jpg","No","No",0
+9738,"LOTRPC","1","Gear","Storage","2012","Lord Of The Rings Project Case",,,,13.99,,,,"No","No",0
+5492,"M196","1","Gear","Magnets/City","2006","City Magnet Set",,,,7.99,,,"http://www.1000steine.com/brickset/images/M196-1.jpg","No","No",0
+5594,"M206","1","Gear","Magnets/SpongeBob SquarePants","2006","SpongeBob Mini-Figure Magnet Set",,,,12.99,,,"http://www.1000steine.com/brickset/images/M206-1.jpg","No","No",0
+5418,"M207","1","Gear","Magnets/Knights' Kingdom","2006","Knights' Kingdom Magnet Set",,,,,,,"http://www.1000steine.com/brickset/images/M207-1.jpg","No","No",0
+5408,"M228","1","Gear","Magnets/Star Wars","2006","LEGO Star Wars Yoda Magnet Set",,,,,,,"http://www.1000steine.com/brickset/images/M228-1.jpg","No","No",0
+5409,"M229","1","Gear","Magnets/Star Wars","2006","LEGO Star Wars Darth Vader Magnet Set",,,,12.99,,,"http://www.1000steine.com/brickset/images/M229-1.jpg","No","No",0
+5517,"M428","1","Gear","Magnets/Minifigures","2006","Classic Minifigure Magnet Set",,,,14.99,,,"http://www.1000steine.com/brickset/images/M428-1.jpg","No","No",0
+5653,"M565","1","Gear","Seasonal","2006","Holiday Magnet Set",1,,,,,,"http://www.1000steine.com/brickset/images/M565-1.jpg","No","No",0
+5348,"M780","1","Gear","Magnets/Batman","2006","Batman Minifigure Magnet Set",,,,12.99,,,"http://www.1000steine.com/brickset/images/M780-1.jpg","No","No",0
+23209,"MCDR1","1","Gear","Fast food toys","2009","6 x 2 Turbo",,,,,,,"http://www.1000steine.com/brickset/images/MCDR1-1.jpg","No","No",0
+23210,"MCDR2","1","Gear","Fast food toys","2009","Rally Fire",,,,,,,"http://www.1000steine.com/brickset/images/MCDR2-1.jpg","No","No",0
+23211,"MCDR3","1","Gear","Fast food toys","2009","Curve Cruiser",,,,,,,"http://www.1000steine.com/brickset/images/MCDR3-1.jpg","No","No",0
+23212,"MCDR4","1","Gear","Fast food toys","2009","Circuit Star",,,,,,,"http://www.1000steine.com/brickset/images/MCDR4-1.jpg","No","No",0
+23489,"MCDR5","1","Gear","Fast food toys","2009","Lap Star",,,,,,,"http://www.1000steine.com/brickset/images/MCDR5-1.jpg","No","No",0
+23490,"MCDR6","1","Gear","Fast food toys","2009","EZ Rally",,,,,,,"http://www.1000steine.com/brickset/images/MCDR6-1.jpg","No","No",0
+23491,"MCDR7","1","Gear","Fast food toys","2009","Curve Chaser",,,,,,,"http://www.1000steine.com/brickset/images/MCDR7-1.jpg","No","No",0
+23492,"MCDR8","1","Gear","Fast food toys","2009","Sport Racer",,,,,,,"http://www.1000steine.com/brickset/images/MCDR8-1.jpg","No","No",0
+6308,"NDS061","1","Gear","Video Games/DS","2007","LEGO Star Wars: The Complete Saga",,,,34.99,,,"http://www.1000steine.com/brickset/images/NDS061-1.jpg","No","No",0
+5813,"NDS213","1","Gear","Video Games/DS","2006","BIONICLE Heroes",,,,29.99,,,"http://www.1000steine.com/brickset/images/NDS213-1.jpg","No","No",0
+5529,"NDS961","1","Gear","Video Games/DS","2006","LEGO Star Wars II: The Original Trilogy",,,,34.99,,,"http://www.1000steine.com/brickset/images/NDS961-1.jpg","No","No",0
+9604,"NINJAGODVD","1","Gear","CD/DVDs","2012","Ninjago: Masters of Spinjitzu DVD",,,,14.97,,,"http://www.1000steine.com/brickset/images/NINJAGODVD-1.jpg","No","No",0
+5031,"P1729","1","Gear","Pens","2003","Luke Skywalker Pen",,,,,,,,"No","No",0
+5025,"P1735","1","Gear","Pens","2005","Rascus & Jayko Pen",,,,,,,"http://www.1000steine.com/brickset/images/P1735-1.jpg","No","No",0
+4604,"P1802","1","Gear","Pens","2004","Clikits Heart Pen",,,,,,,"http://www.1000steine.com/brickset/images/P1802-1.jpg","No","No",0
+6482,"P2064","1","Gear","Pens","2008","SpongeBob Pen Set",,,,9.99,,,"http://www.1000steine.com/brickset/images/P2064-1.jpg","No","No",0
+6124,"P2155","1","Gear","Pens","2007","Darth Vader Connect & Build Pen",,,,9.99,,,"http://www.1000steine.com/brickset/images/P2155-1.jpg","No","No",0
+6126,"P2156","1","Gear","Pens","2007","Yoda Connect & Build Pen",,,,9.99,,,"http://www.1000steine.com/brickset/images/P2156-1.jpg","No","No",0
+6125,"P2157","1","Gear","Pens","2007","R2-D2 Connect & Build Pen",,,,9.99,,,"http://www.1000steine.com/brickset/images/P2157-1.jpg","No","No",0
+6123,"P2158","1","Gear","Pens","2007","Chewbacca Connect & Build Pen",,,,9.99,,,"http://www.1000steine.com/brickset/images/P2158-1.jpg","No","No",0
+4605,"P3103","1","Gear","Pens","2004","Harry Potter Pen",,,,,,,"http://www.1000steine.com/brickset/images/P3103-1.jpg","No","No",0
+5195,"P3110","1","Gear","Pens","2005","Harry Potter Pen",,,,,,,"http://www.1000steine.com/brickset/images/P3110-1.jpg","No","No",0
+4606,"P3112","1","Gear","Pens","2004","Santa Pen",,,,,,,"http://www.1000steine.com/brickset/images/P3112-1.jpg","No","No",0
+4607,"P3114","1","Gear","Pens","2004","Spider-Man Pen",,,,,,,"http://www.1000steine.com/brickset/images/P3114-1.jpg","No","No",0
+5027,"P3503","1","Gear","Pens","2005","Bionicle Carabiner Pen",,,,,,,"http://www.1000steine.com/brickset/images/P3503-1.jpg","No","No",0
+5196,"P3509","1","Gear","Pens","2005","Santa Carabiner Pen",,,,,,,"http://www.1000steine.com/brickset/images/P3509-1.jpg","No","No",0
+5026,"P3702","1","Gear","Pens","2005","Darth Vader Carabiner Pen",,,,,,,"http://www.1000steine.com/brickset/images/P3702-1.jpg","No","No",0
+

@@ -1,0 +1,113 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+7982,"MMMB023","1","Promotional","Monthly Mini Model Build","2010","Chick",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB023-1.jpg","No","No",0
+8018,"MMMB024","1","Promotional","Monthly Mini Model Build","2010","Truck",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB024-1.jpg","No","No",0
+8045,"MMMB025","1","Promotional","Monthly Mini Model Build","2010","Barbeque",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB025-1.jpg","No","No",0
+8096,"MMMB026","1","Promotional","Monthly Mini Model Build","2010","Watermelon",,43,0,0,,,"http://www.1000steine.com/brickset/images/MMMB026-1.jpg","No","No",0
+8097,"MMMB027","1","Promotional","Monthly Mini Model Build","2010","Seagull",,29,0,0,,,"http://www.1000steine.com/brickset/images/MMMB027-1.jpg","No","No",0
+8107,"MMMB028","1","Promotional","Monthly Mini Model Build","2010","Boy with Backpack",,41,0,0,,,"http://www.1000steine.com/brickset/images/MMMB028-1.jpg","No","No",0
+8186,"MMMB029","1","Promotional","Monthly Mini Model Build","2010","Monster",,49,0,0,,,"http://www.1000steine.com/brickset/images/MMMB029-1.jpg","No","No",0
+8339,"MMMB030","1","Promotional","Monthly Mini Model Build","2010","Turkey Dinner",,47,0,0,,,"http://www.1000steine.com/brickset/images/MMMB030-1.jpg","No","No",0
+8340,"MMMB031","1","Promotional","Monthly Mini Model Build","2010","Fire Place",,39,0,0,,,"http://www.1000steine.com/brickset/images/MMMB031-1.jpg","No","No",0
+8443,"MMMB032","1","Promotional","Monthly Mini Model Build","2010","Christmas Tree",,39,0,0,,,"http://www.1000steine.com/brickset/images/MMMB032-1.jpg","No","No",0
+8464,"MMMB033","1","Promotional","Monthly Mini Model Build","2011","Polar Bear",,45,0,0,,,"http://www.1000steine.com/brickset/images/MMMB033-1.jpg","No","No",0
+8747,"MMMB034","1","Promotional","Monthly Mini Model Build","2011","Skier",,43,0,0,,,"http://www.1000steine.com/brickset/images/MMMB034-1.jpg","No","No",0
+8748,"MMMB035","1","Promotional","Monthly Mini Model Build","2011","Bird",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB035-1.jpg","No","No",0
+8749,"MMMB036","1","Promotional","Monthly Mini Model Build","2011","Watering Can",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB036-1.jpg","No","No",0
+8750,"MMMB037","1","Promotional","Monthly Mini Model Build","2011","Flower",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB037-1.jpg","No","No",0
+8754,"MMMB038","1","Promotional","Monthly Mini Model Build","2011","Graduate",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB038-1.jpg","No","No",0
+9027,"MMMB039","1","Promotional","Monthly Mini Model Build","2011","Lighthouse",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB039-1.jpg","No","No",0
+9028,"MMMB040","1","Promotional","Monthly Mini Model Build","2011","Chair",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB040-1.jpg","No","No",0
+9029,"MMMB041","1","Promotional","Monthly Mini Model Build","2011","Scarecrow",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB041-1.jpg","No","No",0
+9030,"MMMB042","1","Promotional","Monthly Mini Model Build","2011","Dracula",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB042-1.jpg","No","No",0
+9100,"MMMB043","1","Promotional","Monthly Mini Model Build","2011","Acorn",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB043-1.jpg","No","No",0
+9101,"MMMB044","1","Promotional","Monthly Mini Model Build","2011","Turkey",,,0,0,,,"http://www.1000steine.com/brickset/images/MMMB044-1.jpg","No","No",0
+9102,"MMMB045","1","Promotional","Monthly Mini Model Build","2011","Nutcracker Toy Soldier",,35,0,0,,,"http://www.1000steine.com/brickset/images/MMMB045-1.jpg","No","No",0
+22583,"MUNICH","1","Promotional","LEGO Store Grand Opening Set","2013","Munich Pasing, Germany, Exclusive Minifigure Pack",3,12,0,0,,,"http://www.1000steine.com/brickset/images/MUNICH-1.jpg","No","No",0
+23131,"MURRAY","1","Promotional","LEGO Store Grand Opening Set","2013","Murray Exclusive Minifigure Pack",,,,,,,"http://www.1000steine.com/brickset/images/MURRAY-1.jpg","No","No",0
+9635,"NASHVILLE","1","Promotional","LEGO Store Grand Opening Set","2012","Nashville Exclusive Minifigure Pack",3,15,,0,,,"http://www.1000steine.com/brickset/images/NASHVILLE-1.jpg","No","No",0
+8219,"NEWARK","1","Promotional","LEGO Store Grand Opening Set","2010","{Transport Plane}",,133,,0,,,"http://www.1000steine.com/brickset/images/NEWARK-1.jpg","No","No",0
+23551,"NEWCASTLE","1","Promotional","LEGO Store Grand Opening Set","2014","Newcastle Exclusive Minifigure Pack",,,,,,,,"No","No",0
+8228,"NUREMBERG","1","Promotional","LEGO Store Grand Opening Set","2010","{Nuremberg Castle}",,126,,,,,"http://www.1000steine.com/brickset/images/NUREMBERG-1.jpg","No","No",0
+8172,"OKLAHOMACITY","1","Promotional","LEGO Store Grand Opening Set","2009","{Cowboy}",,58,,0,,,"http://www.1000steine.com/brickset/images/OKLAHOMACITY-1.jpg","No","No",0
+9583,"ORLANDO","1","Promotional","LEGO Store Grand Opening Set","1997","{Bag of Bricks} ",,3,,0,,,,"No","No",0
+8182,"ORLANDPARK","1","Promotional","LEGO Store Grand Opening Set","2009","{Baseball Player}",,58,,0,,,"http://www.1000steine.com/brickset/images/ORLANDPARK-1.jpg","No","No",0
+9748,"OVERLANDPARK","1","Promotional","LEGO Store Grand Opening Set","2012","Overland Park Exclusive Minifigure Pack",3,15,,,,,"http://www.1000steine.com/brickset/images/OVERLANDPARK-1.jpg","No","No",0
+9733,"PAB1","1","Promotional","LEGO Brand Store model","2012","Rabbit",,61,,,,,"http://www.1000steine.com/brickset/images/PAB1-1.jpg","No","No",0
+10176,"PAB10","1","Promotional","LEGO Brand Store model","2012","Chef",,73,6,,,,"http://www.1000steine.com/brickset/images/PAB10-1.jpg","No","No",0
+10198,"PAB11","1","Promotional","LEGO Brand Store model","2012","Santa",,56,,,,,"http://www.1000steine.com/brickset/images/PAB11-1.jpg","No","No",0
+9732,"PAB2","1","Promotional","LEGO Brand Store model","2012","Artist",,,,,,,"http://www.1000steine.com/brickset/images/PAB2-1.jpg","No","No",0
+9721,"PAB3","1","Promotional","LEGO Brand Store model","2012","Royal Guard (Limited Edition PAB Model)",,88,6,,,,"http://www.1000steine.com/brickset/images/PAB3-1.jpg","No","No",0
+9720,"PAB4","1","Promotional","LEGO Brand Store model","2012","Batman & Robin (Limited Edition PAB Model)",,61,11,,,,"http://www.1000steine.com/brickset/images/PAB4-1.jpg","No","No",0
+9735,"PAB5","1","Promotional","LEGO Brand Store model","2012","Patriot",,66,6,,,,"http://www.1000steine.com/brickset/images/PAB5-1.jpg","No","No",0
+9734,"PAB6","1","Promotional","LEGO Brand Store model","2012","Zoo Keeper",,58,6,,,,"http://www.1000steine.com/brickset/images/PAB6-1.jpg","No","No",0
+9810,"PAB7","1","Promotional","LEGO Brand Store model","2012","Surfer",,67,6,,,,"http://www.1000steine.com/brickset/images/PAB7-1.jpg","No","No",0
+9852,"PAB8","1","Promotional","LEGO Brand Store model","2012","Pirate",,75,6,,,,"http://www.1000steine.com/brickset/images/PAB8-1.jpg","No","No",0
+10043,"PAB9","1","Promotional","LEGO Brand Store model","2012","Monster",,50,6,,,,"http://www.1000steine.com/brickset/images/PAB9-1.jpg","No","No",0
+8171,"PARAMUS","1","Promotional","LEGO Store Grand Opening Set","2009","{Wild Turkey}",,73,,0,,,"http://www.1000steine.com/brickset/images/PARAMUS-1.jpg","No","No",0
+9729,"PEABODY","1","Promotional","LEGO Store Grand Opening Set","2012","Northshore Mall Exclusive Minifigure Pack",3,15,,,,,"http://www.1000steine.com/brickset/images/PEABODY-1.jpg","No","No",0
+23218,"PENGUIN","1","Promotional","LEGO Brand Store model","2007","Penguin",,9,,,,,"http://www.1000steine.com/brickset/images/PENGUIN-1.jpg","No","No",0
+5654,"PF68","1","Miscellaneous","Photo frames/albums","2006","Holiday Picture Frame",,,,,,,"http://www.1000steine.com/brickset/images/PF68-1.jpg","No","No",0
+9592,"PLEASANTON","1","Promotional","LEGO Store Grand Opening Set","2011","Pleasanton Exclusive Minifigure Pack",3,15,,0,,,,"No","No",0
+9416,"PROMOSW002","1","Star Wars","Promotional","2005","Anakin Skywalker (International Toy Fair 2005 Exclusive Figure)",,,,0,,,,"No","No",0
+9415,"PROMOSW003","1","Star Wars","Promotional","2005","Luminara Unduli (International Toy Fair 2005 Exclusive Figure)",,,,,,,,"No","No",0
+9413,"PROMOSW004","1","Star Wars","Minifig Pack","2007","Star Wars Celebration IV Exclusive",,26,,49.99,,,,"No","No",0
+9367,"PROMOSW005","1","Star Wars","Miscellaneous","2008","Han Solo / Indiana Jones Transformation ",,,0,0,,,"http://www.1000steine.com/brickset/images/PROMOSW005-1.jpg","No","No",0
+9459,"PROMOSW007","1","Star Wars","Miscellaneous","2011","Star Wars Miniland Figures (Toy Fair 2011 Collector's Party) ",,140,,,,,,"No","No",0
+8164,"RALEIGH","1","Promotional","LEGO Store Grand Opening Set","2009","{Lighthouse}",,121,,0,,,"http://www.1000steine.com/brickset/images/RALEIGH-1.jpg","No","No",0
+7565,"RAMBOLL","1","Miscellaneous","Promotional","2008","Ramboll Oil Platform",,216,,,,,"http://www.1000steine.com/brickset/images/RAMBOLL-1.jpg","No","No",0
+9419,"REDSOX","1","Promotional","Minifigure","1999","Boston Red Sox Minifigure",,4,,0,,,,"No","No",0
+9664,"SAARBRUCKEN","1","Promotional","LEGO Store Grand Opening Set","2012","Saarbrücken, Germany Exclusive Minifigure Pack",3,15,,0,,,"http://www.1000steine.com/brickset/images/SAARBRUCKEN-1.jpg","No","No",0
+8155,"SACRAMENTO","1","Promotional","LEGO Store Grand Opening Set","2008","{Train}",,78,,0,,,"http://www.1000steine.com/brickset/images/SACRAMENTO-1.jpg","No","No",0
+22821,"SANANTONIO","1","Promotional","LEGO Store Grand Opening Set","2013","San Antonio, Tx, Exclusive Minifigure Pack",,16,,0,,,"http://www.1000steine.com/brickset/images/SANANTONIO-1.jpg","No","No",0
+9588,"SANDIEGO","1","Promotional","LEGO Store Grand Opening Set","2011","Fashion Valley  Exclusive Minifigure Pack",3,15,,0,,,"http://www.1000steine.com/brickset/images/SANDIEGO-1.jpg","No","No",0
+22905,"SDCC031","1","The Hobbit","Promotional","2013","Azog Minifigure",,,,,,,"http://www.1000steine.com/brickset/images/SDCC031-1.jpg","No","No",0
+22906,"SDCC032","1","Star Wars","MicroFighters","2013","Jek-14 Mini Stealth Starfighter",,105,,39.99,,,"http://www.1000steine.com/brickset/images/SDCC032-1.jpg","No","No",0
+22907,"SDCC033","1","The Hobbit","Promotional","2013","Micro Scale Bag End",,130,,39.99,,,"http://www.1000steine.com/brickset/images/SDCC033-1.jpg","No","No",0
+9873,"SHEFFIELD","1","Promotional","LEGO Store Grand Opening Set","2012","Sheffield, UK, Exclusive Minifigure Pack",3,14,,,,,"http://www.1000steine.com/brickset/images/SHEFFIELD-1.jpg","No","No",0
+8751,"SOCCER","1","Promotional","LEGO Brand Store model","2010","Soccer Player",,40,,,,,"http://www.1000steine.com/brickset/images/SOCCER-1.jpg","No","No",0
+10371,"SOOUEST","1","Promotional","LEGO Store Grand Opening Set","2013","SO Ouest, France, Exclusive Minifigure Pack",3,,,,,,"http://www.1000steine.com/brickset/images/SOOUEST-1.jpg","No","No",0
+9447,"SPHINX","1","Promotional","Event / Display","2008","Sphinx",,29,,,,,,"No","No",0
+9503,"STRATFORD","1","Promotional","LEGO Store Grand Opening Set","2012","Westfield Stratford, UK Exclusive Minifigure Pack",3,14,0,,,,"http://www.1000steine.com/brickset/images/STRATFORD-1.jpg","No","No",0
+23178,"SUNRISE","1","Promotional","LEGO Store Grand Opening Set","2011","Sunrise Exclusive Minifigure Pack",3,,,,,,"http://www.1000steine.com/brickset/images/SUNRISE-1.jpg","No","No",0
+22831,"SUPERMAN","1","Promotional","LEGO Store Event","2013","Superman",,31,,,,,"http://www.1000steine.com/brickset/images/SUPERMAN-1.jpg","No","No",0
+9361,"SUPSET1","1","Universal Building Set","","1975","Super Set",,,15.85,,,,,"No","No",0
+23183,"SURREY","1","Promotional","LEGO Store Grand Opening Set","2013","Surrey Exclusive Minifigure Pack",,,,,,,"http://www.1000steine.com/brickset/images/SURREY-1.jpg","No","No",0
+9327,"SW117PROMO","1","Star Wars","Promotional","2005","Darth Vader (Nürnberg Toy Fair 2005 Exclusive Figure)",1,2,,,,,"http://www.1000steine.com/brickset/images/SW117PROMO-1.jpg","No","No",0
+9414,"TF05","1","Star Wars","Promotional","2005","Toy Fair 2005 Star Wars V.I.P. Gala Set",3,53,,0,,,,"No","No",0
+9483,"TF10","1","Promotional","Cube Dudes","2010","Buzz Lightyear Cube Dude",,,,0,,,,"No","No",0
+23499,"TLMPROFIG","1","The LEGO Movie","Promotional","2014","The LEGO Movie Promotional Figure",,,,,,,,"No","No",0
+23465,"TLMPS","1","The LEGO Movie","Promotional","2014","The LEGO Movie Promotional Set",,168,,,,,"http://www.1000steine.com/brickset/images/TLMPS-1.jpg","No","No",0
+9590,"TORONTO","1","Promotional","LEGO Store Grand Opening Set","2011","Sherway Square, Toronto, Canada Exclusive Minifigure Pack",3,15,,,,,"http://www.1000steine.com/brickset/images/TORONTO-1.jpg","No","No",0
+9587,"TORONTO","2","Promotional","LEGO Store Grand Opening Set","2011","Fairview Mall, Toronto, Canada Exclusive Minifigure Pack",3,15,,,,,"http://www.1000steine.com/brickset/images/TORONTO-2.jpg","No","No",0
+22822,"TORONTO","3","Promotional","LEGO Store Grand Opening Set","2013","Yorkdale, Toronto, Canada Exclusive Minifigure Pack",3,16,,0,,,"http://www.1000steine.com/brickset/images/TORONTO-3.jpg","No","No",0
+9103,"TORQUE","1","Cars","Promotional","2011","Rod “Torque” Redline",,29,,,,,"http://www.1000steine.com/brickset/images/TORQUE-BRICKTOBER-1.jpg","No","No",0
+8185,"TROY","1","Promotional","LEGO Store Grand Opening Set","2010","{Classic Car}",,103,,,,,"http://www.1000steine.com/brickset/images/TROY-1.jpg","No","No",0
+9316,"TRU01","1","Harry Potter","Philospher's Stone","2002","Quidditch Tower (TRU Event Exclusive)",,38,,,,,,"No","No",0
+9354,"TRU02","1","Friends","Promotional","2012","Lemonade Stand",,14,,,,,"http://www.1000steine.com/brickset/images/TRU02-1.jpg","No","No",0
+22770,"TRU03","1","Star Wars","Mini Building Set","2013","Mini Jek-14 Stealth Fighter",,40,,,,,"http://www.1000steine.com/brickset/images/TRU03-1.jpg","No","No",0
+23176,"TRUCHIMA","1","Promotional","Event / Display","2013","Chima",,,,,,,"http://www.1000steine.com/brickset/images/TRUCHIMA-1.jpg","No","No",0
+23177,"TRUPCAR","1","Promotional","Event / Display","2013","Police Car",,,,,,,"http://www.1000steine.com/brickset/images/TRUPCAR-1.jpg","No","No",0
+22838,"TRUROSE","1","Promotional","Event / Display","2010","Mothers Day Rose",,51,,0,,,,"No","No",0
+9736,"TRUSHIELD","1","Promotional","Event / Display","2012","Batman Shield",,257,,,,,"http://www.1000steine.com/brickset/images/TRUSHIELD-1.jpg","No","No",0
+9737,"TRUSHIELD","2","Promotional","Event / Display","2012","Superman Shield",,257,,,,,"http://www.1000steine.com/brickset/images/TRUSHIELD-2.jpg","No","No",0
+10023,"USFLAG","1","Promotional","LEGOLAND Parks","2002","American Flag",,63,,,,,,"No","No",0
+9663,"VANCOUVER","1","Promotional","LEGO Store Grand Opening Set","2012","Vancouver, Canada Exclusive Minifigure Pack",3,15,,0,,,"http://www.1000steine.com/brickset/images/VANCOUVER-1.jpg","No","No",0
+9642,"VICTOR","1","Promotional","LEGO Store Grand Opening Set","2012","Victor Exclusive Minifigure Pack",3,15,,0,,,"http://www.1000steine.com/brickset/images/VICTOR-1.jpg","No","No",0
+22975,"VIENNA","1","Promotional","LEGO Store Grand Opening Set","2013","Vienna, Austria Exclusive Minifigure Pack",,18,,,,,"http://www.1000steine.com/brickset/images/VIENNA-1.jpg","No","No",0
+23216,"VIENNA","2","Promotional","LEGO Store Grand Opening Set","2013","Vienna, Austria Exclusive Minifigure Pack",,17,,,,,"http://www.1000steine.com/brickset/images/VIENNA-2.jpg","No","No",0
+9372,"VP-5","1","Space","UFO","1997","UFO Value Pack",,,,,,,,"No","No",0
+9369,"VPORIENT","1","Adventurers","Orient Expedition","2003","Value Pack (K-Mart Australia exclusive)",,91,,,,,,"No","No",0
+9511,"VSDCC1","1","Harry Potter","General","2011","Voldemort Minifigure",,5,,0,,,"http://www.1000steine.com/brickset/images/VSDCC1-1.jpg","No","No",0
+22608,"WATFORD","1","Promotional","LEGO Store Grand Opening Set","2013","Watford, UK Exclusive Minifigure Pack",3,14,,,,,"http://www.1000steine.com/brickset/images/WATFORD-1.jpg","No","No",0
+9659,"WAUWATOSA","1","Promotional","LEGO Store Grand Opening Set","2012","Wauwatosa Exclusive Minifigure Pack",3,15,,0,,,"http://www.1000steine.com/brickset/images/WAUWATOSA-1.jpg","No","No",0
+7354,"WEETABIX1","1","LEGOLAND","Promotional","1970","Weetabix Castle",,471,,,,,"http://www.1000steine.com/brickset/images/WEETABIX1-1.jpg","No","No",0
+7494,"WEETABIX2","1","Basic","","1976","Windmill",,119,,,,,"http://www.1000steine.com/brickset/images/WEETABIX2-1.jpg","No","No",0
+7495,"WEETABIX3","1","Basic","","1976","House",,140,,,,,"http://www.1000steine.com/brickset/images/WEETABIX3-1.jpg","No","No",0
+7496,"WEETABIX4","1","Basic","","1976","House",,143,,,,,"http://www.1000steine.com/brickset/images/WEETABIX4-1.jpg","No","No",0
+23180,"WESTCHESTER","1","Promotional","LEGO Store Grand Opening Set","2013","Westchester Exclusive Minifigure Pack",,,,,,,"http://www.1000steine.com/brickset/images/WESTCHESTER-1.jpg","No","No",0
+8181,"WIESBADEN","1","Promotional","LEGO Store Grand Opening Set","2010","{Biebrich Palace}",,146,,,,,"http://www.1000steine.com/brickset/images/WIESBADEN-1.jpg","No","No",0
+22656,"WISHINGWELL","1","Friends","Promotional","2013","Wishing Well",,28,,,,,"http://www.1000steine.com/brickset/images/WISHINGWELL-1.jpg","No","No",0
+10129,"WOODLANDS","1","Promotional","LEGO Store Grand Opening Set","2012","Woodlands Exclusive Minifigure Pack",,,,,,,"http://www.1000steine.com/brickset/images/WOODLANDS-1.jpg","No","No",0
+22978,"YODA","1","Star Wars","Promotional","2013","Yoda minifig, NY I Heart Torso",1,3,,,,,"http://www.1000steine.com/brickset/images/YODA-1.jpg","No","No",0
+22776,"YODACHRON","1","Star Wars","Yoda Chronicles","2013","Yoda Chronicles Promotional Set",3,408,,0,,,"http://www.1000steine.com/brickset/images/YODACHRON-1.jpg","No","No",0
+

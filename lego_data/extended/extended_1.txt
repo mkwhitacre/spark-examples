@@ -1,0 +1,167 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+9815,"850425","1","Miscellaneous","Desk accessory","2012","Desk Business Card Holder",2,150,11.39,14.99,18.49,,"http://www.1000steine.com/brickset/images/850425-1.jpg","No","No",0
+9821,"850426","1","Miscellaneous","Desk accessory","2012","Pencil Holder",1,157,11.39,14.99,17.99,,"http://www.1000steine.com/brickset/images/850426-1.jpg","No","No",0
+9679,"850445","1","Ninjago","","2012","Ninjago Character Card Shrine",1,88,12.99,14.99,16.99,12.99,"http://www.1000steine.com/brickset/images/850445-1.jpg","No","No",0
+9678,"850449","1","Collectable Minifigures","Combi-pack","2012","Minifigure Accessory Pack",3,63,9.99,14.99,15.49,12.99,"http://www.1000steine.com/brickset/images/850449-1.jpg","No","No",0
+9681,"850458","1","Collectable Minifigures","Combi-pack","2012","VIP Top 5 Boxed Minifigures",5,37,14.99,2.99,,,"http://www.1000steine.com/brickset/images/850458-1.jpg","No","No",0
+9809,"850486","1","Collectable Minifigures","Combi-pack","2012","Rock Band Minifigure Accessory Set",3,62,9.99,14.99,18.43,,"http://www.1000steine.com/brickset/images/850486-1.jpg","No","No",0
+9817,"850487","1","Collectable Minifigures","Combi-pack","2012","Halloween Accessory Set",3,58,9.99,14.99,17.99,,"http://www.1000steine.com/brickset/images/850487-1.jpg","No","No",0
+10132,"850503","1","Seasonal","Christmas","2012","Holiday Bauble",,3,2.99,7.99,,,,"No","No",0
+10364,"850581","1","Friends","","2013","Friends Brick Calendar",,140,10.49,14.99,17.99,,"http://www.1000steine.com/brickset/images/850581-1.jpg","No","No",0
+22580,"850617","1","City","Police","2013","Police Accessory Pack",4,34,10.49,14.99,17.99,,"http://www.1000steine.com/brickset/images/850617-1.jpg","No","No",0
+22579,"850618","1","City","Fire","2013","Fire Accessory Pack",4,43,10.49,14.99,17.99,,"http://www.1000steine.com/brickset/images/850618-1.jpg","No","No",0
+22584,"850632","1","Ninjago","Booster pack","2013","Samurai Accessory Set",4,36,10.49,14.99,17.99,,"http://www.1000steine.com/brickset/images/850632-1.jpg","No","No",0
+22582,"850702","1","Miscellaneous","Photo frames/albums","2013","Classic Picture Frame",,55,10.49,14.99,17.99,,"http://www.1000steine.com/brickset/images/850702-1.jpg","No","No",0
+22836,"850751","1","Miscellaneous","Photo frames/albums","2013","Orlando Picture Frame",,102,,14.99,,,"http://www.1000steine.com/brickset/images/850751-1.jpg","No","No",0
+22806,"850777","1","Legends Of Chima","","2013","Legends of Chima Accessory Set",,,7.99,12.99,15.99,,"http://www.1000steine.com/brickset/images/850777-1.jpg","No","No",0
+22805,"850779","1","Legends Of Chima","","2013","Legends of Chima Minifigure Accessory Set",4,42,10.49,14.99,17.99,,"http://www.1000steine.com/brickset/images/850779-1.jpg","No","No",0
+22800,"850791","1","Seasonal","Birthday","2013","LEGO Minifigure Birthday Set",2,28,6.99,7.99,9.99,,"http://www.1000steine.com/brickset/images/850791-1.jpg","No","No",0
+22996,"850839","1","Pirates","","2013","Classic Pirate Set",4,39,10.49,14.99,17.99,,"http://www.1000steine.com/brickset/images/850839-1.jpg","No","No",0
+23008,"850842","1","Seasonal","Christmas","2013","LEGO City Fire Truck Holiday Bauble",,34,,7.99,9.99,,"http://www.1000steine.com/brickset/images/850842-1.jpg","No","No",0
+23009,"850843","1","Seasonal","Christmas","2013","LEGO Creator T-Rex Holiday Bauble",,25,,7.99,9.99,,"http://www.1000steine.com/brickset/images/850843-1.jpg","No","No",0
+23010,"850849","1","Seasonal","Christmas","2013","LEGO Friends Doghouse Holiday Bauble",,29,,7.99,9.99,,"http://www.1000steine.com/brickset/images/850849-1.jpg","No","No",0
+23007,"850850","1","Seasonal","Christmas","2013","LEGO Santa Holiday Bauble",,23,6.99,7.99,9.99,,"http://www.1000steine.com/brickset/images/850850-1.jpg","No","No",0
+23005,"850851","1","Seasonal","Christmas","2013","LEGO Tree Holiday Bauble",,26,6.99,7.99,9.99,,"http://www.1000steine.com/brickset/images/850851-1.jpg","No","No",0
+23006,"850852","1","Seasonal","Christmas","2013","LEGO Reindeer Holiday Bauble",,21,6.99,7.99,9.99,,"http://www.1000steine.com/brickset/images/850852-1.jpg","No","No",0
+23496,"850888","1","Castle","Lion Knights","2014","Castle Knights Accessory Set",,32,10.99,14.99,17.99,,"http://www.1000steine.com/brickset/images/850888-1.jpg","No","No",0
+23497,"850889","1","Castle","Dragon Knights","2014","Castle Dragons Accessory Set",,42,10.99,14.99,17.99,,"http://www.1000steine.com/brickset/images/850889-1.jpg","No","No",0
+23506,"850910","1","Legends Of Chima","","2014","Legends of Chima Minifigure Accessory Set",,,10.99,14.99,17.99,,"http://www.1000steine.com/brickset/images/850910-1.jpg","No","No",0
+23527,"850935","1","Miscellaneous","","2014","Classic Minifigure Graduation Set",,30,,7.99,9.99,,"http://www.1000steine.com/brickset/images/850935-1.jpg","No","No",0
+6515,"852271","1","Castle","Battle Pack","2008","Knights Battle Pack",5,35,8.79,14.99,,,"http://www.1000steine.com/brickset/images/852271-1.jpg","No","No",0
+6514,"852272","1","Castle","Battle Pack","2008","Skeletons Battle Pack",5,43,8.79,14.99,,,"http://www.1000steine.com/brickset/images/852272-1.jpg","No","No",0
+6614,"852331","1","Miscellaneous","Minifigures","2008","Vintage Minifigure Collection Vol. 1",5,21,11.75,17.99,,,"http://www.1000steine.com/brickset/images/852331-1.jpg","No","No",0
+7077,"852535","1","Miscellaneous","Minifigures","2009","Vintage Minifigure Collection Vol. 2",5,24,11.75,17.99,,,"http://www.1000steine.com/brickset/images/852535-1.jpg","No","No",0
+7136,"852697","1","Miscellaneous","Minifigures","2009","Vintage Minifigure Collection Vol. 3",5,22,11.75,17.99,,,"http://www.1000steine.com/brickset/images/852697-1.jpg","No","No",0
+7163,"852701","1","Castle","Battle Pack","2009","Troll Warrior Battle Pack",5,36,8.79,14.99,,,"http://www.1000steine.com/brickset/images/852701-1.jpg","No","No",0
+7164,"852702","1","Castle","Battle Pack","2009","Dwarf Warrior Battle Pack",5,45,8.79,14.99,,,"http://www.1000steine.com/brickset/images/852702-1.jpg","No","No",0
+7201,"852747","1","Pirates","Accessories","2009","Pirates Battle Pack",4,37,8.79,14.99,,,"http://www.1000steine.com/brickset/images/852747-1.jpg","No","No",0
+7202,"852753","1","Miscellaneous","Minifigures","2009","Vintage Minifigure Collection Vol. 4",5,41,11.75,17.99,,,"http://www.1000steine.com/brickset/images/852753-1.jpg","No","No",0
+7916,"852769","1","Miscellaneous","Minifigures","2010","Vintage Minifigure Collection Vol. 5",5,20,11.99,17.99,24.99,,"http://www.1000steine.com/brickset/images/852769-1.jpg","No","No",0
+8023,"852921","1","Castle","Kingdoms","2010","Battle Pack",5,18,8.99,14.99,19.99,,"http://www.1000steine.com/brickset/images/852921-1.jpg","No","No",0
+8024,"852922","1","Castle","Kingdoms","2010","Battle Pack",5,17,8.99,14.99,19.99,,"http://www.1000steine.com/brickset/images/852922-1.jpg","No","No",0
+10120,"852995","1","Miscellaneous","","2010","Ducks",,15,,,,,"http://www.1000steine.com/brickset/images/852995-1.jpg","No","No",0
+8093,"852996","1","Promotional","Minifigure","2010","LEGO Club Max",1,4,0,0,,,"http://www.1000steine.com/brickset/images/852996-1.jpg","No","No",0
+8621,"853111","1","Ninjago","","2011","{Exclusive Weapon Training Set}",1,26,,,,,"http://www.1000steine.com/brickset/images/853111-1.jpg","No","No",0
+8441,"853176","1","Pharaoh's Quest","","2011","Skeleton Mummy Battle Pack",3,29,9.99,14.99,15.49,9.99,"http://www.1000steine.com/brickset/images/853176-1.jpg","No","No",0
+8761,"853195","1","Miscellaneous","Desk accessory","2011","Brick Calendar",2,120,9.99,14.99,15.49,9.99,"http://www.1000steine.com/brickset/images/853195-1.jpg","No","No",0
+8784,"853219","1","Pirates of the Caribbean","","2011","Pirates of the Caribbean Battle Pack",5,30,9.99,14.99,15.49,9.99,"http://www.1000steine.com/brickset/images/853219-1.jpg","No","No",0
+8756,"853301","1","Space","Alien Conquest","2011","Alien Conquest Battle Pack",5,31,9.99,14.99,15.49,12.99,"http://www.1000steine.com/brickset/images/853301-1.jpg","No","No",0
+8972,"853340","1","Miscellaneous","","2011","Minifigure Wedding Favour Set",2,24,6.99,7.99,9.99,7.99,"http://www.1000steine.com/brickset/images/853340-1.jpg","No","No",0
+9086,"853344","1","Seasonal","Christmas","2011","Holiday Bauble with Red Bricks",,30,6.99,7.99,9.99,,"http://www.1000steine.com/brickset/images/853344-1.jpg","No","No",0
+9087,"853345","1","Seasonal","Christmas","2011","Holiday Bauble with Gold Bricks",,40,6.99,7.99,9.99,7.99,"http://www.1000steine.com/brickset/images/853345-1.jpg","No","No",0
+9088,"853346","1","Seasonal","Christmas","2011","Holiday Bauble with Green Bricks",,36,6.99,7.99,9.99,7.99,"http://www.1000steine.com/brickset/images/853346-1.jpg","No","No",0
+8849,"853358","1","Games","Heroica","2011","LEGO HEROICA Storage Mat",,17,24.99,34.99,44.99,34.99,"http://www.1000steine.com/brickset/images/853358-1.jpg","No","No",0
+9371,"853378","1","City","Forest Fire","2012","LEGO City Accessory Pack",4,43,9.99,14.99,15.49,12.99,"http://www.1000steine.com/brickset/images/853378-1.jpg","No","No",0
+9362,"853393","1","Miscellaneous","Photo frames/albums","2012","LEGO Friends Picture Frame",,49,9.99,14.99,16.99,12.99,"http://www.1000steine.com/brickset/images/853393-1.jpg","No","No",0
+23391,"951178","1","Dacta","","1987","Basic Bricks",,18,,,,,"http://www.1000steine.com/brickset/images/951178-1.jpg","No","No",0
+8854,"2852724","1","Mindstorms","NXT","2011","Accelerometer Sensor",,1,49.99,54.99,69.99,39.99,"http://www.1000steine.com/brickset/images/2852724-1.jpg","No","No",0
+8853,"2852725","1","Mindstorms","NXT","2011","Infrared Seeker",,1,39.99,49.99,69.99,44.99,"http://www.1000steine.com/brickset/images/2852725-1.jpg","No","No",0
+8852,"2852726","1","Mindstorms","NXT","2011","Gyroscopic Sensor",,1,49.99,54.99,69.99,57.99,"http://www.1000steine.com/brickset/images/2852726-1.jpg","No","No",0
+8851,"2853216","1","Mindstorms","NXT","2011","Infrared Link Sensor",,1,39.99,54.99,69.99,48.99,"http://www.1000steine.com/brickset/images/2853216-1.jpg","No","No",0
+7873,"2853588","1","Games","","2010","Promo Goldener Würfel (Golden dice)",,7,,,,,"http://www.1000steine.com/brickset/images/2853588-1.jpg","No","No",0
+7921,"2853590","1","Star Wars","Minifig Pack","2010","Chrome Stormtrooper",1,5,,2.99,,,"http://www.1000steine.com/brickset/images/2853590-1.jpg","No","No",0
+8069,"2853835","1","Star Wars","Minifig Pack","2010","White Boba Fett Figure",1,5,,,,,"http://www.1000steine.com/brickset/images/2853835-1.jpg","No","No",0
+8218,"2853944","1","Miscellaneous","LEGO Universe","2010","Astronaut",1,5,,,,,"http://www.1000steine.com/brickset/images/2853944-1.jpg","No","No",0
+8032,"2855040","1","Mindstorms","NXT","2010","Mindstorms NXT IR Receiver",,1,39.99,49.99,69.99,44.99,"http://www.1000steine.com/brickset/images/2855040-1.jpg","No","No",0
+8850,"2856079","1","Games","","2011","Creationary Booster Pack",,10,,3.99,4.49,,"http://www.1000steine.com/brickset/images/2856079-1.jpg","No","No",0
+8828,"2856134","1","Ninjago","","2011","Ninjago Card Shrine",,98,3.99,6.99,7.49,4.99,"http://www.1000steine.com/brickset/images/2856134-1.jpg","No","No",0
+8741,"2856197","1","Star Wars","Minifig Pack","2011","Shadow ARF Trooper",1,5,0,0,,,"http://www.1000steine.com/brickset/images/2856197-1.jpg","No","No",0
+9105,"2856745","1","Games","Heroica","2011","Heroica Character Cards",,22,,,,,"http://www.1000steine.com/brickset/images/2856745-1.jpg","No","No",0
+9485,"4117463","1","Space","UFO","1997","Cyber Saucer ",,114,,,,,,"No","No",0
+2007,"4186875","1","Trains","9 V","2002","Platform and Mini-Figures",5,47,,,,,"http://www.1000steine.com/brickset/images/4186875-1.jpg","No","No",0
+2008,"4186876","1","Trains","9 V","2002","Blue Passenger Wagon",,192,,,,,"http://www.1000steine.com/brickset/images/4186876-1.jpg","No","No",0
+2009,"4189224","1","Promotional","LEGOLAND model","2002","Green dragon",,47,,,,,"http://www.1000steine.com/brickset/images/4189224-1.jpg","No","No",0
+2037,"4212838","1","Promotional","LEGO Brand Store model","2004","Easter Chick",,62,,,,,"http://www.1000steine.com/brickset/images/4212838-1.jpg","No","No",0
+2038,"4212847","1","Promotional","LEGO Brand Store model","2004","Easter Chick in Egg",,99,,,,,"http://www.1000steine.com/brickset/images/4212847-1.jpg","No","No",0
+2039,"4212850","1","Promotional","LEGO Brand Store model","2004","Easter Egg Orange",,,,,,,"http://www.1000steine.com/brickset/images/4212850-1.jpg","No","No",0
+2040,"4212852","1","Promotional","LEGO Brand Store model","2004","Easter Egg Blue",,178,,,,,"http://www.1000steine.com/brickset/images/4212852-1.jpg","No","No",0
+9504,"4228383","1","Bionicle","Turaga","2003","Vakama (Promotional Pack)",,28,0,,,,,"No","No",0
+2056,"4243532","1","Racers","Radio-Control","2004","Racers Accessory Pack",,35,,,,,"http://www.1000steine.com/brickset/images/4243532-1.jpg","No","No",0
+5077,"4285968","1","Racers","Radio-Control","2005","Dirt Crusher Transformation Kit",,48,,,,,"http://www.1000steine.com/brickset/images/4285968-1.jpg","No","No",0
+5078,"4285969","1","Racers","Radio-Control","2005","Dirt Crusher Transformation Kit",,48,,,,,"http://www.1000steine.com/brickset/images/4285969-1.jpg","No","No",0
+5079,"4285970","1","Racers","Radio-Control","2005","Dirt Crusher Transformation Kit",,48,,,,,"http://www.1000steine.com/brickset/images/4285970-1.jpg","No","No",0
+5080,"4286013","1","Racers","Radio-Control","2005","Dirt Crusher Big Wheels Pack",,10,,,,,"http://www.1000steine.com/brickset/images/4286013-1.jpg","No","No",0
+5081,"4286024","1","Racers","Radio-Control","2005","Dirt Crusher Big Wheels Pack",,10,,,,,"http://www.1000steine.com/brickset/images/4286024-1.jpg","No","No",0
+5082,"4286025","1","Racers","Radio-Control","2005","Dirt Crusher Big Wheels Pack",,10,,,,,"http://www.1000steine.com/brickset/images/4286025-1.jpg","No","No",0
+5083,"4286784","1","Racers","Radio-Control","2005","Dirt Crusher Gearbox with Light",,6,,,,,"http://www.1000steine.com/brickset/images/4286784-1.jpg","No","No",0
+5207,"4287082","1","Racers","Radio-Control","2005","Dirt Crusher Antenna Pack",,10,,,,,"http://www.1000steine.com/brickset/images/4287082-1.jpg","No","No",0
+9497,"4293136","1","Dino Attack","","2006","Dino Attack Parachute and Minifigure",,,,,,,,"No","No",0
+5593,"4495173","1","Bricks and More","","2006","LEGO Creative Building Set",,650,,,,,"http://www.1000steine.com/brickset/images/4495173-1.jpg","No","No",0
+5453,"4497152","1","Duplo","Bonus/Value Pack","2006","{Half Tub}",,,,,,,,"No","No",0
+5454,"4497153","1","Duplo","Bonus/Value Pack","2006","{Half Tub}",,,,,,,,"No","No",0
+8654,"4521221","1","Star Wars","Minifig Pack","2007","Gold chrome plated C-3PO",1,1,0,0,,,"http://www.1000steine.com/brickset/images/4521221-1.jpg","No","No",0
+6205,"4524081","1","Mindstorms","NXT","2007","Mindstorms NXT CD",,1,,19.99,,,"http://www.1000steine.com/brickset/images/4524081-1.jpg","No","No",0
+6988,"4540313","1","Duplo","Bonus/Value Pack","2009","Duplo Creative Bucket",,,,,,,"http://www.1000steine.com/brickset/images/4540313-1.jpg","No","No",0
+6986,"4540315","1","Bricks and More","Bonus/Value Pack","2009","LEGO Creative Bucket",,480,,,,,"http://www.1000steine.com/brickset/images/4540315-1.jpg","No","No",0
+7135,"4547551","1","Star Wars","Minifig Pack","2009","Chrome  Darth Vader",1,7,,,,,"http://www.1000steine.com/brickset/images/4547551-1.jpg","No","No",0
+23559,"4559288","1","Power Miners","","2009","{Power Miners Promotional Polybag}",1,,,,,,,"No","No",0
+23558,"4559385","1","Power Miners","","2009","{Power Miners Promotional Polybag}",1,,,,,,,"No","No",0
+23560,"4559387","1","Power Miners","","2009","{Power Miners Promotional Polybag}",1,,,,,,,"No","No",0
+23603,"4559922","1","Castle","Battle Pack","2008","Troll Warriors Battle Pack",,32,,,,,,"No","No",0
+10056,"4595400","1","World Racers","","2010","Rocket Kit",,26,,,,,"http://www.1000steine.com/brickset/images/4595400-1.jpg","No","No",0
+8413,"4620157","1","Miscellaneous","Target Gift Card","2010","Target Bullseye Gift Card 2010",,31,,,,,"http://www.1000steine.com/brickset/images/4620157-1.jpg","No","No",0
+8465,"4636204","1","Ninjago","Promotional","2011","Ninjago promotional item",,11,,,,,"http://www.1000steine.com/brickset/images/4636204-1.jpg","No","No",0
+9582,"4648933","1","HERO Factory","","2012","{Hero Factory Accessory Pack}",,6,,,,,"http://www.1000steine.com/brickset/images/4648933-1.jpg","No","No",0
+9106,"4648939","1","Games","","2011","Gold Dice",,8,,,,,"http://www.1000steine.com/brickset/images/4648939-1.jpg","No","No",0
+9633,"4659597","1","Friends","Promotional","2012","Bracelets",,2,,,,,"http://www.1000steine.com/brickset/images/4659597-1.jpg","No","No",0
+9343,"4659602","1","Friends","Promotional","2012","{Display Stand}",,17,,,,,"http://www.1000steine.com/brickset/images/4659602-1.jpg","No","No",0
+9632,"4659607","1","HERO Factory","","2012","{Booster Pack}",,6,,,,,"http://www.1000steine.com/brickset/images/4659607-1.jpg","No","No",0
+9665,"4659612","1","Ninjago","Promotional","2012","Spinner ring",,1,,,,,"http://www.1000steine.com/brickset/images/4659612-1.jpg","No","No",0
+10055,"4659640","1","Ninjago","Promotional","2012","Special Edition Card",,1,,,,,"http://www.1000steine.com/brickset/images/4659640-1.jpg","No","No",0
+9104,"4659758","1","Miscellaneous","Target Gift Card","2011","Target Bullseye Gift Card 2011",,48,,,,,"http://www.1000steine.com/brickset/images/4659758-1.jpg","No","No",0
+9661,"5000022","1","Super Heroes","Marvel Universe","2012","The Hulk",1,4,0,0,,,"http://www.1000steine.com/brickset/images/5000022-1.jpg","No","No",0
+9221,"5000030","1","Ninjago","Promotional","2012","Kendo Jay Booster Pack",1,31,,,,,"http://www.1000steine.com/brickset/images/5000030-1.jpg","No","No",0
+9365,"5000062","1","Star Wars","Minifig Pack","2012","Darth Maul",1,7,,0,,,"http://www.1000steine.com/brickset/images/5000062-1.jpg","No","No",0
+9595,"5000063","1","Star Wars","Minifig Pack","2012","TC-14",1,3,0,0,,,"http://www.1000steine.com/brickset/images/5000063-1.jpg","No","No",0
+22413,"5000194","1","HERO Factory","","2012","{?}",,13,,,,,"http://www.1000steine.com/brickset/images/5000194-1.jpg","No","No",0
+10126,"5000202","1","Lord of the Rings","The Fellowship of the Ring","2012","Elrond",1,6,0,0,,,"http://www.1000steine.com/brickset/images/5000202-1.jpg","No","No",0
+9292,"5000245","1","Friends","Promotional","2012","Stephanie",1,5,,4.99,,,"http://www.1000steine.com/brickset/images/5000245-1.jpg","No","No",0
+10127,"5000281","1","City","Police","2012","Chase McCain",1,4,0,0,,,"http://www.1000steine.com/brickset/images/5000281-1.jpg","No","No",0
+10031,"5000437","1","Miscellaneous","Minifigures","2012","Vintage Minifigure Collection Vol. 1 (TRU edition)",,21,,,,,"http://www.1000steine.com/brickset/images/5000437-1.jpg","No","No",0
+10029,"5000438","1","Miscellaneous","Minifigures","2012","Vintage Minifigure Collection Vol. 2 (TRU edition)",,22,,,,,"http://www.1000steine.com/brickset/images/5000438-1.jpg","No","No",0
+10030,"5000439","1","Miscellaneous","Minifigures","2012","Vintage Minifigure Collection Vol. 3 (TRU edition)",,20,,,,,"http://www.1000steine.com/brickset/images/5000439-1.jpg","No","No",0
+10028,"5000440","1","Miscellaneous","Minifigures","2012","Vintage Minifigure Collection Vol. 4 (TRU edition)",,25,,,,,"http://www.1000steine.com/brickset/images/5000440-1.jpg","No","No",0
+9868,"5000644","1","Monster Fighters","Promotional","2012","Monster Fighters promotional pack",,12,,,,,"http://www.1000steine.com/brickset/images/5000644-1.jpg","No","No",0
+22750,"5001121","1","Miscellaneous","Minifigures","2013","BR LEGO Minifigure",1,5,,,,,"http://www.1000steine.com/brickset/images/5001121-1.jpg","No","No",0
+22665,"5001621","1","Star Wars","Minifig Pack","2013","Han Solo (Hoth)",1,5,0,0,,,"http://www.1000steine.com/brickset/images/5001621-1.jpg","No","No",0
+23034,"5001622","1","Miscellaneous","Minifigures","2013","LEGO store employee",1,5,,,,,"http://www.1000steine.com/brickset/images/5001622-1.jpg","No","No",0
+22759,"5001623","1","Super Heroes","DC Universe","2013","Jor-El",1,5,,,,,"http://www.1000steine.com/brickset/images/5001623-1.jpg","No","No",0
+22832,"5001709","1","Star Wars","Episode II","2013","Clone Trooper Lieutenant",1,5,,,,,"http://www.1000steine.com/brickset/images/5001709-1.jpg","No","No",0
+22606,"5001925","1","Creator","Expert","2013","Horizon Express Kit",,1363,182.93,,,,"http://www.1000steine.com/brickset/images/5001925-1.jpg","No","No",0
+23426,"5002041","1","The LEGO Movie","","2014","Accessory pack",,,,,,,"http://www.1000steine.com/brickset/images/5002041-1.jpg","No","No",0
+23463,"5002045","1","The LEGO Movie","","2014","Pyjamas Emmet",1,4,,,,,"http://www.1000steine.com/brickset/images/5002045-1.jpg","No","No",0
+23448,"5002112","1","Friends","Promotional","2014","Bracelets",,20,,,,,"http://www.1000steine.com/brickset/images/5002112-1.jpg","No","No",0
+23653,"5002113","1","Friends","Promotional","2014","Beach hammock",,29,,,,,"http://www.1000steine.com/brickset/images/5002113-1.jpg","No","No",0
+23567,"5002123","1","Star Wars","","2014","Darth Revan",,7,,,,,"http://www.1000steine.com/brickset/images/5002123-1.jpg","No","No",0
+23523,"5002126","1","Super Heroes","","2014","Martian Manhunter ",1,4,,,,,"http://www.1000steine.com/brickset/images/5002126-1.jpg","No","No",0
+23637,"5002127 ","1","Teenage Mutant Ninja Turtles","","2014","Flashback Shredder",,,,,,,,"No","No",0
+23610,"5002130","1","The Hobbit","Promotional","2014","Good Morning Bilbo Baggins",1,4,,,,,"http://www.1000steine.com/brickset/images/5002130-1.jpg","No","No",0
+23132,"5002146","1","Miscellaneous","Minifigures","2013","Vintage Minifigure Collection 2013 Vol. 1",,20,,,,,"http://www.1000steine.com/brickset/images/5002146-1.jpg","No","No",0
+23133,"5002147","1","Miscellaneous","Minifigures","2013","Vintage Minifigure Collection 2013 Vol. 2",,21,,,,,"http://www.1000steine.com/brickset/images/5002147-1.jpg","No","No",0
+23134,"5002148","1","Miscellaneous","Minifigures","2013","Vintage Minifigure Collection 2013 Vol. 3",,22,,,,,"http://www.1000steine.com/brickset/images/5002148-1.jpg","No","No",0
+23467,"5002203","1","The LEGO Movie","","2014","Radio DJ Robot",1,4,,,,,"http://www.1000steine.com/brickset/images/5002203-1.jpg","No","No",0
+23468,"5002204","1","The LEGO Movie","Promotional","2014","Western Emmet",1,,,,,,"http://www.1000steine.com/brickset/images/5002204-1.jpg","No","No",0
+23230,"5003540","1","Creator","Expert","2013","Horizon Express Kit",,,,253.49,,,"http://www.1000steine.com/brickset/images/5003540-1.jpg","No","No",0
+23657,"5003798","1","Gear","Books","2014","The LEGO Movie Ultimate Sticker Collection",,,,12.99,12.99,,,"No","No",0
+9782,"6024305","1","Friends","Promotional","2012","Best Friends bricks",,2,0,,,,"http://www.1000steine.com/brickset/images/6024305-1.jpg","No","No",0
+22416,"6031640","1","Legends Of Chima","","2013","Chima Promotional Pack",,5,0,,,,"http://www.1000steine.com/brickset/images/6031640-1.jpg","No","No",0
+22407,"6031641","1","Legends Of Chima","","2013","Lion tribe rip-cord and topper",,2,0,0,,,"http://www.1000steine.com/brickset/images/6031641-1.jpg","No","No",0
+22919,"6043173","1","Friends","","2013","Promotional polybag",,23,,,,,"http://www.1000steine.com/brickset/images/6043173-1.jpg","No","No",0
+23125,"6043183","1","Friends","","2013","Children's Jewellery",,,,,,,"http://www.1000steine.com/brickset/images/6043183-1.jpg","No","No",0
+22929,"6043191","1","Legends Of Chima","","2013","Promotional pack",,12,,,,,"http://www.1000steine.com/brickset/images/6043191-1.jpg","No","No",0
+23114,"6043203","1","Legends Of Chima","","2013","Croc tribe rip-cord and topper",,2,,,,,,"No","No",0
+4577,"B003","1","Bulk Bricks","","2000","1x4x6 Red Door and Frames, Transparent Green Panes",,10,,9.99,,,"http://www.1000steine.com/brickset/images/B003-1.jpg","No","No",0
+4579,"B005","1","Bulk Bricks","","2000","2 x 4 Ridge Roof Tiles, Low Sloped Red",,25,,4.99,,,"http://www.1000steine.com/brickset/images/B005-1.jpg","No","No",0
+5597,"BAG14","1","Quatro","","2006","Bag of Bricks",,15,,7.99,,,"http://www.1000steine.com/brickset/images/BAG14-1.jpg","No","No",0
+5406,"BAG2","1","Bulk Bricks","","2006","1x1 Stud Light Grey",,90,,2.99,,,"http://www.1000steine.com/brickset/images/BAG2-1.jpg","No","No",0
+5405,"BAG3","1","Bulk Bricks","","2006","1x1 Stud Medium Grey",,90,,2.99,,,"http://www.1000steine.com/brickset/images/BAG3-1.jpg","No","No",0
+5404,"BAG4","1","Bulk Bricks","","2006","1x1 Stud Dark Grey",,90,,2.99,,,"http://www.1000steine.com/brickset/images/BAG4-1.jpg","No","No",0
+5652,"MS1034","1","Mindstorms","NXT","2006","Compass Sensor for Mindstorms NXT",,1,36.99,54.99,69.99,,"http://www.1000steine.com/brickset/images/MS1034-1.jpg","No","No",0
+5751,"MS1038","1","Mindstorms","NXT","2007","Colour Sensor for Mindstorms NXT",,1,36.99,54.99,69.99,,"http://www.1000steine.com/brickset/images/MS1038-1.jpg","No","No",0
+5867,"MS1040","1","Mindstorms","NXT","2007","Accelerometer Sensor for Mindstorms NXT",,1,36.99,54.99,69.99,,"http://www.1000steine.com/brickset/images/MS1040-1.jpg","No","No",0
+6166,"MS1042","1","Mindstorms","NXT","2007","Infrared Seeker",,1,39.99,49.99,69.99,,"http://www.1000steine.com/brickset/images/MS1042-1.jpg","No","No",0
+6185,"MS1044","1","Mindstorms","NXT","2007","Gyroscopic Sensor",,1,49.99,54.99,69.99,,"http://www.1000steine.com/brickset/images/MS1044-1.jpg","No","No",0
+6367,"MS1046","1","Mindstorms","NXT","2007","Infrared Link Sensor",,1,39.99,54.99,69.99,,"http://www.1000steine.com/brickset/images/MS1046-1.jpg","No","No",0
+6580,"MS1048","1","Mindstorms","NXT","2008","RF ID Sensor",,3,39.15,,,,"http://www.1000steine.com/brickset/images/MS1048-1.jpg","No","No",0
+6579,"MS1049","1","Mindstorms","NXT","2008","Keyfob Transponder",,10,24.49,,,,"http://www.1000steine.com/brickset/images/MS1049-1.jpg","No","No",0
+

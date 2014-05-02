@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+8998,"6152","1","Duplo","Disney Princess","2012","Snow White's Cottage",1,28,12.99,14.99,17.99,14.99,"http://www.1000steine.com/brickset/images/6152-1.jpg","No","No",0
+9005,"6153","1","Duplo","Disney Princess","2012","Cinderella's Carriage",1,20,19.99,24.99,29.99,24.99,"http://www.1000steine.com/brickset/images/6153-1.jpg","No","No",0
+9000,"6154","1","Duplo","Disney Princess","2012","Cinderella's Castle",2,77,39.99,39.99,49.99,49.99,"http://www.1000steine.com/brickset/images/6154-1.jpg","No","No",0
+3079,"6155","1","Aquazone","Aquasharks","1995","Deep Sea Predator",1,103,,22,,,"http://www.1000steine.com/brickset/images/6155-1.jpg","No","No",0
+9122,"6156","1","Duplo","Zoo","2012","Photo Safari",3,67,49.99,59.99,74.99,59.99,"http://www.1000steine.com/brickset/images/6156-1.jpg","No","No",0
+9121,"6157","1","Duplo","Zoo","2012","The Big Zoo",4,147,79.99,89.99,119.99,99.99,"http://www.1000steine.com/brickset/images/6157-1.jpg","No","No",0
+9120,"6158","1","Duplo","Zoo","2012","Animal Clinic",2,62,29.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/6158-1.jpg","No","No",0
+3080,"6159","1","Aquazone","Hydronauts","1998","Crystal Detector",1,104,,,,,"http://www.1000steine.com/brickset/images/6159-1.jpg","No","No",0
+3081,"6160","1","Aquazone","Stingrays","1998","Sea Scorpion",3,301,,35,,,"http://www.1000steine.com/brickset/images/6160-1.jpg","No","No",0
+5690,"6161","1","Make and Create","","2007","LEGO Brick Box",,221,13.99,19.99,21.99,17.99,"http://www.1000steine.com/brickset/images/6161-1.jpg","No","No",0
+5692,"6162","1","Creator","Mosaic","2007","Building Fun with LEGO",,286,7.99,9.99,,,"http://www.1000steine.com/brickset/images/6162-1.jpg","No","No",0
+5693,"6163","1","Creator","Mosaic","2007","A World of LEGO Mosaic",,598,14.99,19.99,,,"http://www.1000steine.com/brickset/images/6163-1.jpg","No","No",0
+6078,"6164","1","Make and Create","","2007","LEGO Rescue Building Set",1,520,19.99,24.99,,,"http://www.1000steine.com/brickset/images/6164-1.jpg","No","No",0
+5691,"6166","1","Make and Create","","2007","LEGO Large Brick Box",1,405,25.99,29.99,39.99,27.99,"http://www.1000steine.com/brickset/images/6166-1.jpg","No","No",0
+5765,"6167","1","Make and Create","","2007","LEGO Deluxe Brick Box",2,701,34.25,49.99,,,"http://www.1000steine.com/brickset/images/6167-1.jpg","No","No",0
+8924,"6168","1","Duplo","Fire","2012","Fire Station",2,63,39.99,,,49.99,"http://www.1000steine.com/brickset/images/6168-1.jpg","No","No",0
+8925,"6169","1","Duplo","Fire","2012","Fire Chief",1,6,7.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/6169-1.jpg","No","No",0
+9271,"6171","1","Duplo","","2012","Gas Station",2,45,29.99,29.99,29.99,34.99,"http://www.1000steine.com/brickset/images/6171-1.jpg","No","No",0
+9080,"6172","1","Duplo","Zoo","2012","Zoo Truck",1,8,19.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/6172-1.jpg","No","No",0
+9081,"6173","1","Duplo","Zoo","2012","Panda",1,8,,7.99,9.99,7.99,"http://www.1000steine.com/brickset/images/6173-1.jpg","No","No",0
+3082,"6175","1","Aquazone","Aquanauts","1995","Crystal Explorer Sub",2,167,,33,,,"http://www.1000steine.com/brickset/images/6175-1.jpg","No","No",0
+6246,"6176","1","Duplo","","2008","Basic Bricks Deluxe",,80,20.99,19.99,24.99,22.99,"http://www.1000steine.com/brickset/images/6176-1.jpg","No","No",0
+6247,"6177","1","Bricks and More","","2008","Basic Bricks Deluxe",,650,20.99,29.99,34.99,22.99,"http://www.1000steine.com/brickset/images/6177-1.jpg","No","No",0
+6449,"6178","1","Duplo","","2008","MY LEGO Duplo Town",1,79,19.99,29.99,,,"http://www.1000steine.com/brickset/images/6178-1.jpg","No","No",0
+3083,"6180","1","Aquazone","Hydronauts","1998","Hydro Search Sub",4,297,,50,,,"http://www.1000steine.com/brickset/images/6180-1.jpg","No","No",0
+6248,"6186","1","Bricks and More","","2008","Build Your Own Harbor",1,252,9.79,14.99,,,"http://www.1000steine.com/brickset/images/6186-1.jpg","No","No",0
+6249,"6187","1","Bricks and More","","2008","Road Construction Set",1,300,17.99,19.99,29.99,,"http://www.1000steine.com/brickset/images/6187-1.jpg","No","No",0
+3084,"6190","1","Aquazone","Aquasharks","1996","Shark's Crystal Cave",2,258,,50,,,"http://www.1000steine.com/brickset/images/6190-1.jpg","No","No",0
+6836,"6191","1","Bricks and More","","2009","Fire Fighter Building Set",1,117,7.99,9.99,12.99,,"http://www.1000steine.com/brickset/images/6191-1.jpg","No","No",0
+6837,"6192","1","Bricks and More","","2009","Pirate Building Set",1,150,7.99,9.99,,,"http://www.1000steine.com/brickset/images/6192-1.jpg","No","No",0
+6838,"6193","1","Bricks and More","","2009","Castle Building Set",1,137,6.85,9.99,,,"http://www.1000steine.com/brickset/images/6193-1.jpg","No","No",0
+6967,"6194","1","Bricks and More","","2009","My LEGO Town",2,516,20.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/6194-1.jpg","No","No",0
+3085,"6195","1","Aquazone","Aquanauts","1995","Neptune Discovery Lab",4,508,,89,,,"http://www.1000steine.com/brickset/images/6195-1.jpg","No","No",0
+3086,"6198","1","Aquazone","Stingrays","1998","Stingray Stormer",4,408,,70,,,"http://www.1000steine.com/brickset/images/6198-1.jpg","No","No",0
+3087,"6199","1","Aquazone","Hydronauts","1998","Hydro Crystallisation Station",5,482,,90,,,"http://www.1000steine.com/brickset/images/6199-1.jpg","No","No",0
+9289,"6200","1","Pirates","Bonus/Value Pack","1989","Double Pack",,45,,,,,"http://www.1000steine.com/brickset/images/6200-1.jpg","No","No",0
+8956,"6200","2","HERO Factory","","2012","Evo",,36,6.99,8.99,11.99,9.99,"http://www.1000steine.com/brickset/images/6200-2.jpg","No","No",0
+8969,"6201","1","HERO Factory","","2012","Toxic Reapa",,42,6.99,8.99,11.99,9.99,"http://www.1000steine.com/brickset/images/6201-1.jpg","No","No",0
+8954,"6202","1","HERO Factory","","2012","Rocka",,55,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/6202-1.jpg","No","No",0
+8957,"6203","1","HERO Factory","","2012","Black Phantom",,124,14.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/6203-1.jpg","No","No",0
+3090,"6204","1","Pirates","Accessories","1997","Buccaneers",5,36,,6,,,"http://www.1000steine.com/brickset/images/6204-1.jpg","No","No",0
+5037,"6205","1","Star Wars","Episode III","2006","V-wing Fighter",1,118,7.99,10,,,"http://www.1000steine.com/brickset/images/6205-1.jpg","No","No",0
+5034,"6206","1","Star Wars","Episode IV-VI","2006","TIE Interceptor",1,212,17.99,20,,,"http://www.1000steine.com/brickset/images/6206-1.jpg","No","No",0
+5035,"6207","1","Star Wars","Episode IV-VI","2006","A-wing Fighter",2,194,9.99,16,,,"http://www.1000steine.com/brickset/images/6207-1.jpg","No","No",0
+5033,"6208","1","Star Wars","Episode IV-VI","2006","B-wing Fighter",2,435,24.99,34.99,,,"http://www.1000steine.com/brickset/images/6208-1.jpg","No","No",0
+5038,"6209","1","Star Wars","Episode IV-VI","2006","Slave I",4,537,39.99,49.99,,,"http://www.1000steine.com/brickset/images/6209-1.jpg","No","No",0
+4765,"6210","1","Star Wars","Episode IV-VI","2006","Jabba's Sail Barge",8,781,59.99,74.99,,,"http://www.1000steine.com/brickset/images/6210-1.jpg","No","No",0
+4766,"6211","1","Star Wars","Episode IV-VI","2006","Imperial Star Destroyer",9,1367,79.99,99.99,,,"http://www.1000steine.com/brickset/images/6211-1.jpg","No","No",0
+5508,"6212","1","Star Wars","Episode IV-VI","2006","X-wing Fighter",6,437,45.99,49.99,79.99,,"http://www.1000steine.com/brickset/images/6212-1.jpg","No","No",0
+8959,"6216","1","HERO Factory","","2012","Jawblade",,45,6.99,8.99,11.99,9.99,"http://www.1000steine.com/brickset/images/6216-1.jpg","No","No",0
+8955,"6217","1","HERO Factory","","2012","Surge",,39,6.99,8.99,11.99,9.99,"http://www.1000steine.com/brickset/images/6217-1.jpg","No","No",0
+8960,"6218","1","HERO Factory","","2012","Splitface",,50,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/6218-1.jpg","No","No",0
+9171,"6221","1","HERO Factory","","2012","Nex",,39,6.99,8.99,11.99,9.99,"http://www.1000steine.com/brickset/images/6221-1.jpg","No","No",0
+9172,"6222","1","HERO Factory","","2012","Core Hunter",,51,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/6222-1.jpg","No","No",0
+9173,"6223","1","HERO Factory","","2012","Bulk",,61,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/6223-1.jpg","No","No",0
+9035,"6227","1","HERO Factory","","2012","Breez",,55,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/6227-1.jpg","No","No",0
+8958,"6228","1","HERO Factory","","2012","Thornraxx",,44,6.99,8.99,11.99,9.99,"http://www.1000steine.com/brickset/images/6228-1.jpg","No","No",0
+9174,"6229","1","HERO Factory","","2012","XT4",,39,6.99,8.99,11.99,9.99,"http://www.1000steine.com/brickset/images/6229-1.jpg","No","No",0
+9175,"6230","1","HERO Factory","","2012","Stormer XL",,89,14.99,24.99,29.99,29.99,"http://www.1000steine.com/brickset/images/6230-1.jpg","No","No",0
+9227,"6231","1","HERO Factory","","2012","Speeda Demon",,192,24.99,34.99,44.99,29.99,"http://www.1000steine.com/brickset/images/6231-1.jpg","No","No",0
+3094,"6232","1","Pirates","Imperial Armada","1996","Skeleton Crew",2,28,,3,,,"http://www.1000steine.com/brickset/images/6232-1.jpg","No","No",0
+3095,"6234","1","Pirates","","1991","Renegade's Raft",1,38,,3.25,,,"http://www.1000steine.com/brickset/images/6234-1.jpg","No","No",0
+3096,"6235","1","Pirates","","1989","Buried Treasure",1,20,,3.25,,,"http://www.1000steine.com/brickset/images/6235-1.jpg","No","No",0
+3097,"6236","1","Pirates","Islanders","1994","King Kahuka",1,45,,4,,,"http://www.1000steine.com/brickset/images/6236-1.jpg","No","No",0
+3098,"6237","1","Pirates","","1993","Pirates Plunder",2,21,,3,,,"http://www.1000steine.com/brickset/images/6237-1.jpg","No","No",0
+6768,"6239","1","Pirates","","2009","Cannon Battle",2,45,4.99,5.99,6.99,,"http://www.1000steine.com/brickset/images/6239-1.jpg","No","No",0
+6769,"6240","1","Pirates","","2009","Kraken Attackin'",2,78,8.99,9.99,11.99,,"http://www.1000steine.com/brickset/images/6240-1.jpg","No","No",0
+6770,"6241","1","Pirates","","2009","Loot Island",3,142,17.99,19.99,24.99,,"http://www.1000steine.com/brickset/images/6241-1.jpg","No","No",0
+6771,"6242","1","Pirates","","2009","Soldiers' Fort",6,367,39.99,49.99,64.99,,"http://www.1000steine.com/brickset/images/6242-1.jpg","No","No",0
+6772,"6243","1","Pirates","","2009","Brickbeard's Bounty",8,592,59.99,99.99,119.99,,"http://www.1000steine.com/brickset/images/6243-1.jpg","No","No",0
+3100,"6244","1","Pirates","Imperial Armada","1996","Armada Sentry",1,71,,8.75,,,"http://www.1000steine.com/brickset/images/6244-1.jpg","No","No",0
+3101,"6245","1","Pirates","Imperial Guards","1989","Harbor Sentry",1,25,,4.25,,,"http://www.1000steine.com/brickset/images/6245-1.jpg","No","No",0
+3102,"6246","1","Pirates","Islanders","1994","Crocodile Cage",2,59,,7.25,,,"http://www.1000steine.com/brickset/images/6246-1.jpg","No","No",0
+3103,"6247","1","Pirates","Imperial Guards","1992","Bounty Boat",3,36,,4.75,,,"http://www.1000steine.com/brickset/images/6247-1.jpg","No","No",0
+3104,"6248","1","Pirates","","1996","Volcano Island",2,119,,12,,,"http://www.1000steine.com/brickset/images/6248-1.jpg","No","No",0
+3105,"6249","1","Pirates","","1997","Pirates Ambush",3,156,,22,,,"http://www.1000steine.com/brickset/images/6249-1.jpg","No","No",0
+3107,"6250","1","Pirates","","1997","Cross Bone Clipper",3,154,,33,,,"http://www.1000steine.com/brickset/images/6250-1.jpg","No","No",0
+3108,"6251","1","Pirates","Accessories","1989","Pirate Mini Figures",5,33,,6.5,,,"http://www.1000steine.com/brickset/images/6251-1.jpg","No","No",0
+3109,"6252","1","Pirates","Accessories","1993","Sea Mates",4,32,,7.25,,,"http://www.1000steine.com/brickset/images/6252-1.jpg","No","No",0
+6868,"6253","1","Pirates","","2009","Shipwreck Hideout",6,310,26.45,39.99,,,"http://www.1000steine.com/brickset/images/6253-1.jpg","No","No",0
+3110,"6254","1","Pirates","","1995","Rocky Reef",3,103,,15,,,"http://www.1000steine.com/brickset/images/6254-1.jpg","No","No",0
+3111,"6255","1","Pirates","","1989","Pirate Comic",2,12,,,,,"http://www.1000steine.com/brickset/images/6255-1.jpg","No","No",0
+3112,"6256","1","Pirates","Islanders","1994","Islander Catamaran",2,63,,12,,,"http://www.1000steine.com/brickset/images/6256-1.jpg","No","No",0
+3113,"6257","1","Pirates","","1989","Castaway's Raft",3,54,,8.5,,,"http://www.1000steine.com/brickset/images/6257-1.jpg","No","No",0
+3114,"6258","1","Pirates","","1992","Smuggler's Shanty",3,70,,9.25,,,"http://www.1000steine.com/brickset/images/6258-1.jpg","No","No",0
+3115,"6259","1","Pirates","Imperial Guards","1991","Broadside's Brig",3,68,,8.75,,,"http://www.1000steine.com/brickset/images/6259-1.jpg","No","No",0
+3118,"6260","1","Pirates","","1989","Shipwreck Island",2,71,,12,,,"http://www.1000steine.com/brickset/images/6260-1.jpg","No","No",0
+3119,"6261","1","Pirates","","1992","Raft Raiders",3,81,,13.25,,,"http://www.1000steine.com/brickset/images/6261-1.jpg","No","No",0
+3120,"6262","1","Pirates","Islanders","1994","King Kahuka's Throne",5,146,,21,,,"http://www.1000steine.com/brickset/images/6262-1.jpg","No","No",0
+3121,"6263","1","Pirates","Imperial Guards","1995","Imperial Outpost",4,216,,27.5,,,"http://www.1000steine.com/brickset/images/6263-1.jpg","No","No",0
+3122,"6264","1","Pirates","Islanders","1994","Forbidden Cove",4,214,,29.75,,,"http://www.1000steine.com/brickset/images/6264-1.jpg","No","No",0
+3123,"6265","1","Pirates","","1989","Sabre Island",3,96,,15.5,,,"http://www.1000steine.com/brickset/images/6265-1.jpg","No","No",0
+3124,"6266","1","Pirates","Imperial Guards","1993","Cannon Cove",3,106,,17.5,,,"http://www.1000steine.com/brickset/images/6266-1.jpg","No","No",0
+3125,"6267","1","Pirates","Imperial Guards","1991","Lagoon Lock-Up",5,193,,29,,,"http://www.1000steine.com/brickset/images/6267-1.jpg","No","No",0
+3126,"6268","1","Pirates","","1993","Renegade Runner",4,178,,39.75,,,"http://www.1000steine.com/brickset/images/6268-1.jpg","No","No",0
+3128,"6270","1","Pirates","","1989","Forbidden Island",4,182,,37.5,,,"http://www.1000steine.com/brickset/images/6270-1.jpg","No","No",0
+3129,"6271","1","Pirates","Imperial Guards","1992","Imperial Flagship",4,317,,50,,,"http://www.1000steine.com/brickset/images/6271-1.jpg","No","No",0
+3130,"6273","1","Pirates","","1991","Rock Island Refuge",7,381,,66,,,"http://www.1000steine.com/brickset/images/6273-1.jpg","No","No",0
+3131,"6274","1","Pirates","","1989","Caribbean Clipper",4,378,,54,,,"http://www.1000steine.com/brickset/images/6274-1.jpg","No","No",0
+3132,"6276","1","Pirates","","1989","Eldorado Fortress",8,506,,66,,,"http://www.1000steine.com/brickset/images/6276-1.jpg","No","No",0
+3133,"6277","1","Pirates","Imperial Guards","1992","Imperial Trading Post",9,608,,85,,,"http://www.1000steine.com/brickset/images/6277-1.jpg","No","No",0
+3134,"6278","1","Pirates","Islanders","1994","Enchanted Island",7,428,,66,,,"http://www.1000steine.com/brickset/images/6278-1.jpg","No","No",0
+3135,"6279","1","Pirates","","1995","Skull Island",6,378,,53,,,"http://www.1000steine.com/brickset/images/6279-1.jpg","No","No",0
+3136,"6280","1","Pirates","Imperial Armada","1996","Armada Flagship",3,284,,50,,,"http://www.1000steine.com/brickset/images/6280-1.jpg","No","No",0
+3137,"6281","1","Pirates","","1997","Pirates Perilous Pitfall",6,395,,73,,,"http://www.1000steine.com/brickset/images/6281-1.jpg","No","No",0
+9176,"6282","1","HERO Factory","","2012","Stringer",,42,6.99,8.99,11.99,9.99,"http://www.1000steine.com/brickset/images/6282-1.jpg","No","No",0
+9177,"6283","1","HERO Factory","","2012","Voltix",,61,9.99,12.99,15.99,9.99,"http://www.1000steine.com/brickset/images/6283-1.jpg","No","No",0
+3138,"6285","1","Pirates","","1989","Black Seas Barracuda",8,909,,110,,,"http://www.1000steine.com/brickset/images/6285-1.jpg","No","No",0
+3139,"6286","1","Pirates","","1993","Skull's Eye Schooner",9,912,,126.5,,,"http://www.1000steine.com/brickset/images/6286-1.jpg","No","No",0
+3140,"6289","1","Pirates","","1996","Red Beard Runner",7,703,,99,,,"http://www.1000steine.com/brickset/images/6289-1.jpg","No","No",0
+3142,"6290","1","Pirates","","2001","Red Beard Runner",7,698,,100,,,"http://www.1000steine.com/brickset/images/6290-1.jpg","No","No",0
+3143,"6291","1","Pirates","","2001","Armada Flagship",3,280,,50,,,"http://www.1000steine.com/brickset/images/6291-1.jpg","No","No",0
+3144,"6292","1","Pirates","Islanders","2001","Enchanted Island",7,419,,70,,,"http://www.1000steine.com/brickset/images/6292-1.jpg","No","No",0
+8953,"6293","1","HERO Factory","","2012","Furno",,56,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/6293-1.jpg","No","No",0
+3145,"6296","1","Pirates","","1996","Shipwreck Island",4,216,,29.75,,,"http://www.1000steine.com/brickset/images/6296-1.jpg","No","No",0
+6968,"6299","1","Pirates","Seasonal","2009","Pirates Advent Calendar",8,148,15.79,,,,"http://www.1000steine.com/brickset/images/6299-1.jpg","No","No",0
+3149,"6301","1","Town","Accessories","1986","Town Mini-Figures",6,32,,5.5,,,"http://www.1000steine.com/brickset/images/6301-1.jpg","No","No",0
+3150,"6302","1","Town","Accessories","1982","Mini-Figure Set",6,31,,,,,"http://www.1000steine.com/brickset/images/6302-1.jpg","No","No",0
+3151,"6304","1","Town","Accessories","1980","Road Plates, Cross",,2,,,,,"http://www.1000steine.com/brickset/images/6304-1.jpg","No","No",0
+3152,"6305","1","Town","Accessories","1980","Trees and Flowers",,12,,3.75,,,"http://www.1000steine.com/brickset/images/6305-1.jpg","No","No",0
+3153,"6306","1","Town","Accessories","1980","Road Signs",,12,,2.5,,,"http://www.1000steine.com/brickset/images/6306-1.jpg","No","No",0
+3154,"6307","1","Town","Accessories","1983","Firemen",4,22,,,,,"http://www.1000steine.com/brickset/images/6307-1.jpg","No","No",0
+3155,"6308","1","Town","Accessories","1982","Policemen",4,20,,,,,"http://www.1000steine.com/brickset/images/6308-1.jpg","No","No",0
+3156,"6309","1","Town","Accessories","1988","Town Mini-Figures",6,37,,6,,,"http://www.1000steine.com/brickset/images/6309-1.jpg","No","No",0
+3158,"6310","1","Town","Accessories","1986","Road Plates, Junction",,2,,5.75,,,"http://www.1000steine.com/brickset/images/6310-1.jpg","No","No",0
+3159,"6311","1","Town","Accessories","1986","Road Plates, Curved",,2,,5.75,,,"http://www.1000steine.com/brickset/images/6311-1.jpg","No","No",0
+3160,"6312","1","Town","Accessories","1986","Road Plates, Straight",,2,,5.75,,,"http://www.1000steine.com/brickset/images/6312-1.jpg","No","No",0
+3161,"6313","1","Town","Accessories","1986","Road Plates, Cross",,2,,5.75,,,"http://www.1000steine.com/brickset/images/6313-1.jpg","No","No",0
+3162,"6314","1","Town","Accessories","1992","City People",6,33,,7.25,,,"http://www.1000steine.com/brickset/images/6314-1.jpg","No","No",0
+3163,"6315","1","Town","Accessories","1988","Road Signs",,11,,3,,,"http://www.1000steine.com/brickset/images/6315-1.jpg","No","No",0
+3164,"6316","1","Town","Accessories","1988","Flags and Fences",,38,,4,,,"http://www.1000steine.com/brickset/images/6316-1.jpg","No","No",0
+3165,"6317","1","Town","Accessories","1988","Trees and Flowers",,24,,4,,,"http://www.1000steine.com/brickset/images/6317-1.jpg","No","No",0
+3166,"6318","1","Town","Accessories","1996","Flowers, Trees and Fences",,49,,4.5,,,"http://www.1000steine.com/brickset/images/6318-1.jpg","No","No",0
+3167,"6319","1","Town","Accessories","1993","Trees and Fences",,37,,4.5,,,"http://www.1000steine.com/brickset/images/6319-1.jpg","No","No",0
+3169,"6320","1","Town","Accessories","1997","Road Plates, Junction",,2,,6,,,"http://www.1000steine.com/brickset/images/6320-1.jpg","No","No",0
+3170,"6321","1","Town","Accessories","1997","Road Plates, Curved",,2,,6,,,"http://www.1000steine.com/brickset/images/6321-1.jpg","No","No",0
+3171,"6322","1","Town","Accessories","1997","Road Plates, Straight",,2,,6,,,"http://www.1000steine.com/brickset/images/6322-1.jpg","No","No",0
+3172,"6323","1","Town","Accessories","1997","Road Plates, Cross",,2,,6.99,,,"http://www.1000steine.com/brickset/images/6323-1.jpg","No","No",0
+3173,"6324","1","Town","Police","1998","Chopper Cop",1,17,,3,,,"http://www.1000steine.com/brickset/images/6324-1.jpg","No","No",0
+3174,"6325","1","Town","Vehicles","1998","Package Pick-Up",1,28,,4.75,,,"http://www.1000steine.com/brickset/images/6325-1.jpg","No","No",0
+3175,"6326","1","Town","Accessories","1998","Town Folk",6,35,,6,,,"http://www.1000steine.com/brickset/images/6326-1.jpg","No","No",0
+3176,"6327","1","Town","Vehicles","1998","Turbo Champ",2,48,,10,,,"http://www.1000steine.com/brickset/images/6327-1.jpg","No","No",0
+3177,"6328","1","Town","Police","1998","Helicopter Transport",2,102,,15,,,"http://www.1000steine.com/brickset/images/6328-1.jpg","No","No",0
+3178,"6329","1","Town","Shops and Services","1998","Truck Stop",3,137,,25,,,"http://www.1000steine.com/brickset/images/6329-1.jpg","No","No",0
+3180,"6330","1","Town","Shops and Services","1998","Cargo Center",5,242,,49.75,,,"http://www.1000steine.com/brickset/images/6330-1.jpg","No","No",0
+3181,"6331","1","Town","Flight","1996","Patriot Jet",2,161,,16.5,,,"http://www.1000steine.com/brickset/images/6331-1.jpg","No","No",0
+3182,"6332","1","Town","Police","1998","Command Post Central",7,272,,60,,,"http://www.1000steine.com/brickset/images/6332-1.jpg","No","No",0
+3183,"6333","1","Town","Vehicles","1998","Race and Chase",2,50,,,,,"http://www.1000steine.com/brickset/images/6333-1.jpg","No","No",0
+3184,"6334","1","Town","Leisure","1996","Wave Jump Racers",4,181,,20,,,"http://www.1000steine.com/brickset/images/6334-1.jpg","No","No",0
+3185,"6335","1","Town","Racing","1996","Indy Transport",3,397,,30,,,"http://www.1000steine.com/brickset/images/6335-1.jpg","No","No",0
+3186,"6336","1","Town","Launch Command","1995","Launch Response Unit",2,185,,16.5,,,"http://www.1000steine.com/brickset/images/6336-1.jpg","No","No",0
+3187,"6337","1","Town","Racing","1996","Fast Track Finish",6,339,,40,,,"http://www.1000steine.com/brickset/images/6337-1.jpg","No","No",0
+3188,"6338","1","Town","Coastguard","1995","Hurricane Harbour",3,364,,49.5,,,"http://www.1000steine.com/brickset/images/6338-1.jpg","No","No",0
+3189,"6339","1","Town","Launch Command","1995","Shuttle Launch Pad",4,564,,66,,,"http://www.1000steine.com/brickset/images/6339-1.jpg","No","No",0
+3191,"6340","1","Town","Fire","1994","Hook & Ladder",2,177,,20,,,"http://www.1000steine.com/brickset/images/6340-1.jpg","No","No",0
+3192,"6341","1","Town","Flight","1994","Gas N' Go Flyer",2,106,,13.25,,,"http://www.1000steine.com/brickset/images/6341-1.jpg","No","No",0
+3193,"6342","1","Town","Coastguard","1993","Beach Rescue Chopper",3,147,,17.5,,,"http://www.1000steine.com/brickset/images/6342-1.jpg","No","No",0
+3194,"6344","1","Town","Police","1993","Jet Speed Justice",2,157,,21,,,"http://www.1000steine.com/brickset/images/6344-1.jpg","No","No",0
+3195,"6345","1","Town","Flight","1993","Aerial Acrobats",6,351,,34,,,"http://www.1000steine.com/brickset/images/6345-1.jpg","No","No",0
+3196,"6346","1","Town","Launch Command","1992","Shuttle Launching Crew",5,408,,38.5,,,"http://www.1000steine.com/brickset/images/6346-1.jpg","No","No",0
+3197,"6347","1","Town","Monorail","1991","Monorail Accessory Track",,54,,35,,,"http://www.1000steine.com/brickset/images/6347-1.jpg","No","No",0
+3198,"6348","1","Town","Police","1994","Surveillance Squad",3,311,,33,,,"http://www.1000steine.com/brickset/images/6348-1.jpg","No","No",0
+3199,"6349","1","Town","Leisure","1988","Holiday Villa",2,205,,,,,"http://www.1000steine.com/brickset/images/6349-1.jpg","No","No",0
+3201,"6350","1","Town","Shops and Services","1994","Pizza To Go",3,152,,15,,,"http://www.1000steine.com/brickset/images/6350-1.jpg","No","No",0
+3202,"6351","1","Town","Leisure","1992","Surf N' Sail Camper",2,188,,19,,,"http://www.1000steine.com/brickset/images/6351-1.jpg","No","No",0
+3203,"6352","1","Town","Vehicles","1991","Cargomaster Crane",1,140,,,,,"http://www.1000steine.com/brickset/images/6352-1.jpg","No","No",0
+3204,"6353","1","Town","Coastguard","1991","Coastal Cutter",2,185,,19,,,"http://www.1000steine.com/brickset/images/6353-1.jpg","No","No",0
+3205,"6354","1","Town","Police","1990","Pursuit Squad",3,171,,15.5,,,"http://www.1000steine.com/brickset/images/6354-1.jpg","No","No",0
+3206,"6355","1","Town","Leisure","1989","Derby Trotter",1,140,,14,,,"http://www.1000steine.com/brickset/images/6355-1.jpg","No","No",0
+3207,"6356","1","Town","Medical","1988","Med-Star Rescue Plane",3,159,,15.5,,,"http://www.1000steine.com/brickset/images/6356-1.jpg","No","No",0
+3208,"6357","1","Town","Vehicles","1988","Stunt 'Copter N' Truck",2,177,,17,,,"http://www.1000steine.com/brickset/images/6357-1.jpg","No","No",0
+3209,"6358","1","Town","Fire","1987","Snorkel Squad",2,153,,13.5,,,"http://www.1000steine.com/brickset/images/6358-1.jpg","No","No",0
+3210,"6359","1","Town","Leisure","1986","Horse Trailer",1,141,,12.75,,,"http://www.1000steine.com/brickset/images/6359-1.jpg","No","No",0
+3212,"6360","1","Town","Leisure","1986","Weekend Cottage",2,113,,12.75,,,"http://www.1000steine.com/brickset/images/6360-1.jpg","No","No",0
+3213,"6361","1","Town","Vehicles","1986","Mobile Crane",1,163,,12.75,,,"http://www.1000steine.com/brickset/images/6361-1.jpg","No","No",0
+3214,"6362","1","Town","Postal","1982","Post Office",1,133,,,,,"http://www.1000steine.com/brickset/images/6362-1.jpg","No","No",0
+3215,"6363","1","Town","Shops and Services","1980","Auto Repair Shop",1,141,,,,,"http://www.1000steine.com/brickset/images/6363-1.jpg","No","No",0
+3216,"6364","1","Town","Medical","1980","Paramedic Unit",2,137,,,,,"http://www.1000steine.com/brickset/images/6364-1.jpg","No","No",0
+3217,"6365","1","Town","Leisure","1981","Summer Cottage",1,144,,,,,"http://www.1000steine.com/brickset/images/6365-1.jpg","No","No",0
+3218,"6366","1","Town","Fire","1984","Fire & Rescue Squad",3,112,,,,,"http://www.1000steine.com/brickset/images/6366-1.jpg","No","No",0
+3219,"6367","1","Town","Vehicles","1984","Semi Truck",1,155,,,,,"http://www.1000steine.com/brickset/images/6367-1.jpg","No","No",0
+3220,"6368","1","Town","Flight","1985","Jet Airliner",2,136,,12.75,,,"http://www.1000steine.com/brickset/images/6368-1.jpg","No","No",0
+3221,"6369","1","Town","Shops and Services","1985","Auto Workshop",1,134,,,,,"http://www.1000steine.com/brickset/images/6369-1.jpg","No","No",0
+3223,"6370","1","Town","Leisure","1985","Weekend Home",2,177,,,,,"http://www.1000steine.com/brickset/images/6370-1.jpg","No","No",0
+3224,"6371","1","Town","Shops and Services","1983","Shell Service Station",3,261,,,,,"http://www.1000steine.com/brickset/images/6371-1.jpg","No","No",0
+3225,"6372","1","Town","Leisure","1982","Town House",2,217,,,,,"http://www.1000steine.com/brickset/images/6372-1.jpg","No","No",0
+3226,"6373","1","Town","Shops and Services","1984","Motorcycle Shop",2,171,,17.5,,,"http://www.1000steine.com/brickset/images/6373-1.jpg","No","No",0
+3227,"6374","1","Town","Leisure","1983","Holiday Home",2,257,,,,,"http://www.1000steine.com/brickset/images/6374-1.jpg","No","No",0
+3229,"6375","1","Town","Flight","1990","Trans Air Carrier",2,208,,,,,"http://www.1000steine.com/brickset/images/6375-1.jpg","No","No",0
+3228,"6375","2","Town","Shops and Services","1980","Exxon Gas Station",3,267,,20,,,"http://www.1000steine.com/brickset/images/6375-2.jpg","No","No",0
+3230,"6376","1","Town","Shops and Services","1990","Breezeway Café",5,183,,23,,,"http://www.1000steine.com/brickset/images/6376-1.jpg","No","No",0
+3231,"6377","1","Town","Flight","1985","Delivery Center",4,305,,25.5,,,"http://www.1000steine.com/brickset/images/6377-1.jpg","No","No",0
+3232,"6378","1","Town","Shops and Services","1986","Shell Service Station",2,291,,25.5,,,"http://www.1000steine.com/brickset/images/6378-1.jpg","No","No",0
+3233,"6379","1","Town","Leisure","1986","Riding Stable",2,275,,26,,,"http://www.1000steine.com/brickset/images/6379-1.jpg","No","No",0
+3235,"6380","1","Town","Medical","1987","Emergency Treatment Center",5,308,,29.75,,,"http://www.1000steine.com/brickset/images/6380-1.jpg","No","No",0
+3236,"6381","1","Town","Racing","1987","Motor Speedway",5,205,,23,,,"http://www.1000steine.com/brickset/images/6381-1.jpg","No","No",0
+3237,"6382","1","Town","Fire","1981","Fire Station",4,390,,25,,,"http://www.1000steine.com/brickset/images/6382-1.jpg","No","No",0
+3238,"6383","1","Town","Maintenance","1981","Public Works Center",4,421,,30,,,"http://www.1000steine.com/brickset/images/6383-1.jpg","No","No",0
+3239,"6384","1","Town","Police","1983","Police Station",4,389,,,,,"http://www.1000steine.com/brickset/images/6384-1.jpg","No","No",0
+3240,"6385","1","Town","Fire","1985","Fire House-I",3,407,,43,,,"http://www.1000steine.com/brickset/images/6385-1.jpg","No","No",0
+

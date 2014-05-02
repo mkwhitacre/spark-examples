@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+4492,"885","1","Space","Classic","1979","Space Scooter",1,20,,,,,"http://www.1000steine.com/brickset/images/885-1.jpg","No","No",0
+4505,"886","1","Space","Classic","1979","Space Buggy",1,20,,,,,"http://www.1000steine.com/brickset/images/886-1.jpg","No","No",0
+4514,"889","1","Space","Classic","1979","Radar Truck",1,29,,,,,"http://www.1000steine.com/brickset/images/889-1.jpg","No","No",0
+4517,"890","1","Basic","Supplementaries","1981","Wind-Up Motor",,10,,,,,"http://www.1000steine.com/brickset/images/890-1.jpg","No","No",0
+4518,"891","1","Space","Classic","1979","Two Seater Space Scooter",1,39,,,,,"http://www.1000steine.com/brickset/images/891-1.jpg","No","No",0
+4519,"894","1","Space","Classic","1979","Mobile Ground Tracking Station",1,76,,,,,"http://www.1000steine.com/brickset/images/894-1.jpg","No","No",0
+4520,"895","1","Basic","Supplementaries","1985","Wind-Up Motor",,10,,9.5,,,"http://www.1000steine.com/brickset/images/895-1.jpg","No","No",0
+4521,"897","1","Space","Classic","1979","Mobile rocket launcher",2,76,,,,,"http://www.1000steine.com/brickset/images/897-1.jpg","No","No",0
+7958,"900","1","Basic","","1973","Universal Motor Set",,32,,,,,"http://www.1000steine.com/brickset/images/900-1.jpg","No","No",0
+23455,"900","2","Classic","","1969","Small Wheels with Accessories",,,,,,,,"No","No",0
+4523,"901","1","Universal Building Set","","1976","Universal Motor Set",,31,,,,,"http://www.1000steine.com/brickset/images/901-1.jpg","No","No",0
+23456,"901","2","Classic","","1969","Large Wheels with Accessories",,,,,,,,"No","No",0
+23457,"902","1","Classic","","1969","Turntables",,,,,,,,"No","No",0
+8400,"906","1","Classic","","1969","Doors and hinges",,17,,,,,"http://www.1000steine.com/brickset/images/906-1.jpg","No","No",0
+4524,"910","1","Basic","","1976","Advanced Basic Set, 6+",3,283,,,,,"http://www.1000steine.com/brickset/images/910-1.jpg","No","No",0
+4525,"911","1","Basic","","1976","Advanced Basic Set, 6+",4,401,,,,,"http://www.1000steine.com/brickset/images/911-1.jpg","No","No",0
+4526,"912","1","Basic","","1976","Advanced Basic Set with Motor, 6+",3,471,,,,,"http://www.1000steine.com/brickset/images/912-1.jpg","No","No",0
+23453,"914","1","Classic","","1969","Windows, Red",,,,,,,,"No","No",0
+23454,"914","2","Classic","","1969","Windows, White",,,,,,,,"No","No",0
+4527,"918","1","Space","Classic","1979","One Man Space Ship",1,86,,,,,"http://www.1000steine.com/brickset/images/918-1.jpg","No","No",0
+22733,"920","1","Samsonite","Basic","1971","920 Piece Motorized Basic Set",,920,,13.99,,,,"No","No",0
+4528,"920","2","Space","Classic","1979","Rocket Launch Pad",3,186,,,,,"http://www.1000steine.com/brickset/images/920-2.jpg","No","No",0
+4529,"924","1","Space","Classic","1979","Space Transporter",2,170,,,,,"http://www.1000steine.com/brickset/images/924-1.jpg","No","No",0
+4530,"926","1","Space","Classic","1979","Command Centre",4,173,,,,,"http://www.1000steine.com/brickset/images/926-1.jpg","No","No",0
+4532,"928","1","Space","Classic","1979","Space Cruiser And Moonbase",4,338,,,,,"http://www.1000steine.com/brickset/images/928-1.jpg","No","No",0
+4534,"930","1","Basic","Supplementaries","1973","Red Bricks",,45,0.52,,,,"http://www.1000steine.com/brickset/images/930-1.jpg","No","No",0
+4536,"931","1","Basic","Supplementaries","1973","White Bricks",,45,0.52,,,,"http://www.1000steine.com/brickset/images/931-1.jpg","No","No",0
+4537,"932","1","Basic","Supplementaries","1973","Blue and Yellow Bricks",,45,0.52,,,,"http://www.1000steine.com/brickset/images/932-1.jpg","No","No",0
+4538,"933","1","Basic","Supplementaries","1973","Doors and Windows",,38,0.52,,,,"http://www.1000steine.com/brickset/images/933-1.jpg","No","No",0
+4539,"934","1","Basic","Supplementaries","1973","Roof Bricks, 45°",,55,0.52,,,,"http://www.1000steine.com/brickset/images/934-1.jpg","No","No",0
+4540,"935","1","Basic","Supplementaries","1973","Roof Bricks, 33°",,43,0.52,,,,"http://www.1000steine.com/brickset/images/935-1.jpg","No","No",0
+4541,"936","1","Basic","Supplementaries","1973","Wheels and Tyres",,20,0.52,,,,"http://www.1000steine.com/brickset/images/936-1.jpg","No","No",0
+4542,"937","1","Basic","Supplementaries","1973","Doors and Fences",,34,0.52,,,,"http://www.1000steine.com/brickset/images/937-1.jpg","No","No",0
+4543,"938","1","Basic","Supplementaries","1973","Hinges and Turntables",,17,0.52,,,,"http://www.1000steine.com/brickset/images/938-1.jpg","No","No",0
+4544,"939","1","Basic","Supplementaries","1973","Flags, Trees and Road Signs",,19,0.52,,,,"http://www.1000steine.com/brickset/images/939-1.jpg","No","No",0
+7945,"940","1","Basic","Supplementaries","1973","Flags, Signs and Trees",,33,,,,,"http://www.1000steine.com/brickset/images/940-1.jpg","No","No",0
+7946,"941","1","Basic","Supplementaries","1974","Black and Clear Bricks",,48,,,,,"http://www.1000steine.com/brickset/images/941-1.jpg","No","No",0
+4545,"948","1","Technic","","1978","Go-Kart",,206,,22,,,"http://www.1000steine.com/brickset/images/948-1.jpg","No","No",0
+4546,"950","1","Technic","","1979","Forklift",,208,,,,,"http://www.1000steine.com/brickset/images/950-1.jpg","No","No",0
+4547,"951","1","Technic","","1979","Bulldozer",,372,,,,,"http://www.1000steine.com/brickset/images/951-1.jpg","No","No",0
+4548,"952","1","Technic","","1978","Farm Tractor",,316,,,,,"http://www.1000steine.com/brickset/images/952-1.jpg","No","No",0
+22620,"952","2","Dacta","Books","1987","TC logo - Activity Book Box Set",,,,,,,"http://www.1000steine.com/brickset/images/952-2.jpg","No","No",0
+4549,"954","1","Technic","","1978","Sky Copter",,365,,,,,"http://www.1000steine.com/brickset/images/954-1.jpg","No","No",0
+4550,"955","1","Technic","","1979","Mobile Crane",,512,,,,,"http://www.1000steine.com/brickset/images/955-1.jpg","No","No",0
+4551,"956","1","Technic","","1978","Auto Chassis",,599,,,,,"http://www.1000steine.com/brickset/images/956-1.jpg","No","No",0
+4552,"960","1","Technic","Supplementary","1978","Power Pack",,22,,,,,"http://www.1000steine.com/brickset/images/960-1.jpg","No","No",0
+4553,"961","1","Technic","Supplementary","1978","Parts Pack",,78,,,,,"http://www.1000steine.com/brickset/images/961-1.jpg","No","No",0
+4554,"970","1","Basic","Supplementaries","1978","Lighting Bricks",,17,,8.75,,,"http://www.1000steine.com/brickset/images/970-1.jpg","No","No",0
+23447,"980","1","Classic","","1969","23 sloping bricks",,23,,,,,,"No","No",0
+23446,"981","2","Classic","","1969","34 sloping profile bricks",,39,,,,,,"No","No",0
+8650,"985","1","Basic","Supplementaries","1969","Lamp Brick & Accessories",,4,,,,,"http://www.1000steine.com/brickset/images/985-1.jpg","No","No",0
+8401,"990","2","Classic","","1969","Trees and signs",,13,,,,,"http://www.1000steine.com/brickset/images/990-2.jpg","No","No",0
+23449,"994","1","Classic","","1969","LEGO fences with garden gates",,,,,,,"http://www.1000steine.com/brickset/images/994-1.jpg","No","No",0
+8402,"995","1","Classic","","1969","Lighting set",,23,,,,,"http://www.1000steine.com/brickset/images/995-1.jpg","No","No",0
+7812,"1000","1","Dacta","","1986","Mosaic Set",,191,,46.75,,,"http://www.1000steine.com/brickset/images/1000-1.jpg","No","No",0
+7813,"1011","1","Dacta","","1976","LEGO Number/Symbol Blocks",,100,,32,,,"http://www.1000steine.com/brickset/images/1011-1.jpg","No","No",0
+7814,"1012","1","Dacta","","1984","Mosaic Set",,,,,,,"http://www.1000steine.com/brickset/images/1012-1.jpg","No","No",0
+7815,"1013","1","Dacta","","1985","Numbers - 6 symbols",,,,,,,"http://www.1000steine.com/brickset/images/1013-1.jpg","No","No",0
+7816,"1014","2","Dacta","","1986","Mosaic Set (Pets: dogs, cats, hens, rabbits)",,80,,29.15,,,"http://www.1000steine.com/brickset/images/1014-2.jpg","No","No",0
+7817,"1015","1","Dacta","","1985","Letters Large",,192,,,,,"http://www.1000steine.com/brickset/images/1015-1.jpg","No","No",0
+7818,"1016","1","Dacta","","1985","Letter Bricks for Wall Board",,,,,,,"http://www.1000steine.com/brickset/images/1016-1.jpg","No","No",0
+7819,"1017","1","Dacta","","1976","Letter Bricks for Wall Board",,,,48,,,,"No","No",0
+7820,"1018","1","Dacta","","1985","Letters Small",,,,,,,"http://www.1000steine.com/brickset/images/1018-1.jpg","No","No",0
+7821,"1019","1","Dacta","","1986","Mosaic Set (Lion)",,20,,8.25,,,"http://www.1000steine.com/brickset/images/1019-1.jpg","No","No",0
+7822,"1020","1","Dacta","","1986","Basic Bricks - 90 elements",,86,,,,,"http://www.1000steine.com/brickset/images/1020-1.jpg","No","No",0
+7823,"1021","1","Dacta","","1986","Basic Vehicles - 78 elements",12,94,,,,,"http://www.1000steine.com/brickset/images/1021-1.jpg","No","No",0
+7824,"1022","1","Dacta","","1986","Mini Basic Bricks - 29 elements",2,29,,,,,"http://www.1000steine.com/brickset/images/1022-1.jpg","No","No",0
+7825,"1023","1","Dacta","","1986","Giant Red Baseplate",,1,,,,,,"No","No",0
+7826,"1024","1","Dacta","","1985","Animals - 32 elements",,32,,,,,,"No","No",0
+7827,"1025","1","Dacta","","1985","Figures and Furniture",6,35,,,,,"http://www.1000steine.com/brickset/images/1025-1.jpg","No","No",0
+7828,"1026","1","Dacta","","1985","Play Boxes from 2 yrs",,2,,,,,"http://www.1000steine.com/brickset/images/1026-1.jpg","No","No",0
+7829,"1027","1","Dacta","","1985","Vehicles",6,30,,,,,"http://www.1000steine.com/brickset/images/1027-1.jpg","No","No",0
+7830,"1028","1","Dacta","","1986","6 x 12 Base Bricks",,6,,,,,"http://www.1000steine.com/brickset/images/1028-1.jpg","No","No",0
+122,"1029","1","Town","Special","1999","Milk Delivery Truck",1,95,,,,,"http://www.1000steine.com/brickset/images/1029-1.jpg","No","No",0
+5047,"1030","1","Dacta","Technic","1985","Technic I Simple Machines Set",,179,,75,,,"http://www.1000steine.com/brickset/images/1030-1.jpg","No","No",0
+7831,"1031","1","Dacta","","1983","Building Cards - 1030",,20,,15.75,,,"http://www.1000steine.com/brickset/images/1031-1.jpg","No","No",0
+5048,"1032","1","Dacta","Technic","1984","Technic II Powered Machines Set",,278,,80,,,"http://www.1000steine.com/brickset/images/1032-1.jpg","No","No",0
+7832,"1033","1","Dacta","","1985","Building Cards - 1032",,20,,,,,"http://www.1000steine.com/brickset/images/1033-1.jpg","No","No",0
+5049,"1034","1","Dacta","Technic","1985","Teachers Resource Set",,1501,,,,,"http://www.1000steine.com/brickset/images/1034-1.jpg","No","No",0
+5016,"1038","1","Dacta","Technic","1985","Universal Buggy",,119,,,,,"http://www.1000steine.com/brickset/images/1038-1.jpg","No","No",0
+7833,"1039","1","Dacta","","1986","Manual Control Set 1",,46,,,,,"http://www.1000steine.com/brickset/images/1039-1.jpg","No","No",0
+7834,"1040","1","Dacta","","1991","Farm",4,89,,,,,,"No","No",0
+5050,"1040","2","Dacta","","1986","Farm Set",4,82,,,,,"http://www.1000steine.com/brickset/images/1040-2.jpg","No","No",0
+7835,"1041","1","Dacta","","1986","Harbour",6,77,,,,,"http://www.1000steine.com/brickset/images/1041-1.jpg","No","No",0
+7836,"1041","2","Dacta","","1980","Educational Duplo Building Set",,68,,36.5,,,"http://www.1000steine.com/brickset/images/1041-2.jpg","No","No",0
+7837,"1042","1","Dacta","","1986","Community People",12,12,,,,,"http://www.1000steine.com/brickset/images/1042-1.jpg","No","No",0
+5051,"1043","1","Dacta","","1986","Farm Animals Set",,30,,,,,"http://www.1000steine.com/brickset/images/1043-1.jpg","No","No",0
+7838,"1044","1","Dacta","","1986","Community Vehicles",6,33,,,,,"http://www.1000steine.com/brickset/images/1044-1.jpg","No","No",0
+7839,"1045","1","Dacta","","1986","Industrial Elements",,20,,,,,"http://www.1000steine.com/brickset/images/1045-1.jpg","No","No",0
+7840,"1045","2","Dacta","","1976","Educational LEGO Building Set",,683,,38.5,,,,"No","No",0
+7841,"1046","1","Dacta","","1986","Train Set",6,61,,,,,"http://www.1000steine.com/brickset/images/1046-1.jpg","No","No",0
+7843,"1047","1","Dacta","","1986","Extra Track",,12,,,,,"http://www.1000steine.com/brickset/images/1047-1.jpg","No","No",0
+22740,"1047","2","Samsonite","Basic","1972","1047 Piece Basic Set",,1047,,12.99,,,,"No","No",0
+7844,"1048","1","Dacta","","1986","Bridge and Crossing Tracks",,12,,,,,"http://www.1000steine.com/brickset/images/1048-1.jpg","No","No",0
+7845,"1049","1","Dacta","","1985","Ships",3,241,,,,,"http://www.1000steine.com/brickset/images/1049-1.jpg","No","No",0
+7846,"1050","1","Dacta","","1986","Basic Pack",,,,,,,"http://www.1000steine.com/brickset/images/1050-1.jpg","No","No",0
+7842,"1050","2","Dacta","","1980","Unversal set for boys and girls",,,,,,,"http://www.1000steine.com/brickset/images/1050-2.jpg","No","No",0
+7847,"1051","1","Dacta","","1984","Basic Pack",,,,,,,"http://www.1000steine.com/brickset/images/1051-1.jpg","No","No",0
+7848,"1052","1","Dacta","","1984","{Spare Elements}",,,,,,,"http://www.1000steine.com/brickset/images/1052-1.jpg","No","No",0
+7849,"1053","1","Dacta","","1984","Community Buildings",,914,,,,,"http://www.1000steine.com/brickset/images/1053-1.jpg","No","No",0
+124,"1054","1","Promotional","Ferries","1999","Stena Line Ferry",,212,,,,,"http://www.1000steine.com/brickset/images/1054-1.jpg","No","No",0
+7850,"1055","1","Dacta","","1983","Mini Basic Pack",,,,,,,,"No","No",0
+7851,"1056","1","Dacta","","1985","Basic School Pack - Topical/Thematic work",,809,,,,,"http://www.1000steine.com/brickset/images/1056-1.jpg","No","No",0
+7852,"1060","1","Dacta","","1981","Road Plates and Signs",,30,,,,,"http://www.1000steine.com/brickset/images/1060-1.jpg","No","No",0
+126,"1061","1","Technic","Slizer","1999","Single Disc Pack",,1,,,,,"http://www.1000steine.com/brickset/images/1061-1.jpg","No","No",0
+7853,"1062","1","Dacta","","1980","{Town Vehicles}",6,172,,,,,"http://www.1000steine.com/brickset/images/1062-1.jpg","No","No",0
+6512,"1063","1","Dacta","Town","1985","Community Workers",24,115,,,,,"http://www.1000steine.com/brickset/images/1063-1.jpg","No","No",0
+7854,"1064","1","Dacta","","1981","Dacta Buildings",,,,,,,"http://www.1000steine.com/brickset/images/1064-1.jpg","No","No",0
+7855,"1065","1","Dacta","","1985","House Accessories",,184,,,,,"http://www.1000steine.com/brickset/images/1065-1.jpg","No","No",0
+6513,"1066","1","Dacta","Town","1982","Little People with Accessories",36,174,,,,,"http://www.1000steine.com/brickset/images/1066-1.jpg","No","No",0
+7856,"1067","1","Dacta","","1988","Community Vehicles",14,203,,,,,"http://www.1000steine.com/brickset/images/1067-1.jpg","No","No",0
+127,"1068","1","Town","Extreme Team","1999","Air Patrol",1,20,,,,,"http://www.1000steine.com/brickset/images/1068-1.jpg","No","No",0
+128,"1069","1","Town","Res-Q","1999","Speedboat",1,22,,,,,"http://www.1000steine.com/brickset/images/1069-1.jpg","No","No",0
+131,"1070","1","Town","Extreme Team","1999","Stunt Flyer",1,20,,3,,,"http://www.1000steine.com/brickset/images/1070-1.jpg","No","No",0
+7857,"1071","1","Dacta","","1986","Bricks 2 x 2 and 2 x 4",,56,,,,,"http://www.1000steine.com/brickset/images/1071-1.jpg","No","No",0
+7858,"1072","1","Dacta","","1979","Supplementary LEGO Set",,304,,16.3,,,"http://www.1000steine.com/brickset/images/1072-1.jpg","No","No",0
+6131,"1074","1","Dacta","Supplementary Set","1976","House Accessories",,204,,,,,"http://www.1000steine.com/brickset/images/1074-1.jpg","No","No",0
+7859,"1075","1","Dacta","","1980","LEGO People Supplementary Set",,304,,14.5,,,"http://www.1000steine.com/brickset/images/1075-1.jpg","No","No",0
+132,"1076","1","Basic","Seasonal","1999","Advent Calendar",,229,,,,,"http://www.1000steine.com/brickset/images/1076-1.jpg","No","No",0
+7860,"1076","2","Dacta","","1980","LEGO Car and Truck Supplementary Set",,,,14.5,,,,"No","No",0
+7861,"1077","1","Dacta","","1976","Supplementary Set",,198,,,,,"http://www.1000steine.com/brickset/images/1077-1.jpg","No","No",0
+7862,"1078","1","Dacta","","1987","Animal Mosaic Puzzle",,80,,,,,"http://www.1000steine.com/brickset/images/1078-1.jpg","No","No",0
+7863,"1079","1","Dacta","","1987","Animal Mosaic Puzzle",,80,,,,,"http://www.1000steine.com/brickset/images/1079-1.jpg","No","No",0
+22734,"1081","1","Samsonite","Basic","1971","1081 Piece Basic Set",,1081,,12.99,,,,"No","No",0
+7864,"1082","1","Dacta","","1982","Roof Bricks",,336,,,,,"http://www.1000steine.com/brickset/images/1082-1.jpg","No","No",0
+7865,"1083","1","Dacta","","1986","Supplementary Pack",,128,,,,,"http://www.1000steine.com/brickset/images/1083-1.jpg","No","No",0
+7866,"1083","2","Dacta","","1979","50 x 50 LEGO Gray Baseplate",,1,,10,,,,"No","No",0
+7867,"1084","1","Dacta","","1984","{Spare Elements - Structures}",,,,,,,"http://www.1000steine.com/brickset/images/1084-1.jpg","No","No",0
+7868,"1085","1","Dacta","","1985","Large Baseplate 48 x 48",,1,,,,,,"No","No",0
+133,"1086","1","Duplo","","2000","Bulk Bucket",,48,,,,,"http://www.1000steine.com/brickset/images/1086-1.jpg","No","No",0
+7869,"1087","1","Dacta","","1985","6 Lego Baseplates 8 x 16 Green",,6,,,,,"http://www.1000steine.com/brickset/images/1087-1.jpg","No","No",0
+134,"1088","1","Town","Extreme Team","1999","Road Burner",,25,,,,,"http://www.1000steine.com/brickset/images/1088-1.jpg","No","No",0
+7870,"1089","1","Dacta","","1985","Lego Basic Figures",24,24,,,,,"http://www.1000steine.com/brickset/images/1089-1.jpg","No","No",0
+6516,"1090","1","Dacta","","1986","Technic Control 1",,404,,140,,,"http://www.1000steine.com/brickset/images/1090-1.jpg","No","No",0
+7871,"1091","1","Dacta","","1979","Lego Educational Storage Cloth",,1,,10,,,"http://www.1000steine.com/brickset/images/1091-1.jpg","No","No",0
+7872,"1092","1","Dacta","","1986","Technic Control II",,463,,191,,,"http://www.1000steine.com/brickset/images/1092-1.jpg","No","No",0
+23130,"1093","1","Dacta","","1986","Interface A",,,,,,,,"No","No",0
+135,"1094","1","Adventurers","Desert","1999","Johnny Thunder",1,13,,,,,"http://www.1000steine.com/brickset/images/1094-1.jpg","No","No",0
+136,"1095","1","Aquazone","Hydronauts","1999","Super Sub",1,24,,3,,,"http://www.1000steine.com/brickset/images/1095-1.jpg","No","No",0
+137,"1096","1","Town","Extreme Team","1999","Race Buggy",1,23,,,,,"http://www.1000steine.com/brickset/images/1096-1.jpg","No","No",0
+138,"1097","1","Town","Res-Q","1999","Res-Q Runner",1,18,,2,,,"http://www.1000steine.com/brickset/images/1097-1.jpg","No","No",0
+139,"1098","1","Town","Extreme Team","1999","Hang Glider",1,19,,,,,"http://www.1000steine.com/brickset/images/1098-1.jpg","No","No",0
+140,"1099","1","Castle","Ninja","1999","Ninja Blaster",1,24,,2,,,"http://www.1000steine.com/brickset/images/1099-1.jpg","No","No",0
+142,"1100","1","Town","Special","2001","Sky Pirates",2,109,,17,,,"http://www.1000steine.com/brickset/images/1100-1.jpg","No","No",0
+143,"1101","1","Service Packs","","1980","Replacement 4.5V Motor",,1,,5.65,,,,"No","No",0
+144,"1102","1","Service Packs","","1980","Four Motor Wheel Bushes",,4,,,,,,"No","No",0
+145,"1103","1","Service Packs","","1980","Battery Box",,1,,,,,,"No","No",0
+146,"1104","1","Service Packs","","1980","Two Connector Leads",,2,,,,,,"No","No",0
+147,"1105","1","Service Packs","","1980","Two Rubber Crawler Tracks",,2,,,,,"http://www.1000steine.com/brickset/images/1105-1.jpg","No","No",0
+148,"1106","1","Service Packs","Trains","1980","Battery Tender for Trains",,2,,,,,,"No","No",0
+149,"1106","2","Basic","","1999","Basic Building Set, 5+",2,411,,,,,"http://www.1000steine.com/brickset/images/1106-2.jpg","No","No",0
+150,"1107","1","Service Packs","Trains","1980","Two Shunting Trip-Posts and One Signal",,4,,,,,"http://www.1000steine.com/brickset/images/1107-1.jpg","No","No",0
+151,"1108","1","Service Packs","Trains","1980","Two Pairs of Magnetic Couplings",,4,,,,,,"No","No",0
+153,"1110","1","Service Packs","Trains","1980","Four Locomotive Wheels",,8,,,,,,"No","No",0
+154,"1111","1","Service Packs","Trains","1980","Eight Rubber Rims for Locomotive Wheels",,8,,,,,,"No","No",0
+155,"1113","1","Service Packs","","1980","Motor Frame 6 x 16 Stud Plus Four Buffers",,5,,,,,,"No","No",0
+156,"1114","1","Service Packs","","1980","Motor Frame 6 x 22 Stud",,1,,,,,,"No","No",0
+157,"1115","1","Service Packs","","1980","Lighting Brick, 4.5V",,1,,,,,,"No","No",0
+158,"1119","1","Service Packs","Trains","1980","Two Locomotive Piston Assemblies",,6,,,,,"http://www.1000steine.com/brickset/images/1119-1.jpg","No","No",0
+160,"1120","1","Service Packs","","1980","Two Tyres, 42 mm Diameter",,2,,,,,"http://www.1000steine.com/brickset/images/1120-1.jpg","No","No",0
+161,"1121","1","Service Packs","","1977","Propellors, Wheels and Rotor Unit",,15,,13,,,"http://www.1000steine.com/brickset/images/1121-1.jpg","No","No",0
+162,"1122","1","Service Packs","","1980","Hinge Units",,3,,,,,,"No","No",0
+163,"1123","1","Service Packs","","1980","Ball and Socket Couplings & One Articulated Joint",,8,,16,,,"http://www.1000steine.com/brickset/images/1123-1.jpg","No","No",0
+164,"1124","1","Service Packs","","1980","Digger Bucket Assembly",,3,,,,,,"No","No",0
+165,"1125","1","Service Packs","","1980","Crane Grab Assembly",,3,,,,,,"No","No",0
+22612,"1126","1","Service Packs","","1983","Jack",,2,,,,,"http://www.1000steine.com/brickset/images/1126-1.jpg","No","No",0
+166,"1127","1","Seasonal","Christmas","1999","Santa",,39,,,,,"http://www.1000steine.com/brickset/images/1127-1.jpg","No","No",0
+167,"1128","1","Seasonal","Christmas","1999","Santa on Skis",,21,,14,,,"http://www.1000steine.com/brickset/images/1128-1.jpg","No","No",0
+168,"1129","1","Seasonal","Christmas","1999","Santa on Reindeer",,34,,14,,,"http://www.1000steine.com/brickset/images/1129-1.jpg","No","No",0
+169,"1129","2","Service Packs","","1980","Spread Bag",,34,,,,,,"No","No",0
+171,"1130","1","Service Packs","","1980","Plastic Folder for Building Instructions",,1,,14,,,"http://www.1000steine.com/brickset/images/1130-1.jpg","No","No",0
+173,"1149","1","Town","Special","2002","Air Police",,24,,3,,,"http://www.1000steine.com/brickset/images/1149-1.jpg","No","No",0
+22613,"1161","1","Service Packs","Technic","1983","Pump cylinder",,1,,,,,"http://www.1000steine.com/brickset/images/1161-1.jpg","No","No",0
+22438,"1166","1","Duplo","","2003","Stack-n-Learn Gift Item",2,42,,,,,,"No","No",0
+174,"1177","1","Town","Special","2000","Santa's Truck",1,27,,,,,"http://www.1000steine.com/brickset/images/1177-1.jpg","No","No",0
+175,"1180","1","Town","Space Port","1999","Space Port Moon Buggy",1,25,,,,,"http://www.1000steine.com/brickset/images/1180-1.jpg","No","No",0
+176,"1181","1","Town","Space Port","1999","Space Port Spacecraft",1,23,,,,,"http://www.1000steine.com/brickset/images/1181-1.jpg","No","No",0
+177,"1182","1","Adventurers","Desert","1999","Adventurers Raft",1,18,,,,,"http://www.1000steine.com/brickset/images/1182-1.jpg","No","No",0
+178,"1183","1","Adventurers","Desert","1999","Mummy and Cart",1,17,,,,,"http://www.1000steine.com/brickset/images/1183-1.jpg","No","No",0
+179,"1184","1","Castle","Ninja","1999","Cart",1,24,,,,,"http://www.1000steine.com/brickset/images/1184-1.jpg","No","No",0
+180,"1185","1","Castle","Ninja","1999","Raft",1,25,,2,,,"http://www.1000steine.com/brickset/images/1185-1.jpg","No","No",0
+181,"1186","1","Castle","Ninja","1999","Cart",1,25,,,,,"http://www.1000steine.com/brickset/images/1186-1.jpg","No","No",0
+182,"1187","1","Castle","Ninja","1999","Glider",1,23,,2,,,"http://www.1000steine.com/brickset/images/1187-1.jpg","No","No",0
+183,"1188","1","Town","Extreme Team","1999","Fire Formula",1,38,,,,,"http://www.1000steine.com/brickset/images/1188-1.jpg","No","No",0
+184,"1189","1","Town","Extreme Team","1999","Rocket Boat",1,30,,,,,"http://www.1000steine.com/brickset/images/1189-1.jpg","No","No",0
+185,"1190","1","Town","Extreme Team","1999","Retro Buggy",1,45,,,,,"http://www.1000steine.com/brickset/images/1190-1.jpg","No","No",0
+186,"1191","1","Town","Extreme Team","1999","Try Bird",1,34,,,,,"http://www.1000steine.com/brickset/images/1191-1.jpg","No","No",0
+187,"1192","1","Primo","","1999","Stack N' Learn Gift Box",2,38,,20,,,"http://www.1000steine.com/brickset/images/1192-1.jpg","No","No",0
+4999,"1193","1","Duplo","","1999","Water Park Tub ",2,44,,20,,,"http://www.1000steine.com/brickset/images/1193-1.jpg","No","No",0
+5000,"1194","1","Classic","","1999","Birthday Table Set",,400,,20,,,"http://www.1000steine.com/brickset/images/1194-1.jpg","No","No",0
+188,"1195","1","Space","Life On Mars","2001","Alien Encounter",2,42,,,,,"http://www.1000steine.com/brickset/images/1195-1.jpg","No","No",0
+189,"1196","1","Town","Telekom","2000","Telekom Race Cyclist",1,7,,,,,"http://www.1000steine.com/brickset/images/1196-1.jpg","No","No",0
+190,"1197","1","Town","Telekom","2000","Telekom Race Cyclist and Television Motorbike",3,26,,,,,"http://www.1000steine.com/brickset/images/1197-1.jpg","No","No",0
+191,"1198","1","Town","Telekom","2000","Telekom Race Cyclists and Service Crew",3,81,,,,,"http://www.1000steine.com/brickset/images/1198-1.jpg","No","No",0
+192,"1199","1","Town","Telekom","2000","Telekom Race Cyclists and Winners' Podium",8,129,,,,,"http://www.1000steine.com/brickset/images/1199-1.jpg","No","No",0
+22439,"1201","1","Duplo","","2001","Chicken Run",,,,,,,,"No","No",0
+193,"1202","1","Racers","Xalax","2001","Single Racers Figure Pack",,1,,,,,"http://www.1000steine.com/brickset/images/1202-1.jpg","No","No",0
+22614,"1205","1","Service Packs","","1982","Keys for wind-up motor",,2,,,,,"http://www.1000steine.com/brickset/images/1205-1.jpg","No","No",0
+9119,"1209","1","Service Packs","","1982","{Fences and Gates}",,10,,,,,"http://www.1000steine.com/brickset/images/1209-1.jpg","No","No",0
+195,"1211","1","Service Packs","Space","1982","Space Stands and Brackets",,8,,2.25,,,,"No","No",0
+

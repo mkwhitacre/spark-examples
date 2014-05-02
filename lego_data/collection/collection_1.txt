@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+22520,"23","2","Town","Product Collection","1995","Value Pack Italy",,161,,,,,"http://www.1000steine.com/brickset/images/23-2.jpg","No","No",0
+22453,"1979","2","Town","Product Collection","1984","Town Value Pack",,78,,,,,,"No","No",0
+3356,"65062","1","Racers","Product Collection","2002","Racers Turbo Pack",,87,,10,,,"http://www.1000steine.com/brickset/images/65062-1.jpg","No","No",0
+3358,"65071","1","Bionicle","Product Collection","2002","Bionicle Dual Pack: Lehvak & Pahrak",,82,9.99,,,,"http://www.1000steine.com/brickset/images/65071-1.jpg","No","No",0
+3360,"65081","1","Star Wars","Product Collection","2002","R2-D2 / C-3PO Droid Collectors Set",,581,,40,,,"http://www.1000steine.com/brickset/images/65081-1.jpg","No","No",0
+3364,"65118","1","Alpha Team","Product Collection","2002","Alpha Team Secret Mission Collector's Pack",,242,,35,,,"http://www.1000steine.com/brickset/images/65118-1.jpg","No","No",0
+3368,"65145","1","Star Wars","Product Collection","2002","X-wing Fighter / TIE Fighter & Y-wing Collectors Set",,677,,,,,,"No","No",0
+5192,"65153","1","Star Wars","Product Collection","2002","Jango Fett's Slave I with Bonus Cargo Case",,360,,50,,,"http://www.1000steine.com/brickset/images/65153-1.jpg","No","No",0
+3373,"65182","1","Sports","Product Collection","2003","Slammer Stadium",,22,,40,,,"http://www.1000steine.com/brickset/images/65182-1.jpg","No","No",0
+3378,"65221","1","Sports","Product Collection","2003","Street Basketball set with Spalding mini-basketball",,186,,,,,"http://www.1000steine.com/brickset/images/65221-1.jpg","No","No",0
+3386,"65295","1","Bionicle","Product Collection","2003","Bionicle twin-pack with gold mask",,50,,8,,,"http://www.1000steine.com/brickset/images/65295-1.jpg","No","No",0
+3387,"65296","1","Bionicle","Product Collection","2003","Bionicle twin-pack with gold mask",,50,,8,,,"http://www.1000steine.com/brickset/images/65296-1.jpg","No","No",0
+3388,"65297","1","Bionicle","Product Collection","2003","Bionicle twin-pack with gold mask",,50,,8,,,"http://www.1000steine.com/brickset/images/65297-1.jpg","No","No",0
+10698,"65355","1","Bionicle","Product Collection","2003","Bonus/Value Pack",,199,,,,,,"No","No",0
+13327,"65407","1","Explore","Product Collection","2003","Bonus/Value Pack",,35,,,,,,"No","No",0
+10699,"65409","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,92,,,,,,"No","No",0
+10701,"65410","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,92,,,,,,"No","No",0
+10703,"65411","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,97,,,,,,"No","No",0
+13659,"65412","1","Castle","Product Collection","2004","Bonus/Value Pack",,91,,,,,,"No","No",0
+13661,"65413","1","Castle","Product Collection","2004","Bonus/Value Pack",,94,,,,,,"No","No",0
+10705,"65414","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,54,,,,,,"No","No",0
+10707,"65415","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,54,,,,,,"No","No",0
+10709,"65416","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,57,,,,,,"No","No",0
+14880,"65417","1","Racers","Product Collection","2004","Bonus/Value Pack",,151,,,,,,"No","No",0
+10711,"65418","1","Bionicle","Product Collection","2003","Bonus/Value Pack",,240,,,,,,"No","No",0
+14049,"65419","1","Creator","Product Collection","2004","Bonus/Value Pack",,169,,,,,,"No","No",0
+11271,"65448","1","Creator","Product Collection","2003","Bonus/Value Pack",,43,,,,,,"No","No",0
+11272,"65451","1","Creator","Product Collection","2003","Bonus/Value Pack",,36,,,,,,"No","No",0
+14882,"65456","1","Racers","Product Collection","2003","Bonus/Value Pack",,308,,,,,,"No","No",0
+10713,"65459","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,92,,,,,,"No","No",0
+10715,"65460","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,94,,,,,,"No","No",0
+10717,"65461","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,95,,,,,,"No","No",0
+10384,"65462","1","4 Juniors","Product Collection","2004","Bonus/Value Pack",,76,,,,,,"No","No",0
+11273,"65463","1","Creator","Product Collection","2004","Bonus/Value Pack",,500,,,,,,"No","No",0
+10719,"65466","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,92,,,,,,"No","No",0
+10721,"65467","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,94,,,,,,"No","No",0
+10723,"65468","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,95,,,,,,"No","No",0
+10725,"65486","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,54,,,,,,"No","No",0
+10727,"65487","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,96,,,,,,"No","No",0
+10730,"65488","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,96,,,,,,"No","No",0
+10733,"65503","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,57,,,,,,"No","No",0
+10735,"65504","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,54,,,,,,"No","No",0
+10737,"65514","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,150,,,,,,"No","No",0
+10742,"65515","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,153,,,,,,"No","No",0
+12577,"65516","1","Clikits","Product Collection","2004","Bonus/Value Pack",,69,,,,,,"No","No",0
+13263,"65517","1","Duplo","Product Collection","2004","Bonus/Value Pack",,29,,,,,,"No","No",0
+15259,"65518","1","Spider-Man","Product Collection","2004","Bonus/Value Pack",,310,,,,,,"No","No",0
+9843,"65524","1","Harry Potter","Product collection","2004","Motorised Hogwarts Express super pack",,724,,,,,"http://www.1000steine.com/brickset/images/65524-1.jpg","No","No",0
+13663,"65527","1","Castle","Product Collection","2004","Bonus/Value Pack",,370,,,,,,"No","No",0
+3413,"65535","1","Creator","X-Pod","2004","X-Pod Play Off Game Pack",,219,,20,,,"http://www.1000steine.com/brickset/images/65535-1.jpg","No","No",0
+12437,"65536","1","Trains","Product Collection","2002","Bonus/Value Pack",,951,,,,,,"No","No",0
+3414,"65537","1","Trains","Product Collection","2004","Classic Freight Train",,608,,80,,,"http://www.1000steine.com/brickset/images/65537-1.jpg","No","No",0
+12578,"65542","1","Clikits","Product Collection","2004","Bonus/Value Pack",,48,,,,,,"No","No",0
+12579,"65543","1","Clikits","Product Collection","2004","Bonus/Value Pack",,48,,,,,,"No","No",0
+12580,"65544","1","Clikits","Product Collection","2004","Bonus/Value Pack",,52,,,,,,"No","No",0
+4711,"65545","1","Bionicle","Product Collection","2004","Special Edition Ta-Metru Collector's Pack",,75,,8,,,"http://www.1000steine.com/brickset/images/65545-1.jpg","No","No",0
+14886,"65546","1","Racers","Product Collection","2004","Bonus/Value Pack",,310,,,,,,"No","No",0
+10749,"65547","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,123,,,,,,"No","No",0
+10753,"65548","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,96,,,,,"http://www.1000steine.com/brickset/images/65548-1.jpg","No","No",0
+10756,"65549","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,96,,,,,,"No","No",0
+4625,"65572","1","Spider-Man","Product Collection","2004","Spider-Man Combined Set",,1022,,,,,"http://www.1000steine.com/brickset/images/65572-1.jpg","No","No",0
+5087,"65573","1","Racers","Product Collection","2005","Rumble Racers",,310,,,,,"http://www.1000steine.com/brickset/images/65573-1.jpg","No","No",0
+10759,"65574","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,214,,,,,,"No","No",0
+12581,"65575","1","Clikits","Product Collection","2004","Bonus/Value Pack",,48,,,,,,"No","No",0
+12582,"65576","1","Clikits","Product Collection","2004","Bonus/Value Pack",,52,,,,,,"No","No",0
+12583,"65577","1","Clikits","Product Collection","2004","Bonus/Value Pack",,48,,,,,,"No","No",0
+13665,"65579","1","Castle","Product Collection","2004","Bonus/Value Pack",,87,,,,,,"No","No",0
+13667,"65580","1","Castle","Product Collection","2004","Bonus/Value Pack",,94,,,,,,"No","No",0
+4879,"65642","1","Castle","Product Collection","2005","The Grand Tournament with sword and shield",,312,,30,,,"http://www.1000steine.com/brickset/images/65642-1.jpg","No","No",0
+12332,"65702","1","City","Product Collection","2005","Bonus/Value Pack",,312,,,,,,"No","No",0
+13257,"65705","1","Creator","Product Collection","2003","Bonus/Value Pack",,496,,,,,,"No","No",0
+14894,"65706","1","Racers","Product Collection","2005","Bonus/Value Pack",,348,,,,,,"No","No",0
+15465,"65707","1","Star Wars","Product Collection","2004","Bonus/Value Pack",,363,,,,,,"No","No",0
+15264,"65708","1","Spider-Man","Product Collection","2004","Bonus/Value Pack",,185,,,,,,"No","No",0
+5223,"65716","1","Bionicle","Product Collection","2005","Bonus/Value Pack",,260,,30,,,,"No","No",0
+10762,"65738","1","Bionicle","Product Collection","2005","Bonus/Value Pack",,143,,,,,,"No","No",0
+10765,"65739","1","Bionicle","Product Collection","2005","Bonus/Value Pack",,144,,,,,,"No","No",0
+5224,"65743","1","City","Product Collection","2005","City Construction Value Pack",,226,,25,,,"http://www.1000steine.com/brickset/images/65743-1.jpg","No","No",0
+10768,"65748","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,215,,,,,,"No","No",0
+10769,"65749","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,215,,,,,,"No","No",0
+10770,"65750","1","Bionicle","Product Collection","2004","Bonus/Value Pack",,215,,,,,,"No","No",0
+5181,"65757","1","Bionicle","Product Collection","2005","Special Edition Guardian Toa",,108,,18,,,"http://www.1000steine.com/brickset/images/65757-1.jpg","No","No",0
+10773,"65764","1","Bionicle","Product Collection","2005","Bonus/Value Pack",,108,,,,,,"No","No",0
+5215,"65766","1","Duplo","Product Collection","2005","Thomas Bridge & Tunnel Set",,87,,70,,,"http://www.1000steine.com/brickset/images/65766-1.jpg","No","No",0
+5070,"65767","1","Castle","Product Collection","2005","Attack from the Sea",,314,,30,,,"http://www.1000steine.com/brickset/images/65767-1.jpg","No","No",0
+5193,"65768","1","Castle","Product Collection","2005","Knights' Value Pack",,87,14.99,,,,"http://www.1000steine.com/brickset/images/65768-1.jpg","No","No",0
+5086,"65769","1","Castle","Product Collection","2005","Vladek Value Pack",,42,14.99,20,,,"http://www.1000steine.com/brickset/images/65769-1.jpg","No","No",0
+5073,"65771","1","Star Wars","Product Collection","2005","Episode III Collectors' Set",,544,,60,,,"http://www.1000steine.com/brickset/images/65771-1.jpg","No","No",0
+5225,"65773","1","Duplo","Product Collection","2005","Bonus/Value Pack",,53,,50,,,,"No","No",0
+13676,"65776","1","Castle","Product Collection","2005","Bonus/Value Pack",,87,,,,,,"No","No",0
+6733,"65777","1","City","Product Collection","2005","City Fire Value Pack",,595,,,,,"http://www.1000steine.com/brickset/images/65777-1.jpg","No","No",0
+11809,"65778","1","City","Product Collection","2005","Bonus/Value Pack",,260,,,,,,"No","No",0
+11274,"65780","1","Creator","Product Collection","2004","Bonus/Value Pack",,500,,,,,,"No","No",0
+10775,"65783","1","Bionicle","Product Collection","2005","Bonus/Value Pack",,96,,,,,,"No","No",0
+10777,"65796","1","Bionicle","Product Collection","2005","Bonus/Value Pack",,143,,,,,,"No","No",0
+10780,"65797","1","Bionicle","Product Collection","2005","Bonus/Value Pack",,144,,,,,,"No","No",0
+5201,"65799","1","City","Product Collection","2005","City Fire Value Pack",,664,,,,,"http://www.1000steine.com/brickset/images/65799-1.jpg","No","No",0
+5182,"65800","1","City","Product Collection","2005","City Construction Value Pack",,1012,,,,,"http://www.1000steine.com/brickset/images/65800-1.jpg","No","No",0
+5202,"65801","1","World City","Product Collection","2004","Trains Value Pack",,741,,,,,"http://www.1000steine.com/brickset/images/65801-1.jpg","No","No",0
+5203,"65808","1","Bionicle","Product Collection","2005","Toa Hordika Value Pack",,144,17.99,,,,"http://www.1000steine.com/brickset/images/65808-1.jpg","No","No",0
+12069,"65809","1","City","Product Collection","2005","Bonus/Value Pack",,110,,,,,,"No","No",0
+10786,"65813","1","Bionicle","Product Collection","2005","Bonus/Value Pack",,264,,,,,,"No","No",0
+13678,"65824","1","Castle","Product Collection","2005","Bonus/Value Pack",,173,,,,,,"No","No",0
+13680,"65825","1","Castle","Product Collection","2005","Bonus/Value Pack",,264,,,,,,"No","No",0
+14896,"65826","1","Racers","Product Collection","2005","Bonus/Value Pack",,380,,,,,,"No","No",0
+15470,"65828","1","Star Wars","Product Collection","2005","Bonus/Value Pack",,244,,,,,,"No","No",0
+10788,"65829","1","Bionicle","Product Collection","2005","Bonus/Value Pack",,426,,,,,,"No","No",0
+10790,"65830","1","Bionicle","Product Collection","2005","Bonus/Value Pack",,96,,,,,,"No","No",0
+11822,"65838","1","City","Product Collection","2005","Bonus/Value Pack",,335,,,,,,"No","No",0
+15472,"65844","1","Star Wars","Product Collection","2005","Bonus/Value Pack",,280,,,,,,"No","No",0
+15475,"65845","1","Star Wars","Product Collection","2005","Bonus/Value Pack",,371,,,,,,"No","No",0
+5184,"65849","1","Bionicle","Product Collection","2005","Bionicle Co-pack",,401,,,,,"http://www.1000steine.com/brickset/images/65849-1.jpg","No","No",0
+5185,"65851","1","Castle","Product Collection","2005","Knights' Kingdom Co-pack",,280,,,,,"http://www.1000steine.com/brickset/images/65851-1.jpg","No","No",0
+12073,"66069","1","City","Product Collection","2005","Bonus/Value Pack",,126,,,,,,"No","No",0
+11826,"66070","1","City","Product Collection","2005","Bonus/Value Pack",,121,,,,,,"No","No",0
+11828,"66107","1","City","Product Collection","2005","Bonus/Value Pack",,260,,,,,,"No","No",0
+5795,"66116","1","City","Product Collection","2006","City Emergency Service Vehicles (Multipack)",,618,29.99,,,,"http://www.1000steine.com/brickset/images/66116-1.jpg","No","No",0
+10792,"66131","1","Bionicle","Product Collection","2006","Bonus/Value Pack",,68,,,,,,"No","No",0
+12075,"66139","1","City","Product Collection","2005","Bonus/Value Pack",,208,,,,,,"No","No",0
+15478,"66142","1","Star Wars","Product Collection","2006","Bonus/Value Pack",,302,,,,,,"No","No",0
+13356,"66145","1","Exo-Force","Product Collection","2006","Bonus/Value Pack",,360,,,,,,"No","No",0
+13358,"66146","1","Exo-Force","Product Collection","2006","Bonus/Value Pack",,374,,,,,,"No","No",0
+10795,"66147","1","Bionicle","Product Collection","2006","Bonus/Value Pack",,92,,,,,,"No","No",0
+10797,"66148","1","Bionicle","Product Collection","2006","Bonus/Value Pack",,92,,,,,,"No","No",0
+15480,"66150","1","Star Wars","Product Collection","2006","Bonus/Value Pack",,396,,,,,,"No","No",0
+9441,"66151","1","Duplo","Product Collection","2006","Bonus/Value Pack",,171,,,,,,"No","No",0
+5714,"66156","1","City","Product Collection","2006","City Airport Exclusive Pack",,1123,74.99,,,,"http://www.1000steine.com/brickset/images/66156-1.jpg","No","No",0
+6891,"66157","1","Bionicle","Product Collection","2006","Bonus/Value Pack",,124,,,,,,"No","No",0
+6892,"66158","1","Bionicle","Product Collection","2006","Bonus/Value Pack",,124,,,,,,"No","No",0
+11522,"66166","1","City","Product Collection","2006","Bonus/Value Pack",,549,,,,,,"No","No",0
+11614,"66167","1","City","Product Collection","2006","Bonus/Value Pack",,474,,,,,,"No","No",0
+12079,"66168","1","City","Product Collection","2006","Bonus/Value Pack",,785,,,,,,"No","No",0
+14058,"66169","1","City","Product Collection","2006","Bonus/Value Pack",,245,,,,,,"No","No",0
+10799,"66170","1","Bionicle","Product Collection","2006","Bonus/Value Pack",,242,,,,,,"No","No",0
+11832,"66171","1","City","Product Collection","2005","Bonus/Value Pack",,121,,,,,,"No","No",0
+14060,"66173","1","Creator","Product Collection","2004","Bonus/Value Pack",,671,,,,,,"No","No",0
+6681,"66174","1","City","Product Collection","2008","City Fire Value Pack",,595,,,,,"http://www.1000steine.com/brickset/images/66174-1.jpg","No","No",0
+6035,"66175","1","City","Product Collection","2007","City Essential Vehicles Collection",,526,,49.99,,,"http://www.1000steine.com/brickset/images/66175-1.jpg","No","No",0
+6468,"66177","1","City","Product Collection","2007","City Rescue Pack",,467,,,,,"http://www.1000steine.com/brickset/images/66177-1.jpg","No","No",0
+12089,"66179","1","City","Product Collection","2006","Bonus/Value Pack",,141,,,,,,"No","No",0
+11840,"66180","1","City","Product Collection","2005","Bonus/Value Pack",,126,,,,,,"No","No",0
+11700,"66181","1","City","Product Collection","2006","Bonus/Value Pack",,433,,,,,,"No","No",0
+11842,"66182","1","City","Product Collection","2005","Bonus/Value Pack",,335,,,,,,"No","No",0
+12091,"66183","1","City","Product Collection","2005","Bonus/Value Pack",,185,,,,,,"No","No",0
+11846,"66184","1","City","Product Collection","2006","Bonus/Value Pack",,141,,,,,,"No","No",0
+12094,"66185","1","City","Product Collection","2005","Bonus/Value Pack",,126,,,,,,"No","No",0
+10801,"66187","1","Bionicle","Product Collection","2007","Bonus/Value Pack",,192,,,,,,"No","No",0
+6462,"66188","1","Make and Create","Product Collection","2007","Bonus/Value Pack",,923,,,,,,"No","No",0
+6464,"66189","1","Duplo","Product Collection","2007","Creative Building",,147,,,,,"http://www.1000steine.com/brickset/images/66189-1.jpg","No","No",0
+11848,"66190","1","City","Product Collection","2005","Bonus/Value Pack",,208,,,,,,"No","No",0
+6313,"66193","1","City","Product Collection","2007","City Medical Super Pack",,815,,,,,"http://www.1000steine.com/brickset/images/66193-1.jpg","No","No",0
+6314,"66194","1","City","Product Collection","2007","City Super Pack",,1097,,,,,"http://www.1000steine.com/brickset/images/66194-1.jpg","No","No",0
+6315,"66195","1","City","Product Collection","2007","City Super Pack",,496,,,,,"http://www.1000steine.com/brickset/images/66195-1.jpg","No","No",0
+11275,"66198","1","Creator","Product Collection","2007","Bonus/Value Pack",,286,,,,,,"No","No",0
+9725,"66200","1","Exo-Force","Product Collection","2006","Bonus/Value Pack",,557,,,,,,"No","No",0
+13360,"66201","1","Exo-Force","Product Collection","2007","Bonus/Value Pack",,509,,,,,,"No","No",0
+13362,"66202","1","Exo-Force","Product Collection","2007","Bonus/Value Pack",,359,,,,,,"No","No",0
+6186,"66208","1","Creator","Product Collection","2007","Mr. Magorium's Wonder Emporium",,323,,19.99,,,"http://www.1000steine.com/brickset/images/66208-1.jpg","No","No",0
+11709,"66213","1","City","Product Collection","2006","Bonus/Value Pack",,426,,,,,,"No","No",0
+11524,"66214","1","City","Product Collection","2006","Bonus/Value Pack",,667,,,,,,"No","No",0
+6675,"66217","1","Duplo","Product Collection","2007","Bonus/Value Pack",,120,,,,,,"No","No",0
+11860,"66218","1","City","Product Collection","2006","Bonus/Value Pack",,223,,,,,,"No","No",0
+11276,"66219","1","Creator","Product Collection","2006","Bonus/Value Pack",,209,,,,,,"No","No",0
+15482,"66221","1","Star Wars","Product Collection","2006","Bonus/Value Pack",,437,,,,,"http://www.1000steine.com/brickset/images/66221-1.jpg","No","No",0
+13309,"66231","1","Duplo","Product Collection","2007","Bonus/Value Pack",,42,,,,,,"No","No",0
+13310,"66232","1","Duplo","Product Collection","2007","Bonus/Value Pack",,143,,,,,,"No","No",0
+14069,"66234","1","Creator","Product Collection","2007","Bonus/Value Pack",,566,,,,,,"No","No",0
+10805,"66235","1","Bionicle","Product Collection","2007","Bonus/Value Pack",,192,,,,,,"No","No",0
+6451,"66236","1","Duplo","Product Collection","2008","Build & Play Value Pack",,145,,,,,"http://www.1000steine.com/brickset/images/66236-1.jpg","No","No",0
+6463,"66237","1","Bricks and More","Product Collection","2008","Build & Play Value Pack",,1021,,,,,"http://www.1000steine.com/brickset/images/66237-1.jpg","No","No",0
+6312,"66239","1","City","Product Collection","2007","City Trains Super Set",,1267,,,,,"http://www.1000steine.com/brickset/images/66239-1.jpg","No","No",0
+12096,"66244","1","City","Product Collection","2005","Bonus/Value Pack",,87,,,,,,"No","No",0
+11625,"66245","1","City","Product Collection","2005","Bonus/Value Pack",,99,,,,,,"No","No",0
+6570,"66246","1","City","Product Collection","2008","City Police Super Pack",,650,,,,,"http://www.1000steine.com/brickset/images/66246-1.jpg","No","No",0
+7014,"66247","1","City","Product Collection","2008","Bonus/Value Pack",,343,,,,,,"No","No",0
+12458,"66248","1","City","Product Collection","2006","Bonus/Value Pack",,525,,,,,,"No","No",0
+12105,"66249","1","City","Product Collection","2005","Bonus/Value Pack",,87,,,,,,"No","No",0
+7015,"66255","1","City","Product Collection","2008","City Emergency Services Value Pack",,1030,,,,,"http://www.1000steine.com/brickset/images/66255-1.jpg","No","No",0
+7016,"66256","1","City","Product Collection","2008","Bonus/Value Pack",,825,,,,,,"No","No",0
+7003,"66257","1","City","Product Collection","2008","City Police Super Pack 4-in-1",,1134,,,,,"http://www.1000steine.com/brickset/images/66257-1.jpg","No","No",0
+7018,"66258","1","City","Product Collection","2008","Bonus/Value Pack",,821,,,,,,"No","No",0
+7019,"66260","1","City","Product Collection","2008","Bonus/Value Pack",,1024,,,,,,"No","No",0
+7020,"66261","1","Duplo","Product Collection","2008","Bonus/Value Pack",,70,,,,,,"No","No",0
+7021,"66262","1","Duplo","Product Collection","2008","Bonus/Value Pack",,42,,,,,,"No","No",0
+23628,"66263","1","City","Product Collection","2014","Value pack: transport",,,,,,,,"No","No",0
+7022,"66264","1","Duplo","Product Collection","2008","Bonus/Value Pack",,135,,,,,,"No","No",0
+11712,"66265","1","City","Product Collection","2007","Bonus/Value Pack",,177,,,,,,"No","No",0
+11277,"66266","1","City","Product Collection","2006","Bonus/Value Pack",,118,,,,,,"No","No",0
+10808,"66272","1","Bionicle","Product Collection","2008","Bonus/Value Pack",,100,,,,,,"No","No",0
+10810,"66273","1","Bionicle","Product Collection","2008","Bonus/Value Pack",,124,,,,,,"No","No",0
+10812,"66274","1","Bionicle","Product Collection","2008","Bonus/Value Pack",,116,,,,,,"No","No",0
+7023,"66282","1","City","Product Collection","2008","Bonus/Value Pack",,192,,,,,,"No","No",0
+6991,"66283","1","Duplo","Product Collection","2009","Bonus/Value Pack",,,,,,,,"No","No",0
+6987,"66284","1","Bricks and More","Product Collection","2009","LEGO Build and Play Value Pack",,1021,,,,,"http://www.1000steine.com/brickset/images/66284-1.jpg","No","No",0
+14964,"66288","1","Racers","Product Collection","2008","Bonus/Value Pack",,143,,,,,,"No","No",0
+7024,"66290","1","City","Product Collection","2008","Bonus/Value Pack",,1077,,,,,,"No","No",0
+11278,"66299","1","Bricks and More","Product Collection","2008","Bonus/Value Pack",,689,,,,,,"No","No",0
+15948,"66300","1","Technic","Product Collection","2008","Bonus/Value Pack",,720,,,,,,"No","No",0
+7737,"66305","1","City","Product Collection","2009","City Police Super Pack 3-in-1",,650,,,,,"http://www.1000steine.com/brickset/images/66305-1.jpg","No","No",0
+7105,"66306","1","City","Product Collection","2008","City Super Pack 3 in 1",,608,,,,,"http://www.1000steine.com/brickset/images/66306-1.jpg","No","No",0
+

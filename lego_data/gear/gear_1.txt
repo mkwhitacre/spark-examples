@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+23557," DSCASE2","1","Gear","Video Games/DS","2011","Armour Case Kit for Nintendo DSi, Classic Red",,,,,,,,"No","No",0
+708,"200","2","Gear","Books/Ideas book","1985","Building Ideas Book",,,,,,,"http://www.1000steine.com/brickset/images/200-2.jpg","No","No",0
+7397,"220","7","Gear","Books/Ideas book","1972","Play Book",,,,,,,,"No","No",0
+5186,"221","1","Gear","Books/Ideas book","1973","Idea Book #1",,,,,,,"http://www.1000steine.com/brickset/images/221-1.jpg","No","No",0
+828,"222","1","Gear","Books/Ideas book","1976","Building Ideas Book",,,,1,,,"http://www.1000steine.com/brickset/images/222-1.jpg","No","No",0
+841,"225","1","Gear","Books/Ideas book","1977","Building Ideas Book No. 2",,,,,,,"http://www.1000steine.com/brickset/images/225-1.jpg","No","No",0
+845,"226","1","Gear","Books/Ideas book","1981","Building Ideas Book",,,,2.4,,,"http://www.1000steine.com/brickset/images/226-1.jpg","No","No",0
+8372,"239","1","Gear","Books/Ideas book","1968","The big LEGO book",,,,,,,,"No","No",0
+8352,"240","1","Gear","Books/Ideas book","1967","Idea book",,,,,,,"http://www.1000steine.com/brickset/images/240-1.jpg","No","No",0
+8387,"241","1","Gear","Books/Ideas book","1969","Idea book",,,,,,,"http://www.1000steine.com/brickset/images/241-1.jpg","No","No",0
+7421,"242","2","Gear","Books/Ideas book","1970","Big Model Book",,,,,,,"http://www.1000steine.com/brickset/images/242-2.jpg","No","No",0
+7962,"243","1","Gear","Books/Miscellaneous","1974","Mach Mehr aus LEGO",,,,,,,,"No","No",0
+924,"250","1","Gear","Books/Ideas book","1987","Building Ideas Book",,,,3,,,"http://www.1000steine.com/brickset/images/250-1.jpg","No","No",0
+5015,"260","1","Gear","Books/Ideas book","1990","Idea Book",,,,4.25,,,"http://www.1000steine.com/brickset/images/260-1.jpg","No","No",0
+3739,"697","2","Gear","Books/Ideas book","1997","Building Ideas Book",,,,,,,"http://www.1000steine.com/brickset/images/697-2.jpg","No","No",0
+22555,"757","1","Gear","Storage","1983","Storage Tray Red",,,,,,,,"No","No",0
+22556,"758","1","Gear","Storage","1983","Storage Tray Blue",,,,,,,,"No","No",0
+8417,"759","1","Gear","Storage","1984","Storage Cabinet",,,,,,,"http://www.1000steine.com/brickset/images/759-1.jpg","No","No",0
+10172,"760","1","Gear","Storage","1984","Storage Cabinet",,,,,,,,"No","No",0
+10171,"783","1","Gear","Storage","1985","Storage Case",,,,,,,"http://www.1000steine.com/brickset/images/783-1.jpg","No","No",0
+7974,"789","2","Gear","Storage","1974","Suitcase, red",,,,,,,,"No","No",0
+7975,"790","1","Gear","Storage","1974","Suitcase, blue",,,,,,,,"No","No",0
+7457,"791","1","Gear","Storage","1972","Red Storage Box",,,,,,,,"No","No",0
+7458,"792","1","Gear","Storage","1972","White Storage Box",,,,,,,,"No","No",0
+7459,"793","1","Gear","Storage","1972","Blue Storage Box",,,,,,,,"No","No",0
+7460,"794","1","Gear","Storage","1972","Storage Box",,,,,,,,"No","No",0
+369,"1515","1","Gear","Pens","2000","Classic Pen Series 1",,,,,,,"http://www.1000steine.com/brickset/images/1515-1.jpg","No","No",0
+371,"1516","2","Gear","Pens","2000","Decoder Pen Series 1",,,,,,,"http://www.1000steine.com/brickset/images/1516-2.jpg","No","No",0
+374,"1517","2","Gear","Pens","2000","Hieroglyph Pen Series 1",,,,,,,"http://www.1000steine.com/brickset/images/1517-2.jpg","No","No",0
+376,"1518","2","Gear","Pens","2000","Race Pen Series 1",,,,,,,"http://www.1000steine.com/brickset/images/1518-2.jpg","No","No",0
+377,"1519","1","Gear","Pens","2000","Sport Pen Series 1",,,,,,,,"No","No",0
+378,"1520","2","Gear","Pens","2000","Adventure Pen Series 1",,,,,,,"http://www.1000steine.com/brickset/images/1520-2.jpg","No","No",0
+379,"1522","1","Gear","Pens","2000","Soccer Pen Series 2",,,,,,,,"No","No",0
+380,"1523","1","Gear","Pens","2000","Arctic Pen Series 2",,,,,,,"http://www.1000steine.com/brickset/images/1523-1.jpg","No","No",0
+381,"1524","1","Gear","Pens","2000","Dino Island Pen Series 2",1,,,,,,"http://www.1000steine.com/brickset/images/1524-1.jpg","No","No",0
+384,"1525","2","Gear","Pens","2000","World Pen Series 2",,,,,,,"http://www.1000steine.com/brickset/images/1525-2.jpg","No","No",0
+387,"1528","2","Gear","Pens","2001","Pen Baseball",,,,,,,"http://www.1000steine.com/brickset/images/1528-2.jpg","No","No",0
+388,"1529","1","Gear","Pens","2001","Pen Basketball",,,,,,,"http://www.1000steine.com/brickset/images/1529-1.jpg","No","No",0
+389,"1530","1","Gear","Pens","2001","Pen Football",,,,,,,"http://www.1000steine.com/brickset/images/1530-1.jpg","No","No",0
+390,"1532","1","Gear","Pens","2001","Pen Aquazone",,,,,,,"http://www.1000steine.com/brickset/images/1532-1.jpg","No","No",0
+391,"1533","1","Gear","Pens","2001","Pen Mini Figure Faces",,,,,,,"http://www.1000steine.com/brickset/images/1533-1.jpg","No","No",0
+392,"1534","1","Gear","Pens","2001","Pen Legoland",,,,,,,"http://www.1000steine.com/brickset/images/1534-1.jpg","No","No",0
+393,"1535","1","Gear","Pens","2001","Pen Knights' Kingdom",,,,,,,"http://www.1000steine.com/brickset/images/1535-1.jpg","No","No",0
+394,"1537","1","Gear","Pens","2001","Pen Dream Star",,,,,,,"http://www.1000steine.com/brickset/images/1537-1.jpg","No","No",0
+395,"1538","1","Gear","Pens","2001","Pen Safari",,,,,,,"http://www.1000steine.com/brickset/images/1538-1.jpg","No","No",0
+396,"1539","1","Gear","Pens","2001","Pen Classic II",,,,,,,"http://www.1000steine.com/brickset/images/1539-1.jpg","No","No",0
+398,"1542","1","Gear","Pens","2002","Pen Jack Stone",,,,,,,"http://www.1000steine.com/brickset/images/1542-1.jpg","No","No",0
+399,"1543","1","Gear","Pens","2002","Pen Belville",,,,,,,"http://www.1000steine.com/brickset/images/1543-1.jpg","No","No",0
+401,"1545","1","Gear","Pens","2002","Pen Alpha Team",,,,,,,,"No","No",0
+402,"1546","1","Gear","Pens","2002","Pen Racers",1,,,,,,"http://www.1000steine.com/brickset/images/1546-1.jpg","No","No",0
+515,"1701","2","Gear","Pens","2001","Pen Pack Gali",,,,,,,"http://www.1000steine.com/brickset/images/1701-2.jpg","No","No",0
+517,"1702","2","Gear","Pens","2001","Pen Pack Kopaka",,,,,,,"http://www.1000steine.com/brickset/images/1702-2.jpg","No","No",0
+518,"1703","1","Gear","Pens","2001","Pen Pack Lewa",,,,,,,"http://www.1000steine.com/brickset/images/1703-1.jpg","No","No",0
+520,"1704","2","Gear","Pens","2001","Pen Pack Onua",,,,,,,"http://www.1000steine.com/brickset/images/1704-2.jpg","No","No",0
+521,"1705","1","Gear","Pens","2001","Pen Pack Pohatu",,,,,,,"http://www.1000steine.com/brickset/images/1705-1.jpg","No","No",0
+522,"1706","1","Gear","Pens","2001","Pen Pack Tahu",,,,,,,"http://www.1000steine.com/brickset/images/1706-1.jpg","No","No",0
+523,"1708","1","Gear","Pens","2001","Limited Edition Pen",,,,,,,"http://www.1000steine.com/brickset/images/1708-1.jpg","No","No",0
+524,"1709","1","Gear","Pens","2002","Pen Darth Vader",,,,,,,"http://www.1000steine.com/brickset/images/1709-1.jpg","No","No",0
+527,"1710","2","Gear","Pens","2002","Pen R2-D2",,,,,,,"http://www.1000steine.com/brickset/images/1710-2.jpg","No","No",0
+529,"1711","2","Gear","Pens","2002","Pen C-3PO",,,,,,,"http://www.1000steine.com/brickset/images/1711-2.jpg","No","No",0
+531,"1712","2","Gear","Pens","2002","Pen Anakin Skywalker",,,,,,,"http://www.1000steine.com/brickset/images/1712-2.jpg","No","No",0
+533,"1713","2","Gear","Pens","2002","Pen Jango Fett",,,,,,,"http://www.1000steine.com/brickset/images/1713-2.jpg","No","No",0
+535,"1714","2","Gear","Pens","2002","Pen Clone Trooper",,,,,,,"http://www.1000steine.com/brickset/images/1714-2.jpg","No","No",0
+536,"1715","2","Gear","Pens","2002","Pen Gahlok",,,,10,,,"http://www.1000steine.com/brickset/images/1715-2.jpg","No","No",0
+537,"1716","1","Gear","Pens","2002","Pen Kohrak",,,,,,,"http://www.1000steine.com/brickset/images/1716-1.jpg","No","No",0
+538,"1717","1","Gear","Pens","2002","Pen Lehvak",,,,,,,"http://www.1000steine.com/brickset/images/1717-1.jpg","No","No",0
+539,"1718","1","Gear","Pens","2002","Pen Nuhvok",,,,,,,"http://www.1000steine.com/brickset/images/1718-1.jpg","No","No",0
+540,"1719","1","Gear","Pens","2002","Pen Pahrak",,,,,,,"http://www.1000steine.com/brickset/images/1719-1.jpg","No","No",0
+542,"1720","2","Gear","Pens","2002","Pen Tahnok",,,,,,,"http://www.1000steine.com/brickset/images/1720-2.jpg","No","No",0
+548,"1727","1","Gear","Pens","2002","Pen Chewbacca",,,,,,,"http://www.1000steine.com/brickset/images/1727-1.jpg","No","No",0
+550,"1728","2","Gear","Pens","2002","Pen Darth Maul",,,,,,,"http://www.1000steine.com/brickset/images/1728-2.jpg","No","No",0
+23647,"1729","2","Gear","Pens","2003","Luke Skywalker pen",,,,,,,"http://www.1000steine.com/brickset/images/1729-2.jpg","No","No",0
+23648,"1730","2","Gear","Pens","2003","Paploo pen",,,,,,,"http://www.1000steine.com/brickset/images/1730-2.jpg","No","No",0
+23649,"1731","2","Gear","Pens","2003","Storm Trooper pen",,,,,,,"http://www.1000steine.com/brickset/images/1731-2.jpg","No","No",0
+23650,"1732","2","Gear","Pens","2003","Obi-Wan Kenobi pen",,,,,,,"http://www.1000steine.com/brickset/images/1732-2.jpg","No","No",0
+23651,"1733","2","Gear","Pens","2003","Tusken Raider pen",,,,,,,"http://www.1000steine.com/brickset/images/1733-2.jpg","No","No",0
+23652,"1734","2","Gear","Pens","2003","Yoda pen",,,,,,,"http://www.1000steine.com/brickset/images/1734-2.jpg","No","No",0
+724,"2027","1","Gear","Pens","2000","Pen Pack Alpha",,,,,,,"http://www.1000steine.com/brickset/images/2027-1.jpg","No","No",0
+725,"2028","1","Gear","Pens","2000","Pen Pack Classic",,,,3,,,"http://www.1000steine.com/brickset/images/2028-1.jpg","No","No",0
+726,"2029","1","Gear","Pens","2000","Pen Pack Dream Star",,,,6,,,"http://www.1000steine.com/brickset/images/2029-1.jpg","No","No",0
+728,"2030","2","Gear","Pens","2000","Pen Pack Safari",,,,,,,"http://www.1000steine.com/brickset/images/2030-2.jpg","No","No",0
+731,"2032","2","Gear","Pens","2001","Pen Pack Space Port",,,,,,,"http://www.1000steine.com/brickset/images/2032-2.jpg","No","No",0
+733,"2033","2","Gear","Pens","2002","Pen Pack Life On Mars",,,,,,,"http://www.1000steine.com/brickset/images/2033-2.jpg","No","No",0
+734,"2035","1","Gear","Pens","2002","Pen Pack Sport",,,,,,,"http://www.1000steine.com/brickset/images/2035-1.jpg","No","No",0
+1281,"3057","1","Gear","Books/Master Builders","2000","Create 'N' Race",,,,20,,,"http://www.1000steine.com/brickset/images/3057-1.jpg","No","No",0
+1282,"3058","1","Gear","Books/Master Builders","2000","Busy City",,,,20,,,"http://www.1000steine.com/brickset/images/3058-1.jpg","No","No",0
+1283,"3059","1","Gear","Books/Master Builders","2000","Mars Mission",1,,,20,,,"http://www.1000steine.com/brickset/images/3059-1.jpg","No","No",0
+1840,"3901","1","Gear","CD/DVDs","2001","Jack Stone Video",,,,,,,"http://www.1000steine.com/brickset/images/3901-1.jpg","No","No",0
+1841,"3911","1","Gear","Key Chains/Town","2000","Astronaut Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3911-1.jpg","No","No",0
+23525,"3912","1","Gear","Key Chains/Castle","2000","Ninja Key Chain",,,1.99,2.99,,,,"No","No",0
+1842,"3913","1","Gear","Key Chains/Star Wars","2000","Darth Vader Key Chain",,,2.99,4.99,5.49,,"http://www.1000steine.com/brickset/images/3913-1.jpg","No","No",0
+1843,"3914","1","Gear","Key Chains/Star Wars","2000","Luke Skywalker Key Chain",,,,4,,,"http://www.1000steine.com/brickset/images/3914-1.jpg","No","No",0
+1844,"3915","1","Gear","Key Chains/Town","2000","Race Car Driver Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3915-1.jpg","No","No",0
+1845,"3916","1","Gear","Key Chains/Rock Raiders","2000","Rock Raider Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3916-1.jpg","No","No",0
+1846,"3917","1","Gear","Key Chains/Brick","2001","Red Brick Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/3917-1.jpg","No","No",0
+1847,"3918","1","Gear","Key Chains/Town","2002","Coast Girl Key Chain",,,2.99,3,,,"http://www.1000steine.com/brickset/images/3918-1.jpg","No","No",0
+1848,"3922","1","Gear","Key Chains/Star Wars","2000","Darth Maul Key Chain",,,,4,,,"http://www.1000steine.com/brickset/images/3922-1.jpg","No","No",0
+1849,"3923","1","Gear","Key Chains/Castle","2000","King Leo Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3923-1.jpg","No","No",0
+1850,"3924","1","Gear","Key Chains/Studios","2001","Director Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3924-1.jpg","No","No",0
+1851,"3925","1","Gear","Key Chains/Island Xtreme Stunts","2001","Brickster Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3925-1.jpg","No","No",0
+1852,"3926","1","Gear","Key Chains/Life On Mars","2002","Life On Mars Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/3926-1.jpg","No","No",0
+1855,"3945","1","Gear","Key Chains/Racers","2002","Drome Racer Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3945-1.jpg","No","No",0
+1856,"3946","1","Gear","Key Chains/Sports","2002","Soccer Player and Ball Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3946-1.jpg","No","No",0
+1857,"3947","1","Gear","Key Chains/Star Wars","2002","Yoda Key Chain",,,,4,,,"http://www.1000steine.com/brickset/images/3947-1.jpg","No","No",0
+1858,"3948","1","Gear","Key Chains/Star Wars","2001","Stormtrooper Key Chain",,,,4,,,"http://www.1000steine.com/brickset/images/3948-1.jpg","No","No",0
+10052,"3950","1","Gear","Key Chains/Space","2002","Insectoid Figure Key Chain",,,,,,,,"No","No",0
+10053,"3951","1","Gear","Key Chains/Space","2002","Insectoid Queen Key Chain",,,,,,,,"No","No",0
+1859,"3952","1","Gear","Key Chains/Town","2000","Police Officer Key Chain",,,2.99,3,,,"http://www.1000steine.com/brickset/images/3952-1.jpg","No","No",0
+1860,"3953","1","Gear","Key Chains/Seasonal","2000","Santa Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3953-1.jpg","No","No",0
+1861,"3961","1","Gear","Key Chains/Adventurers","2000","Johnny Thunder Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3961-1.jpg","No","No",0
+1862,"3962","1","Gear","Key Chains/Western","2002","Chief Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3962-1.jpg","No","No",0
+1863,"3974","1","Gear","Key Chains/Western","2001","Cowboy Key Chain",,,2.99,3,,,"http://www.1000steine.com/brickset/images/3974-1.jpg","No","No",0
+1864,"3978","1","Gear","Key Chains/Castle","1998","Magic Wizard Key Chain ",,,,3,,,"http://www.1000steine.com/brickset/images/3978-1.jpg","No","No",0
+1865,"3983","1","Gear","Key Chains/Pirates","2002","Captain Roger Key Chain",,,,3,,,"http://www.1000steine.com/brickset/images/3983-1.jpg","No","No",0
+1869,"4006","1","Gear","Books/Brick Tricks","2000","Brick Tricks: Cool Cars",,,,8,,,"http://www.1000steine.com/brickset/images/4006-1.jpg","No","No",0
+1870,"4007","1","Gear","Books/Brick Tricks","2000","Brick Tricks: Fantastic Fliers",,,,8,,,"http://www.1000steine.com/brickset/images/4007-1.jpg","No","No",0
+5194,"4287","2","Gear","Seasonal","2005","Santa Minifigure Snow Globe",,,,13,,,"http://www.1000steine.com/brickset/images/4287-2.jpg","No","No",0
+4964,"4366","1","Gear","Watches/Clocks","2000","Time Cruiser Watch",,,,40,,,,"No","No",0
+4965,"4367","1","Gear","Watches/Clocks","2000","Star Pilot Watch",,,,45,,,,"No","No",0
+4966,"4368","1","Gear","Watches/Clocks","2000","Team Spirit Watch",,,,50,,,,"No","No",0
+2088,"4369","1","Gear","Watches/Clocks","2000","X-Tracker Watch",,,,50,,,"http://www.1000steine.com/brickset/images/4369-1.jpg","No","No",0
+4967,"4370","1","Gear","Watches/Clocks","2000","Grinder Watch",,,,60,,,,"No","No",0
+4968,"4371","1","Gear","Watches/Clocks","2000","Y-10 Watch",,,,80,,,,"No","No",0
+4969,"4372","1","Gear","Watches/Clocks","2000","X-10 Watch",,,,80,,,,"No","No",0
+4970,"4373","1","Gear","Watches/Clocks","2000","Dreamstar Watch",,,,45,,,,"No","No",0
+2089,"4375","1","Gear","Watches/Clocks","2002","GEL-I Watch",,,,60,,,"http://www.1000steine.com/brickset/images/4375-1.jpg","No","No",0
+2090,"4383","1","Gear","Watches/Clocks","2001","Time Teaching Clock",1,,,35,,,"http://www.1000steine.com/brickset/images/4383-1.jpg","No","No",0
+2091,"4392","1","Gear","Watches/Clocks","2001","Football / Soccer Clock",,,,30,,,"http://www.1000steine.com/brickset/images/4392-1.jpg","No","No",0
+2168,"4509","1","Gear","Furniture","2004","3-Seat Playtable",,,,249.99,,,"http://www.1000steine.com/brickset/images/4509-1.jpg","No","No",0
+2275,"4676","1","Gear","Key Chains/Miscellaneous","2004","Police Key Chain",,,,5,,,"http://www.1000steine.com/brickset/images/4676-1.jpg","No","No",0
+2276,"4677","1","Gear","Key Chains/Miscellaneous","2004","Name Letter Pack",,,,2,,,"http://www.1000steine.com/brickset/images/4677-1.jpg","No","No",0
+2277,"4678","1","Gear","Photo frames/albums","2004","Picture Holder",1,,,5,,,"http://www.1000steine.com/brickset/images/4678-1.jpg","No","No",0
+2826,"5700","1","Gear","Video Games/PC","1998","LEGO Creator",,,,,,,"http://www.1000steine.com/brickset/images/5700-1.jpg","No","No",0
+2827,"5701","1","Gear","Video Games/PC","1998","LEGO Loco",,,,10,,,"http://www.1000steine.com/brickset/images/5701-1.jpg","No","No",0
+2828,"5702","1","Gear","Video Games/PC","1998","LEGO Chess",,,,10,,,"http://www.1000steine.com/brickset/images/5702-1.jpg","No","No",0
+2829,"5703","1","Gear","Video Games/Nintendo 64","1999","LEGO Racers",,,,20,,,"http://www.1000steine.com/brickset/images/5703-1.jpg","No","No",0
+2830,"5704","1","Gear","Video Games/PC","1999","LEGO Racers",,,,20,,,"http://www.1000steine.com/brickset/images/5704-1.jpg","No","No",0
+2831,"5705","1","Gear","Video Games/PS","1999","LEGO Racers",,,,20,,,"http://www.1000steine.com/brickset/images/5705-1.jpg","No","No",0
+2832,"5706","1","Gear","Video Games/PC","1999","LEGOLAND",,,,25,,,"http://www.1000steine.com/brickset/images/5706-1.jpg","No","No",0
+2833,"5707","1","Gear","Video Games/PC","1999","LEGO Friends",,,,10,,,"http://www.1000steine.com/brickset/images/5707-1.jpg","No","No",0
+2834,"5708","1","Gear","Video Games/PC","1999","LEGO Rock Raiders",,,,20,,,"http://www.1000steine.com/brickset/images/5708-1.jpg","No","No",0
+2835,"5709","1","Gear","Video Games/PS","1999","LEGO Rock Raiders",,,,30,,,"http://www.1000steine.com/brickset/images/5709-1.jpg","No","No",0
+2836,"5712","1","Gear","Video Games/PC","2000","LEGO Stunt Rally",,,,30,,,"http://www.1000steine.com/brickset/images/5712-1.jpg","No","No",0
+2837,"5713","1","Gear","Video Games/PS","2000","LEGO Stunt Rally",,,,,,,"http://www.1000steine.com/brickset/images/5713-1.jpg","No","No",0
+2838,"5714","1","Gear","Video Games/PC","2000","LEGO Alpha Team",,,,20,,,"http://www.1000steine.com/brickset/images/5714-1.jpg","No","No",0
+2839,"5715","1","Gear","Video Games/PC","2000","LEGO My Style: Preschool",,,,10,,,"http://www.1000steine.com/brickset/images/5715-1.jpg","No","No",0
+2840,"5716","1","Gear","Video Games/PC","2000","LEGO My Style: Kindergarden",,,,,,,"http://www.1000steine.com/brickset/images/5716-1.jpg","No","No",0
+2841,"5719","1","Gear","Video Games/Game Boy Color","2000","LEGO Racers",,,,30,,,"http://www.1000steine.com/brickset/images/5719-1.jpg","No","No",0
+2845,"5723","1","Gear","Video Games/PC","2000","LEGO Creator: Knights' Kingdom",,,,30,,,"http://www.1000steine.com/brickset/images/5723-1.jpg","No","No",0
+2846,"5724","1","Gear","Video Games/Game Boy Color","2000","LEGO Stunt Rally",,,,30,,,"http://www.1000steine.com/brickset/images/5724-1.jpg","No","No",0
+2847,"5725","1","Gear","Video Games/Game Boy Color","2000","LEGO Alpha Team",,,,30,,,"http://www.1000steine.com/brickset/images/5725-1.jpg","No","No",0
+2848,"5730","1","Gear","Video Games/Game Boy Color","2001","LEGO Island 2",,,,19.95,,,"http://www.1000steine.com/brickset/images/5730-1.jpg","No","No",0
+2849,"5731","1","Gear","Video Games/PC","1997","LEGO Island",,,,,,,"http://www.1000steine.com/brickset/images/5731-1.jpg","No","No",0
+2851,"5774","1","Gear","Video Games/PC","2001","LEGO Island 2",,,,19.95,,,"http://www.1000steine.com/brickset/images/5774-1.jpg","No","No",0
+2852,"5775","1","Gear","Video Games/PS","2001","LEGO Island 2",,,,19.95,,,"http://www.1000steine.com/brickset/images/5775-1.jpg","No","No",0
+2853,"5777","1","Gear","Video Games/Game Boy Advance","2001","LEGO Island 2",,,,,,,"http://www.1000steine.com/brickset/images/5777-1.jpg","No","No",0
+2854,"5778","1","Gear","Video Games/PC","2001","LEGO Racers 2",,,,,,,"http://www.1000steine.com/brickset/images/5778-1.jpg","No","No",0
+2855,"5779","1","Gear","Video Games/PS2","2001","LEGO Racers 2",,,,29.95,,,"http://www.1000steine.com/brickset/images/5779-1.jpg","No","No",0
+2856,"5780","1","Gear","Video Games/Game Boy Advance","2001","LEGO Racers 2",,,,,,,"http://www.1000steine.com/brickset/images/5780-1.jpg","No","No",0
+2857,"5781","1","Gear","Video Games/PC","2001","LEGO Bionicle: The Legend of Mata Nui ",,,,,,,"http://www.1000steine.com/brickset/images/5781-1.jpg","No","No",0
+2858,"5782","1","Gear","Video Games/Game Boy Advance","2001","LEGO BIONICLE: Tales of the Tohunga",,,,29.95,,,"http://www.1000steine.com/brickset/images/5782-1.jpg","No","No",0
+2859,"5784","1","Gear","Video Games/PC","2002","Soccer Mania",,,,29.95,,,"http://www.1000steine.com/brickset/images/5784-1.jpg","No","No",0
+2860,"5785","1","Gear","Video Games/PS2","2002","Soccer Mania",,,,39.95,,,"http://www.1000steine.com/brickset/images/5785-1.jpg","No","No",0
+2861,"5786","1","Gear","Video Games/Game Boy Advance","2002","Soccer Mania",,,,34.95,,,"http://www.1000steine.com/brickset/images/5786-1.jpg","No","No",0
+2862,"5787","1","Gear","Video Games/PC","2001","LEGO Creator: Harry Potter",,,,30,,,"http://www.1000steine.com/brickset/images/5787-1.jpg","No","No",0
+10169,"5907","1","Gear","Books/Ideas book","1986","Let's Build and Play",,,,,,,,"No","No",0
+10170,"5908","1","Gear","Books/Ideas book","1986","Abracadabra - With Your Bricks",,,,,,,,"No","No",0
+2973,"6000","1","Gear","Books/Ideas book","1980","LEGOLAND Idea Book",,,,2,,,"http://www.1000steine.com/brickset/images/6000-1.jpg","No","No",0
+3901,"7377","1","Gear","Watches/Clocks","2002","Biodium Watch",,,,,,,"http://www.1000steine.com/brickset/images/7377-1.jpg","No","No",0
+3902,"7381","1","Gear","Watches/Clocks","2002","Belville Pink Watch",,,,20,,,"http://www.1000steine.com/brickset/images/7381-1.jpg","No","No",0
+3903,"7382","1","Gear","Watches/Clocks","2002","Bionicle Watch",,,,20,,,"http://www.1000steine.com/brickset/images/7382-1.jpg","No","No",0
+3904,"7383","1","Gear","Watches/Clocks","2002","Creator Watch",,,,20,,,"http://www.1000steine.com/brickset/images/7383-1.jpg","No","No",0
+3905,"7384","1","Gear","Watches/Clocks","2002","Create 'N' Race Watch",,,,20,,,"http://www.1000steine.com/brickset/images/7384-1.jpg","No","No",0
+3906,"7385","1","Gear","Watches/Clocks","2002","Soccer Watch",,,,20,,,"http://www.1000steine.com/brickset/images/7385-1.jpg","No","No",0
+3907,"7386","1","Gear","Watches/Clocks","2002","Life On Mars Watch",,,,20,,,"http://www.1000steine.com/brickset/images/7386-1.jpg","No","No",0
+3908,"7387","1","Gear","Watches/Clocks","2002","Belville Boutique Watch",,,,20,,,"http://www.1000steine.com/brickset/images/7387-1.jpg","No","No",0
+3909,"7396","1","Gear","Watches/Clocks","2002","Creator Clock",2,,,,,,"http://www.1000steine.com/brickset/images/7396-1.jpg","No","No",0
+3910,"7397","1","Gear","Watches/Clocks","2002","Bionicle Clock",,,,,,,"http://www.1000steine.com/brickset/images/7397-1.jpg","No","No",0
+3911,"7398","1","Gear","Watches/Clocks","2002","Belville Fairy Castle Clock",1,,,20,,,"http://www.1000steine.com/brickset/images/7398-1.jpg","No","No",0
+3912,"7399","1","Gear","Watches/Clocks","2001","Soccer Stadium Clock",,,,20,,,"http://www.1000steine.com/brickset/images/7399-1.jpg","No","No",0
+3914,"7400","1","Gear","Watches/Clocks","2001","Life On Mars Clock",,,,,,,"http://www.1000steine.com/brickset/images/7400-1.jpg","No","No",0
+3945,"7455","1","Gear","Plush","2003","Little Robots Tiny Plush",,,9.99,,,,"http://www.1000steine.com/brickset/images/7455-1.jpg","No","No",0
+3946,"7456","1","Gear","Plush","2003","Little Robots Messy Plush",,,9.99,,,,"http://www.1000steine.com/brickset/images/7456-1.jpg","No","No",0
+3947,"7457","1","Gear","Plush","2003","Little Robots Scary Plush",,,9.99,,,,"http://www.1000steine.com/brickset/images/7457-1.jpg","No","No",0
+3948,"7458","1","Gear","Plush","2003","Little Robots Stripy Plush",,,9.99,,,,"http://www.1000steine.com/brickset/images/7458-1.jpg","No","No",0
+3949,"7459","1","Gear","Plush","2003","Little Robots Tiny Plush Mini",,,4.99,,,,"http://www.1000steine.com/brickset/images/7459-1.jpg","No","No",0
+3951,"7460","1","Gear","Plush","2003","Little Robots Messy Plush Mini",,,4.99,,,,"http://www.1000steine.com/brickset/images/7460-1.jpg","No","No",0
+3952,"7461","1","Gear","Plush","2003","Little Robots Scary Plush Mini",,,4.99,,,,"http://www.1000steine.com/brickset/images/7461-1.jpg","No","No",0
+3953,"7462","1","Gear","Plush","2003","Little Robots Stripy Plush Mini",,,4.99,,,,"http://www.1000steine.com/brickset/images/7462-1.jpg","No","No",0
+4007,"7777","1","Gear","Books/Ideas book","1981","Trains Ideas Book",,,,,,,"http://www.1000steine.com/brickset/images/7777-1.jpg","No","No",0
+4512,"8888","1","Gear","Books/Ideas book","1980","Ideas Book",,,,,,,"http://www.1000steine.com/brickset/images/8888-1.jpg","No","No",0
+4513,"8889","1","Gear","Books/Ideas book","1984","Ideas Book",,,,5,,,"http://www.1000steine.com/brickset/images/8889-1.jpg","No","No",0
+4515,"8890","1","Gear","Books/Ideas book","1987","Ideas Book",,,,4.5,,,"http://www.1000steine.com/brickset/images/8890-1.jpg","No","No",0
+4516,"8891","1","Gear","Books/Ideas book","1991","Designer's Manual",,,,9.5,,,"http://www.1000steine.com/brickset/images/8891-1.jpg","No","No",0
+4918,"9402","1","Gear","Furniture","2003","Giraffe Table",,,858.06,,,,"http://www.1000steine.com/brickset/images/9402-1.jpg","No","No",0
+4919,"9405","1","Gear","Furniture","2003","Racer",,,1188.15,3.5,,,"http://www.1000steine.com/brickset/images/9405-1.jpg","No","No",0
+4920,"9409","1","Gear","Furniture","2003","Elephant Wall",,,262.99,,,,"http://www.1000steine.com/brickset/images/9409-1.jpg","No","No",0
+9443,"9410","1","Gear","Key Chains/Space","1996","Explorien Key Chain",,,,,,,,"No","No",0
+6656,"9704","1","Gear","Furniture","2000","Control Lab Software",,,,,,,"http://www.1000steine.com/brickset/images/9704-1.jpg","No","No",0
+6655,"9708","1","Gear","Dacta","1997","Intelligent House Activity Pack",,,,12,,,"http://www.1000steine.com/brickset/images/9708-1.jpg","No","No",0
+

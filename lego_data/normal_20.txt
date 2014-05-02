@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+2464,"5072","1","Service Packs","Trains","1987","Long Wagon or Carriage Base 6 x 28",,1,,,,,"http://www.1000steine.com/brickset/images/5072-1.jpg","No","No",0
+2465,"5073","1","Service Packs","Trains","1987","Light Transmitting Elements",,7,,,,,"http://www.1000steine.com/brickset/images/5073-1.jpg","No","No",0
+2466,"5074","1","Service Packs","Trains","1987","2 Bogie Plates",,2,,,,,"http://www.1000steine.com/brickset/images/5074-1.jpg","No","No",0
+2467,"5075","1","Service Packs","Trains","1987","Tender 4.5 V Battery Red. For Trains with Battery Motor 810",,2,,,,,"http://www.1000steine.com/brickset/images/5075-1.jpg","No","No",0
+2468,"5076","1","Service Packs","","1990","Plates 2 x 8 White",,6,,,,,"http://www.1000steine.com/brickset/images/5076-1.jpg","No","No",0
+2469,"5077","1","Service Packs","Trains","1989","Sliding Gates and Rails",,6,,,,,"http://www.1000steine.com/brickset/images/5077-1.jpg","No","No",0
+2470,"5078","1","Service Packs","","1993","Crane Accessories (Container Crane Set)",,15,,,,,"http://www.1000steine.com/brickset/images/5078-1.jpg","No","No",0
+2471,"5079","1","Service Packs","Trains","1989","Change-Over Unit 12 V",,1,,,,,"http://www.1000steine.com/brickset/images/5079-1.jpg","No","No",0
+2473,"5080","1","Service Packs","Trains","1989","Remote Control for Points 12 V",,1,,,,,"http://www.1000steine.com/brickset/images/5080-1.jpg","No","No",0
+2474,"5081","1","Service Packs","Trains","1989","Remote Control for Signal 12 V",,1,,,,,"http://www.1000steine.com/brickset/images/5081-1.jpg","No","No",0
+2475,"5082","1","Service Packs","Trains","1989","Flashlight Unit 12 V",,1,,,,,"http://www.1000steine.com/brickset/images/5082-1.jpg","No","No",0
+2476,"5083","1","Service Packs","Trains","1989","Remote Control for Crossing 12 V",,1,,,,,"http://www.1000steine.com/brickset/images/5083-1.jpg","No","No",0
+2477,"5084","1","Service Packs","Trains","1989","Lighting Bricks 12 V for Signals",,1,,,,,"http://www.1000steine.com/brickset/images/5084-1.jpg","No","No",0
+2478,"5085","1","Service Packs","Trains","1989","Insulating Track Plus Socket 12 V (Isolating Rail)",,1,,,,,"http://www.1000steine.com/brickset/images/5085-1.jpg","No","No",0
+2479,"5087","1","Service Packs","Toolo","1996","Duplo Toolo Wrench",,1,,2.75,,,"http://www.1000steine.com/brickset/images/5087-1.jpg","No","No",0
+2480,"5088","1","Service Packs","Duplo","1995","Duplo Long Beams 2 x 8 Red and Yellow",,4,,,,,"http://www.1000steine.com/brickset/images/5088-1.jpg","No","No",0
+2481,"5089","1","Service Packs","Duplo","1996","Duplo Family, African American",6,5,,12,,,"http://www.1000steine.com/brickset/images/5089-1.jpg","No","No",0
+2482,"5090","1","Service Packs","Duplo","1996","Duplo Family, Asian",6,5,,12,,,"http://www.1000steine.com/brickset/images/5090-1.jpg","No","No",0
+2483,"5091","1","Service Packs","Duplo","1996","Duplo Family, Hispanic",6,5,,12,,,"http://www.1000steine.com/brickset/images/5091-1.jpg","No","No",0
+2484,"5092","1","Service Packs","Duplo","1994","Two Duplo Sleeping Bags",,2,,,,,"http://www.1000steine.com/brickset/images/5092-1.jpg","No","No",0
+2485,"5093","1","Service Packs","Duplo","1993","Duplo Battery Train with Polarity Switch",,5,,,,,"http://www.1000steine.com/brickset/images/5093-1.jpg","No","No",0
+2486,"5094","1","Service Packs","Duplo","1994","Duplo Window and Shower Curtains",,3,,,,,"http://www.1000steine.com/brickset/images/5094-1.jpg","No","No",0
+2487,"5095","1","Service Packs","Duplo","1989","Duplo Fences",,5,,,,,"http://www.1000steine.com/brickset/images/5095-1.jpg","No","No",0
+2488,"5096","1","Service Packs","Duplo","1989","Duplo Millstone and Millwing",,2,,,,,"http://www.1000steine.com/brickset/images/5096-1.jpg","No","No",0
+2489,"5097","1","Service Packs","Duplo","1992","Duplo Sleeping Bags",,3,,,,,"http://www.1000steine.com/brickset/images/5097-1.jpg","No","No",0
+2490,"5098","1","Service Packs","Toolo","1992","Duplo Toolo Screwdriver",,1,2.61,2.75,,,"http://www.1000steine.com/brickset/images/5098-1.jpg","No","No",0
+2491,"5099","1","Service Packs","Technic","1991","Pneumatic Valves",,1,,2.25,,,"http://www.1000steine.com/brickset/images/5099-1.jpg","No","No",0
+2494,"5100","1","Service Packs","","1987","Battery Box (Tube) 4.5 V",,1,,8,,,"http://www.1000steine.com/brickset/images/5100-1.jpg","No","No",0
+2495,"5101","1","Service Packs","","1987","Motor 4.5 V",,1,,12.5,,,"http://www.1000steine.com/brickset/images/5101-1.jpg","No","No",0
+2496,"5102","1","Service Packs","Technic","1987","Pneumatic Tube Black and Grey 60 and 100 cm",,2,,2,,,"http://www.1000steine.com/brickset/images/5102-1.jpg","No","No",0
+2497,"5103","1","Service Packs","Technic","1987","Pneumatic Spring Cylinder 48 mm Red",,1,,2,,,"http://www.1000steine.com/brickset/images/5103-1.jpg","No","No",0
+2498,"5104","1","Service Packs","Technic","1987","Pneumatic Piston Cylinder 48 mm Yellow",,1,,2,,,"http://www.1000steine.com/brickset/images/5104-1.jpg","No","No",0
+2499,"5105","1","Service Packs","Technic","1987","Pneumatic Piston Cylinder 64 mm Yellow",,1,,2.5,,,"http://www.1000steine.com/brickset/images/5105-1.jpg","No","No",0
+2500,"5106","1","Service Packs","Technic","1987","Two-Way Valve and Non-Return Valve",,2,,3.5,,,"http://www.1000steine.com/brickset/images/5106-1.jpg","No","No",0
+2501,"5107","1","Service Packs","Technic","1989","Pneumatic Pump Cylinder 48 mm",,1,,3.25,,,"http://www.1000steine.com/brickset/images/5107-1.jpg","No","No",0
+2502,"5108","1","Service Packs","Technic","1989","Double-Acting Pneumatic Piston Cylinder 48 mm",,1,,3,,,"http://www.1000steine.com/brickset/images/5108-1.jpg","No","No",0
+2503,"5109","1","Service Packs","Technic","1989","Pneumatic Tubing and T-Junctions",,6,,3.25,,,"http://www.1000steine.com/brickset/images/5109-1.jpg","No","No",0
+2504,"5110","1","Service Packs","Technic","1990","Cross Axles, Nuts",,26,,10.75,,,"http://www.1000steine.com/brickset/images/5110-1.jpg","No","No",0
+4927,"5110","2","Service Packs","Technic","1996","Pneumatic Value Pack",,9,,,,,,"No","No",0
+2505,"5111","1","Service Packs","","1990","Plates 2 x 2 with Wire 128 cm 9 V",,1,,4,,,"http://www.1000steine.com/brickset/images/5111-1.jpg","No","No",0
+2506,"5112","1","Service Packs","","1990","Loading Grabs, Crane Hook",,3,,,,,"http://www.1000steine.com/brickset/images/5112-1.jpg","No","No",0
+2507,"5113","1","Service Packs","","1990","Propeller",,1,,,,,"http://www.1000steine.com/brickset/images/5113-1.jpg","No","No",0
+2508,"5114","1","Service Packs","","1991","Motor 9 V",,1,,16,,,"http://www.1000steine.com/brickset/images/5114-1.jpg","No","No",0
+2509,"5115","1","Service Packs","","1991","Battery Box 9 V",,1,,11,,,"http://www.1000steine.com/brickset/images/5115-1.jpg","No","No",0
+2510,"5116","1","Service Packs","Technic","1992","Pneumatic Piston Cylinder 32 mm",,1,,3.25,,,"http://www.1000steine.com/brickset/images/5116-1.jpg","No","No",0
+2511,"5117","1","Service Packs","Technic","1993","Compressor Pump for 8868",,7,,4,,,"http://www.1000steine.com/brickset/images/5117-1.jpg","No","No",0
+2512,"5118","1","Service Packs","Technic","1991","Flex System Elements",,35,,,,,"http://www.1000steine.com/brickset/images/5118-1.jpg","No","No",0
+2513,"5119","1","Service Packs","","1993","Micro Motor 9 V",,4,,10,,,"http://www.1000steine.com/brickset/images/5119-1.jpg","No","No",0
+2514,"5120","1","Service Packs","Technic","1993","Polarity Reversal Switch for 8082 (9 V)",,3,,5.5,,,"http://www.1000steine.com/brickset/images/5120-1.jpg","No","No",0
+2515,"5121","1","Service Packs","","1994","Decorated Elements",,29,,4.25,,,"http://www.1000steine.com/brickset/images/5121-1.jpg","No","No",0
+2516,"5122","1","Service Packs","Pirates","1994","Pirate Accessories",,22,,3,,,"http://www.1000steine.com/brickset/images/5122-1.jpg","No","No",0
+2517,"5124","1","Service Packs","","1994","Wheels and Bearings",,28,,3.5,,,"http://www.1000steine.com/brickset/images/5124-1.jpg","No","No",0
+2518,"5125","1","Service Packs","Town","1995","Space Port Accessories (Launch Command Accessories)",,31,,3,,,"http://www.1000steine.com/brickset/images/5125-1.jpg","No","No",0
+2519,"5126","1","Service Packs","","1995","Crane and Digger Accessories",,18,,3.5,,,"http://www.1000steine.com/brickset/images/5126-1.jpg","No","No",0
+2520,"5127","1","Service Packs","","1995","Antennas and Control Sticks",,37,,3,,,"http://www.1000steine.com/brickset/images/5127-1.jpg","No","No",0
+2521,"5128","1","Service Packs","","1996","Transparent Plates, Bricks, Toolholders",,80,,3.5,,,"http://www.1000steine.com/brickset/images/5128-1.jpg","No","No",0
+2522,"5129","1","Service Packs","Space","1996","Space Accessories (Exploriens)",,25,,4.25,,,"http://www.1000steine.com/brickset/images/5129-1.jpg","No","No",0
+2523,"5130","1","Service Packs","","1996","Windows, Seats, Steering Wheels",,14,,3,,,"http://www.1000steine.com/brickset/images/5130-1.jpg","No","No",0
+2524,"5131","1","Service Packs","","1996","Hinges, Couplings, Turntables",,27,,3.5,,,"http://www.1000steine.com/brickset/images/5131-1.jpg","No","No",0
+2525,"5132","1","Service Packs","","1995","Wheels, Bearings and Suspension",,32,,3.5,,,"http://www.1000steine.com/brickset/images/5132-1.jpg","No","No",0
+2526,"5133","1","Service Packs","Town","1996","Town Accessories",,47,,3,,,"http://www.1000steine.com/brickset/images/5133-1.jpg","No","No",0
+2527,"5134","1","Service Packs","Pirates","1995","Pirate Cannons with Wheels",,28,,,,,"http://www.1000steine.com/brickset/images/5134-1.jpg","No","No",0
+2528,"5135","1","Service Packs","Castle","1995","Castle Accessories",,30,,3.5,,,"http://www.1000steine.com/brickset/images/5135-1.jpg","No","No",0
+2529,"5136","1","Service Packs","Belville","1995","Belville Accessories",,10,,,,,"http://www.1000steine.com/brickset/images/5136-1.jpg","No","No",0
+2530,"5137","1","Service Packs","Town","1994","Town Accessories",,44,,3.5,,,"http://www.1000steine.com/brickset/images/5137-1.jpg","No","No",0
+2531,"5138","1","Service Packs","Castle","1994","Castle Accessories",,35,,3.5,,,"http://www.1000steine.com/brickset/images/5138-1.jpg","No","No",0
+2532,"5139","1","Service Packs","Pirates","1994","Pirate Cannon and Wheels",,28,,,,,"http://www.1000steine.com/brickset/images/5139-1.jpg","No","No",0
+2533,"5140","1","Service Packs","","1996","Basic Bricks Red",,62,,5,,,"http://www.1000steine.com/brickset/images/5140-1.jpg","No","No",0
+2534,"5141","1","Service Packs","","1996","Basic Bricks Blue",,62,,5,,,"http://www.1000steine.com/brickset/images/5141-1.jpg","No","No",0
+2535,"5142","1","Service Packs","","1996","Basic Bricks White",,62,,5,,,"http://www.1000steine.com/brickset/images/5142-1.jpg","No","No",0
+2536,"5143","1","Service Packs","","1996","Basic Bricks Yellow",,62,,5,,,"http://www.1000steine.com/brickset/images/5143-1.jpg","No","No",0
+2537,"5144","1","Service Packs","","1996","Basic Bricks Black",,62,,5,,,"http://www.1000steine.com/brickset/images/5144-1.jpg","No","No",0
+2538,"5145","1","Service Packs","","1996","Basic Bricks Grey",,62,,5,,,"http://www.1000steine.com/brickset/images/5145-1.jpg","No","No",0
+2539,"5146","1","Service Packs","","1996","Plates Assorted Blue",,42,,5,,,,"No","No",0
+2540,"5147","1","Service Packs","","1996","Plates Assorted Red",,42,,5,,,,"No","No",0
+2541,"5148","1","Service Packs","","1987","Wheels and Tyres",,40,,5.25,,,,"No","No",0
+2542,"5149","1","Service Packs","","1996","Doors and Windows",,38,,5,,,"http://www.1000steine.com/brickset/images/5149-1.jpg","No","No",0
+2544,"5150","1","Service Packs","Pirates","1990","Pirate Accessories",,27,,3.25,,,"http://www.1000steine.com/brickset/images/5150-1.jpg","No","No",0
+2545,"5151","1","Service Packs","","1996","Roof Bricks Steep 45 Degrees Red",,59,,5,,,"http://www.1000steine.com/brickset/images/5151-1.jpg","No","No",0
+2546,"5152","1","Service Packs","","1996","Roof Bricks Shallow 25 Degrees Red",,60,,5,,,"http://www.1000steine.com/brickset/images/5152-1.jpg","No","No",0
+2547,"5153","1","Service Packs","Town","1991","Plane Accessories",,23,,,,,"http://www.1000steine.com/brickset/images/5153-1.jpg","No","No",0
+2548,"5154","1","Service Packs","","1991","Decorated Elements",,26,,,,,"http://www.1000steine.com/brickset/images/5154-1.jpg","No","No",0
+2549,"5155","1","Service Packs","","1991","Sloping Frames, Space Wings, Motors and Seats",,19,,3.5,,,"http://www.1000steine.com/brickset/images/5155-1.jpg","No","No",0
+2550,"5156","1","Service Packs","","1991","Transparent Bricks",,17,,3.5,,,"http://www.1000steine.com/brickset/images/5156-1.jpg","No","No",0
+2551,"5157","1","Service Packs","","1991","Town and Space Tools",,32,,3.5,,,"http://www.1000steine.com/brickset/images/5157-1.jpg","No","No",0
+2552,"5158","1","Service Packs","Town","1991","Runway T-Junction and Circle Base Plates",,2,,6,,,"http://www.1000steine.com/brickset/images/5158-1.jpg","No","No",0
+2553,"5159","1","Service Packs","Town","1991","Two Straight Airport Runways",,2,,6,,,"http://www.1000steine.com/brickset/images/5159-1.jpg","No","No",0
+2554,"5160","1","Service Packs","Aquazone","1995","Aquazone Accessories",,18,,3,,,"http://www.1000steine.com/brickset/images/5160-1.jpg","No","No",0
+2555,"5161","1","Service Packs","","1987","16 Inverted Slope Bricks",,16,,3,,,"http://www.1000steine.com/brickset/images/5161-1.jpg","No","No",0
+2556,"5162","1","Service Packs","","1987","6 Fences and 2 Gates",,10,,,,,"http://www.1000steine.com/brickset/images/5162-1.jpg","No","No",0
+2557,"5163","1","Service Packs","","1987","2 Turntables 4 x 4, 2 Turntables 2 x 2",,4,,,,,"http://www.1000steine.com/brickset/images/5163-1.jpg","No","No",0
+2558,"5164","1","Service Packs","","1991","Hinges, Turntables and Couplings",,17,,2.5,,,"http://www.1000steine.com/brickset/images/5164-1.jpg","No","No",0
+2559,"5165","1","Service Packs","","1991","Hinges, Couplings and Tilting Bearings",,31,,3,,,"http://www.1000steine.com/brickset/images/5165-1.jpg","No","No",0
+2560,"5166","1","Service Packs","","1991","Lamp Holders, Tool Holder Plates",,18,,,,,"http://www.1000steine.com/brickset/images/5166-1.jpg","No","No",0
+2561,"5167","1","Service Packs","","1987","4 Hinges, 4 Tilting Bearings",,16,,,,,,"No","No",0
+2562,"5168","1","Service Packs","","1987","Digger Bucket Assembly",,4,,3,,,"http://www.1000steine.com/brickset/images/5168-1.jpg","No","No",0
+2563,"5169","1","Service Packs","","1987","Crane Set Assembly",,7,,,,,"http://www.1000steine.com/brickset/images/5169-1.jpg","No","No",0
+2564,"5171","1","Service Packs","","1987","Decorated Elements",,28,,3,,,"http://www.1000steine.com/brickset/images/5171-1.jpg","No","No",0
+2565,"5172","1","Service Packs","","1987","Round Bricks, Rocket Noses and Tails",,30,,3.5,,,"http://www.1000steine.com/brickset/images/5172-1.jpg","No","No",0
+2566,"5173","1","Service Packs","Space","1987","Space Wings, Sloping Frames, Space Motors and Seats",,19,,2.75,,,"http://www.1000steine.com/brickset/images/5173-1.jpg","No","No",0
+2567,"5174","1","Service Packs","","1987","Wheels and Bearings (Grooved Tyres and Hubs)",,28,,2.75,,,"http://www.1000steine.com/brickset/images/5174-1.jpg","No","No",0
+2568,"5175","1","Service Packs","Space","1987","Space Equipment",,26,,3.5,,,"http://www.1000steine.com/brickset/images/5175-1.jpg","No","No",0
+2569,"5176","1","Service Packs","","1987","Transparent Bricks",,19,,2.75,,,"http://www.1000steine.com/brickset/images/5176-1.jpg","No","No",0
+2570,"5177","1","Service Packs","","1987","Town and Space Tools",,35,,2.75,,,"http://www.1000steine.com/brickset/images/5177-1.jpg","No","No",0
+2571,"5178","1","Service Packs","Town","1987","Plane Accessories",,23,,2.75,,,"http://www.1000steine.com/brickset/images/5178-1.jpg","No","No",0
+2572,"5179","1","Service Packs","","1987","Hinges and Couplings",,24,,,,,"http://www.1000steine.com/brickset/images/5179-1.jpg","No","No",0
+2573,"5180","1","Service Packs","","1987","Airport T-Junction and Circle Base Plates",,2,,6,,,"http://www.1000steine.com/brickset/images/5180-1.jpg","No","No",0
+2574,"5181","1","Service Packs","","1987","Two Straight Airport Runways",,2,,6,,,"http://www.1000steine.com/brickset/images/5181-1.jpg","No","No",0
+2575,"5182","1","Service Packs","","1989","Hinges and Couplings",,15,,,,,"http://www.1000steine.com/brickset/images/5182-1.jpg","No","No",0
+2576,"5183","1","Service Packs","","1989","Hinges and Tilting Bearings",,30,,,,,"http://www.1000steine.com/brickset/images/5183-1.jpg","No","No",0
+2577,"5184","1","Service Packs","Castle","1989","Castle Elements",,34,,3.25,,,"http://www.1000steine.com/brickset/images/5184-1.jpg","No","No",0
+2578,"5185","1","Service Packs","Town","1990","Dustbins with Lids",,8,,,,,"http://www.1000steine.com/brickset/images/5185-1.jpg","No","No",0
+2579,"5186","1","Service Packs","","1989","Low Fences",,10,,,,,"http://www.1000steine.com/brickset/images/5186-1.jpg","No","No",0
+2580,"5187","1","Service Packs","","1989","Bricks with Groove, Garage Panels",,26,,,,,"http://www.1000steine.com/brickset/images/5187-1.jpg","No","No",0
+2581,"5188","1","Service Packs","","1989","Seats, Steering Wheels and Windscreens",,10,,,,,"http://www.1000steine.com/brickset/images/5188-1.jpg","No","No",0
+2582,"5189","1","Service Packs","","1989","Ladders / Stairs",,16,,,,,"http://www.1000steine.com/brickset/images/5189-1.jpg","No","No",0
+2583,"5190","1","Service Packs","","1989","Seats and Windscreens",,7,,,,,"http://www.1000steine.com/brickset/images/5190-1.jpg","No","No",0
+2584,"5191","1","Service Packs","","1990","Balloon Tyres",,4,,,,,"http://www.1000steine.com/brickset/images/5191-1.jpg","No","No",0
+2585,"5192","1","Service Packs","Town","1989","Cypress Trees",,2,,,,,"http://www.1000steine.com/brickset/images/5192-1.jpg","No","No",0
+2586,"5193","1","Service Packs","","1989","Sloping Frames",,6,,,,,"http://www.1000steine.com/brickset/images/5193-1.jpg","No","No",0
+2587,"5194","1","Service Packs","","1989","Forklift Truck and Hinge Plates",,3,,,,,"http://www.1000steine.com/brickset/images/5194-1.jpg","No","No",0
+2588,"5195","1","Service Packs","","1989","Assorted Arches",,6,,,,,"http://www.1000steine.com/brickset/images/5195-1.jpg","No","No",0
+2589,"5196","1","Service Packs","Town","1989","Crane, Crane Hooks and Ladders",,5,,,,,"http://www.1000steine.com/brickset/images/5196-1.jpg","No","No",0
+2590,"5197","1","Service Packs","","1989","Lamp Holders, Tool Holder Plates",,24,,,,,"http://www.1000steine.com/brickset/images/5197-1.jpg","No","No",0
+2591,"5198","1","Service Packs","","1989","Small Plates, Disks and Cones",,56,,,,,"http://www.1000steine.com/brickset/images/5198-1.jpg","No","No",0
+2592,"5199","1","Service Packs","","1990","Mini Antennas, Assorted Sticks and Antennas",,32,,,,,"http://www.1000steine.com/brickset/images/5199-1.jpg","No","No",0
+2595,"5200","1","Service Packs","Trains","1988","Signal Masts and Base Supports",,8,,,,,"http://www.1000steine.com/brickset/images/5200-1.jpg","No","No",0
+2596,"5201","1","Service Packs","Technic","1997","Angle Bricks Assorted",,20,,4,,,"http://www.1000steine.com/brickset/images/5201-1.jpg","No","No",0
+2597,"5202","1","Service Packs","Technic","1997","Angle Beams, Red and Blue",,8,,4,,,"http://www.1000steine.com/brickset/images/5202-1.jpg","No","No",0
+2598,"5203","1","Service Packs","Technic","1999","Technic Alloy Wheels (and Tyres)",,4,,5,,,"http://www.1000steine.com/brickset/images/5203-1.jpg","No","No",0
+2599,"5204","1","Service Packs","Technic","1999","Technic Competition Accessories",,11,,4,,,"http://www.1000steine.com/brickset/images/5204-1.jpg","No","No",0
+2600,"5205","1","Service Packs","Technic","1999","Technic Wheels and Rubber Bands",,14,,4,,,"http://www.1000steine.com/brickset/images/5205-1.jpg","No","No",0
+2601,"5206","1","Technic","","2000","Speed Computer",,19,,20,,,"http://www.1000steine.com/brickset/images/5206-1.jpg","No","No",0
+2602,"5211","1","Explore","Imagination","2003","Explore Half Strata Box",,110,19.99,,,,"http://www.1000steine.com/brickset/images/5211-1.jpg","No","No",0
+2603,"5212","1","Explore","Imagination","2003","Explore Strata",,139,29.99,,,,"http://www.1000steine.com/brickset/images/5212-1.jpg","No","No",0
+2604,"5213","1","Explore","Imagination","2003","Big Bricks Box",,140,12.99,,,,"http://www.1000steine.com/brickset/images/5213-1.jpg","No","No",0
+2605,"5215","1","Service Packs","","1999","Green Bricks Assorted",,62,,5,,,"http://www.1000steine.com/brickset/images/5215-1.jpg","No","No",0
+2606,"5216","1","Service Packs","","1999","Black Roof Bricks Assorted",,57,,5,,,"http://www.1000steine.com/brickset/images/5216-1.jpg","No","No",0
+2607,"5217","1","Service Packs","","1999","Black Plates Assorted",,42,,5.5,,,"http://www.1000steine.com/brickset/images/5217-1.jpg","No","No",0
+2608,"5218","1","Technic","","2000","Pneumatic Pack",,147,,28,,,"http://www.1000steine.com/brickset/images/5218-1.jpg","No","No",0
+2609,"5219","1","Technic","","2000","Silver Wheel Multi Pack",,28,,30,,,"http://www.1000steine.com/brickset/images/5219-1.jpg","No","No",0
+2611,"5220","1","Technic","","2000","Vehicle Styling Pack",,221,,12,,,"http://www.1000steine.com/brickset/images/5220-1.jpg","No","No",0
+2612,"5221","1","Technic","","2000","Motorised Base Pack",,55,,40,,,"http://www.1000steine.com/brickset/images/5221-1.jpg","No","No",0
+2613,"5222","1","Technic","","2000","Vehicle Chassis Pack",,137,,17,,,"http://www.1000steine.com/brickset/images/5222-1.jpg","No","No",0
+2614,"5223","1","Technic","","2001","Wind-Up Motor",,41,,10,,,"http://www.1000steine.com/brickset/images/5223-1.jpg","No","No",0
+2615,"5225","1","Service Packs","Technic","1998","Technic Geared Motor",,1,,15.75,,,"http://www.1000steine.com/brickset/images/5225-1.jpg","No","No",0
+2616,"5226","1","Service Packs","Technic","1998","Technic Assorted Cross Axles",,18,,4,,,"http://www.1000steine.com/brickset/images/5226-1.jpg","No","No",0
+2617,"5227","1","Service Packs","","1997","Fibre Optic Cables",,8,,3,,,"http://www.1000steine.com/brickset/images/5227-1.jpg","No","No",0
+2618,"5228","1","Service Packs","Technic","1997","Technic Beams and Plates with Holes, Black",,26,,4.5,,,"http://www.1000steine.com/brickset/images/5228-1.jpg","No","No",0
+2619,"5229","1","Service Packs","Technic","1997","Technic Gear Wheels and Differential Housing",,23,,4,,,"http://www.1000steine.com/brickset/images/5229-1.jpg","No","No",0
+2621,"5230","1","Explore","Imagination","2003","Yellow Tub",,100,,20,,,,"No","No",0
+2622,"5231","1","Service Packs","","1987","20 Technic Beams and Plates Yellow",,20,,2.75,,,"http://www.1000steine.com/brickset/images/5231-1.jpg","No","No",0
+2623,"5232","1","Service Packs","","1987","20 Technic Beams and Plates Blue",,18,,2.75,,,"http://www.1000steine.com/brickset/images/5232-1.jpg","No","No",0
+2625,"5233","2","Building Set with People","","1980","Bedroom",,26,,4.5,,,"http://www.1000steine.com/brickset/images/5233-2.jpg","No","No",0
+2624,"5233","3","Service Packs","Technic","1993","26 Small Technic Beams and Plates Black",,164,,,,,,"No","No",0
+2626,"5234","1","Service Packs","","1987","20 Technic Beams and Plates Black",,20,,,,,"http://www.1000steine.com/brickset/images/5234-1.jpg","No","No",0
+2627,"5235","1","Service Packs","Technic","1993","10 Large Technic Beams Black",,10,,4.5,,,"http://www.1000steine.com/brickset/images/5235-1.jpg","No","No",0
+9816,"5235","2","Homemaker","","1982","Schoolroom",,231,,,,,"http://www.1000steine.com/brickset/images/5235-2.jpg","No","No",0
+2628,"5236","1","Service Packs","","1987","8 Technic Beams Blue",,8,,,,,"http://www.1000steine.com/brickset/images/5236-1.jpg","No","No",0
+2629,"5237","1","Service Packs","","1987","8 Technic Beams Black",,8,,,,,"http://www.1000steine.com/brickset/images/5237-1.jpg","No","No",0
+2630,"5238","1","Service Packs","","1987","8 Technic Beams Red",,8,,,,,"http://www.1000steine.com/brickset/images/5238-1.jpg","No","No",0
+2631,"5239","1","Service Packs","","1987","34 Cross Axles",,34,,3.25,,,"http://www.1000steine.com/brickset/images/5239-1.jpg","No","No",0
+2633,"5240","1","Service Packs","","1987","6 Wheel Hubs and Tyres 24 mm (4) and 43 mm (2)",,12,,2.75,,,"http://www.1000steine.com/brickset/images/5240-1.jpg","No","No",0
+2634,"5241","1","Service Packs","","1987","Gear Rack and Wheels, Wedge-Belt and Crown Wheels",,20,,3.25,,,"http://www.1000steine.com/brickset/images/5241-1.jpg","No","No",0
+2635,"5242","1","Service Packs","","1987","Differential Housing and Steering Elements",,19,,3.5,,,"http://www.1000steine.com/brickset/images/5242-1.jpg","No","No",0
+2636,"5243","1","Service Packs","","1987","70 Chain Links",,70,,3.5,,,"http://www.1000steine.com/brickset/images/5243-1.jpg","No","No",0
+2637,"5244","1","Service Packs","","1987","54 Crawler Track Links",,54,,3,,,"http://www.1000steine.com/brickset/images/5244-1.jpg","No","No",0
+2638,"5245","1","Service Packs","Technic","1994","Universal Joint, Differential Housing and Gear Wheels",,6,,3.25,,,"http://www.1000steine.com/brickset/images/5245-1.jpg","No","No",0
+2639,"5246","1","Service Packs","","1987","2 Tyres and Hubs 81 mm",,4,,4.75,,,"http://www.1000steine.com/brickset/images/5246-1.jpg","No","No",0
+2640,"5247","1","Service Packs","","1987","Bushes, Piston Rods and Toggle Joints",,66,,3,,,"http://www.1000steine.com/brickset/images/5247-1.jpg","No","No",0
+2641,"5248","1","Service Packs","","1987","2 Tyres and Hubs 62 mm",,4,,,,,"http://www.1000steine.com/brickset/images/5248-1.jpg","No","No",0
+2642,"5249","1","Service Packs","","1987","20 Technic Beams and Plates Red",,20,,2.75,,,"http://www.1000steine.com/brickset/images/5249-1.jpg","No","No",0
+2644,"5250","1","Service Packs","","1987","8 Technic Beams Yellow",,8,,,,,"http://www.1000steine.com/brickset/images/5250-1.jpg","No","No",0
+2645,"5251","1","Service Packs","Technic","1989","Shock Absorbers Small",,4,,5.25,,,"http://www.1000steine.com/brickset/images/5251-1.jpg","No","No",0
+2646,"5252","1","Service Packs","Technic","1993","Shock Absorbers Large",,2,,,,,"http://www.1000steine.com/brickset/images/5252-1.jpg","No","No",0
+2647,"5253","1","Service Packs","Technic","1989","Cross Axles Sizes 2, 3, 4, 6",,12,,,,,"http://www.1000steine.com/brickset/images/5253-1.jpg","No","No",0
+2648,"5254","1","Service Packs","Technic","1989","Cross Axles Sizes 8, 10, 12",,9,,,,,"http://www.1000steine.com/brickset/images/5254-1.jpg","No","No",0
+2649,"5255","1","Service Packs","Technic","1990","Connector Pegs",,30,,,,,"http://www.1000steine.com/brickset/images/5255-1.jpg","No","No",0
+2650,"5256","1","Service Packs","Technic","1989","Suspension Pack",,12,,,,,"http://www.1000steine.com/brickset/images/5256-1.jpg","No","No",0
+2651,"5257","1","Service Packs","Technic","1990","Connector Pegs, Toggle Joints and Wheels",,25,,,,,"http://www.1000steine.com/brickset/images/5257-1.jpg","No","No",0
+2652,"5258","1","Service Packs","Technic","1990","Crown Wheels, Gear Racks, Point Wheels, Worm Gears",,10,,,,,"http://www.1000steine.com/brickset/images/5258-1.jpg","No","No",0
+2653,"5259","1","Service Packs","Technic","1990","Universal Joint, Rubber Bands and Wheels",,12,,,,,"http://www.1000steine.com/brickset/images/5259-1.jpg","No","No",0
+2654,"5260","1","Service Packs","Technic","1990","Connecting Rods and Stop Bushes",,32,,,,,"http://www.1000steine.com/brickset/images/5260-1.jpg","No","No",0
+2655,"5261","1","Service Packs","Technic","1990","Plates and Gear Racks",,14,,,,,"http://www.1000steine.com/brickset/images/5261-1.jpg","No","No",0
+2656,"5262","1","Service Packs","Technic","1990","Gear Wheels",,9,,,,,"http://www.1000steine.com/brickset/images/5262-1.jpg","No","No",0
+2657,"5263","1","Service Packs","Technic","1990","Universal Joint, Differential Housing and Point Wheels",,6,,,,,"http://www.1000steine.com/brickset/images/5263-1.jpg","No","No",0
+2658,"5264","1","Service Packs","Technic","1989","Rotors and Bush / Cross Axles",,24,,,,,"http://www.1000steine.com/brickset/images/5264-1.jpg","No","No",0
+2659,"5265","1","Service Packs","","1989","Wheels with 43 and 24 mm Tyres",,16,,4,,,"http://www.1000steine.com/brickset/images/5265-1.jpg","No","No",0
+2660,"5266","1","Service Packs","Technic","1989","Gear Racks, Gear Wheels and Pulley Wheels",,22,,,,,"http://www.1000steine.com/brickset/images/5266-1.jpg","No","No",0
+2661,"5267","1","Service Packs","Technic","1993","Assorted Cross Axles",,16,,4,,,"http://www.1000steine.com/brickset/images/5267-1.jpg","No","No",0
+2662,"5268","1","Service Packs","","1995","Small Low Profile Tyres",,8,,4,,,"http://www.1000steine.com/brickset/images/5268-1.jpg","No","No",0
+2663,"5269","1","Service Packs","Technic","1995","Lift-Arms and Triangles",,12,,3.25,,,"http://www.1000steine.com/brickset/images/5269-1.jpg","No","No",0
+2664,"5270","1","Service Packs","","1987","2 Tyres and Hubs 43 mm",,4,,,,,"http://www.1000steine.com/brickset/images/5270-1.jpg","No","No",0
+2665,"5271","1","Service Packs","","1991","Tyres and Hubs 49.6 mm White",,4,,,,,"http://www.1000steine.com/brickset/images/5271-1.jpg","No","No",0
+2666,"5272","1","Service Packs","Technic","1991","Cylinder Motor",,9,,3,,,"http://www.1000steine.com/brickset/images/5272-1.jpg","No","No",0
+2667,"5273","1","Service Packs","","1992","Tyres and Hubs 62 mm",,4,,,,,"http://www.1000steine.com/brickset/images/5273-1.jpg","No","No",0
+2668,"5274","1","Service Packs","","1992","Tyres with Hubs 24 and 30 mm",,16,,4.5,,,"http://www.1000steine.com/brickset/images/5274-1.jpg","No","No",0
+2669,"5275","1","Service Packs","Technic","1993","Toggle Joints and Connector Pegs and Rods",,48,,,,,"http://www.1000steine.com/brickset/images/5275-1.jpg","No","No",0
+2670,"5276","1","Service Packs","Technic","1993","Gear Wheels, Worm Gears and Racks, Universal Joints",,23,,4.5,,,"http://www.1000steine.com/brickset/images/5276-1.jpg","No","No",0
+2671,"5277","1","Service Packs","Technic","1993","Wedge Belt, Pulleys and V-Belts",,12,,4,,,"http://www.1000steine.com/brickset/images/5277-1.jpg","No","No",0
+

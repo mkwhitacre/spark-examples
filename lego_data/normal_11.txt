@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+972,"2619","1","Duplo","","1984","Helicopter",1,2,,,,,,"No","No",0
+973,"2620","1","Duplo","","1980","Sports Car",1,2,,,,,,"No","No",0
+974,"2621","1","Duplo","","1994","Octan Motorbike Transporter",1,4,,9,,,,"No","No",0
+345,"2621","2","Duplo","","1981","Tractor",1,2,,1.7,,,,"No","No",0
+7144,"2622","1","Duplo","","1982","Little Plane",1,2,,,,,,"No","No",0
+975,"2623","1","Duplo","","1980","Delivery Van",1,6,,,,,,"No","No",0
+976,"2624","1","Duplo","","1981","Helicopter",1,2,,,,,,"No","No",0
+977,"2625","1","Duplo","","1980","Car with Boat and Trailer",1,6,,,,,,"No","No",0
+23103,"2626","1","Duplo","","1988","Car and Boat Vacation Trailer",1,4,,,,,"http://www.1000steine.com/brickset/images/2626-1.jpg","No","No",0
+978,"2627","1","Duplo","","1980","Pony Trailer",1,5,,,,,,"No","No",0
+979,"2628","1","Duplo","","1987","Transport Truck",1,4,,,,,,"No","No",0
+980,"2629","1","Duplo","","1985","Tractor and Farm Machinery",1,7,,,,,,"No","No",0
+982,"2630","1","Duplo","","1980","Family Room",3,9,,13.25,,,,"No","No",0
+981,"2630","2","Duplo","","1990","Car and Campervan",3,11,,,,,,"No","No",0
+22576,"2631","1","Duplo","","1985","Stunt Pilot and Plane",1,2,,,,,,"No","No",0
+983,"2632","1","Duplo","","1987","Delivery Truck",1,4,,,,,,"No","No",0
+984,"2634","1","Duplo","","1983","Tip Truck",1,7,,,,,,"No","No",0
+22403,"2635","1","Duplo","","1982","Fire Engine",1,4,,,,,,"No","No",0
+985,"2636","1","Duplo","","1984","Tow Truck",1,3,,,,,,"No","No",0
+986,"2637","1","Duplo","","1987","Fire Engine",1,5,,15.5,,,,"No","No",0
+990,"2638","1","Duplo","","1987","Container Truck",1,9,,,,,,"No","No",0
+991,"2639","1","Duplo","","1984","Petrol Station",2,12,,,,,"http://www.1000steine.com/brickset/images/2639-1.jpg","No","No",0
+992,"2640","1","Duplo","","1980","Grocery Store",2,23,,,,,,"No","No",0
+22549,"2641","1","Duplo","","1982","Barnyard",1,21,,,,,,"No","No",0
+23268,"2641","2","Duplo","","1988","Jumbo Plane",1,10,,,,,,"No","No",0
+22550,"2642","1","Duplo","","1982","Living Room",4,26,,,,,,"No","No",0
+993,"2643","1","Duplo","","1989","Fishing Boat",2,15,,29.75,,,,"No","No",0
+994,"2643","2","Duplo","","1980","Playbox",,1,,,,,,"No","No",0
+995,"2644","1","Duplo","","1981","Service Station",2,14,,,,,,"No","No",0
+996,"2645","1","Duplo","","1980","Nursery School",6,29,,,,,,"No","No",0
+22554,"2646","1","Duplo","","1983","Crane Set",1,23,,,,,,"No","No",0
+997,"2647","1","Duplo","","1985","Farm Animals",1,17,,12,,,,"No","No",0
+998,"2648","1","Duplo","","1982","Play-Box Home and Garage",2,18,,,,,,"No","No",0
+999,"2649","1","Duplo","","1984","Sea Explorer",3,36,,,,,"http://www.1000steine.com/brickset/images/2649-1.jpg","No","No",0
+1002,"2650","1","Duplo","","1980","Farm",5,60,,14.75,,,,"No","No",0
+1001,"2650","2","Duplo","","1989","Cannon Ball Clowns",2,5,,,,,"http://www.1000steine.com/brickset/images/2650-2.jpg","No","No",0
+1003,"2651","1","Duplo","","1989","Circus Artists and Elephant",3,6,,20.25,,,,"No","No",0
+5002,"2652","1","Duplo","","1988","Circus Caravan",4,16,,35.25,,,"http://www.1000steine.com/brickset/images/2652-1.jpg","No","No",0
+1004,"2654","1","Duplo","","1991","Police Emergency Unit",2,11,,8,,,,"No","No",0
+1005,"2655","1","Duplo","","1985","Farm Set",2,54,,,,,,"No","No",0
+1006,"2656","1","Duplo","","1989","Village Post Office",3,23,,,,,,"No","No",0
+1007,"2657","1","Duplo","","1989","Service Station",2,43,,42,,,"http://www.1000steine.com/brickset/images/2657-1.jpg","No","No",0
+1008,"2658","1","Duplo","","1989","Fire Station",4,57,,60.5,,,,"No","No",0
+1009,"2659","1","Duplo","","1995","Baby Animals",,8,,8,,,,"No","No",0
+1010,"2660","1","Duplo","","1991","Zoo Nursery",,5,,5.25,,,,"No","No",0
+1011,"2661","1","Duplo","","1990","Zoo Van",1,3,,,,,,"No","No",0
+1012,"2662","1","Duplo","","1990","Crocodile and Sea Lion",1,14,,,,,"http://www.1000steine.com/brickset/images/2662-1.jpg","No","No",0
+1013,"2663","1","Duplo","","1995","Water Animals",1,20,,15,,,,"No","No",0
+1014,"2664","1","Duplo","","1990","Tiger and Panda Family",1,24,,,,,"http://www.1000steine.com/brickset/images/2664-1.jpg","No","No",0
+1015,"2665","1","Duplo","","1995","Wild Cats",2,21,,,,,,"No","No",0
+1016,"2666","1","Duplo","","1990","Savannah and Polar Animals",1,27,,35.25,,,,"No","No",0
+1017,"2667","1","Duplo","","1995","Animals Park",2,42,,,,,,"No","No",0
+1018,"2668","1","Duplo","","1990","African Animals",1,40,,,,,,"No","No",0
+1019,"2669","1","Duplo","","1990","Maxi Zoo",4,65,,74,,,,"No","No",0
+1020,"2670","1","Duplo","","1995","Water Park",5,42,,,,,,"No","No",0
+1021,"2671","1","Duplo","","1991","Grand Prix Racing Team",2,7,,13.25,,,,"No","No",0
+1022,"2672","1","Duplo","","1991","Police Station",3,16,,,,,"http://www.1000steine.com/brickset/images/2672-1.jpg","No","No",0
+1023,"2673","1","Duplo","","1996","Motorcycle Patrol",1,5,,7,,,,"No","No",0
+1024,"2674","1","Duplo","","1996","Racing Team",2,7,,10,,,,"No","No",0
+1025,"2675","1","Duplo","","1993","Police Helicopter",1,3,,,,,,"No","No",0
+1026,"2676","1","Duplo","","1993","Private Plane",1,7,,,,,,"No","No",0
+1027,"2677","1","Duplo","","1993","Fire Helicopter",2,7,,,,,,"No","No",0
+1028,"2678","1","Duplo","","1993","Jumbo Jet",3,12,,,,,,"No","No",0
+1029,"2679","1","Duplo","","1993","Airport",3,23,,,,,,"No","No",0
+1031,"2680","1","Duplo","","1994","Doctor's Surgery",3,10,,,,,,"No","No",0
+1032,"2681","1","Duplo","","1994","Lion Safari",2,16,,,,,,"No","No",0
+1033,"2682","1","Duplo","","1994","Ambulance",3,5,,13,,,,"No","No",0
+1034,"2683","1","Duplo","","1996","Police Station",3,34,,,,,,"No","No",0
+9344,"2684","1","Duplo","","1997","Dinghy",1,3,,,,,"http://www.1000steine.com/brickset/images/2684-1.jpg","No","No",0
+22539,"2685","1","Duplo","","1996","Water Park",4,47,,,,,,"No","No",0
+1035,"2687","1","Duplo","","1997","Harbour",3,47,,52,,,,"No","No",0
+1036,"2688","1","Duplo","","1994","Health Center",5,34,,46,,,"http://www.1000steine.com/brickset/images/2688-1.jpg","No","No",0
+1037,"2689","1","Duplo","","1994","Savannah Animals",3,28,,,,,,"No","No",0
+1039,"2690","1","Duplo","","1995","Fire Chief",1,6,,8,,,,"No","No",0
+1040,"2691","1","Duplo","","1995","Fire Engine",1,12,,18.75,,,,"No","No",0
+1041,"2692","1","Duplo","","1995","Fire Heliport",2,18,,,,,,"No","No",0
+1042,"2693","1","Duplo","","1995","Fire Station",3,40,,49.5,,,,"No","No",0
+1043,"2694","1","Duplo","","1996","Mini Farm",3,40,,,,,,"No","No",0
+1044,"2695","1","Duplo","","1996","Pony Carriage",1,3,,5,,,,"No","No",0
+1045,"2696","1","Duplo","","1996","Farm Tractor",1,10,,13,,,"http://www.1000steine.com/brickset/images/2696-1.jpg","No","No",0
+1046,"2697","1","Duplo","","1996","Farm Animals",1,16,,16,,,,"No","No",0
+6645,"2698","1","Duplo","","1996","Farm",,32,,,,,"http://www.1000steine.com/brickset/images/2698-1.jpg","No","No",0
+1047,"2699","1","Duplo","","1996","The DUPLO Farm",4,64,,66,,,,"No","No",0
+1048,"2700","1","Duplo","Play Trains","1983","Train Set",1,31,,,,,,"No","No",0
+5007,"2701","1","Duplo","Trains","1988","Train and Station Set",2,42,,44,,,,"No","No",0
+1049,"2705","1","Duplo","Play Trains","1983","Passenger Train",2,12,,,,,"http://www.1000steine.com/brickset/images/2705-1.jpg","No","No",0
+5008,"2706","1","Duplo","Trains","1988","Barnyard Express",1,10,,,,,,"No","No",0
+1050,"2707","1","Basic","","2000","Glider",,9,,,,,"http://www.1000steine.com/brickset/images/2707-1.jpg","No","No",0
+1051,"2708","1","Basic","","2000","Aircraft",,12,,,,,"http://www.1000steine.com/brickset/images/2708-1.jpg","No","No",0
+1052,"2709","1","Basic","","2000","Snowmobile",,8,,,,,"http://www.1000steine.com/brickset/images/2709-1.jpg","No","No",0
+1053,"2710","1","Basic","","2000","Helicopter",,8,,,,,"http://www.1000steine.com/brickset/images/2710-1.jpg","No","No",0
+1054,"2711","1","Duplo","Play Trains","1983","Straight Tracks",,4,,4,,,,"No","No",0
+1055,"2712","1","Duplo","Play Trains","1983","Curved Tracks",,4,,4,,,,"No","No",0
+1056,"2713","1","Duplo","Play Trains","1984","Train Points",,10,,,,,,"No","No",0
+1057,"2714","1","Duplo","Play Trains","1987","Train Crossings",,4,,7.5,,,,"No","No",0
+1058,"2717","1","Duplo","Play Trains","1984","Train Bridge",,5,,9,,,,"No","No",0
+1059,"2718","1","Town","Special","2001","Aircraft and Ground Crew",3,142,,,,,"http://www.1000steine.com/brickset/images/2718-1.jpg","No","No",0
+1060,"2719","1","Basic","","1999","Heli-Monster",,9,,,,,"http://www.1000steine.com/brickset/images/2719-1.jpg","No","No",0
+5009,"2720","1","Duplo","Trains","1988","Goods Station",1,32,,,,,,"No","No",0
+1061,"2722","1","Basic","","2000","Ship",,12,,,,,"http://www.1000steine.com/brickset/images/2722-1.jpg","No","No",0
+1062,"2728","1","Basic","","1999","The Chopper",,11,,,,,"http://www.1000steine.com/brickset/images/2728-1.jpg","No","No",0
+1063,"2729","1","Basic","","1999","Quattro Leg",,17,,,,,"http://www.1000steine.com/brickset/images/2729-1.jpg","No","No",0
+1064,"2730","1","Duplo","Play Trains","1993","Electric Play Train Set",2,54,,85,,,,"No","No",0
+1065,"2731","1","Duplo","Play Trains","1996","Push-Along Play Train",1,9,,15,,,"http://www.1000steine.com/brickset/images/2731-1.jpg","No","No",0
+1066,"2732","1","Duplo","Play Trains","1993","Push-Along Play Train Set",3,46,,43,,,,"No","No",0
+1067,"2733","1","Duplo","Play Trains","1993","Push-Along Play Train",1,9,,20,,,,"No","No",0
+1068,"2734","1","Duplo","Play Trains","1993","Straight Track (Straight Rails)",,6,7.49,4.99,7.99,9.99,"http://www.1000steine.com/brickset/images/2734-1.jpg","No","No",0
+1069,"2735","1","Duplo","Play Trains","1993","Curved Track (Curved Rails)",,6,7.49,4.99,7.99,9.99,"http://www.1000steine.com/brickset/images/2735-1.jpg","No","No",0
+1070,"2736","1","Duplo","Play Trains","1993","Train Points",,4,,12,,,"http://www.1000steine.com/brickset/images/2736-1.jpg","No","No",0
+1071,"2737","1","Duplo","Play Trains","1993","Diamond Crossing and Track Pack",,9,,9,,,"http://www.1000steine.com/brickset/images/2737-1.jpg","No","No",0
+1072,"2738","1","Duplo","Play Trains","1994","Train Bridge",,11,,17,,,"http://www.1000steine.com/brickset/images/2738-1.jpg","No","No",0
+1073,"2739","1","Duplo","Play Trains","1996","Tip Wagon",,10,,6.75,,,"http://www.1000steine.com/brickset/images/2739-1.jpg","No","No",0
+1074,"2740","1","Duplo","Play Trains","1993","Level Crossing",,7,,10,,,,"No","No",0
+1075,"2741","1","Duplo","Play Trains","1996","Electric Train Starter Set",2,34,,,,,"http://www.1000steine.com/brickset/images/2741-1.jpg","No","No",0
+1076,"2742","1","Basic","","1999","Loudspeaker",,9,,,,,"http://www.1000steine.com/brickset/images/2742-1.jpg","No","No",0
+1077,"2743","1","Basic","","1999","Pendulum Nose",,21,,,,,"http://www.1000steine.com/brickset/images/2743-1.jpg","No","No",0
+1078,"2744","1","Basic","","1999","Propeller Man",,10,,,,,"http://www.1000steine.com/brickset/images/2744-1.jpg","No","No",0
+1079,"2745","1","Duplo","Play Trains","1996","Deluxe Electric Train Set",3,83,,100,,,"http://www.1000steine.com/brickset/images/2745-1.jpg","No","No",0
+1080,"2750","1","Duplo","","1986","DUPLO Family",6,1,,,,,,"No","No",0
+1081,"2751","1","Duplo","","2000","Egg Fun",,9,,4,,,,"No","No",0
+1082,"2752","1","Duplo","","1986","Bedroom",2,28,,,,,,"No","No",0
+1083,"2754","1","Duplo","","1986","Bathroom",1,10,,,,,,"No","No",0
+1084,"2756","1","Duplo","","1986","Kitchen",1,20,,15,,,,"No","No",0
+1085,"2757","1","Basic","","1999","Bad Monkey",,9,,,,,"http://www.1000steine.com/brickset/images/2757-1.jpg","No","No",0
+1086,"2758","1","Duplo","","1986","Living Room",1,29,,,,,,"No","No",0
+1087,"2759","1","Basic","","1999","Rotor-Head",,14,,,,,"http://www.1000steine.com/brickset/images/2759-1.jpg","No","No",0
+1089,"2760","1","Duplo","","1986","House Supplementary Set",,11,,,,,,"No","No",0
+5010,"2761","1","Duplo","","1997","Pony Stables",2,41,,20,,,,"No","No",0
+5011,"2762","1","Duplo","","1997","Family Fun Playground",3,46,,27,,,,"No","No",0
+6646,"2763","1","Duplo","","1998","Playground Bucket",,50,,,,,"http://www.1000steine.com/brickset/images/2763-1.jpg","No","No",0
+1090,"2769","1","Town","Special","1999","Aircraft and Boat",2,97,,,,,"http://www.1000steine.com/brickset/images/2769-1.jpg","No","No",0
+1092,"2770","1","Duplo","","1986","Play House",5,64,,69,,,"http://www.1000steine.com/brickset/images/2770-1.jpg","No","No",0
+1093,"2771","1","Duplo","","1991","DUPLO Family",7,1,,,,,"http://www.1000steine.com/brickset/images/2771-1.jpg","No","No",0
+1094,"2772","1","Duplo","","1991","DUPLO World People",12,12,,,,,,"No","No",0
+1095,"2773","1","Duplo","","1991","Barbecue",3,11,,,,,,"No","No",0
+1096,"2774","1","Town","Special","1999","Red Tiger",3,141,,15,,,"http://www.1000steine.com/brickset/images/2774-1.jpg","No","No",0
+1097,"2775","1","Duplo","","1991","Bathroom",1,6,,,,,,"No","No",0
+1098,"2776","1","Duplo","","1991","Bedroom",1,14,,,,,,"No","No",0
+1099,"2777","1","Duplo","","1991","Living Room",1,12,,,,,,"No","No",0
+1100,"2778","1","Duplo","","1991","Kitchen",1,11,,,,,,"No","No",0
+1101,"2779","1","Duplo","","1991","Playhouse (Unfurnished)",,10,,,,,,"No","No",0
+1103,"2780","1","Duplo","","1991","Complete Playhouse",4,50,,,,,,"No","No",0
+1104,"2781","1","Duplo","","1996","Bathroom",2,24,,,,,,"No","No",0
+1105,"2783","1","Duplo","","1995","Ironing Room",1,6,,,,,,"No","No",0
+1106,"2784","1","Duplo","","1994","Mother and Baby",2,2,,6,,,,"No","No",0
+1107,"2785","1","Duplo","","1995","Living Room",1,9,,8.75,,,,"No","No",0
+1108,"2786","1","Duplo","","1994","Laundry Room",1,8,,,,,"http://www.1000steine.com/brickset/images/2786-1.jpg","No","No",0
+1109,"2787","1","Duplo","","1994","Nursery",2,11,,9,,,"http://www.1000steine.com/brickset/images/2787-1.jpg","No","No",0
+1110,"2788","1","Duplo","","1994","Kitchen",1,19,,15,,,,"No","No",0
+1111,"2789","1","Duplo","","1994","Bathroom",2,17,,,,,,"No","No",0
+1112,"2790","1","Duplo","","1994","Play Room",2,29,,,,,,"No","No",0
+1113,"2791","1","Duplo","","1996","Playground",2,31,,22,,,,"No","No",0
+1114,"2792","1","Duplo","","1994","Granny's House",2,44,,50,,,,"No","No",0
+1115,"2794","1","Duplo","","1994","My House",3,76,,84,,,,"No","No",0
+1116,"2795","1","Duplo","","1994","Playhouse Bucket",2,34,,22,,,"http://www.1000steine.com/brickset/images/2795-1.jpg","No","No",0
+5012,"2796","1","Duplo","","1995","Pink Carry Case with Handle",3,21,,,,,,"No","No",0
+1117,"2797","1","Duplo","","2000","Happy Bucket",1,49,,,,,,"No","No",0
+1118,"2799","1","Duplo","","2000","XL Fun-time Bucket",1,90,,,,,,"No","No",0
+5003,"2803","1","Duplo","","1999","Dinosaur Babies",2,17,,10,,,"http://www.1000steine.com/brickset/images/2803-1.jpg","No","No",0
+1120,"2805","1","Duplo","","1997","Pony Club",2,13,,,,,,"No","No",0
+1121,"2806","1","Duplo","","1997","Dino Mini Set",1,4,,3,,,"http://www.1000steine.com/brickset/images/2806-1.jpg","No","No",0
+1122,"2807","1","Duplo","","1999","Big Wheeler",1,5,,10,,,,"No","No",0
+1123,"2808","1","Duplo","","1999","My Own Building Site",1,11,,18,,,,"No","No",0
+1124,"2811","1","Duplo","","1999","Fire and Police Station",4,45,,50,,,,"No","No",0
+1125,"2814","1","Duplo","","1999","Building Team",3,38,,30,,,"http://www.1000steine.com/brickset/images/2814-1.jpg","No","No",0
+1126,"2815","1","Duplo","","1998","Bike Ride",1,5,,5,,,,"No","No",0
+1127,"2817","1","Duplo","","1998","Birthday",3,30,,25,,,,"No","No",0
+1128,"2818","1","Duplo","","1998","Family Home",4,56,,,,,,"No","No",0
+680,"2819","1","Duplo","","1999","Brick Mixer",1,68,,25,,,"http://www.1000steine.com/brickset/images/2819-1.jpg","No","No",0
+679,"2821","1","Duplo","","1999","Dinosaurs Fun Forest",4,33,,30,,,,"No","No",0
+7639,"2824","1","City","Seasonal","2010","City Advent Calendar",6,271,24.99,34.99,39.99,,"http://www.1000steine.com/brickset/images/2824-1.jpg","No","No",0
+1129,"2825","1","Duplo","Little Forest Friends","2000","The Meadowsweets",2,13,,10,,,,"No","No",0
+1130,"2827","1","Duplo","Little Forest Friends","2000","Read, Listen and Play Box",5,38,,25,,,,"No","No",0
+1131,"2828","1","Duplo","Little Forest Friends","1999","Supper Time",2,4,,,,,,"No","No",0
+1132,"2829","1","Duplo","Little Forest Friends","1999","Nap Time",2,4,,,,,,"No","No",0
+1133,"2830","1","Duplo","Little Forest Friends","1999","The Strawberries",2,10,,10,,,"http://www.1000steine.com/brickset/images/2830-1.jpg","No","No",0
+1134,"2831","1","Duplo","Little Forest Friends","1999","The Toadstools",2,11,,10,,,"http://www.1000steine.com/brickset/images/2831-1.jpg","No","No",0
+1135,"2832","1","Duplo","Little Forest Friends","1999","The Bluebells",2,10,,10,,,"http://www.1000steine.com/brickset/images/2832-1.jpg","No","No",0
+1136,"2833","1","Duplo","Little Forest Friends","1999","Lila, the Big Bluebell",2,32,,20,,,,"No","No",0
+1137,"2834","1","Duplo","Little Forest Friends","1999","The Meadowsweets",4,41,,40,,,,"No","No",0
+5004,"2838","1","Duplo","","1998","Native American Family",4,77,,,,,"http://www.1000steine.com/brickset/images/2838-1.jpg","No","No",0
+1138,"2840","1","Basic","","1997","Girl",,10,,,,,"http://www.1000steine.com/brickset/images/2840-1.jpg","No","No",0
+1139,"2841","1","Basic","","1997","Boy",,9,,,,,"http://www.1000steine.com/brickset/images/2841-1.jpg","No","No",0
+8142,"2842","1","Basic","","1997","Girl",,8,,,,,"http://www.1000steine.com/brickset/images/2842-1.jpg","No","No",0
+22466,"2844","1","Basic","","1997","Doggy",,8,,,,,,"No","No",0
+1140,"2845","1","Western","Indians","1997","Indian Chief",1,20,0,0,,,"http://www.1000steine.com/brickset/images/2845-1.jpg","No","No",0
+1141,"2846","1","Western","Indians","1997","Indian Kayak",1,18,0,0,,,"http://www.1000steine.com/brickset/images/2846-1.jpg","No","No",0
+1142,"2847","1","Space","UFO","1997","Flyer",1,15,,,,,"http://www.1000steine.com/brickset/images/2847-1.jpg","No","No",0
+1143,"2848","1","Castle","Fright Knights","1997","Flying Machine",1,19,,,,,"http://www.1000steine.com/brickset/images/2848-1.jpg","No","No",0
+1144,"2849","1","Town","Flight","1997","Helicopter",1,20,,,,,"http://www.1000steine.com/brickset/images/2849-1.jpg","No","No",0
+22541,"2851","1","Duplo","","1997","Medium Dino Bucket",1,31,,,,,,"No","No",0
+22542,"2852","1","Duplo","","1997","Large Dino Bucket",2,57,,,,,,"No","No",0
+1145,"2854","1","Technic","Competition","1998","Bungee Chopper",,72,,7,,,"http://www.1000steine.com/brickset/images/2854-1.jpg","No","No",0
+6092,"2855","1","Primo","","1998","Baby tiger",,,,,,,"http://www.1000steine.com/brickset/images/2855-1.jpg","No","No",0
+1146,"2858","1","Belville","","1999","Girl with Two Cats",1,5,,,,,"http://www.1000steine.com/brickset/images/2858-1.jpg","No","No",0
+1147,"2862","1","Duplo","","1998","Zoo Babies",,8,,6,,,,"No","No",0
+22444,"2863","1","Duplo","","2001","Box of Bricks",,100,,,,,,"No","No",0
+1148,"2864","1","Duplo","","1998","Wild Animals",,16,,12,,,"http://www.1000steine.com/brickset/images/2864-1.jpg","No","No",0
+5006,"2865","1","Duplo","","1998","Children's Zoo",2,25,,25,,,,"No","No",0
+1149,"2866","1","Duplo","","1998","Animal Playground",2,43,,,,,,"No","No",0
+

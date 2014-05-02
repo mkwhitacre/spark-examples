@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+417,"156","2","Trains","4.5/12 V","1976","Straight Track",,25,,,,,"http://www.1000steine.com/brickset/images/156-2.jpg","No","No",0
+425,"157","1","Trains","4.5/12 V","1976","Curved Track",,25,,,,,"http://www.1000steine.com/brickset/images/157-1.jpg","No","No",0
+8369,"157","2","Trains","","1968","Automatic direction changer",,7,,,,,"http://www.1000steine.com/brickset/images/157-2.jpg","No","No",0
+22704,"157","3","Samsonite","Model Maker","1970","4 Car Auto Transport",,65,,4.99,,,,"No","No",0
+8370,"158","1","Trains","","1968","Level crossing",,9,,,,,"http://www.1000steine.com/brickset/images/158-1.jpg","No","No",0
+435,"159","1","Trains","4.5/12 V","1976","Straight Track with Crossing",,25,,,,,"http://www.1000steine.com/brickset/images/159-1.jpg","No","No",0
+8371,"160","1","Trains","","1968","Magnetic couplings",,6,,,,,"http://www.1000steine.com/brickset/images/160-1.jpg","No","No",0
+7393,"161","1","Trains","4.5/12 V","1972","Battery Wagon",,8,,,,,"http://www.1000steine.com/brickset/images/161-1.jpg","No","No",0
+456,"162","1","Trains","4.5/12 V","1977","Locomotive",,210,,,,,"http://www.1000steine.com/brickset/images/162-1.jpg","No","No",0
+465,"163","1","Trains","4.5/12 V","1977","Cargo Wagon",2,128,,,,,"http://www.1000steine.com/brickset/images/163-1.jpg","No","No",0
+473,"164","1","Trains","4.5/12 V","1978","Passenger Coach",2,148,,,,,"http://www.1000steine.com/brickset/images/164-1.jpg","No","No",0
+484,"165","1","Trains","4.5/12 V","1978","Cargo Station",2,268,,,,,"http://www.1000steine.com/brickset/images/165-1.jpg","No","No",0
+7511,"166","1","Trains","4.5/12 V","1978","Flat wagon",2,53,,,,,"http://www.1000steine.com/brickset/images/166-1.jpg","No","No",0
+7363,"166","2","Samsonite","Basic","1971","Vehicle Extra Parts Kit",,61,,,,,"http://www.1000steine.com/brickset/images/166-2.jpg","No","No",0
+7512,"167","1","Trains","4.5/12 V","1978","Car transport wagon",2,102,,,,,"http://www.1000steine.com/brickset/images/167-1.jpg","No","No",0
+7364,"167","2","Samsonite","Basic","1971","House and Garden Extra Parts Kit",,111,,,,,"http://www.1000steine.com/brickset/images/167-2.jpg","No","No",0
+7394,"170","1","Trains","4.5/12 V","1972","Push-along Play Train",,93,1.95,,,,"http://www.1000steine.com/brickset/images/170-1.jpg","No","No",0
+525,"171","1","Trains","4.5/12 V","1972","Train Set without Motor",,147,,,,,"http://www.1000steine.com/brickset/images/171-1.jpg","No","No",0
+7395,"180","1","Trains","4.5/12 V","1972","4.5V Train with 5 Wagons",,228,,,,,"http://www.1000steine.com/brickset/images/180-1.jpg","No","No",0
+7396,"181","1","Trains","4.5/12 V","1972","Train Set with Motor, Signals and Shunting Switch",,148,,,,,"http://www.1000steine.com/brickset/images/181-1.jpg","No","No",0
+608,"182","1","Trains","4.5/12 V","1975","Train Set with Motor",,369,,,,,"http://www.1000steine.com/brickset/images/182-1.jpg","No","No",0
+7475,"183","1","Trains","4.5/12 V","1976","Train set with motor and signal",,194,,,,,"http://www.1000steine.com/brickset/images/183-1.jpg","No","No",0
+5244,"190","1","Building Set with People","","1975","Farm Set",,526,,,,,"http://www.1000steine.com/brickset/images/190-1.jpg","No","No",0
+5294,"192","1","Building Set with People","","1977","Policemen",,86,,,,,"http://www.1000steine.com/brickset/images/192-1.jpg","No","No",0
+5268,"194","1","Building Set with People","","1976","Family",,94,,,,,"http://www.1000steine.com/brickset/images/194-1.jpg","No","No",0
+5269,"195","1","Building Set with People","","1975","Airplane",,89,,,,,"http://www.1000steine.com/brickset/images/195-1.jpg","No","No",0
+5270,"196","1","Building Set with People","","1974","Antique Car",,115,,,,,"http://www.1000steine.com/brickset/images/196-1.jpg","No","No",0
+5271,"197","1","Building Set with People","","1976","Farm Set",,120,,,,,"http://www.1000steine.com/brickset/images/197-1.jpg","No","No",0
+7497,"198","1","Building Set with People","","1977","Cowboys",,41,,,,,"http://www.1000steine.com/brickset/images/198-1.jpg","No","No",0
+7498,"199","1","Building Set with People","","1977","Scooter",,45,,,,,"http://www.1000steine.com/brickset/images/199-1.jpg","No","No",0
+5108,"200","1","Building Set with People","","1974","LEGO Family",,78,1.25,5,,,"http://www.1000steine.com/brickset/images/200-1.jpg","No","No",0
+743,"205","1","Basic","","1978","People Set",,120,,29,,,"http://www.1000steine.com/brickset/images/205-1.jpg","No","No",0
+22674,"205","3","Samsonite","Basic","1965","Small Basic Set",,205,,4.95,,,"http://www.1000steine.com/brickset/images/205-3.jpg","No","No",0
+7513,"208","1","Building Set with People","","1978","Mother with baby",1,46,,,,,"http://www.1000steine.com/brickset/images/208-1.jpg","No","No",0
+6694,"210","1","Building Set with People","","1976","Cowboys",,39,,,,,"http://www.1000steine.com/brickset/images/210-1.jpg","No","No",0
+7478,"211","1","Building Set with People","","1976","Mother and baby with dog",,46,,,,,"http://www.1000steine.com/brickset/images/211-1.jpg","No","No",0
+7479,"212","1","Building Set with People","","1976","Scooter",,23,,,,,"http://www.1000steine.com/brickset/images/212-1.jpg","No","No",0
+7499,"213","1","Building Set with People","","1977","Airplane ride",,48,,,,,"http://www.1000steine.com/brickset/images/213-1.jpg","No","No",0
+7500,"214","1","Building Set with People","","1977","Road repair crew",,68,,,,,"http://www.1000steine.com/brickset/images/214-1.jpg","No","No",0
+7501,"215","1","Building Set with People","","1977","Red Indians",,93,,,,,"http://www.1000steine.com/brickset/images/215-1.jpg","No","No",0
+7502,"217","1","Building Set with People","","1977","Service Station",,228,,,,,"http://www.1000steine.com/brickset/images/217-1.jpg","No","No",0
+6727,"218","1","Building Set with People","","1977","Firemen",,274,,,,,"http://www.1000steine.com/brickset/images/218-1.jpg","No","No",0
+22693,"223","1","Samsonite","Basic","1968","Adventure Set",,223,,5,,,"http://www.1000steine.com/brickset/images/223-1.jpg","No","No",0
+22712,"224","1","Samsonite","Basic","1966","Explorer Set",,224,,,,,,"No","No",0
+853,"230","1","Building Set with People","","1978","Hairdressing Salon",,215,,,,,"http://www.1000steine.com/brickset/images/230-1.jpg","No","No",0
+862,"231","1","Building Set with People","","1978","Hospital",,379,,,,,"http://www.1000steine.com/brickset/images/231-1.jpg","No","No",0
+869,"232","1","Building Set with People","","1978","Bungalow",,445,,,,,"http://www.1000steine.com/brickset/images/232-1.jpg","No","No",0
+22689,"244","1","Samsonite","Basic","1967","Explorer Set",,244,,4.97,,,,"No","No",0
+8416,"245","2","Basic","","1977","Two Santas",,37,,,,,"http://www.1000steine.com/brickset/images/245-2.jpg","No","No",0
+919,"246","1","Basic","Seasonal","1977","Santa and Sleigh",,1,,1.5,,,"http://www.1000steine.com/brickset/images/246-1.jpg","No","No",0
+7451,"248","2","Samsonite","Model Maker","1971","Factory with Conveyor Belt",,248,,8.8699,,,"http://www.1000steine.com/brickset/images/248-2.jpg","No","No",0
+7964,"250","3","Building Set with People","","1974","Aeroplane and pilot",,90,1.4,,,,"http://www.1000steine.com/brickset/images/250-3.jpg","No","No",0
+7965,"251","1","Building Set with People","","1974","Windmill with miller and wife",,92,1.85,,,,"http://www.1000steine.com/brickset/images/251-1.jpg","No","No",0
+7966,"252","1","Building Set with People","","1974","Locomotive with driver and passenger",,121,2.4,,,,"http://www.1000steine.com/brickset/images/252-1.jpg","No","No",0
+931,"253","1","Building Set with People","","1975","Helicopter and Pilot",,1,1.25,,,,"http://www.1000steine.com/brickset/images/253-1.jpg","No","No",0
+7438,"254","1","Building Set with People","","1975","Family",,103,1.55,,,,"http://www.1000steine.com/brickset/images/254-1.jpg","No","No",0
+7439,"255","1","Building Set with People","","1975","Farming Scene",,,2.05,,,,"http://www.1000steine.com/brickset/images/255-1.jpg","No","No",0
+6517,"256","1","Building Set with People","","1976","Police Officers and Motorcycle",,86,,,,,"http://www.1000steine.com/brickset/images/256-1.jpg","No","No",0
+7480,"258","1","Basic","","1976","Zoo (with Baseboard)",,486,,,,,"http://www.1000steine.com/brickset/images/258-1.jpg","No","No",0
+7365,"260","3","Homemaker","","1971","Dolls Living Room",,173,1.98,,,,"http://www.1000steine.com/brickset/images/260-3.jpg","No","No",0
+964,"261","1","Building Set with People","","1979","Bathroom",1,164,,,,,"http://www.1000steine.com/brickset/images/261-1.jpg","No","No",0
+7366,"261","4","Homemaker","","1971","Dolls Kitchen",,156,1.98,,,,"http://www.1000steine.com/brickset/images/261-4.jpg","No","No",0
+7398,"262","2","Homemaker","","1972","Complete Children's Room Set",,259,,,,,"http://www.1000steine.com/brickset/images/262-2.jpg","No","No",0
+7967,"263","1","Homemaker","","1974","Kitchen",,257,2.45,9,,,"http://www.1000steine.com/brickset/images/263-1.jpg","No","No",0
+6728,"264","1","Homemaker","","1974","Living Room",,242,2.45,,,,"http://www.1000steine.com/brickset/images/264-1.jpg","No","No",0
+1000,"265","1","Homemaker","","1974","Bathroom",,147,1.85,,,,"http://www.1000steine.com/brickset/images/265-1.jpg","No","No",0
+7968,"266","1","Homemaker","","1974","Children's room",,235,,,,,"http://www.1000steine.com/brickset/images/266-1.jpg","No","No",0
+1030,"268","1","Building Set with People","","1979","Family Room",2,244,,,,,"http://www.1000steine.com/brickset/images/268-1.jpg","No","No",0
+1038,"269","1","Building Set with People","","1979","Kitchen",1,212,,,,,"http://www.1000steine.com/brickset/images/269-1.jpg","No","No",0
+7536,"270","2","Homemaker","","1973","Grandfather Clock, Chair and Table",,47,0.45,,,,"http://www.1000steine.com/brickset/images/270-2.jpg","No","No",0
+7537,"271","1","Homemaker","","1973","Baby's Cot and Cabinet",,49,0.45,,,,"http://www.1000steine.com/brickset/images/271-1.jpg","No","No",0
+7538,"272","1","Homemaker","","1973","Dressing Table with Mirror",,32,0.45,,,,"http://www.1000steine.com/brickset/images/272-1.jpg","No","No",0
+7539,"273","1","Homemaker","","1973","Bureau",,23,0.45,,,,"http://www.1000steine.com/brickset/images/273-1.jpg","No","No",0
+7969,"274","1","Homemaker","","1974","Colour TV and chair",,68,0.5,,,,"http://www.1000steine.com/brickset/images/274-1.jpg","No","No",0
+7970,"275","1","Homemaker","","1974","Table and chairs",,92,0.5,,,,"http://www.1000steine.com/brickset/images/275-1.jpg","No","No",0
+1088,"276","1","Building Set with People","","1977","Nurse and Child",,90,,,,,"http://www.1000steine.com/brickset/images/276-1.jpg","No","No",0
+1091,"277","1","Building Set with People","","1977","Fireplace",,82,,,,,"http://www.1000steine.com/brickset/images/277-1.jpg","No","No",0
+1102,"278","1","Building Set with People","","1978","Television Room",,104,,,,,"http://www.1000steine.com/brickset/images/278-1.jpg","No","No",0
+22675,"285","1","Samsonite","Basic","1965","Medium Basic Set",,285,,6.95,,,"http://www.1000steine.com/brickset/images/285-1.jpg","No","No",0
+7540,"290","2","Homemaker","","1973","Dining Suite",,114,0.75,,,,"http://www.1000steine.com/brickset/images/290-2.jpg","No","No",0
+7947,"291","1","Homemaker","","1973","Blackboard and School Desk",,90,0.75,,,,"http://www.1000steine.com/brickset/images/291-1.jpg","No","No",0
+7948,"292","1","Homemaker","","1973","Kitchen Sink and Cupboards",,59,0.75,,,,"http://www.1000steine.com/brickset/images/292-1.jpg","No","No",0
+7949,"293","1","Homemaker","","1973","Piano",,131,0.75,,,,"http://www.1000steine.com/brickset/images/293-1.jpg","No","No",0
+22560,"293","2","Basic","","1985","Basic Building Set",,,,,,,,"No","No",0
+7971,"294","1","Homemaker","","1974","Wall unit",,63,0.85,,,,"http://www.1000steine.com/brickset/images/294-1.jpg","No","No",0
+7972,"295","1","Homemaker","","1974","Secretary's desk",,128,0.85,,,,"http://www.1000steine.com/brickset/images/295-1.jpg","No","No",0
+1200,"296","1","Building Set with People","","1977","Ladies' Hairdressers",,160,,,,,"http://www.1000steine.com/brickset/images/296-1.jpg","No","No",0
+1209,"297","1","Building Set with People","","1978","Nursery",1,167,,,,,"http://www.1000steine.com/brickset/images/297-1.jpg","No","No",0
+1234,"300","1","Town","Accessories","1978","Road Plates, Junction",,2,,,,,"http://www.1000steine.com/brickset/images/300-1.jpg","No","No",0
+7399,"300","2","Samsonite","Pre-School/Jumbo","1972","Jumbo Bricks",,30,,4.95,,,,"No","No",0
+1239,"301","1","Town","Accessories","1978","Road Plates, Curved",,2,,,,,"http://www.1000steine.com/brickset/images/301-1.jpg","No","No",0
+22680,"301","2","Samsonite","Basic","1966","Wheel Toy",,301,,6.22,,,,"No","No",0
+22720,"301","3","Samsonite","Basic","1968","Wheel Toy with Suitcase",,301,,12.88,,,,"No","No",0
+1248,"302","1","Town","Accessories","1978","Road Plates, Straight",,2,,,,,"http://www.1000steine.com/brickset/images/302-1.jpg","No","No",0
+1259,"303","1","Basic","","1987","Basic Building Set, 3+",,33,,,,,,"No","No",0
+1267,"304","1","Basic","","1985","Basic Building Set, 3+",,31,,,,,,"No","No",0
+1273,"305","1","Space","Classic","1979","Two Crater Plates",,2,,,,,"http://www.1000steine.com/brickset/images/305-1.jpg","No","No",0
+1284,"306","1","Space","Classic","1979","Two Lunar Landing Plates",,2,,,,,"http://www.1000steine.com/brickset/images/306-1.jpg","No","No",0
+1289,"307","1","Basic","","1987","Basic Building Set, 3+",,,,,,,,"No","No",0
+1300,"308","1","Scala","Jewellery","1979","Bracelet",,38,,,,,"http://www.1000steine.com/brickset/images/308-1.jpg","No","No",0
+1301,"308","2","Basic","","1985","Basic Building Set, 3+",,30,,,,,,"No","No",0
+1309,"309","1","Scala","Jewellery","1979","Bracelet",,38,,,,,"http://www.1000steine.com/brickset/images/309-1.jpg","No","No",0
+22694,"310","1","Samsonite","Model Maker","1968","Motorized Truck Set",,176,,12.95,,,"http://www.1000steine.com/brickset/images/310-1.jpg","No","No",0
+1316,"310","2","Scala","Jewellery","1979","Pendant",,29,,,,,"http://www.1000steine.com/brickset/images/310-2.jpg","No","No",0
+6695,"310","3","LEGOLAND","Boats","1973","Tugboat",,183,1.2,,,,"http://www.1000steine.com/brickset/images/310-3.jpg","No","No",0
+1317,"310","4","Basic","","1985","Basic Building Set, 3+",,46,,,,,,"No","No",0
+7950,"311","1","LEGOLAND","Boats","1973","Ferry",,83,1.6,,,,"http://www.1000steine.com/brickset/images/311-1.jpg","No","No",0
+1328,"311","2","Scala","Jewellery","1979","Pendant",,29,,,,,"http://www.1000steine.com/brickset/images/311-2.jpg","No","No",0
+1327,"311","3","Basic","","1984","Basic Building Set, 3+",,83,,,,,"http://www.1000steine.com/brickset/images/311-3.jpg","No","No",0
+7330,"311","5","Samsonite","Model Maker","1970","Remote Control Car Set",,175,,14.99,,,"http://www.1000steine.com/brickset/images/311-5.jpg","No","No",0
+7420,"312","1","Samsonite","Model Maker","1970","Remote Control Supplement",,1,,3.99,,,"http://www.1000steine.com/brickset/images/312-1.jpg","No","No",0
+1337,"312","2","Scala","Jewellery","1979","Bracelet and Pendant",,1,,,,,"http://www.1000steine.com/brickset/images/312-2.jpg","No","No",0
+5104,"312","3","LEGOLAND","","1973","Cargo Ship",,59,1.85,,,,"http://www.1000steine.com/brickset/images/312-3.jpg","No","No",0
+1344,"313","2","Scala","Jewellery","1979","Bracelet and Pendant",,137,,,,,"http://www.1000steine.com/brickset/images/313-2.jpg","No","No",0
+1353,"314","1","LEGOLAND","Boats","1976","Police Launch",2,53,,,,,"http://www.1000steine.com/brickset/images/314-1.jpg","No","No",0
+1362,"315","1","Basic","","1990","Basic Building Set, 3+",,62,,,,,"http://www.1000steine.com/brickset/images/315-1.jpg","No","No",0
+7482,"315","2","LEGOLAND","","1976","Container ship",,95,,,,,"http://www.1000steine.com/brickset/images/315-2.jpg","No","No",0
+1371,"316","1","LEGOLAND","Boats","1978","Fire Fighting Launch",,133,,,,,"http://www.1000steine.com/brickset/images/316-1.jpg","No","No",0
+22423,"317","1","Basic","","1987","Basic Building Set",,68,,,,,,"No","No",0
+1383,"320","1","Basic","","1985","Basic Building Set, 3+",1,77,,,,,"http://www.1000steine.com/brickset/images/320-1.jpg","No","No",0
+1395,"322","1","Basic","","1981","Basic Set",,82,,6,,,,"No","No",0
+1406,"324","1","Fabuland","","1979","Ricky Racoon on his Scooter",1,2,,,,,"http://www.1000steine.com/brickset/images/324-1.jpg","No","No",0
+22713,"324","2","Samsonite","Basic","1966","324 Piece Medium Basic Set",,324,,6.22,,,,"No","No",0
+1413,"325","1","Basic","","1990","Basic Building Set, 3+",1,104,,,,,"http://www.1000steine.com/brickset/images/325-1.jpg","No","No",0
+1414,"325","2","Fabuland","","1979","Percy Pig with his Barrow",1,3,,,,,"http://www.1000steine.com/brickset/images/325-2.jpg","No","No",0
+8348,"325","3","Classic","","1966","Shell service station",,121,,,,,"http://www.1000steine.com/brickset/images/325-3.jpg","No","No",0
+22690,"326","2","Samsonite","Basic","1967","Suburban Set",,326,,,,,,"No","No",0
+22426,"327","1","Basic","","1987","Basic Building Set",1,102,,,,,"http://www.1000steine.com/brickset/images/327-1.jpg","No","No",0
+1431,"328","1","Fabuland","","1979","Michael Mouse and his New Car",1,22,,,,,"http://www.1000steine.com/brickset/images/328-1.jpg","No","No",0
+8353,"328","2","Classic","","1967","Biplane",,50,,,,,"http://www.1000steine.com/brickset/images/328-2.jpg","No","No",0
+8404,"329","1","Classic","","1967","Antique car",,124,,,,,"http://www.1000steine.com/brickset/images/329-1.jpg","No","No",0
+1439,"329","2","Fabuland","","1979","Bernard Bear and his Delivery Lorry",1,109,,,,,"http://www.1000steine.com/brickset/images/329-2.jpg","No","No",0
+1441,"330","1","Basic","","1985","Basic Building Set, 3+",2,156,,,,,,"No","No",0
+5296,"330","2","Building set with People","","1978","Gas Station",,211,,,,,"http://www.1000steine.com/brickset/images/330-2.jpg","No","No",0
+8373,"330","3","Classic","","1968","Jeep",,91,,,,,"http://www.1000steine.com/brickset/images/330-3.jpg","No","No",0
+8355,"331","1","Classic","","1967","Dump truck",,57,,,,,"http://www.1000steine.com/brickset/images/331-1.jpg","No","No",0
+8103,"332","1","Classic","Large Vehicles","1967","Tow Truck",,55,,,,,"http://www.1000steine.com/brickset/images/332-1.jpg","No","No",0
+1462,"333","1","Basic","","1981","Basic Set",2,98,,10,,,"http://www.1000steine.com/brickset/images/333-1.jpg","No","No",0
+8356,"333","2","Classic","","1967","Delivery truck",,78,,,,,"http://www.1000steine.com/brickset/images/333-2.jpg","No","No",0
+8357,"334","1","Classic","","1967","Truck with flatbed",,90,,,,,"http://www.1000steine.com/brickset/images/334-1.jpg","No","No",0
+6169,"335","1","Classic","Large Vehicles","1967","Transport Truck",,245,,,,,"http://www.1000steine.com/brickset/images/335-1.jpg","No","No",0
+1479,"335","2","Basic","","1990","Basic Building Set, 3+",,99,,,,,"http://www.1000steine.com/brickset/images/335-2.jpg","No","No",0
+22716,"335","3","Samsonite","Basic","1967","335 Piece Basic Set",,335,,6.99,,,,"No","No",0
+6130,"336","1","Classic","Large Vehicles","1968","Fire Truck",,76,,,,,"http://www.1000steine.com/brickset/images/336-1.jpg","No","No",0
+22425,"337","1","Basic","","1987","Basic Building Set",2,212,,,,,,"No","No",0
+8388,"337","2","Classic","","1969","Truck with crane",,102,,,,,"http://www.1000steine.com/brickset/images/337-2.jpg","No","No",0
+7331,"338","1","Basic","Large Vehicles","1970","Ambulance",,74,,,,,"http://www.1000steine.com/brickset/images/338-1.jpg","No","No",0
+7332,"338","2","Fabuland","","1979","Blondi the Pig and Taxi Station",1,37,,,,,"http://www.1000steine.com/brickset/images/338-2.jpg","No","No",0
+1501,"340","1","Basic","","1985","Basic Building Set, 3+",2,214,,,,,,"No","No",0
+5298,"340","2","Building Set with People","","1978","Fire Trucks",,274,,,,,,"No","No",0
+8374,"340","3","Trains","","1968","Signal box",,86,,,,,"http://www.1000steine.com/brickset/images/340-3.jpg","No","No",0
+8408,"341","1","Trains","","1968","Warehouse",,127,,,,,"http://www.1000steine.com/brickset/images/341-1.jpg","No","No",0
+1511,"341","2","Fabuland","","1979","Catherine Cat's House and Mortimer Mouse",2,123,,3,,,"http://www.1000steine.com/brickset/images/341-2.jpg","No","No",0
+8376,"342","1","Trains","","1968","Station",,215,,,,,"http://www.1000steine.com/brickset/images/342-1.jpg","No","No",0
+6171,"343","1","Classic","","1968","Ferry Boat",,147,,,,,"http://www.1000steine.com/brickset/images/343-1.jpg","No","No",0
+8052,"344","1","Classic","Building","1969","Bungalow",,77,,,,,"http://www.1000steine.com/brickset/images/344-1.jpg","No","No",0
+1537,"344","2","Fabuland","","1979","Service Station with Billy Goat and Mike Monkey",2,80,,,,,"http://www.1000steine.com/brickset/images/344-2.jpg","No","No",0
+8410,"345","1","Classic","","1969","House with car",,140,,,,,"http://www.1000steine.com/brickset/images/345-1.jpg","No","No",0
+1547,"345","2","Basic","","1993","Small Play Bucket, 3+",,131,,17,,,,"No","No",0
+7333,"346","1","Samsonite","Model Maker","1970","Jumbo Jet",,121,,,,,"http://www.1000steine.com/brickset/images/346-1.jpg","No","No",0
+8391,"346","2","Classic","","1969","House with car",,177,,,,,"http://www.1000steine.com/brickset/images/346-2.jpg","No","No",0
+6323,"347","1","LEGOLAND","","1970","Fire Station",,320,,,,,"http://www.1000steine.com/brickset/images/347-1.jpg","No","No",0
+10101,"347","2","Basic","","1987","Basic Building Set",2,328,,,,,"http://www.1000steine.com/brickset/images/347-2.jpg","No","No",0
+1567,"347","3","Fabuland","","1979","Hospital - Lucy Lamb and Charlie Cat Visit Dr. Dog",3,205,,,,,"http://www.1000steine.com/brickset/images/347-3.jpg","No","No",0
+7367,"348","1","LEGOLAND","Building","1971","Garage with Automatic Doors",,38,0.88,,,,"http://www.1000steine.com/brickset/images/348-1.jpg","No","No",0
+7334,"348","2","Samsonite","Model Maker","1970","Mini-Wheel Car and Truck Set",,211,,3.99,,,"http://www.1000steine.com/brickset/images/348-2.jpg","No","No",0
+5499,"349","1","LEGOLAND","Town","1971","Swiss Chalet",,81,1.18,,,,"http://www.1000steine.com/brickset/images/349-1.jpg","No","No",0
+7368,"349","2","Samsonite","Model Maker","1971","Mini-Wheel Construction Set",,195,,,,,"http://www.1000steine.com/brickset/images/349-2.jpg","No","No",0
+7369,"350","1","LEGOLAND","Building","1971","Spanish Villa",,126,1.65,,,,"http://www.1000steine.com/brickset/images/350-1.jpg","No","No",0
+1599,"350","2","Basic","","1985","Basic Building Set, 3+",4,311,,,,,,"No","No",0
+1598,"350","3","Fabuland","","1979","Town Hall",3,122,,,,,"http://www.1000steine.com/brickset/images/350-3.jpg","No","No",0
+6324,"351","1","LEGOLAND","","1971","Gravel Depot",,170,2.2,,,,"http://www.1000steine.com/brickset/images/351-1.jpg","No","No",0
+7400,"352","1","LEGOLAND","Building","1972","Windmill and Lorry",,142,,,,,"http://www.1000steine.com/brickset/images/352-1.jpg","No","No",0
+6732,"353","1","LEGOLAND","Building","1972","Terrace House with Car and Garage",,152,,,,,"http://www.1000steine.com/brickset/images/353-1.jpg","No","No",0
+5221,"354","1","LEGOLAND","Town","1972","Police Heliport",,168,,,,,"http://www.1000steine.com/brickset/images/354-1.jpg","No","No",0
+6121,"355","1","LEGOLAND","Town","1972","Town Center Set with Roadways",,336,,,,,"http://www.1000steine.com/brickset/images/355-1.jpg","No","No",0
+1636,"355","2","Basic","","1981","Universal Building Set",2,181,,18.5,,,"http://www.1000steine.com/brickset/images/355-2.jpg","No","No",0
+6021,"356","1","LEGOLAND","","1973","Italian Villa",,150,1.65,,,,"http://www.1000steine.com/brickset/images/356-1.jpg","No","No",0
+6483,"357","1","LEGOLAND","","1973","Legoland Fire House",,239,2.95,,,,"http://www.1000steine.com/brickset/images/357-1.jpg","No","No",0
+22424,"357","2","Basic","","1987","Basic Building Set",,681,,,,,,"No","No",0
+6022,"358","1","LEGOLAND","","1973","Rocket Base",,276,2.95,,,,"http://www.1000steine.com/brickset/images/358-1.jpg","No","No",0
+7401,"359","1","Basic","","1972","Environment Plate",,1,0.45,,,,,"No","No",0
+5102,"360","1","LEGOLAND","","1974","Gravel Works",,211,4.55,14,,,"http://www.1000steine.com/brickset/images/360-1.jpg","No","No",0
+7370,"360","2","Samsonite","Model Maker","1971","Ambulance",,23,,,,,,"No","No",0
+1677,"361","1","LEGOLAND","Town","1974","Tea Garden Cafe",,209,2.45,,,,"http://www.1000steine.com/brickset/images/361-1.jpg","No","No",0
+1676,"361","2","Town","Classic","1979","Garage",1,79,,,,,"http://www.1000steine.com/brickset/images/361-2.jpg","No","No",0
+7371,"361","3","Samsonite","Model Maker","1971","Tow Truck",,21,,,,,,"No","No",0
+6539,"362","1","LEGOLAND","","1975","Windmill",2,215,,,,,"http://www.1000steine.com/brickset/images/362-1.jpg","No","No",0
+7372,"362","2","Samsonite","Model Maker","1971","Delivery Van",,33,,,,,,"No","No",0
+6368,"363","1","LEGOLAND","","1975","Hospital",7,36,3.75,,,,"http://www.1000steine.com/brickset/images/363-1.jpg","No","No",0
+6369,"363","2","Samsonite","Model Maker","1971","Antique Car",,36,,,,,"http://www.1000steine.com/brickset/images/363-2.jpg","No","No",0
+7440,"364","1","LEGOLAND","","1975","Harbour",7,518,8.85,,,,"http://www.1000steine.com/brickset/images/364-1.jpg","No","No",0
+7441,"365","1","LEGOLAND","","1975","Wild West",5,602,8.85,,,,"http://www.1000steine.com/brickset/images/365-1.jpg","No","No",0
+1712,"365","2","Basic","","1990","Basic Building Set, 3+",1,602,,,,,,"No","No",0
+1721,"366","1","Basic","","1981","Basic Building Set",2,184,,,,,,"No","No",0
+6023,"367","1","LEGOLAND","","1975","Space Module with Astronauts",,364,3.95,,,,"http://www.1000steine.com/brickset/images/367-1.jpg","No","No",0
+7335,"367","2","Samsonite","Model Maker","1970","Mini Airport and Vehicle",,,,,,,"http://www.1000steine.com/brickset/images/367-2.jpg","No","No",0
+5085,"368","1","LEGOLAND","","1976","Taxi Garage",2,156,,,,,"http://www.1000steine.com/brickset/images/368-1.jpg","No","No",0
+7436,"369","1","LEGOLAND","Building","1976","Coast Guard Station",5,275,,,,,"http://www.1000steine.com/brickset/images/369-1.jpg","No","No",0
+7228,"370","1","LEGOLAND","Building","1976","Police Headquarters",4,280,,,,,"http://www.1000steine.com/brickset/images/370-1.jpg","No","No",0
+

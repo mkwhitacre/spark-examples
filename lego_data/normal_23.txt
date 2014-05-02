@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+2933,"5909","1","Adventurers","Desert","1998","Treasure Raiders",5,197,,3.75,,,"http://www.1000steine.com/brickset/images/5909-1.jpg","No","No",0
+2934,"5911","1","Adventurers","Dino Island","2000","Johnny Thunder's Plane",1,22,,3,,,"http://www.1000steine.com/brickset/images/5911-1.jpg","No","No",0
+2935,"5912","1","Adventurers","Dino Island","2000","Mike's Swamp Boat",1,19,,3,,,"http://www.1000steine.com/brickset/images/5912-1.jpg","No","No",0
+2936,"5913","1","Adventurers","Dino Island","2000","Dr. Kilroy's Car",1,21,,3,,,"http://www.1000steine.com/brickset/images/5913-1.jpg","No","No",0
+2937,"5914","1","Adventurers","Dino Island","2000","Sam Sanister and Baby T",1,21,,3,,,"http://www.1000steine.com/brickset/images/5914-1.jpg","No","No",0
+2938,"5918","1","Adventurers","Desert","1998","Scorpion Tracker",1,35,,4,,,"http://www.1000steine.com/brickset/images/5918-1.jpg","No","No",0
+2939,"5919","1","Adventurers","Desert","1998","The Valley of the Kings",3,164,,20,,,"http://www.1000steine.com/brickset/images/5919-1.jpg","No","No",0
+2940,"5920","1","Adventurers","Dino Island","2000","Island Racer",1,50,,,,,"http://www.1000steine.com/brickset/images/5920-1.jpg","No","No",0
+2941,"5921","1","Adventurers","Dino Island","2000","Research Glider",1,57,,6,,,"http://www.1000steine.com/brickset/images/5921-1.jpg","No","No",0
+2942,"5923","1","Miscellaneous","Photo frames/albums","2002","Western Picture Frame",2,138,,,,,"http://www.1000steine.com/brickset/images/5923-1.jpg","No","No",0
+2943,"5924","1","Miscellaneous","Photo frames/albums","2002","Castle Picture Frame",,105,,,,,"http://www.1000steine.com/brickset/images/5924-1.jpg","No","No",0
+2944,"5925","1","Adventurers","Jungle","1999","Pontoon Plane",1,72,,6,,,"http://www.1000steine.com/brickset/images/5925-1.jpg","No","No",0
+2945,"5927","1","Miscellaneous","Photo frames/albums","2002","Racers Picture Frame",,136,,,,,"http://www.1000steine.com/brickset/images/5927-1.jpg","No","No",0
+2946,"5928","1","Adventurers","Desert","1998","Bi-Wing Baron",1,70,,6,,,"http://www.1000steine.com/brickset/images/5928-1.jpg","No","No",0
+8235,"5929","1","Bricks and More","","2011","Knight and Castle Building Set",1,144,8.49,9.99,12.99,7.99,"http://www.1000steine.com/brickset/images/5929-1.jpg","No","No",0
+8236,"5930","1","Bricks and More","","2011","Road Construction Building Set",1,121,8.49,9.99,12.99,7.99,"http://www.1000steine.com/brickset/images/5930-1.jpg","No","No",0
+8266,"5931","1","Duplo","","2011","My First LEGO DUPLO Set",1,30,9.99,14.99,17.99,12.99,"http://www.1000steine.com/brickset/images/5931-1.jpg","No","No",0
+8237,"5932","1","Bricks and More","","2011","My First LEGO Set",1,231,9.99,14.99,17.99,12.99,"http://www.1000steine.com/brickset/images/5932-1.jpg","No","No",0
+8238,"5933","1","Bricks and More","","2011","Airport Building Set",2,310,19.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/5933-1.jpg","No","No",0
+2947,"5934","1","Adventurers","Dino Island","2000","Dino Explorer",2,90,,15,,,"http://www.1000steine.com/brickset/images/5934-1.jpg","No","No",0
+2948,"5935","1","Adventurers","Dino Island","2000","Island Hopper",1,205,,20,,,"http://www.1000steine.com/brickset/images/5935-1.jpg","No","No",0
+2949,"5936","1","Adventurers","Jungle","1999","Spider's Secret",3,128,,12,,,"http://www.1000steine.com/brickset/images/5936-1.jpg","No","No",0
+2950,"5938","1","Adventurers","Desert","1998","Oasis Ambush",3,77,,8,,,"http://www.1000steine.com/brickset/images/5938-1.jpg","No","No",0
+2951,"5940","1","Belville","","2004","Doll House",3,203,39.99,60,,,"http://www.1000steine.com/brickset/images/5940-1.jpg","No","No",0
+2952,"5941","1","Belville","","2004","Riding School",2,179,29.99,47,,,"http://www.1000steine.com/brickset/images/5941-1.jpg","No","No",0
+2953,"5942","1","Belville","","2004","Pop Studio",1,102,14.99,22.99,,,"http://www.1000steine.com/brickset/images/5942-1.jpg","No","No",0
+2954,"5943","1","Belville","","2004","Interior Designer",1,96,7.99,10,,,"http://www.1000steine.com/brickset/images/5943-1.jpg","No","No",0
+2955,"5944","1","Belville","","2004","Cat Show",,31,4.99,6,,,"http://www.1000steine.com/brickset/images/5944-1.jpg","No","No",0
+8329,"5945","1","Duplo","Winnie the Pooh","2011","Winnie the Pooh's Picnic",1,13,8.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/5945-1.jpg","No","No",0
+8330,"5946","1","Duplo","Winnie the Pooh","2011","Tigger's Expedition",2,26,18.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/5946-1.jpg","No","No",0
+8331,"5947","1","Duplo","Winnie the Pooh","2011","Winnie the Pooh's House",3,40,30.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/5947-1.jpg","No","No",0
+2956,"5948","1","Adventurers","Desert","1998","Desert Expedition",5,196,,20,,,"http://www.1000steine.com/brickset/images/5948-1.jpg","No","No",0
+2957,"5950","1","Dinosaurs","","2001","Baby Ankylosaurus",,37,,,,,"http://www.1000steine.com/brickset/images/5950-1.jpg","No","No",0
+2958,"5951","1","Dinosaurs","","2001","Baby Iguanodon",,23,,,,,"http://www.1000steine.com/brickset/images/5951-1.jpg","No","No",0
+2959,"5952","1","Dinosaurs","","2001","Baby Brachiosaurus",,31,,,,,"http://www.1000steine.com/brickset/images/5952-1.jpg","No","No",0
+2960,"5953","1","Dinosaurs","","2001","Baby Dimetrodon",,20,,,,,"http://www.1000steine.com/brickset/images/5953-1.jpg","No","No",0
+2961,"5955","1","Adventurers","Dino Island","2000","All Terrain Trapper",3,185,,30,,,"http://www.1000steine.com/brickset/images/5955-1.jpg","No","No",0
+2962,"5956","1","Adventurers","Jungle","1999","Expedition Balloon",4,175,,20,,,"http://www.1000steine.com/brickset/images/5956-1.jpg","No","No",0
+2963,"5958","1","Adventurers","Desert","1998","Mummy's Tomb",4,260,,30,,,"http://www.1000steine.com/brickset/images/5958-1.jpg","No","No",0
+9770,"5959","1","Duplo","","2012","{jet bike patrol}",,,,,,,,"No","No",0
+4657,"5960","1","Belville","","2005","The Mermaid Castle",3,237,49.99,70,,,"http://www.1000steine.com/brickset/images/5960-1.jpg","No","No",0
+4658,"5961","1","Belville","","2005","Snow Queen",1,59,9.99,20,,,"http://www.1000steine.com/brickset/images/5961-1.jpg","No","No",0
+4659,"5962","1","Belville","","2005","The Tinderbox",1,82,9.99,20,,,"http://www.1000steine.com/brickset/images/5962-1.jpg","No","No",0
+4660,"5963","1","Belville","","2005","The Princess and the Pea",1,55,9.99,19.99,,,"http://www.1000steine.com/brickset/images/5963-1.jpg","No","No",0
+4661,"5964","1","Belville","","2005","Thumbelina",1,49,4.99,6,,,"http://www.1000steine.com/brickset/images/5964-1.jpg","No","No",0
+5385,"5965","1","Exo-Force","Original","2006","Silver Bad Guy",,24,,,,,"http://www.1000steine.com/brickset/images/5965-1.jpg","No","No",0
+5386,"5966","1","Exo-Force","Original","2006","White Good Guy",1,22,1.49,,,,"http://www.1000steine.com/brickset/images/5966-1.jpg","No","No",0
+5387,"5967","1","Exo-Force","Original","2006","Red Good Guy",1,22,,,,,"http://www.1000steine.com/brickset/images/5967-1.jpg","No","No",0
+6917,"5969","1","Space","Space Police 3","2009","Squidman Escape",2,42,4.99,5.99,7.99,,"http://www.1000steine.com/brickset/images/5969-1.jpg","No","No",0
+6918,"5970","1","Space","Space Police 3","2009","Freeze Ray Frenzy",2,80,9.99,9.99,,,"http://www.1000steine.com/brickset/images/5970-1.jpg","No","No",0
+6919,"5971","1","Space","Space Police 3","2009","Gold Heist",2,205,17.99,19.99,,,"http://www.1000steine.com/brickset/images/5971-1.jpg","No","No",0
+6920,"5972","1","Space","Space Police 3","2009","Container Heist",2,282,24.99,29.99,,,"http://www.1000steine.com/brickset/images/5972-1.jpg","No","No",0
+6921,"5973","1","Space","Space Police 3","2009","Hyperspeed Pursuit",3,456,39.99,49.99,64.99,,"http://www.1000steine.com/brickset/images/5973-1.jpg","No","No",0
+6922,"5974","1","Space","Space Police 3","2009","Galactic Enforcer",7,825,64.99,99.99,129.99,,"http://www.1000steine.com/brickset/images/5974-1.jpg","No","No",0
+2964,"5975","1","Adventurers","Dino Island","2000","T-Rex Transport",5,321,,50,,,"http://www.1000steine.com/brickset/images/5975-1.jpg","No","No",0
+2965,"5976","1","Adventurers","Jungle","1999","River Expedition",7,318,,50,,,"http://www.1000steine.com/brickset/images/5976-1.jpg","No","No",0
+6664,"5977","1","Belville","","2001","Travel Friends (In-flight)",,17,,,,,"http://www.1000steine.com/brickset/images/5977-1.jpg","No","No",0
+2966,"5978","1","Adventurers","Desert","1998","Sphinx Secret Surprise",7,347,,50,,,"http://www.1000steine.com/brickset/images/5978-1.jpg","No","No",0
+6960,"5979","1","Space","Space Police 3","2009","Max Security Transport",3,330,29.35,39.99,,,"http://www.1000steine.com/brickset/images/5979-1.jpg","No","No",0
+6961,"5980","1","Space","Space Police 3","2009","Squidman's Pitstop",4,389,34.25,49.99,,,"http://www.1000steine.com/brickset/images/5980-1.jpg","No","No",0
+7306,"5981","1","Space","Space Police 3","2010","Raid VPR",2,69,7.99,9.99,12.99,,"http://www.1000steine.com/brickset/images/5981-1.jpg","No","No",0
+7307,"5982","1","Space","Space Police 3","2010","Smash 'n' Grab",2,188,17.99,19.99,26.99,,"http://www.1000steine.com/brickset/images/5982-1.jpg","No","No",0
+7594,"5983","1","Space","Space Police 3","2010","Undercover Cruiser",2,317,24.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/5983-1.jpg","No","No",0
+7595,"5984","1","Space","Space Police 3","2010","Lunar Limo",3,391,34.99,39.99,54.99,,"http://www.1000steine.com/brickset/images/5984-1.jpg","No","No",0
+7596,"5985","1","Space","Space Police 3","2010","Space Police Central",4,631,59.99,79.99,109.99,,"http://www.1000steine.com/brickset/images/5985-1.jpg","No","No",0
+2967,"5986","1","Adventurers","Jungle","1999","Amazon Ancient Ruins",8,458,,80,,,"http://www.1000steine.com/brickset/images/5986-1.jpg","No","No",0
+2968,"5987","1","Adventurers","Dino Island","2000","Dino Research Compound",6,617,,80,,,"http://www.1000steine.com/brickset/images/5987-1.jpg","No","No",0
+2969,"5988","1","Adventurers","Desert","1998","The Temple of Anubis",10,711,,80,,,"http://www.1000steine.com/brickset/images/5988-1.jpg","No","No",0
+6560,"5991","1","Explore","","2002","Boy on Snowscooter",,2,,,,,,"No","No",0
+6559,"5993","1","Explore","","2002","Truck",,3,,,,,,"No","No",0
+4801,"5994","1","Castle","Knights' Kingdom II","2005","Catapult",,27,,1,,,"http://www.1000steine.com/brickset/images/5994-1.jpg","No","No",0
+4828,"5998","1","Castle","Knights' Kingdom II","2005","Vladek",1,5,,,,,"http://www.1000steine.com/brickset/images/5998-1.jpg","No","No",0
+5044,"5999","1","Castle","Knights' Kingdom II","2005","Jayko",1,5,,,,,"http://www.1000steine.com/brickset/images/5999-1.jpg","No","No",0
+2974,"6002","1","Town","Accessories","1983","Town Figures",4,20,,,,,"http://www.1000steine.com/brickset/images/6002-1.jpg","No","No",0
+4924,"6002","2","Castle","Classic","1983","Castle Figures",4,22,,,,,"http://www.1000steine.com/brickset/images/6002-2.jpg","No","No",0
+2975,"6004","1","Castle","Fright Knights","1997","Crossbow Cart",1,20,,,,,"http://www.1000steine.com/brickset/images/6004-1.jpg","No","No",0
+6895,"6006","1","Castle","Fright Knights","1997","Crossbow Cart",,20,,,,,"http://www.1000steine.com/brickset/images/6006-1.jpg","No","No",0
+2976,"6007","1","Castle","Fright Knights","1997","Bat Lord",1,12,,4.5,,,"http://www.1000steine.com/brickset/images/6007-1.jpg","No","No",0
+2977,"6008","1","Castle","Royal Knights","1995","Royal King",1,10,,3,,,"http://www.1000steine.com/brickset/images/6008-1.jpg","No","No",0
+2978,"6009","1","Castle","Black Knights","1992","Black Knight",1,24,,3.25,,,"http://www.1000steine.com/brickset/images/6009-1.jpg","No","No",0
+2980,"6010","1","Castle","Lion Knights","1984","Supply Wagon",1,35,,3,,,"http://www.1000steine.com/brickset/images/6010-1.jpg","No","No",0
+2981,"6011","1","Castle","Black Falcons","1985","Black Knight's Treasure",1,25,,,,,"http://www.1000steine.com/brickset/images/6011-1.jpg","No","No",0
+2982,"6012","1","Castle","Lion Knights","1986","Siege Cart",2,54,,3.5,,,"http://www.1000steine.com/brickset/images/6012-1.jpg","No","No",0
+2983,"6013","1","Castle","Ninja","1998","Samurai Swordsman",1,13,,3,,,"http://www.1000steine.com/brickset/images/6013-1.jpg","No","No",0
+2984,"6016","1","Castle","Lion Knights","1988","Knights' Arsenal",1,37,,4.25,,,"http://www.1000steine.com/brickset/images/6016-1.jpg","No","No",0
+2985,"6017","1","Castle","Lion Knights","1987","King's Oarsmen",2,45,,3.75,,,"http://www.1000steine.com/brickset/images/6017-1.jpg","No","No",0
+2986,"6018","1","Castle","Black Knights","1990","Battle Dragon",2,56,,4.5,,,"http://www.1000steine.com/brickset/images/6018-1.jpg","No","No",0
+2988,"6020","1","Castle","Dragon Knights","1993","Magic Shop",1,47,,4.5,,,"http://www.1000steine.com/brickset/images/6020-1.jpg","No","No",0
+2989,"6021","1","Castle","Lion Knights","1984","Jousting Knights",2,37,,5.25,,,"http://www.1000steine.com/brickset/images/6021-1.jpg","No","No",0
+2990,"6022","1","Castle","Lion Knights","1984","Horse Cart",2,42,,5,,,"http://www.1000steine.com/brickset/images/6022-1.jpg","No","No",0
+2991,"6023","1","Castle","Lion Knights","1986","Maiden's Cart",2,43,,5.5,,,"http://www.1000steine.com/brickset/images/6023-1.jpg","No","No",0
+2992,"6024","1","Castle","Dark Forest","1996","Bandit Ambush",2,59,,6.5,,,"http://www.1000steine.com/brickset/images/6024-1.jpg","No","No",0
+2993,"6026","1","Castle","Knights' Kingdom I","2000","King Leo",2,21,,5,,,"http://www.1000steine.com/brickset/images/6026-1.jpg","No","No",0
+2994,"6027","1","Castle","Fright Knights","1997","Bat Lord's Catapult",2,55,,6.75,,,"http://www.1000steine.com/brickset/images/6027-1.jpg","No","No",0
+2995,"6028","1","Castle","Fright Knights","1998","Treasure Cart",1,22,,,,,"http://www.1000steine.com/brickset/images/6028-1.jpg","No","No",0
+2996,"6029","1","Castle","Fright Knights","1998","Treasure Guard",1,22,,2,,,"http://www.1000steine.com/brickset/images/6029-1.jpg","No","No",0
+2998,"6030","1","Castle","Black Falcons","1984","Catapult",2,83,,6,,,"http://www.1000steine.com/brickset/images/6030-1.jpg","No","No",0
+2999,"6031","1","Castle","Fright Knights","1998","Fright Force",4,30,,6,,,"http://www.1000steine.com/brickset/images/6031-1.jpg","No","No",0
+3000,"6032","1","Castle","Knights' Kingdom I","2000","Catapault Crusher",1,56,,6,,,"http://www.1000steine.com/brickset/images/6032-1.jpg","No","No",0
+3001,"6033","1","Castle","Ninja","1998","Treasure Transport",3,54,,6,,,"http://www.1000steine.com/brickset/images/6033-1.jpg","No","No",0
+3002,"6034","1","Castle","Black Knights","1990","Black Monarch's Ghost",2,46,,7.25,,,"http://www.1000steine.com/brickset/images/6034-1.jpg","No","No",0
+3003,"6035","1","Castle","Black Falcons","1988","Castle Guard",2,52,,5.75,,,"http://www.1000steine.com/brickset/images/6035-1.jpg","No","No",0
+3004,"6036","1","Castle","Royal Knights","1995","Skeleton Surprise",2,74,,8,,,"http://www.1000steine.com/brickset/images/6036-1.jpg","No","No",0
+3005,"6037","1","Castle","Fright Knights","1997","Witch's Windship",1,56,,8,,,"http://www.1000steine.com/brickset/images/6037-1.jpg","No","No",0
+3006,"6038","1","Castle","Wolfpack","1992","Wolfpack Renegades",2,100,,8,,,"http://www.1000steine.com/brickset/images/6038-1.jpg","No","No",0
+3007,"6039","1","Castle","Lion Knights","1988","Twin-Arm Launcher",2,77,,8.5,,,"http://www.1000steine.com/brickset/images/6039-1.jpg","No","No",0
+3009,"6040","1","Castle","Lion Knights","1984","Blacksmith Shop",2,92,,9.25,,,"http://www.1000steine.com/brickset/images/6040-1.jpg","No","No",0
+3010,"6041","1","Castle","Lion Knights","1986","Armor Shop",2,114,,,,,"http://www.1000steine.com/brickset/images/6041-1.jpg","No","No",0
+3011,"6042","1","Castle","Crusaders","1990","Dungeon Hunters",3,110,,12.75,,,"http://www.1000steine.com/brickset/images/6042-1.jpg","No","No",0
+3012,"6043","1","Castle","Dragon Knights","1993","Dragon Defender",2,157,,12,,,"http://www.1000steine.com/brickset/images/6043-1.jpg","No","No",0
+3013,"6044","1","Castle","Royal Knights","1995","King's Carriage",4,124,,16.5,,,"http://www.1000steine.com/brickset/images/6044-1.jpg","No","No",0
+3014,"6045","1","Castle","Ninja","1998","Ninja Surprise",3,112,,13,,,"http://www.1000steine.com/brickset/images/6045-1.jpg","No","No",0
+3015,"6046","1","Castle","Dark Forest","1996","Hemlock Stronghold",5,216,,24,,,"http://www.1000steine.com/brickset/images/6046-1.jpg","No","No",0
+3016,"6047","1","Castle","Fright Knights","1997","Traitor Transport",3,139,,,,,"http://www.1000steine.com/brickset/images/6047-1.jpg","No","No",0
+3017,"6048","1","Castle","Dragon Knights","1993","Majisto's Magical Workshop",2,185,,26,,,"http://www.1000steine.com/brickset/images/6048-1.jpg","No","No",0
+3018,"6049","1","Castle","Lion Knights","1987","Viking Voyager",5,99,,11,,,"http://www.1000steine.com/brickset/images/6049-1.jpg","No","No",0
+8267,"6051","1","Duplo","","2011","Play with Letters Set",1,62,24.99,29.99,29.99,29.99,"http://www.1000steine.com/brickset/images/6051-1.jpg","No","No",0
+8567,"6052","1","Duplo","","2011","My First LEGO DUPLO Vehicle Set",,90,40.99,,,44.99,"http://www.1000steine.com/brickset/images/6052-1.jpg","No","No",0
+8568,"6053","1","Bricks and More","","2011","My First LEGO Town",2,704,40.99,,,44.99,"http://www.1000steine.com/brickset/images/6053-1.jpg","No","No",0
+3020,"6054","1","Castle","Forestmen","1988","Forestmen's Hideout",2,201,,17.5,,,"http://www.1000steine.com/brickset/images/6054-1.jpg","No","No",0
+3021,"6055","1","Castle","Lion Knights","1985","Prisoner Convoy",4,115,,,,,"http://www.1000steine.com/brickset/images/6055-1.jpg","No","No",0
+3022,"6056","1","Castle","Dragon Knights","1993","Dragon Wagon",2,105,,20,,,"http://www.1000steine.com/brickset/images/6056-1.jpg","No","No",0
+3023,"6057","1","Castle","Black Knights","1992","Sea Serpent",5,126,,16.5,,,"http://www.1000steine.com/brickset/images/6057-1.jpg","No","No",0
+3024,"6059","1","Castle","Black Knights","1990","Knight's Stronghold",5,224,,22,,,"http://www.1000steine.com/brickset/images/6059-1.jpg","No","No",0
+3026,"6060","1","Castle","Lion Knights","1989","Knight's Challenge",8,168,,22,,,"http://www.1000steine.com/brickset/images/6060-1.jpg","No","No",0
+3027,"6061","1","Castle","Lion Knights","1984","Siege Tower",4,216,,17.5,,,"http://www.1000steine.com/brickset/images/6061-1.jpg","No","No",0
+3028,"6062","1","Castle","Black Falcons","1987","Battering Ram",6,236,,19.95,,,"http://www.1000steine.com/brickset/images/6062-1.jpg","No","No",0
+3029,"6066","1","Castle","Forestmen","1987","Camouflaged Outpost",6,225,,23,,,"http://www.1000steine.com/brickset/images/6066-1.jpg","No","No",0
+3030,"6067","1","Castle","Lion Knights","1986","Guarded Inn",4,248,,19.75,,,"http://www.1000steine.com/brickset/images/6067-1.jpg","No","No",0
+3032,"6071","1","Castle","Forestmen","1990","Forestmen's Crossing",5,207,,28.5,,,"http://www.1000steine.com/brickset/images/6071-1.jpg","No","No",0
+3033,"6073","1","Castle","Black Falcons","1984","Knight's Castle",6,410,,27,,,"http://www.1000steine.com/brickset/images/6073-1.jpg","No","No",0
+3034,"6074","1","Castle","Black Falcons","1986","Black Falcon's Fortress",6,430,,35,,,"http://www.1000steine.com/brickset/images/6074-1.jpg","No","No",0
+3035,"6075","1","Castle","Wolfpack","1992","Wolfpack Tower",4,236,,29.75,,,"http://www.1000steine.com/brickset/images/6075-1.jpg","No","No",0
+3036,"6075","2","Castle","Classic","1981","Castle",14,767,,48,,,"http://www.1000steine.com/brickset/images/6075-2.jpg","No","No",0
+3037,"6076","1","Castle","Dragon Knights","1993","Dark Dragon's Den",4,214,,43,,,"http://www.1000steine.com/brickset/images/6076-1.jpg","No","No",0
+3038,"6077","1","Castle","Classic","1981","Knight's Procession",6,48,,5,,,"http://www.1000steine.com/brickset/images/6077-1.jpg","No","No",0
+3039,"6077","2","Castle","Forestmen","1989","Forestmen's River Fortress",6,357,,37.5,,,"http://www.1000steine.com/brickset/images/6077-2.jpg","No","No",0
+3040,"6078","1","Castle","Royal Knights","1995","Royal Drawbridge",5,258,,30,,,"http://www.1000steine.com/brickset/images/6078-1.jpg","No","No",0
+3041,"6079","1","Castle","Dark Forest","1996","Dark Forest Fortress",7,464,,50,,,"http://www.1000steine.com/brickset/images/6079-1.jpg","No","No",0
+3043,"6080","1","Castle","Lion Knights","1984","King's Castle",12,674,,52.75,,,"http://www.1000steine.com/brickset/images/6080-1.jpg","No","No",0
+3044,"6081","1","Castle","Crusaders","1990","King's Mountain Fortress",8,435,,58,,,"http://www.1000steine.com/brickset/images/6081-1.jpg","No","No",0
+3045,"6082","1","Castle","Dragon Knights","1993","Fire Breathing Fortress",6,397,,64,,,"http://www.1000steine.com/brickset/images/6082-1.jpg","No","No",0
+3047,"6083","1","Castle","Classic","1981","Knight's Joust",6,211,,16,,,"http://www.1000steine.com/brickset/images/6083-1.jpg","No","No",0
+3046,"6083","2","Castle","Ninja","1998","Samurai Stronghold",3,198,,20,,,"http://www.1000steine.com/brickset/images/6083-2.jpg","No","No",0
+3048,"6085","1","Castle","Black Knights","1988","Black Monarch's Castle",12,702,,68,,,"http://www.1000steine.com/brickset/images/6085-1.jpg","No","No",0
+3049,"6086","1","Castle","Black Knights","1992","Black Knight's Castle",12,588,,85,,,"http://www.1000steine.com/brickset/images/6086-1.jpg","No","No",0
+3050,"6087","1","Castle","Fright Knights","1997","Witch's Magic Manor",6,250,,44,,,"http://www.1000steine.com/brickset/images/6087-1.jpg","No","No",0
+3051,"6088","1","Castle","Ninja","1998","Robber's Retreat",4,277,,30,,,"http://www.1000steine.com/brickset/images/6088-1.jpg","No","No",0
+3052,"6089","1","Castle","Ninja","1998","Stone Tower Bridge",5,409,,50,,,"http://www.1000steine.com/brickset/images/6089-1.jpg","No","No",0
+3053,"6090","1","Castle","Royal Knights","1995","Royal Knight's Castle",11,764,,95,,,"http://www.1000steine.com/brickset/images/6090-1.jpg","No","No",0
+3054,"6091","1","Castle","Knights' Kingdom I","2000","King Leo's Castle",8,529,,90,,,"http://www.1000steine.com/brickset/images/6091-1.jpg","No","No",0
+5347,"6092","1","Make and Create","","2006","Anniversary Bucket",,700,14.99,,,,"http://www.1000steine.com/brickset/images/6092-1.jpg","No","No",0
+5491,"6092","2","Make and Create","","2006","Special Edition Creative Building Tub",,700,14.99,15,,,"http://www.1000steine.com/brickset/images/6092-2.jpg","No","No",0
+3055,"6093","1","Castle","Ninja","1998","Flying Ninja Fortress",9,694,,90,,,"http://www.1000steine.com/brickset/images/6093-1.jpg","No","No",0
+3056,"6094","1","Castle","Knights' Kingdom I","2000","Guarded Treasure",2,103,,15,,,"http://www.1000steine.com/brickset/images/6094-1.jpg","No","No",0
+3057,"6095","1","Castle","Knights' Kingdom I","2000","Royal Joust",3,101,,20,,,"http://www.1000steine.com/brickset/images/6095-1.jpg","No","No",0
+3058,"6096","1","Castle","Knights' Kingdom I","2000","Bull's Attack",4,313,,50,,,"http://www.1000steine.com/brickset/images/6096-1.jpg","No","No",0
+3059,"6097","1","Castle","Fright Knights","1997","Night Lord's Castle",8,601,,80,,,"http://www.1000steine.com/brickset/images/6097-1.jpg","No","No",0
+3060,"6098","1","Castle","Knights' Kingdom I","2000","King Leo's Castle",8,529,,90,,,"http://www.1000steine.com/brickset/images/6098-1.jpg","No","No",0
+3061,"6099","1","Castle","Fright Knights","1997","Traitor Transport",3,140,,20,,,"http://www.1000steine.com/brickset/images/6099-1.jpg","No","No",0
+3064,"6100","1","Aquazone","Aquasharks","1998","Aquashark Dart",1,24,,,,,"http://www.1000steine.com/brickset/images/6100-1.jpg","No","No",0
+3065,"6102","1","Castle","Accessories","1985","Castle Mini Figures",6,36,,5.5,,,"http://www.1000steine.com/brickset/images/6102-1.jpg","No","No",0
+3066,"6103","1","Castle","Accessories","1988","Castle Mini Figures",6,42,,6.75,,,"http://www.1000steine.com/brickset/images/6103-1.jpg","No","No",0
+4997,"6103","2","Castle","Accessories","1984","Castle Figures",4,25,,,,,"http://www.1000steine.com/brickset/images/6103-2.jpg","No","No",0
+3067,"6104","1","Aquazone","Accessories","1996","Aquacessories",2,23,,6,,,"http://www.1000steine.com/brickset/images/6104-1.jpg","No","No",0
+3068,"6105","1","Castle","Accessories","1993","Medieval Knights",4,41,,6.75,,,"http://www.1000steine.com/brickset/images/6105-1.jpg","No","No",0
+3069,"6107","1","Aquazone","Stingrays","1998","Recon Ray",1,20,,3,,,"http://www.1000steine.com/brickset/images/6107-1.jpg","No","No",0
+3070,"6109","1","Aquazone","Stingrays","1998","Sea Creeper",1,79,,10,,,"http://www.1000steine.com/brickset/images/6109-1.jpg","No","No",0
+3071,"6110","1","Aquazone","Hydronauts","1998","Solo Sub",1,25,,4,,,"http://www.1000steine.com/brickset/images/6110-1.jpg","No","No",0
+5320,"6111","1","Racers","Tiny Turbos","2006","Street Race",,198,8.99,,,,"http://www.1000steine.com/brickset/images/6111-1.jpg","No","No",0
+5545,"6112","1","Make and Create","","2006","LEGO World of Bricks - 1,000 Elements",,1000,12.49,20,,,"http://www.1000steine.com/brickset/images/6112-1.jpg","No","No",0
+5809,"6112","2","Make and Create","","2007","LEGO World of Bricks",,1004,12.49,,,,"http://www.1000steine.com/brickset/images/6112-2.jpg","No","No",0
+5413,"6114","1","Make and Create","","2006","LEGO Creator 200 + 40 Special Elements",,242,8.99,13,,,"http://www.1000steine.com/brickset/images/6114-1.jpg","No","No",0
+5810,"6114","2","Make and Create","","2007","LEGO Creator 200 Plus 40 Special Elements",,242,8.99,,,,"http://www.1000steine.com/brickset/images/6114-2.jpg","No","No",0
+3072,"6115","1","Aquazone","Aquasharks","1995","Shark Scout",1,28,,3.5,,,"http://www.1000steine.com/brickset/images/6115-1.jpg","No","No",0
+6120,"6116","1","Make and Create","","2007","LEGO Box",,600,,,,,"http://www.1000steine.com/brickset/images/6116-1.jpg","No","No",0
+6459,"6117","1","Bricks and More","","2008","Doors and Windows",,100,10.49,12.99,17.99,10.99,"http://www.1000steine.com/brickset/images/6117-1.jpg","No","No",0
+6460,"6118","1","Bricks and More","","2008","Wheels and Tyres",,106,10.49,12.99,17.99,10.99,"http://www.1000steine.com/brickset/images/6118-1.jpg","No","No",0
+6461,"6119","1","Bricks and More","","2008","Roof Tiles",,150,10.49,,,10.99,"http://www.1000steine.com/brickset/images/6119-1.jpg","No","No",0
+3073,"6125","1","Aquazone","Aquanauts","1995","Sea Sprint 9",1,32,,4,,,"http://www.1000steine.com/brickset/images/6125-1.jpg","No","No",0
+6499,"6126","1","Bionicle","","2008","Good Guy 2008",,26,,,,,"http://www.1000steine.com/brickset/images/6126-1.jpg","No","No",0
+6500,"6127","1","Bionicle","","2008","Bad Guy 2008",,29,,,,,"http://www.1000steine.com/brickset/images/6127-1.jpg","No","No",0
+6511,"6128","1","Bionicle","","2008","Function 2008",,22,,,,,"http://www.1000steine.com/brickset/images/6128-1.jpg","No","No",0
+8822,"6130","1","Duplo","","2011","DUPLO Build and Play",1,100,40.99,,,39.99,"http://www.1000steine.com/brickset/images/6130-1.jpg","No","No",0
+8823,"6131","1","Bricks and More","","2011","LEGO Build and Play",1,645,40.99,,,39.99,"http://www.1000steine.com/brickset/images/6131-1.jpg","No","No",0
+9236,"6132","1","Duplo","Cars","2012","Red",,13,12.99,14.99,17.99,14.99,"http://www.1000steine.com/brickset/images/6132-1.jpg","No","No",0
+9237,"6133","1","Duplo","Cars","2012","Race Day",,26,19.99,24.99,29.99,24.99,"http://www.1000steine.com/brickset/images/6133-1.jpg","No","No",0
+9238,"6134","1","Duplo","Cars","2012","Siddeley Saves The Day",,34,29.99,34.99,39.99,34.99,"http://www.1000steine.com/brickset/images/6134-1.jpg","No","No",0
+3075,"6135","1","Aquazone","Aquasharks","1996","Spy Shark",1,60,,8.75,,,"http://www.1000steine.com/brickset/images/6135-1.jpg","No","No",0
+8480,"6136","1","Duplo","Zoo","2011","My First Zoo",1,60,19.99,24.99,24.99,24.99,"http://www.1000steine.com/brickset/images/6136-1.jpg","No","No",0
+8690,"6137","1","Duplo","","2011","My First Supermarket",2,38,14.99,19.99,19.99,14.99,"http://www.1000steine.com/brickset/images/6137-1.jpg","No","No",0
+8691,"6138","1","Duplo","","2011","My First Fire Station",2,60,19.99,29.99,29.99,29.99,"http://www.1000steine.com/brickset/images/6138-1.jpg","No","No",0
+3076,"6140","1","Aquazone","Stingrays","1998","Crab",1,78,,10,,,"http://www.1000steine.com/brickset/images/6140-1.jpg","No","No",0
+8996,"6141","1","Duplo","Farm","2012","My First Farm",1,62,19.99,24.99,24.99,,"http://www.1000steine.com/brickset/images/6141-1.jpg","No","No",0
+9268,"6143","1","Duplo","","2012","Racing Team",2,34,24.99,,,29.99,"http://www.1000steine.com/brickset/images/6143-1.jpg","No","No",0
+9269,"6144","1","Duplo","Zoo","2012","Zoo Train",1,12,,,,,"http://www.1000steine.com/brickset/images/6144-1.jpg","No","No",0
+3077,"6145","1","Aquazone","Aquanauts","1996","Crystal Crawler",1,96,,12,,,"http://www.1000steine.com/brickset/images/6145-1.jpg","No","No",0
+9270,"6146","1","Duplo","","2012","Tow Truck",,17,,,,,"http://www.1000steine.com/brickset/images/6146-1.jpg","No","No",0
+3078,"6150","1","Aquazone","Hydronauts","1998","Crystal Detector",1,104,,20,,,"http://www.1000steine.com/brickset/images/6150-1.jpg","No","No",0
+8997,"6151","1","Duplo","Disney Princess","2012","Sleeping Beauty's Room",1,16,9.99,12.99,14.99,12.99,"http://www.1000steine.com/brickset/images/6151-1.jpg","No","No",0
+

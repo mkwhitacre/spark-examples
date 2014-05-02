@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+10035,"5001160","1","Gear","Key Chains/Star Wars","2012","Stormtrooper Light Key Chain",,,9.99,11.99,14.99,,"http://www.1000steine.com/brickset/images/5001160-1.jpg","No","No",0
+9813,"5001164","1","Gear","Storage","2012","Girls 3-Drawer Storage Bin",,,,39.99,49.99,,"http://www.1000steine.com/brickset/images/5001164-1.jpg","No","No",0
+9807,"5001252","1","Gear","Books/Miscellaneous","2012","2013 Calendar",,,,12.99,,,"http://www.1000steine.com/brickset/images/5001252-1.jpg","No","No",0
+9814,"5001261","1","Gear","Storage","2012","Sorting Trays",,,,6.99,9.99,,"http://www.1000steine.com/brickset/images/5001261-1.jpg","No","No",0
+23472,"5001266","1","Gear","Storage","2014","8 stud Blue Storage Brick",,,29.99,,,,"http://www.1000steine.com/brickset/images/5001266-1.jpg","No","No",0
+23475,"5001267","1","Gear","Storage","2014","8 stud Yellow Storage Brick",,,29.99,,,,"http://www.1000steine.com/brickset/images/5001267-1.jpg","No","No",0
+10033,"5001283","1","Gear","Storage","2012","Mini Box Red",,,1.99,,,,"http://www.1000steine.com/brickset/images/5001283-1.jpg","No","No",0
+10044,"5001284","1","Gear","Storage","2012","Mini Box Yellow",,,3.49,,,,"http://www.1000steine.com/brickset/images/5001284-1.jpg","No","No",0
+10099,"5001310","1","Gear","Key Chains/Star Wars","2012","Yoda Light Key Chain",,,9.99,11.99,14.99,,"http://www.1000steine.com/brickset/images/5001310-1.jpg","No","No",0
+10100,"5001311","1","Gear","Key Chains/Star Wars","2012","Darth Maul Light Key Chain",,,9.99,11.99,14.99,,"http://www.1000steine.com/brickset/images/5001311-1.jpg","No","No",0
+10098,"5001313","1","Gear","Lights","2012","Darth Vader Flashlight",,,,29.99,39.99,,"http://www.1000steine.com/brickset/images/5001313-1.jpg","No","No",0
+10097,"5001314","1","Gear","Lights","2012","Imperial Stormtrooper Flashlight",,,,29.99,39.99,,"http://www.1000steine.com/brickset/images/5001314-1.jpg","No","No",0
+10233,"5001319","1","Gear","Books/Ideas book","2011","The LEGO Ideas Book",,,,,,,"http://www.1000steine.com/brickset/images/5001319-1.jpg","No","No",0
+10175,"5001323","1","Gear","Housewares","2012","LEGO Lunch Box",,,7.99,,,,"http://www.1000steine.com/brickset/images/5001323-1.jpg","No","No",0
+9936,"5001351","1","Gear","Watches/Clocks","2012","Darth Maul Minifigure Clock",,,,29.99,39.99,,"http://www.1000steine.com/brickset/images/5001351-1.jpg","No","No",0
+10138,"5001352","1","Gear","Watches/Clocks","2012","Monster Fighters Mummy Minifigure Clock",,,,29.99,39.99,,"http://www.1000steine.com/brickset/images/5001352-1.jpg","No","No",0
+10045,"5001353","1","Gear","Watches/Clocks","2012","Monster Fighters Lord Vampyre Minifigure Clock",,,,29.99,39.99,,"http://www.1000steine.com/brickset/images/5001353-1.jpg","No","No",0
+10047,"5001354","1","Gear","Watches/Clocks","2012","Monster Fighters Mummy Watch",,,,24.99,34.99,,"http://www.1000steine.com/brickset/images/5001354-1.jpg","No","No",0
+10151,"5001355","1","Gear","Watches/Clocks","2012","Ninjago Kai ZX Minifigure Clock",,,,29.99,29.99,,"http://www.1000steine.com/brickset/images/5001355-1.jpg","No","No",0
+9937,"5001356","1","Gear","Watches/Clocks","2012","Ninjago Kai ZX Kids' Watch",,,19.99,24.99,34.99,,"http://www.1000steine.com/brickset/images/5001356-1.jpg","No","No",0
+9938,"5001357","1","Gear","Watches/Clocks","2012","Ninjago Kendo Cole Kids' Watch",,,19.99,24.99,24.99,,"http://www.1000steine.com/brickset/images/5001357-1.jpg","No","No",0
+9962,"5001358","1","Gear","Watches/Clocks","2012","Ninjago Lasha Kids' Watch",,,19.99,24.99,24.99,,"http://www.1000steine.com/brickset/images/5001358-1.jpg","No","No",0
+9961,"5001366","1","Gear","Watches/Clocks","2012","Ninjago Lloyd ZX Minifigure Alarm Clock",,,,29.99,29.99,,"http://www.1000steine.com/brickset/images/5001366-1.jpg","No","No",0
+10150,"5001368","1","Gear","Watches/Clocks","2012","Friends Olivia Kids' Watch",,,19.99,24.99,24.99,,"http://www.1000steine.com/brickset/images/5001368-1.jpg","No","No",0
+10152,"5001369","1","Gear","Watches/Clocks","2012","Friends Stephanie Kids'  Watch",,,19.99,24.99,24.99,,"http://www.1000steine.com/brickset/images/5001369-1.jpg","No","No",0
+10048,"5001370","1","Gear","Watches/Clocks","2012","Time-Teacher Minifigure Watch & Clock",,,24.99,29.99,29.99,,"http://www.1000steine.com/brickset/images/5001370-1.jpg","No","No",0
+10046,"5001371","1","Gear","Watches/Clocks","2012","Time-Teacher Girl Minifigure Watch & Clock",,,24.99,29.99,29.99,,"http://www.1000steine.com/brickset/images/5001371-1.jpg","No","No",0
+9881,"5001373","1","Gear","Books/BrickJournal","2012","BrickJournal #20",,,5.99,,,,"http://www.1000steine.com/brickset/images/5001373-1.jpg","No","No",0
+10148,"5001374","1","Gear","Books/BrickJournal","2012","BrickJournal #21",,,5.99,,,,"http://www.1000steine.com/brickset/images/5001374-1.jpg","No","No",0
+10049,"5001375","1","Gear","Watches/Clocks","2012","Monster Fighters Lord Vampyre Watch",,,,24.99,34.99,,"http://www.1000steine.com/brickset/images/5001375-1.jpg","No","No",0
+9939,"5001376","1","Gear","Housewares","2012","Lunch Box",,,,15.99,17.99,,"http://www.1000steine.com/brickset/images/5001376-1.jpg","No","No",0
+9940,"5001377","1","Gear","Housewares","2012","Lunch Box",,,,15.99,17.99,,"http://www.1000steine.com/brickset/images/5001377-1.jpg","No","No",0
+9941,"5001378","1","Gear","Housewares","2012","Lunch Box",,,,15.99,17.99,,"http://www.1000steine.com/brickset/images/5001378-1.jpg","No","No",0
+9942,"5001379","1","Gear","Storage","2012","Mini box blue",,,,5.99,7.99,,"http://www.1000steine.com/brickset/images/5001379-1.jpg","No","No",0
+9943,"5001380","1","Gear","Storage","2012","Mini box pink",,,,5.99,7.99,,"http://www.1000steine.com/brickset/images/5001380-1.jpg","No","No",0
+9944,"5001382","1","Gear","Storage","2012","Mini box red",,,,5.99,7.99,,"http://www.1000steine.com/brickset/images/5001382-1.jpg","No","No",0
+9945,"5001383","1","Gear","Storage","2012","4-stud Blue Storage Brick",,,,31.99,36.99,,"http://www.1000steine.com/brickset/images/5001383-1.jpg","No","No",0
+9946,"5001384","1","Gear","Storage","2012","4-stud Green Storage Brick",,,,31.99,36.99,,"http://www.1000steine.com/brickset/images/5001384-1.jpg","No","No",0
+9947,"5001385","1","Gear","Storage","2012"," 4-stud Red Storage Brick",,,,31.99,36.99,,"http://www.1000steine.com/brickset/images/5001385-1.jpg","No","No",0
+9948,"5001386","1","Gear","Storage","2012","8-stud Blue Storage Brick",,,,41.99,47.99,,"http://www.1000steine.com/brickset/images/5001386-1.jpg","No","No",0
+9949,"5001387","1","Gear","Storage","2012","8-stud Green Storage Brick",,,,41.99,47.99,,"http://www.1000steine.com/brickset/images/5001387-1.jpg","No","No",0
+9950,"5001388","1","Gear","Storage","2012","8-stud Red Storage Brick",,,,41.99,47.99,,"http://www.1000steine.com/brickset/images/5001388-1.jpg","No","No",0
+23124,"5001512","1","Gear","Lights","2013","Darth Vader Desk Lamp",,,34.99,,,,"http://www.1000steine.com/brickset/images/5001512-1.jpg","No","No",0
+10197,"5001632","1","Gear","Video Games/Wii","2012","The Lord of the Rings Video Game ",,,29.99,39.99,39.99,,"http://www.1000steine.com/brickset/images/5001632-1.jpg","No","No",0
+10165,"5001633","1","Gear","Video Games/PS3","2012","The Lord of the Rings Video Game",,,39.99,49.99,49.99,,"http://www.1000steine.com/brickset/images/5001633-1.jpg","No","No",0
+10136,"5001634","1","Gear","Video Games/PS Vita","2012","The Lord of the Rings Video Game",,,34.99,39.99,39.99,,"http://www.1000steine.com/brickset/images/5001634-1.jpg","No","No",0
+10166,"5001635","1","Gear","Video Games/Xbox 360","2012","The Lord of the Rings Video Game",,,39.99,49.99,49.99,,"http://www.1000steine.com/brickset/images/5001635-1.jpg","No","No",0
+10135,"5001636","1","Gear","Video Games/DS","2012","The Lord of the Rings Video Game",,,29.99,29.99,29.99,,"http://www.1000steine.com/brickset/images/5001636-1.jpg","No","No",0
+10173,"5001641","1","Gear","Video Games/PC","2012","The Lord of the Rings Video Game ",,,24.99,29.99,29.99,,"http://www.1000steine.com/brickset/images/5001641-1.jpg","No","No",0
+10137,"5001643","1","Gear","Video Games/3DS","2012","The Lord of the Rings Video Game",,,34.99,39.99,39.99,,"http://www.1000steine.com/brickset/images/5001643-1.jpg","No","No",0
+10232,"5001909","1","Gear","CD/DVDs","2012","Ninjago: Masters of Spinjitzu: Rise of the Green Ninja",,,,14.99,16.99,,"http://www.1000steine.com/brickset/images/5001909-1.jpg","No","No",0
+22777,"5002032","1","Gear","Stationery","2013","Star Wars 2014 Pocket Calendar",,,,,,,"http://www.1000steine.com/brickset/images/5002032-1.jpg","No","No",0
+22774,"5002033","1","Gear","Watches/Clocks","2013","Legends of Chima Lennox Kids' Watch",,,19.99,,,,"http://www.1000steine.com/brickset/images/5002033-1.jpg","No","No",0
+22587,"5002038","1","Gear","Books/BrickJournal","2013","BrickJournal #22",,,5.99,,,,"http://www.1000steine.com/brickset/images/5002038-1.jpg","No","No",0
+22835,"5002039","1","Gear","Books/BrickJournal","2013","BrickJournal #23",,,5.99,,,,"http://www.1000steine.com/brickset/images/5002039-1.jpg","No","No",0
+22878,"5002040","1","Gear","Books/BrickJournal","2013","BrickJournal #24",,,5.99,,,,"http://www.1000steine.com/brickset/images/5002040-1.jpg","No","No",0
+22661,"5002194","1","Gear","Video Games/Wii U","2013","LEGO City: Undercover",,,44.99,49.99,54.99,,"http://www.1000steine.com/brickset/images/5002194-1.jpg","No","No",0
+22610,"5002195","1","Gear","CD/DVDs","2013","LEGO Ninjago: Masters of Spinjitzu Season Two",,,,19.99,24.99,,"http://www.1000steine.com/brickset/images/5002195-1.jpg","No","No",0
+22414,"5002198","1","Gear","CD/DVDs","2013","Star Wars: The Empire Strikes Out",1,,,14.99,16.99,,"http://www.1000steine.com/brickset/images/5002198-1.jpg","No","No",0
+23038,"5002201","1","Gear","Lights","2013","Friends Brick Light (Pink)",,,12.99,,,,"http://www.1000steine.com/brickset/images/5002201-1.jpg","No","No",0
+22780,"5002202","1","Gear","CD/DVDs","2013","LEGO Batman - The Movie: DC Super Heroes Unite DVD",1,,,19.99,24.99,,"http://www.1000steine.com/brickset/images/5002202-1.jpg","No","No",0
+22846,"5002207","1","Gear","Watches/Clocks","2013","Classic Minifigure Link Watch",,,19.99,24.99,24.99,,"http://www.1000steine.com/brickset/images/5002207-1.jpg","No","No",0
+22815,"5002208","1","Gear","Watches/Clocks","2013","Legends of Chima Crawley Kids Minifigure Watch",,,,24.99,24.99,,"http://www.1000steine.com/brickset/images/5002208-1.jpg","No","No",0
+22816,"5002209","1","Gear","Watches/Clocks","2013","Legends of Chima Lennox Kids Minifigure Watch",,,,24.99,24.99,,"http://www.1000steine.com/brickset/images/5002209-1.jpg","No","No",0
+22766,"5002210","1","Gear","Watches/Clocks","2013","C-3PO and R2-D2 Minifigure Watch",,,19.99,24.99,34.99,,"http://www.1000steine.com/brickset/images/5002210-1.jpg","No","No",0
+22765,"5002211","1","Gear","Watches/Clocks","2013","Obi-Wan Kenobi vs. Darth Vader Minifigure Watch",,,19.99,24.99,34.99,,"http://www.1000steine.com/brickset/images/5002211-1.jpg","No","No",0
+22763,"5002212","1","Gear","Watches/Clocks","2013","Chewbacca Minifigure Watch",,,19.99,24.99,24.99,,"http://www.1000steine.com/brickset/images/5002212-1.jpg","No","No",0
+22761,"5002417","1","Gear","Watches/Clocks","2013","Legends of Chima Cragger Minifigure Clock",,,,29.99,29.99,,"http://www.1000steine.com/brickset/images/5002417-1.jpg","No","No",0
+22752,"5002420","1","Gear","Video Games/3DS","2013","LEGO City Undercover: The Chase Begins",,,34.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/5002420-1.jpg","No","No",0
+22762,"5002421","1","Gear","Watches/Clocks","2013","Legends of Chima Laval Minifigure Clock",,,,29.99,29.99,,"http://www.1000steine.com/brickset/images/5002421-1.jpg","No","No",0
+22851,"5002422","1","Gear","Watches/Clocks","2013","The Joker Minifigure Clock",,,24.99,29.99,29.99,,"http://www.1000steine.com/brickset/images/5002422-1.jpg","No","No",0
+22883,"5002423","1","Gear","Watches/Clocks","2013","Batman Minifigure Clock",,,,29.99,29.99,,"http://www.1000steine.com/brickset/images/5002423-1.jpg","No","No",0
+22848,"5002424","1","Gear","Watches/Clocks","2013","Superman Minifigure Clock",,,24.99,29.99,29.99,,"http://www.1000steine.com/brickset/images/5002424-1.jpg","No","No",0
+23037,"5002467","1","Gear","Lights","2013","Friends 2x4 Key Light",,,7.99,,,,"http://www.1000steine.com/brickset/images/5002467-1.jpg","No","No",0
+23106,"5002468","1","Gear","Key Chains/Seasonal","2013","Santa Key Light",,,9.99,,,,"http://www.1000steine.com/brickset/images/5002468-1.jpg","No","No",0
+23041,"5002470","1","Gear","Lights","2013","Brick Key Light (Green)",,,12.99,,,,"http://www.1000steine.com/brickset/images/5002470-1.jpg","No","No",0
+23042,"5002471","1","Gear","Lights","2013","2x4 Brick Key Light (Red)",,,7.99,,,,"http://www.1000steine.com/brickset/images/5002471-1.jpg","No","No",0
+22757,"5002506","1","Gear","Books/Dorling Kindersley","2013","Minifigures Character Encyclopedia",1,,14.99,18.99,,,"http://www.1000steine.com/brickset/images/5002506-1.jpg","No","No",0
+22833,"5002517","1","Gear","Posters","2013"," Tower of Orthanc Poster ",,,,,,,"http://www.1000steine.com/brickset/images/5002517-1.jpg","No","No",0
+22881,"5002518","1","Gear","Phone cases","2013","Belkin Brand iPhone 5 Case Blue/Purple",,,24.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/5002518-1.jpg","No","No",0
+22880,"5002520","1","Gear","Phone cases","2013","Belkin Brand iPhone 5 Case Black/Blue",,,24.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/5002520-1.jpg","No","No",0
+22840,"5002664","1","Gear","Video Games/3DS","2013","Legends of Chima Laval's Journey Nintendo 3DS Video Game",,,34.99,19.99,24.99,,"http://www.1000steine.com/brickset/images/5002664-1.jpg","No","No",0
+23033,"5002665","1","Gear","Video Games/DS","2013","Legends of Chima: Laval's Journey ",,,,19.99,24.99,,"http://www.1000steine.com/brickset/images/5002665-1.jpg","No","No",0
+22841,"5002666","1","Gear","Video Games/PS Vita","2013","Legends of Chima Laval's Journey PS Vita Video Game",,,34.99,19.99,24.99,,"http://www.1000steine.com/brickset/images/5002666-1.jpg","No","No",0
+22918,"5002670","1","Gear","Books/Calendars","2013","The LEGO Calendar 2014",,,,12.99,14.99,,"http://www.1000steine.com/brickset/images/5002670-1.jpg","No","No",0
+22872,"5002671","1","Gear","Storage","2013","Friends ZipBin Toy Box: Heartlake Place",,,,19.99,24.99,,"http://www.1000steine.com/brickset/images/5002671-1.jpg","No","No",0
+22873,"5002672","1","Gear","Storage","2013","Friends ZipBin Wristlet",,,,14.99,19.99,,"http://www.1000steine.com/brickset/images/5002672-1.jpg","No","No",0
+22847,"5002673","1","Gear","CD/DVDs","2013","Legends of Chima: The Power of the CHI DVD",,,,14.99,19.99,,"http://www.1000steine.com/brickset/images/5002673-1.jpg","No","No",0
+22916,"5002674","1","Gear","Books","2013","Moleskine 2014 Weekly Pocket Planner",,,,18.99,24.99,,"http://www.1000steine.com/brickset/images/5002674-1.jpg","No","No",0
+22913,"5002675","1","Gear","Books","2013","Moleskine 2014 Daily Pocket Planner",,,,21.99,27.99,,"http://www.1000steine.com/brickset/images/5002675-1.jpg","No","No",0
+22914,"5002676","1","Gear","Books","2013","Moleskine 2014 Large Weekly Planner",,,,24.99,31.99,,"http://www.1000steine.com/brickset/images/5002676-1.jpg","No","No",0
+22915,"5002677","1","Gear","Books","2013","Moleskine 2014 Large Daily Planner",,,,25.99,34.99,,"http://www.1000steine.com/brickset/images/5002677-1.jpg","No","No",0
+22814,"5002678","1","Gear","Phone cases","2013","LEGO Belkin Brand iPhone 5 Builder Case Yellow/Red",,,24.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/5002678-1.jpg","No","No",0
+22882,"5002679","1","Gear","Bags","2013","Legends of Chima Classic Backpack",,,,31.99,41.99,,"http://www.1000steine.com/brickset/images/5002679-1.jpg","No","No",0
+9874,"5002772","1","Gear","Books/Dorling Kindersley/Brickmaster","2012","Brickmaster Ninjago 2 Fight the Power of the Snakes",,,18.99,,,,"http://www.1000steine.com/brickset/images/5002772-1.jpg","No","No",0
+22756,"5002773","1","Gear","Books/Dorling Kindersley/Brickmaster","2013","Brickmaster Legends of Chima: The Quest for Chi",,,19.99,,,,"http://www.1000steine.com/brickset/images/5002773-1.jpg","No","No",0
+22917,"5002774","1","Gear","Video Games/Wii U","2013","Batman: DC Universe Super Heroes Wii U Video Game",,,39.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/5002774-1.jpg","No","No",0
+23149,"5002777","1","Gear","Books/BrickJournal","2013","BrickJournal #25",,,5.99,,,,"http://www.1000steine.com/brickset/images/5002777-1.jpg","No","No",0
+23040,"5002779","1","Gear","Phone cases","2013","iPod touch Case Yellow and Blue",,,19.99,19.99,29.99,,"http://www.1000steine.com/brickset/images/5002779-1.jpg","No","No",0
+22995,"5002780","1","Gear","Books/Dorling Kindersley","2013","The LEGO Play Book",,,,24.99,34.99,,"http://www.1000steine.com/brickset/images/5002780-1.jpg","No","No",0
+23269,"5002790","1","Gear","Video Games/3DS","2013","Marvel 3DS",,,34.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/5002790-1.jpg","No","No",0
+23270,"5002792","1","Gear","Video Games/PC","2013","Marvel PC",,,24.99,19.99,29.99,,"http://www.1000steine.com/brickset/images/5002792-1.jpg","No","No",0
+23273,"5002793","1","Gear","Video Games/PS Vita","2013","Marvel PS VITA",,,34.99,29.99,39.99,,"http://www.1000steine.com/brickset/images/5002793-1.jpg","No","No",0
+23271,"5002794","1","Gear","Video Games/PS3","2013","Marvel PS3",,,39.99,49.99,59.99,,"http://www.1000steine.com/brickset/images/5002794-1.jpg","No","No",0
+23272,"5002796","1","Gear","Video Games/Wii U","2013","Marvel WII U",,,39.99,49.99,59.99,,"http://www.1000steine.com/brickset/images/5002796-1.jpg","No","No",0
+23618,"5002797","1","Gear","Video Games/Xbox 360","2014","Marvel Xbox 360",,,39.99,49.99,59.99,,"http://www.1000steine.com/brickset/images/5002797-1.jpg","No","No",0
+23050,"5002801","1","Gear","Lights","2013","Friends Brick Light (Purple)",,,12.99,,,,"http://www.1000steine.com/brickset/images/5002801-1.jpg","No","No",0
+23053,"5002803","1","Gear","Lights","2013","Brick Light (Yellow)",,,12.99,,,,"http://www.1000steine.com/brickset/images/5002803-1.jpg","No","No",0
+23052,"5002804","1","Gear","Lights","2013","2x4 Brick Key Light (Green)",,,7.99,,,,"http://www.1000steine.com/brickset/images/5002804-1.jpg","No","No",0
+23051,"5002805","1","Gear","Lights","2013","2x4 Brick Key Light (Blue)",,,7.99,,,,"http://www.1000steine.com/brickset/images/5002805-1.jpg","No","No",0
+23047,"5002814","1","Gear","Books/Dorling Kindersley","2013","Friends: Ultimate Sticker Collection",,,,12.99,14.99,,"http://www.1000steine.com/brickset/images/5002814-1.jpg","No","No",0
+10128,"5002816","1","Gear","Books/Dorling Kindersley","2012","LEGO Ninjago Character Encyclopedia",,,14.99,,,,"http://www.1000steine.com/brickset/images/DKNINJACE-1.jpg","No","No",0
+22910,"5002817","1","Gear","Books/Dorling Kindersley","2013","The Yoda Chronicles",1,,,,,,"http://www.1000steine.com/brickset/images/5002817-1.jpg","No","No",0
+23048,"5002818","1","Gear","Books/Dorling Kindersley","2013","Amazing Minifigures: Ultimate Sticker Collection",,,,12.99,14.99,,"http://www.1000steine.com/brickset/images/5002818-1.jpg","No","No",0
+23046,"5002819","1","Gear","Books/Dorling Kindersley","2013","DC Universe Super Heroes: Batman Ultimate Sticker Collection",,,,12.99,14.99,,"http://www.1000steine.com/brickset/images/5002819-1.jpg","No","No",0
+23045,"5002820","1","Gear","Books/Dorling Kindersley","2013","Legends of Chima: Ultimate Sticker Collection",,,,12.99,14.99,,"http://www.1000steine.com/brickset/images/5002820-1.jpg","No","No",0
+23190,"5002822","1","Gear","Magnets/Star Wars","2013","Darth Maul and Yoda magnets",,,,13.99,16.99,,"http://www.1000steine.com/brickset/images/5002822-1.jpg","No","No",0
+23222,"5002823","1","Gear","Magnets/Star Wars","2013","Darth Vader and Obi Wan Kenobi magnet set",,,,13.99,16.99,,"http://www.1000steine.com/brickset/images/5002823-1.jpg","No","No",0
+23189,"5002824","1","Gear","Magnets/Star Wars","2013","Han Solo, Chewbacca and Stormtrooper magnets",,,,20.99,25.49,,"http://www.1000steine.com/brickset/images/5002824-1.jpg","No","No",0
+23188,"5002825","1","Gear","Magnets/Star Wars","2013","Luke Skywalker, Princess Leia and Boba Fett magnets",,,,20.99,25.49,,"http://www.1000steine.com/brickset/images/5002825-1.jpg","No","No",0
+23191,"5002826","1","Gear","Magnets/Super Heroes","2013","Batman and Superman magnets",,,,13.99,16.99,,"http://www.1000steine.com/brickset/images/5002826-1.jpg","No","No",0
+23111,"5002827","1","Gear","Magnets/Super Heroes","2013","Magnet Set: Spiderman and Iron Man",,,,13.99,16.99,,"http://www.1000steine.com/brickset/images/5002827-1.jpg","No","No",0
+23107,"5002828","1","Gear","Magnets/Lord Of The Rings","2013","Magnet Set: Frodo and Bilbo Baggins",,,,13.99,16.99,,"http://www.1000steine.com/brickset/images/5002828-1.jpg","No","No",0
+7293,"5002887","1","Gear","Books/Dorling Kindersley","2009","The LEGO Book",,,25,,,,"http://www.1000steine.com/brickset/images/DKLEGOBOOK-1.jpg","No","No",0
+23104,"5002888","1","Gear","Books/Dorling Kindersley","2013","LEGO Minifigure Year By Year",3,,,,,,"http://www.1000steine.com/brickset/images/B13DK03-1.jpg","No","No",0
+9853,"5002889","1","Gear","Books/Dorling Kindersley","2012","Batman: The Visual Dictionary",1,,16.99,,,,"http://www.1000steine.com/brickset/images/DKBATMANVD-1.jpg","No","No",0
+10096,"5002890","1","Gear","Books/Dorling Kindersley/Brickmaster","2012","Brickmaster Friends: Treasure Hunt in Heartlake City",,,,,,,"http://www.1000steine.com/brickset/images/DKFRIENDS-1.jpg","No","No",0
+23031,"5002891","1","Gear","Stickers","2013","LEGO Movie Poster Sticker ",,,,,,,"http://www.1000steine.com/brickset/images/5002891-1.jpg","No","No",0
+23561,"5002893","1","Gear","Books/BrickJournal","2014","BrickJournal issue 27",,,5.99,,,,"http://www.1000steine.com/brickset/images/5002893-1.jpg","No","No",0
+23039,"5002900","1","Gear","Phone cases","2013","iPod touch Case Red and Blue",,,19.99,,,,"http://www.1000steine.com/brickset/images/5002900-1.jpg","No","No",0
+23043,"5002901","1","Gear","Phone cases","2013","iPod touch Case Green and Blue",,,19.99,,,,"http://www.1000steine.com/brickset/images/5002901-1.jpg","No","No",0
+23534,"5002913","1","Gear","Lights","2014","Superman Key Light",,,9.99,11.99,14.99,,"http://www.1000steine.com/brickset/images/5002913-1.jpg","No","No",0
+23532,"5002914","1","Gear","Lights","2014","THE LEGO MOVIE Emmet Key Light",,,7.99,11.99,14.99,,"http://www.1000steine.com/brickset/images/5002914-1.jpg","No","No",0
+23586,"5002916","1","Gear","Lights","2014","The LEGO Movie Unikitty Key Light",,,7.99,13.99,16.99,,"http://www.1000steine.com/brickset/images/5002916-1.jpg","No","No",0
+23476,"5003022","1","Gear","Watches/Clocks","2014","Bad Cop Alarm Clock",,,24.99,29.99,29.99,,"http://www.1000steine.com/brickset/images/5003022-1.jpg","No","No",0
+23479,"5003023","1","Gear","Clocks/Watches","2014","Bad Cop Link Watch",,,19.99,24.99,24.99,,"http://www.1000steine.com/brickset/images/5003023-1.jpg","No","No",0
+23477,"5003024","1","Gear","Watches/Clocks","2014","Lucy Wyldstyle Link Watch",,,19.99,24.99,24.99,,"http://www.1000steine.com/brickset/images/5003024-1.jpg","No","No",0
+23480,"5003025","1","Gear","Clocks/Watches","2014","Emmet Link Watch",,,19.99,24.99,24.99,,"http://www.1000steine.com/brickset/images/5003025-1.jpg","No","No",0
+23478,"5003026","1","Gear","Clocks/Watches","2014","Lucy Wyldstyle Alarm Clock",,,24.99,29.99,29.99,,"http://www.1000steine.com/brickset/images/5003026-1.jpg","No","No",0
+23481,"5003027","1","Gear","Clocks/Watches","2014","Emmet Alarm Clock",,,24.99,29.99,29.99,,"http://www.1000steine.com/brickset/images/5003027-1.jpg","No","No",0
+23224,"5003079","1","Gear","Video Games/3DS","2013","LEGO Friends ",,,29.99,19.99,29.99,,"http://www.1000steine.com/brickset/images/5003079-1.jpg","No","No",0
+23549,"5003257","1","Gear","Watches/Clocks","2014","Gorzan Kids Minifigure Link Watch",,,,24.99,24.99,,"http://www.1000steine.com/brickset/images/5003257-1.jpg","No","No",0
+23541,"5003258","1","Gear","Watches/Clocks","2014","Worriz Kids Minifigure Link Watch",,,,24.99,24.99,,"http://www.1000steine.com/brickset/images/5003258-1.jpg","No","No",0
+23486,"5003544","1","Gear","Video Games/3DS","2014","The LEGO Movie Video Game",,,,29.99,39.99,,"http://www.1000steine.com/brickset/images/5003544-1.jpg","No","No",0
+23482,"5003545","1","Gear","Video Games/PS4","2014","The LEGO Movie Video Game",,,,59.99,69.99,,"http://www.1000steine.com/brickset/images/5003545-1.jpg","No","No",0
+23483,"5003547","1","Gear","Video Games/Wii U","2014","The LEGO Movie Video Game",,,,49.99,59.99,,"http://www.1000steine.com/brickset/images/5003547-1.jpg","No","No",0
+23484,"5003555","1","Gear","Video Games/PS Vita","2014","The LEGO Movie Video Game",,,,29.99,39.99,,"http://www.1000steine.com/brickset/images/5003555-1.jpg","No","No",0
+23487,"5003556","1","Gear","Video Games/Xbox 360","2014","The LEGO Movie Video Game",,,,49.99,59.99,,"http://www.1000steine.com/brickset/images/5003556-1.jpg","No","No",0
+23485,"5003557","1","Gear","Video Games/PS3","2014","The LEGO Movie Video Game",,,,49.99,59.99,,"http://www.1000steine.com/brickset/images/5003557-1.jpg","No","No",0
+23493,"5003559","1","Gear","Video Games/Xbox One","2014","THE LEGO MOVIE Xbox One Video Game",,,,59.99,69.99,,"http://www.1000steine.com/brickset/images/5003559-1.jpg","No","No",0
+23536,"5003561","1","Gear","Housewares","2014","Legends of Chima Lunch Set",,,,14.99,16.99,,"http://www.1000steine.com/brickset/images/5003561-1.jpg","No","No",0
+23542,"5003562","1","Gear","Storage","2014","Legends of Chima Sorting System",,,,39.99,48.99,,"http://www.1000steine.com/brickset/images/5003562-1.jpg","No","No",0
+23537,"5003563","1","Gear","Housewares","2014","Friends Lunch Set",,,,14.99,16.99,,"http://www.1000steine.com/brickset/images/5003563-1.jpg","No","No",0
+23543,"5003564","1","Gear","Storage","2013","Friends Sorting System",,,,39.99,48.99,,"http://www.1000steine.com/brickset/images/5003564-1.jpg","No","No",0
+23462,"5003565","1","Gear","Storage","2014","1 stud Blue Storage Brick",,,9.99,,,,"http://www.1000steine.com/brickset/images/5003565-1.jpg","No","No",0
+23461,"5003566","1","Gear","Storage","2014","1 stud Red Storage Brick",,,9.99,,,,"http://www.1000steine.com/brickset/images/5003566-1.jpg","No","No",0
+23533,"5003568","1","Gear","Storage","2014","2 stud Blue Storage Brick",,,11.99,,,,"http://www.1000steine.com/brickset/images/5003568-1.jpg","No","No",0
+23535,"5003569","1","Gear","Storage","2014","2 stud Red Storage Brick",,,11.99,,,,"http://www.1000steine.com/brickset/images/5003569-1.jpg","No","No",0
+23469,"5003570","1","Gear","Storage","2014","2 stud Yellow Storage Brick",,,11.99,,,,"http://www.1000steine.com/brickset/images/5003570-1.jpg","No","No",0
+23470,"5003574","1","Gear","Storage","2014","4 stud Blue Storage Brick",,,17.99,,,,"http://www.1000steine.com/brickset/images/5003574-1.jpg","No","No",0
+23471,"5003575","1","Gear","Storage","2014","4 stud Red Storage Brick",,,17.99,,,,"http://www.1000steine.com/brickset/images/5003575-1.jpg","No","No",0
+23473,"5003576","1","Gear","Storage","2014","4 stud Yellow Storage Brick",,,17.99,,,,"http://www.1000steine.com/brickset/images/5003576-1.jpg","No","No",0
+23522,"5003578","1","Gear","CD/DVDs","2014","Legends of Chima The Lion the Crocodile and the Power of CHI!",,,,19.99,24.99,,"http://www.1000steine.com/brickset/images/5003578-1.jpg","No","No",0
+23639,"5003579","1","Gear","Lights","2014","Batman Head Lamp",,,,17.99,21.99,,"http://www.1000steine.com/brickset/images/5003579-1.jpg","No","No",0
+23544,"5003580","1","Gear","Lights","2014","Catwoman Key Light",,,,11.99,14.99,,"http://www.1000steine.com/brickset/images/5003580-1.jpg","No","No",0
+23644,"5003582","1","Gear","Lights","2014","Superman Head Lamp",,,,17.99,21.99,,"http://www.1000steine.com/brickset/images/5003582-1.jpg","No","No",0
+23640,"5003583","1","Gear","Lights","2014"," Darth Vader Head Lamp",,,,17.99,21.99,,"http://www.1000steine.com/brickset/images/5003583-1.jpg","No","No",0
+23545,"5003584","1","Gear","Lights","2014","Bad Cop Key Light",,,,11.99,14.99,,"http://www.1000steine.com/brickset/images/5003584-1.jpg","No","No",0
+23546,"5003586","1","Gear","Lights","2014","THE LEGO MOVIE President Business Key Light",,,,11.99,14.99,,"http://www.1000steine.com/brickset/images/5003586-1.jpg","No","No",0
+23591,"5004047","1","Gear","Video Games/3DS","2014","The LEGO Movie Nintendo 3DS Video Game",,,34.99,,,,"http://www.1000steine.com/brickset/images/5004047-1.jpg","No","No",0
+23587,"5004048","1","Gear","Video Games/PS4","2014","The LEGO Movie PS4 Video Game",,,49.99,,,,"http://www.1000steine.com/brickset/images/5004048-1.jpg","No","No",0
+23592,"5004049","1","Gear","Video Games/PC","2014","The LEGO Movie Video Game PC",,,24.99,,,,"http://www.1000steine.com/brickset/images/5004049-1.jpg","No","No",0
+23588,"5004050","1","Gear","Video Games/Wii U","2014","The LEGO Movie Nintendo Wii U Video Game",,,39.99,,,,"http://www.1000steine.com/brickset/images/5004050-1.jpg","No","No",0
+23593,"5004051","1","Gear","Video Games/PS Vita","2014","The LEGO Movie PS Vita Video Game",,,34.99,,,,"http://www.1000steine.com/brickset/images/5004051-1.jpg","No","No",0
+23589,"5004052","1","Gear","Video Games/Xbox One","2014","The LEGO Movie Xbox One Video Game",,,49.99,,,,"http://www.1000steine.com/brickset/images/5004052-1.jpg","No","No",0
+23594,"5004053","1","Gear","Video Games/PS3","2014","The LEGO Movie PS3 Video Game",,,39.99,,,,"http://www.1000steine.com/brickset/images/5004053-1.jpg","No","No",0
+23590,"5004054","1","Gear","Video Games/Xbox 360","2014","The LEGO Movie Xbox 360 Video Game",,,39.99,,,,"http://www.1000steine.com/brickset/images/5004054-1.jpg","No","No",0
+23645,"5004064","1","Gear","Watches/Clocks","2014","Batman Minifigure Link Watch",,,,24.99,24.99,,"http://www.1000steine.com/brickset/images/5004064-1.jpg","No","No",0
+23641,"5004065","1","Gear","Watches/Clocks","2014","Superman Minifigure Link Watch",,,,24.99,24.99,,"http://www.1000steine.com/brickset/images/5004065-1.jpg","No","No",0
+23646,"5004066","1","Gear","CD/DVDs","2014","The LEGO Movie The Original Motion Picture Soundtrack",,,,11.99,11.99,,"http://www.1000steine.com/brickset/images/5004066-1.jpg","No","No",0
+23642,"5004067","1","Gear","Housewares","2014","The LEGO Movie Lunch Set",,,,14.99,16.99,,"http://www.1000steine.com/brickset/images/5004067-1.jpg","No","No",0
+23614,"5004202","1","Gear","Video Games/3DS","2014","The Hobbit Nintendo 3DS Video Game",,,,29.99,39.99,,"http://www.1000steine.com/brickset/images/5004202-1.jpg","No","No",0
+23615,"5004204","1","Gear","Video Games/PS3","2014","The Hobbit PS3 Video Game",,,,49.99,59.99,,"http://www.1000steine.com/brickset/images/5004204-1.jpg","No","No",0
+23612,"5004205","1","Gear","Video Games/PS4","2014","The Hobbit PS4 Video Game",,,,59.99,69.99,,"http://www.1000steine.com/brickset/images/5004205-1.jpg","No","No",0
+23616,"5004206","1","Gear","Video Games/PS Vita","2014","The Hobbit PS Vita Video Game",,,,29.99,39.99,,"http://www.1000steine.com/brickset/images/5004206-1.jpg","No","No",0
+23643,"5004207","1","Gear","Video Games/Wii U","2014","The Hobbit Nintendo Wii U Video Game",,,,49.99,59.99,,"http://www.1000steine.com/brickset/images/5004207-1.jpg","No","No",0
+23617,"5004208","1","Gear","Video Games/Xbox 360","2014","The Hobbit Xbox 360 Video Game",,,,49.99,59.99,,"http://www.1000steine.com/brickset/images/5004208-1.jpg","No","No",0
+23613,"5004209","1","Gear","Video Games/Xbox One","2014","The Hobbit Xbox One Video Game",,,,59.99,69.99,,"http://www.1000steine.com/brickset/images/5004209-1.jpg","No","No",0
+23624,"5004212","1","Gear","Video Games/3DS","2014","The Hobbit Nintendo 3DS Video Game",,,34.99,,,,"http://www.1000steine.com/brickset/images/5004212-1.jpg","No","No",0
+23625,"5004214","1","Gear","Video Games/PS Vista","2014","The Hobbit PS Vista Video Game",,,34.99,,,,"http://www.1000steine.com/brickset/images/5004214-1.jpg","No","No",0
+23626,"5004218","1","Gear","Video Games//PS3","2014","The Hobbit PS3 Video Game",,,44.99,,,,"http://www.1000steine.com/brickset/images/5004218-1.jpg","No","No",0
+23623,"5004219","1","Gear","Video Games/PS4","2014","The Hobbit PS4 Video Game",,,49.99,,,,"http://www.1000steine.com/brickset/images/5004219-1.jpg","No","No",0
+23638,"5004221","1","Gear","Video Games/Wii U","2014","The Hobbit Nintendo Wii U Video Game",,,44.99,,,,"http://www.1000steine.com/brickset/images/5004221-1.jpg","No","No",0
+10041,"6012292","1","Gear","Storage","2012","Friends small bag",,,,,,,"http://www.1000steine.com/brickset/images/6012292-1.jpg","No","No",0
+22518,"6012306","1","Gear","Key Chains/Star Wars","2012","Battle of Hoth Dice Key Chain",,,,,,,"http://www.1000steine.com/brickset/images/6012306-1.jpg","No","No",0
+22617,"6031636","1","Gear","Miscellaneous","2013","Friends promotional pack",,,,,,,"http://www.1000steine.com/brickset/images/6031636-1.jpg","No","No",0
+22616,"6031645","1","Gear","Miscellaneous","2013","City promotional pack",,,,,,,"http://www.1000steine.com/brickset/images/6031645-1.jpg","No","No",0
+10006,"6032459","1","Gear","CD/DVDs","2012","Friends",,,,,,,"http://www.1000steine.com/brickset/images/6032459-1.jpg","No","No",0
+9953,"6038514","1","Gear","CD/DVDs","2012","The LEGO Story",,,,,,,"http://www.1000steine.com/brickset/images/6038514-1.jpg","No","No",0
+8094,"9001857","1","Gear","Watches/Clocks","2009","Space Police Watch",,,,,,,,"No","No",0
+

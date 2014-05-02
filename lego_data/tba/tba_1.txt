@@ -1,0 +1,9 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+23659,"40098","1","Promotional","Monthly Mini Model Build","2014","Dragon",,,0,0,,0,"http://www.1000steine.com/brickset/images/40098-1.jpg","No","No",0
+23658,"40108","1","Creator","","2014","Balloon Cart",,,,,,,,"No","No",0
+23664,"5004102","1","{Undefined}","","2014","THE LEGO MOVIE The Essential Guide",,,,,,,,"No","No",0
+23660,"5004115","1","{Undefined}","","2014","LEGO® Brick Black Adult Watch",,,,,99.99,,,"No","No",0
+23661,"5004117","1","{Undefined}","","2014","LEGO® Multi stud Red Adult Tachymeter Watch",,,,,174.99,,,"No","No",0
+23662,"5004119","1","{Undefined}","","2014","LEGO® Brick White Adult Watch",,,,,99.99,,,"No","No",0
+23663,"5004128","1","{Undefined}","","2014","LEGO® Happiness Yellow Adult Watch",,,,,94.99,,,"No","No",0
+

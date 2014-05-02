@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+9544,"40034","1","Seasonal","Christmas","2012","Christmas Train",,82,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/40034-1.jpg","No","No",0
+9545,"40035","1","Seasonal","Christmas","2012","Rocking Horse",,49,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/40035-1.jpg","No","No",0
+9261,"40036","1","Promotional","Monthly Mini Model Build","2012","Cobra",,37,0,0,,,"http://www.1000steine.com/brickset/images/40036-1.jpg","No","No",0
+9278,"40037","1","Promotional","Monthly Mini Model Build","2012","Hockey player",,43,0,0,,,"http://www.1000steine.com/brickset/images/40037-1.jpg","No","No",0
+9279,"40038","1","Promotional","Monthly Mini Model Build","2012","Worm & Earth",,29,0,0,,,"http://www.1000steine.com/brickset/images/40038-1.jpg","No","No",0
+9641,"40039","1","Promotional","Monthly Mini Model Build","2012","Tulip",,16,0,0,,,"http://www.1000steine.com/brickset/images/40039-1.jpg","No","No",0
+9758,"40040","1","Promotional","Monthly Mini Model Build","2012","Olympic flame",,15,0,0,,,"http://www.1000steine.com/brickset/images/40040-1.jpg","No","No",0
+9788,"40041","1","Promotional","Monthly Mini Model Build","2012","Moose",,27,0,0,,,"http://www.1000steine.com/brickset/images/40041-1.jpg","No","No",0
+9785,"40042","1","Promotional","Monthly Mini Model Build","2012","Cat",,25,0,0,,,"http://www.1000steine.com/brickset/images/40042-1.jpg","No","No",0
+9439,"40043","1","Promotional","Monthly Mini Model Build","2012","Duck",,24,0,0,,,"http://www.1000steine.com/brickset/images/40043-1.jpg","No","No",0
+9651,"40044","1","Promotional","Monthly Mini Model Build","2012","Lawnmower",,25,0,0,,,"http://www.1000steine.com/brickset/images/40044-1.jpg","No","No",0
+9786,"40045","1","Promotional","Monthly Mini Model Build","2012","Shark",,27,0,0,,,"http://www.1000steine.com/brickset/images/40045-1.jpg","No","No",0
+9789,"40046","1","Promotional","Monthly Mini Model Build","2012","Pilgrim",,23,0,0,,,"http://www.1000steine.com/brickset/images/40046-1.jpg","No","No",0
+9787,"40047","1","Promotional","Monthly Mini Model Build","2012","Owl",,41,0,0,,,"http://www.1000steine.com/brickset/images/40047-1.jpg","No","No",0
+9377,"40048","1","Seasonal","Birthday","2012","Birthday Cake",,24,,,,,"http://www.1000steine.com/brickset/images/40048-1.jpg","No","No",0
+9546,"40049","1","Miscellaneous","","2012","Sopwith Camel",,65,0,0,,,"http://www.1000steine.com/brickset/images/40049-1.jpg","No","No",0
+9547,"40050","1","Miscellaneous","","2012","BMW",,,,,,,,"No","No",0
+9548,"40051","1","Seasonal","Valentines","2013","Valentine's Day Heart Box",,54,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/40051-1.jpg","No","No",0
+9549,"40052","1","Seasonal","Spring","2013","Springtime Scene",2,88,6.99,7.99,9.99,7.99,"http://www.1000steine.com/brickset/images/40052-1.jpg","No","No",0
+9550,"40053","1","Seasonal","Easter","2013","Easter Bunny with Basket",,96,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/40053-1.jpg","No","No",0
+9551,"40054","1","Seasonal","Summer","2013","Summer Scene",1,40,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/40054-1.jpg","No","No",0
+9552,"40055","1","Seasonal","Halloween","2013","Halloween Pumpkin",,52,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/40055-1.jpg","No","No",0
+9553,"40056","1","Seasonal","Thanksgiving","2013","Thanksgiving Feast",2,46,6.99,7.99,9.99,7.99,"http://www.1000steine.com/brickset/images/40056-1.jpg","No","No",0
+9554,"40057","1","Seasonal","Fall","2013","Fall Scene",3,72,6.99,7.99,9.99,7.99,"http://www.1000steine.com/brickset/images/40057-1.jpg","No","No",0
+9555,"40058","1","Seasonal","Christmas","2013","Decorating the Tree",2,110,6.99,7.99,9.99,7.99,"http://www.1000steine.com/brickset/images/40058-1.jpg","No","No",0
+9556,"40059","1","Seasonal","Christmas","2013","Santa's Sleigh",2,77,6.99,7.99,9.99,7.99,"http://www.1000steine.com/brickset/images/40059-1.jpg","No","No",0
+10338,"40061","1","Promotional","Monthly Mini Model Build","2013","Igloo",,40,0,0,,,"http://www.1000steine.com/brickset/images/40061-1.jpg","No","No",0
+10339,"40062","1","Promotional","Monthly Mini Model Build","2013","Log Cabin",,59,0,0,,,"http://www.1000steine.com/brickset/images/40062-1.jpg","No","No",0
+10340,"40063","1","Promotional","Monthly Mini Model Build","2013","Sea Turtle",,29,0,0,,,"http://www.1000steine.com/brickset/images/40063-1.jpg","No","No",0
+10341,"40064","1","Promotional","Monthly Mini Model Build","2013","Lamb",,32,0,0,,,"http://www.1000steine.com/brickset/images/40064-1.jpg","No","No",0
+10342,"40065","1","Promotional","Monthly Mini Model Build","2013","Kingfisher",,21,0,0,,,"http://www.1000steine.com/brickset/images/40065-1.jpg","No","No",0
+10343,"40066","1","Promotional","Monthly Mini Model Build","2013","Fisherman",,37,0,0,,,"http://www.1000steine.com/brickset/images/40066-1.jpg","No","No",0
+10344,"40067","1","Promotional","Monthly Mini Model Build","2013","Crab",,37,0,0,,,"http://www.1000steine.com/brickset/images/40067-1.jpg","No","No",0
+10345,"40068","1","Promotional","Monthly Mini Model Build","2013","Flamingo",,31,0,0,,,"http://www.1000steine.com/brickset/images/40068-1.jpg","No","No",0
+10346,"40069","1","Promotional","Monthly Mini Model Build","2013","Pirate",,44,0,0,,,"http://www.1000steine.com/brickset/images/40069-1.jpg","No","No",0
+10347,"40070","1","Promotional","Monthly Mini Model Build","2013","Witch",,22,0,0,,,"http://www.1000steine.com/brickset/images/40070-1.jpg","No","No",0
+10348,"40071","1","Promotional","Monthly Mini Model Build","2013","Lawn mower",,,0,0,,,"http://www.1000steine.com/brickset/images/40071-1.jpg","No","No",0
+10349,"40072","1","Promotional","Monthly Mini Model Build","2013","Rocking Horse",,,0,0,,,"http://www.1000steine.com/brickset/images/40072-1.jpg","No","No",0
+10350,"40073","1","Creator","","2013","Panda",,,,,,,"http://www.1000steine.com/brickset/images/40073-1.jpg","No","No",0
+10351,"40074","1","Miscellaneous","","2013","{Unknown}",,,,,,,,"No","No",0
+9557,"40076","1","Monster Fighters","Promotional","2012","Zombie Car",1,60,,,,,"http://www.1000steine.com/brickset/images/40076-1.jpg","No","No",0
+22817,"40077","1","Miscellaneous","Promotional","2013","Geoffrey",,90,4.99,,,,"http://www.1000steine.com/brickset/images/40077-1.jpg","No","No",0
+22818,"40078","1","Creator","","2013","Hot Dog Stand",2,39,,,,,"http://www.1000steine.com/brickset/images/40078-1.jpg","No","No",0
+22920,"40079","1","Creator","","2013","Mini VW T1 Camper Van",,76,,,,,"http://www.1000steine.com/brickset/images/40079-1.jpg","No","No",0
+22408,"40080","1","Friends","","2013","Friends Pencil Holder",,138,10.49,14.99,17.99,12.99,"http://www.1000steine.com/brickset/images/40080-1.jpg","No","No",0
+22607,"40081","1","Miscellaneous","Photo frames/albums","2013","LEGOLAND Picture Frame -- Florida Edition",,122,,,,,"http://www.1000steine.com/brickset/images/40081-1.jpg","No","No",0
+22828,"40081","2","Miscellaneous","Photo frames/albums","2013","LEGOLAND Picture Frame -- Deutschland Edition",,122,,,,,"http://www.1000steine.com/brickset/images/40081-2.jpg","No","No",0
+22829,"40081","3","Miscellaneous","Photo frames/albums","2013","LEGOLAND Picture Frame -- Billund Edition",,122,,,,,,"No","No",0
+23392,"40081","4","Miscellaneous","Photo frames/albums","2013","LEGOLAND Picture Frame -- Malaysia Edition",,122,,,,,"http://www.1000steine.com/brickset/images/40081-4.jpg","No","No",0
+23622,"40081","5","Miscellaneous","Photo frames/albums","2014","LEGOLAND Picture Frame -- Windsor Edition",,,,,,,"http://www.1000steine.com/brickset/images/40081-5.jpg","No","No",0
+23027,"40082","1","Seasonal","Christmas","2013","Christmas Tree Stand",2,115,,,,,"http://www.1000steine.com/brickset/images/40082-1.jpg","No","No",0
+23028,"40083","1","Seasonal","Christmas","2013","Christmas Tree Truck",1,118,,,,,"http://www.1000steine.com/brickset/images/40083-1.jpg","No","No",0
+22842,"40084","1","HERO Factory","","2013","Accessory Pack",,6,,,,,"http://www.1000steine.com/brickset/images/40084-1.jpg","No","No",0
+23260,"40085","1","Seasonal","Valentines","2014","LEGO Valentine",,127,8.49,9.99,11.99,9.99,"http://www.1000steine.com/brickset/images/40085-1.jpg","No","No",0
+23265,"40086","1","Seasonal","Easter","2014","Easter Bunny",,106,8.49,9.99,11.99,9.99,"http://www.1000steine.com/brickset/images/40086-1.jpg","No","No",0
+23397,"40094","1","Promotional","Monthly Mini Model Build","2014","Snowplough",,46,0,0,,0,"http://www.1000steine.com/brickset/images/40094-1.jpg","No","No",0
+23466,"40095","1","Promotional","Monthly Mini Model Build","2014","Micro Manager",,50,0,0,,0,"http://www.1000steine.com/brickset/images/40095-1.jpg","No","No",0
+23503,"40096","1","Promotional","Monthly Mini Model Build","2014","Spring Tree",,,0,0,,0,"http://www.1000steine.com/brickset/images/40096-1.jpg","No","No",0
+23608,"40097","1","Promotional","Monthly Mini Model Build","2014","Helicopter",,,0,0,,0,"http://www.1000steine.com/brickset/images/40097-1.jpg","No","No",0
+23498,"40110","1","City","Police","2014","LEGO City Coin Bank",,122,10.99,14.99,17.99,12.99,"http://www.1000steine.com/brickset/images/40110-1.jpg","No","No",0
+23288,"40114","1","Friends","","2014","Buildable Jewellery Box",,201,10.99,14.99,17.99,12.99,"http://www.1000steine.com/brickset/images/40114-1.jpg","No","No",0
+23530,"40115","1","Promotional","LEGOLAND model","2014","LEGOLAND Entrance with Family",,320,12.99,,,,"http://www.1000steine.com/brickset/images/40115-1.jpg","No","No",0
+23526,"40116","1","HERO Factory","","2014","HF Hero Minimodel",1,31,,,,,"http://www.1000steine.com/brickset/images/40116-1.jpg","No","No",0
+10352,"40200","1","Miscellaneous","","2013","BMW",,,,,,,"http://www.1000steine.com/brickset/images/40200-1.jpg","No","No",0
+9558,"41000","1","Friends","","2013","Water Scooter Fun",1,28,4.99,6.99,7.99,5.99,"http://www.1000steine.com/brickset/images/41000-1.jpg","No","No",0
+9559,"41001","1","Friends","","2013","Mia's Magic Tricks",1,90,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/41001-1.jpg","No","No",0
+9560,"41002","1","Friends","","2013","Emma's Karate Class",1,93,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/41002-1.jpg","No","No",0
+9561,"41003","1","Friends","","2013","Olivia's Newborn Foal",1,70,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/41003-1.jpg","No","No",0
+9562,"41004","1","Friends","","2013","Rehearsal Stage",1,198,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/41004-1.jpg","No","No",0
+10260,"41005","1","Friends","","2013","Heartlake High",3,487,49.99,49.99,59.99,49.99,"http://www.1000steine.com/brickset/images/41005-1.jpg","No","No",0
+10261,"41006","1","Friends","","2013","Downtown Bakery",2,253,24.99,29.99,34.99,24.99,"http://www.1000steine.com/brickset/images/41006-1.jpg","No","No",0
+9563,"41007","1","Friends","","2013","Heartlake Pet Salon",2,242,29.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/41007-1.jpg","No","No",0
+9564,"41008","1","Friends","","2013","Heartlake City Pool",2,423,39.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/41008-1.jpg","No","No",0
+10262,"41009","1","Friends","","2013","Andrea's Bedroom",1,75,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/41009-1.jpg","No","No",0
+10263,"41010","1","Friends","","2013","Olivia's Beach Buggy",1,94,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/41010-1.jpg","No","No",0
+9565,"41011","1","Friends","","2013","Stephanie's Soccer Practice",1,80,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/41011-1.jpg","No","No",0
+9566,"41013","1","Friends","","2013","Emma's Sports Car",1,159,12.99,14.99,17.99,14.99,"http://www.1000steine.com/brickset/images/41013-1.jpg","No","No",0
+10264,"41015","1","Friends","","2013","Dolphin Cruiser",3,612,59.99,69.99,89.99,69.99,"http://www.1000steine.com/brickset/images/41015-1.jpg","No","No",0
+10265,"41016","1","Friends","Seasonal","2013","Advent Calendar",2,213,19.99,29.99,39.99,19.99,"http://www.1000steine.com/brickset/images/41016-1.jpg","No","No",0
+9567,"41017","1","Friends","Animals series 1","2013","Squirrel's Tree House",,41,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41017-1.jpg","No","No",0
+9568,"41018","1","Friends","Animals series 1","2013","Cat's Playground",,31,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41018-1.jpg","No","No",0
+9569,"41019","1","Friends","Animals series 1","2013","Turtle's Little Oasis",,33,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41019-1.jpg","No","No",0
+9570,"41020","1","Friends","Animals series 2","2013","Hedgehog's Hideaway",,34,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41020-1.jpg","No","No",0
+9571,"41021","1","Friends","Animals series 2","2013","Poodle's Little Palace",,46,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41021-1.jpg","No","No",0
+9572,"41022","1","Friends","Animals series 2","2013","Bunny's Hutch",,37,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41022-1.jpg","No","No",0
+22404,"41023","1","Friends","Animals series 3","2013","Fawn's Forest",,35,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41023-1.jpg","No","No",0
+22405,"41024","1","Friends","Animals series 3","2013","Parrot's Perch",,32,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41024-1.jpg","No","No",0
+22406,"41025","1","Friends","Animals series 3","2013","Puppy's Playhouse",,39,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41025-1.jpg","No","No",0
+23083,"41026","1","Friends","","2014","Sunshine Harvest",1,233,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/41026-1.jpg","No","No",0
+23084,"41027","1","Friends","","2014","Mia's Lemonade Stand",1,112,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/41027-1.jpg","No","No",0
+23085,"41028","1","Friends","","2014","Emma's Lifeguard Post",1,78,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/41028-1.jpg","No","No",0
+23086,"41029","1","Friends","","2014","Stephanie's New Born Lamb",1,78,9.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/41029-1.jpg","No","No",0
+23340,"41030","1","Friends","","2014","Olivia's Ice Cream Bike",,98,,9.99,,,"http://www.1000steine.com/brickset/images/41030-1.jpg","No","No",0
+23341,"41031","1","Friends","","2014","Andrea's Mountain Hut",,119,,9.99,,,"http://www.1000steine.com/brickset/images/41031-1.jpg","No","No",0
+23342,"41032","1","Friends","Jungle Rescue","2014","First Aid Jungle Bike",,156,,14.99,,,"http://www.1000steine.com/brickset/images/41032-1.jpg","No","No",0
+23343,"41033","1","Friends","Jungle Rescue","2014","Jungle Falls Rescue",,183,,19.99,,,"http://www.1000steine.com/brickset/images/41033-1.jpg","No","No",0
+23344,"41034","1","Friends","","2014","Summer Caravan",,297,,29.99,,,"http://www.1000steine.com/brickset/images/41034-1.jpg","No","No",0
+23087,"41035","1","Friends","","2014","Heartlake Juice Bar",2,277,24.99,29.99,39.99,32.99,"http://www.1000steine.com/brickset/images/41035-1.jpg","No","No",0
+23345,"41036","1","Friends","Jungle Rescue","2014","Jungle Bridge Rescue",,365,,29.99,,,"http://www.1000steine.com/brickset/images/41036-1.jpg","No","No",0
+23088,"41037","1","Friends","","2014","Stephanie's Beach House",2,369,39.99,39.99,49.99,,"http://www.1000steine.com/brickset/images/41037-1.jpg","No","No",0
+23346,"41038","1","Friends","Jungle Rescue","2014","Jungle Rescue Base",,473,,59.99,,,"http://www.1000steine.com/brickset/images/41038-1.jpg","No","No",0
+23089,"41039","1","Friends","","2014","Sunshine Ranch",2,721,59.99,69.99,89.99,69.99,"http://www.1000steine.com/brickset/images/41039-1.jpg","No","No",0
+23347,"41040","1","Friends","","2014","Friends Advent Calendar",,228,,29.99,,,,"No","No",0
+23077,"41041","1","Friends","Animals series 4","2014","Turtle's Little Paradise",,43,2.99,3.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41041-1.jpg","No","No",0
+23078,"41042","1","Friends","Animals series 4","2014","Tiger's Beautiful Temple",,42,2.99,3.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41042-1.jpg","No","No",0
+23079,"41043","1","Friends","Animals series 4","2014","Penguin's Playground",,46,2.99,3.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41043-1.jpg","No","No",0
+23080,"41044","1","Friends","Animals series 5","2014","Macaw's Fountain",,39,2.99,3.99,5.99,,"http://www.1000steine.com/brickset/images/41044-1.jpg","No","No",0
+23081,"41045","1","Friends","Animals series 5","2014","Orangutan's Banana Tree",,37,2.99,3.99,5.99,,"http://www.1000steine.com/brickset/images/41045-1.jpg","No","No",0
+23082,"41046","1","Friends","Animals series 5","2014","Brown Bear's River",,37,2.99,3.99,5.99,,"http://www.1000steine.com/brickset/images/41046-1.jpg","No","No",0
+23348,"41047","1","Friends","Animals series 6","2014","{Seal on a Rock}",,37,,,,,,"No","No",0
+23349,"41048","1","Friends","Animals series 6","2014","{Lion in the Savannah}",,43,,,,,,"No","No",0
+23350,"41049","1","Friends","Animals series 6","2014","{Panda in the Bamboo}",,47,,,,,,"No","No",0
+23097,"41050","1","Disney Princess","The Little Mermaid","2014","Ariel's Amazing Treasures",1,77,11.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/41050-1.jpg","No","No",0
+23098,"41051","1","Disney Princess","Brave","2014","Merida's Highland Games",1,145,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/41051-1.jpg","No","No",0
+23099,"41052","1","Disney Princess","The Little Mermaid","2014","Ariel's Magical Kiss",2,250,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/41052-1.jpg","No","No",0
+23100,"41053","1","Disney Princess","Cinderella","2014","Cinderella's Dream Carriage",1,274,24.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/41053-1.jpg","No","No",0
+23101,"41054","1","Disney Princess","Tangled","2014","Rapunzel's Creativity Tower",2,299,34.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/41054-1.jpg","No","No",0
+23102,"41055","1","Disney Princess","Cinderella","2014","Cinderella's Romantic Castle",2,646,59.99,69.99,89.99,69.99,"http://www.1000steine.com/brickset/images/41055-1.jpg","No","No",0
+23090,"41056","1","Friends","","2014","Heartlake News Van",2,278,19.99,24.99,29.99,24.99,"http://www.1000steine.com/brickset/images/41056-1.jpg","No","No",0
+23192,"41057","1","Friends","","2014","Heartlake Horse Show",2,355,34.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/41057-1.jpg","No","No",0
+23351,"41058","1","Friends","","2014","Heartlake Shopping Mall",,1120,,109.99,,,"http://www.1000steine.com/brickset/images/41058-1.jpg","No","No",0
+23408,"41059","1","Friends","","2014","Jungle Tree House",,,,,,,"http://www.1000steine.com/brickset/images/41059-1.jpg","No","No",0
+22930,"41500","1","Mixels","Series 1","2014","Flain",,58,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41500-1.jpg","No","No",0
+23193,"41501","1","Mixels","Series 1","2014","Vulk",,69,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41501-1.jpg","No","No",0
+23194,"41502","1","Mixels","Series 1","2014","Zorch",,45,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41502-1.jpg","No","No",0
+23195,"41503","1","Mixels","Series 1","2014","Krader",,66,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41503-1.jpg","No","No",0
+22931,"41504","1","Mixels","Series 1","2014","Seismo",,50,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41504-1.jpg","No","No",0
+23196,"41505","1","Mixels","Series 1","2014","Shuff",,51,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41505-1.jpg","No","No",0
+23197,"41506","1","Mixels","Series 1","2014","Teslo",,54,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41506-1.jpg","No","No",0
+23198,"41507","1","Mixels","Series 1","2014","Zaptor",,61,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41507-1.jpg","No","No",0
+22932,"41508","1","Mixels","Series 1","2014","Volectro",,70,2.99,4.99,5.99,3.99,"http://www.1000steine.com/brickset/images/41508-1.jpg","No","No",0
+23409,"41509","1","Mixels","Series 2","2014","Slumbo",,61,,4.99,,,"http://www.1000steine.com/brickset/images/41509-1.jpg","No","No",0
+23410,"41510","1","Mixels","Series 2","2014","Lunk",,51,,4.99,,,"http://www.1000steine.com/brickset/images/41510-1.jpg","No","No",0
+23411,"41511","1","Mixels","Series 2","2014","Flurr",,46,,4.99,,,"http://www.1000steine.com/brickset/images/41511-1.jpg","No","No",0
+23412,"41512","1","Mixels","Series 2","2014","Chomly",,68,,4.99,,,"http://www.1000steine.com/brickset/images/41512-1.jpg","No","No",0
+23413,"41513","1","Mixels","Series 2","2014","Gobba",,57,,4.99,,,"http://www.1000steine.com/brickset/images/41513-1.jpg","No","No",0
+23414,"41514","1","Mixels","Series 2","2014","Jawg",,61,,4.99,,,"http://www.1000steine.com/brickset/images/41514-1.jpg","No","No",0
+23415,"41515","1","Mixels","Series 2","2014","Kraw",,70,,4.99,,,"http://www.1000steine.com/brickset/images/41515-1.jpg","No","No",0
+23416,"41516","1","Mixels","Series 2","2014","Tentro",,69,,4.99,,,"http://www.1000steine.com/brickset/images/41516-1.jpg","No","No",0
+23417,"41517","1","Mixels","Series 2","2014","Balk",,68,,4.99,,,"http://www.1000steine.com/brickset/images/41517-1.jpg","No","No",0
+23430,"41518","1","Mixels","Series 3","2014","Glomp",,64,,4.99,,,,"No","No",0
+23431,"41519","1","Mixels","Series 3","2014","Glurt",,62,,4.99,,,,"No","No",0
+23432,"41520","1","Mixels","Series 3","2014","Torts",,48,,4.99,,,,"No","No",0
+23433,"41521","1","Mixels","Series 3","2014","Footi",,72,,4.99,,,,"No","No",0
+23434,"41522","1","Mixels","Series 3","2014","Scorpi",,70,,4.99,,,,"No","No",0
+23435,"41523","1","Mixels","Series 3","2014","Hoogi",,69,,4.99,,,,"No","No",0
+23436,"41524","1","Mixels","Series 3","2014","Mesmo",,64,,4.99,,,,"No","No",0
+23437,"41525","1","Mixels","Series 3","2014","Magnifo",,61,,4.99,,,,"No","No",0
+23438,"41526","1","Mixels","Series 3","2014","Wizwuz",,70,,4.99,,,,"No","No",0
+22651,"41999","1","Technic","","2013","4x4 Crawler Exclusive Edition ",,1585,139.99,199.99,249.99,,"http://www.1000steine.com/brickset/images/41999-1.jpg","No","No",0
+9954,"42000","1","Technic","","2013","Grand Prix Racer",,1141,79.99,129.99,149.99,99.99,"http://www.1000steine.com/brickset/images/42000-1.jpg","No","No",0
+9955,"42001","1","Technic","","2013","Mini Off-Roader",,100,7.99,12.99,14.99,9.99,"http://www.1000steine.com/brickset/images/42001-1.jpg","No","No",0
+9956,"42002","1","Technic","","2013","Hovercraft",,170,12.99,19.99,24.99,14.99,"http://www.1000steine.com/brickset/images/42002-1.jpg","No","No",0
+9957,"42003","1","Technic","","2013","{Action Race car}",,,,,,,,"No","No",0
+9958,"42004","1","Technic","","2013","Mini Backhoe Loader",,246,17.99,24.99,29.99,19.99,"http://www.1000steine.com/brickset/images/42004-1.jpg","No","No",0
+9959,"42005","1","Technic","","2013","Monster Truck",,329,34.99,49.99,59.99,39.99,"http://www.1000steine.com/brickset/images/42005-1.jpg","No","No",0
+9960,"42006","1","Technic","","2013","Excavator",,720,49.99,79.99,99.99,59.99,"http://www.1000steine.com/brickset/images/42006-1.jpg","No","No",0
+9987,"42007","1","Technic","","2013","Moto Cross Bike",,253,24.99,39.99,49.99,29.99,"http://www.1000steine.com/brickset/images/42007-1.jpg","No","No",0
+10266,"42008","1","Technic","","2013","Service Truck",,1276,99.99,129.99,149.99,109.99,"http://www.1000steine.com/brickset/images/42008-1.jpg","No","No",0
+10267,"42009","1","Technic","","2013","Mobile Crane MK II",,2606,149.99,219.99,249.99,199.99,"http://www.1000steine.com/brickset/images/42009-1.jpg","No","No",0
+9988,"42010","1","Technic","","2013","Off-road Racer",,160,14.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/42010-1.jpg","No","No",0
+9989,"42011","1","Technic","","2013","Race Car",,158,14.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/42011-1.jpg","No","No",0
+22998,"42020","1","Technic","","2014","Twin Rotor Helicopter",,145,7.99,12.99,,9.99,"http://www.1000steine.com/brickset/images/42020-1.jpg","No","No",0
+22999,"42021","1","Technic","","2014","Snowmobile",,186,14.99,19.99,,14.99,"http://www.1000steine.com/brickset/images/42021-1.jpg","No","No",0
+23000,"42022","1","Technic","","2014","Hot Rod",,414,29.99,39.99,,29.99,"http://www.1000steine.com/brickset/images/42022-1.jpg","No","No",0
+23001,"42023","1","Technic","","2014","Construction Crew",,833,49.99,,,59.99,"http://www.1000steine.com/brickset/images/42023-1.jpg","No","No",0
+23002,"42024","1","Technic","","2014","Container Truck",,948,59.99,,,69.99,"http://www.1000steine.com/brickset/images/42024-1.jpg","No","No",0
+23153,"42025","1","Technic","","2014","Cargo Plane",,1297,109.99,,,119.99,"http://www.1000steine.com/brickset/images/42025-1.jpg","No","No",0
+23004,"42026","1","Technic","","2014","Black Champion Racer",,137,17.99,19.99,,19.99,"http://www.1000steine.com/brickset/images/42026-1.jpg","No","No",0
+23003,"42027","1","Technic","","2014","Desert Racer",,148,17.99,19.99,,19.99,"http://www.1000steine.com/brickset/images/42027-1.jpg","No","No",0
+23443,"42028","1","Technic","","2014","Bulldozer",,,,,,,,"No","No",0
+23302,"42029","1","Technic","","2014","{custom-designed vans}",,,,,,,,"No","No",0
+23303,"42030","1","Technic","","2014","{}",,,,,,,,"No","No",0
+9901,"44000","1","HERO Factory","","2013","FURNO XL",,103,14.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/44000-1.jpg","No","No",0
+9902,"44001","1","HERO Factory","","2013","PYROX",,50,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/44001-1.jpg","No","No",0
+9903,"44002","1","HERO Factory","","2013","ROCKA",,43,7.99,9.99,11.99,9.99,"http://www.1000steine.com/brickset/images/44002-1.jpg","No","No",0
+9904,"44003","1","HERO Factory","","2013","SCAROX",,46,7.99,9.99,11.99,9.99,"http://www.1000steine.com/brickset/images/44003-1.jpg","No","No",0
+9905,"44004","1","HERO Factory","","2013","BULK",,50,7.99,9.99,11.99,9.99,"http://www.1000steine.com/brickset/images/44004-1.jpg","No","No",0
+9906,"44005","1","HERO Factory","","2013","BRUIZER",,62,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/44005-1.jpg","No","No",0
+9907,"44006","1","HERO Factory","","2013","BREEZ",,49,7.99,9.99,11.99,9.99,"http://www.1000steine.com/brickset/images/44006-1.jpg","No","No",0
+9908,"44007","1","HERO Factory","","2013","OGRUM",,59,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/44007-1.jpg","No","No",0
+10298,"44008","1","HERO Factory","","2013","SURGE",,66,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/44008-1.jpg","No","No",0
+10299,"44009","1","HERO Factory","","2013","DRAGON BOLT",,149,17.99,19.99,24.99,24.99,"http://www.1000steine.com/brickset/images/44009-1.jpg","No","No",0
+10300,"44010","1","HERO Factory","","2013","STORMER",,69,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/44010-1.jpg","No","No",0
+10301,"44011","1","HERO Factory","","2013","FROST BEAST",,60,9.99,12.99,15.99,12.99,"http://www.1000steine.com/brickset/images/44011-1.jpg","No","No",0
+10302,"44012","1","HERO Factory","","2013","EVO",,51,7.99,9.99,11.99,9.99,"http://www.1000steine.com/brickset/images/44012-1.jpg","No","No",0
+10303,"44013","1","HERO Factory","","2013","AQUAGON",,41,7.99,9.99,11.99,9.99,"http://www.1000steine.com/brickset/images/44013-1.jpg","No","No",0
+10304,"44014","1","HERO Factory","","2013","JET ROCKA",,290,24.99,34.99,44.99,34.99,"http://www.1000steine.com/brickset/images/44014-1.jpg","No","No",0
+23061,"44015","1","HERO Factory","","2014","EVO Walker",1,51,8.99,9.99,11.99,9.99,"http://www.1000steine.com/brickset/images/44015-1.jpg","No","No",0
+23062,"44016","1","HERO Factory","","2014","JAW Beast vs. STORMER",1,49,8.99,9.99,11.99,9.99,"http://www.1000steine.com/brickset/images/44016-1.jpg","No","No",0
+23063,"44017","1","HERO Factory","","2014","STORMER Freeze Machine",1,88,12.99,14.99,17.99,14.99,"http://www.1000steine.com/brickset/images/44017-1.jpg","No","No",0
+23064,"44018","1","HERO Factory","","2014","FURNO Jet Machine",1,79,12.99,14.99,17.99,14.99,"http://www.1000steine.com/brickset/images/44018-1.jpg","No","No",0
+23065,"44019","1","HERO Factory","","2014","ROCKA Stealth Machine",1,89,12.99,14.99,17.99,14.99,"http://www.1000steine.com/brickset/images/44019-1.jpg","No","No",0
+23066,"44020","1","HERO Factory","","2014","FLYER Beast vs. BREEZ",1,91,12.99,14.99,17.99,14.99,"http://www.1000steine.com/brickset/images/44020-1.jpg","No","No",0
+23067,"44021","1","HERO Factory","","2014","SPLITTER Beast vs. FURNO & EVO",2,108,17.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/44021-1.jpg","No","No",0
+23068,"44022","1","HERO Factory","","2014","EVO XL Machine",1,193,19.99,24.99,29.99,24.99,"http://www.1000steine.com/brickset/images/44022-1.jpg","No","No",0
+23355,"44023","1","HERO Factory","","2014","ROCKA Crawler",,49,,9.99,,,,"No","No",0
+23356,"44024","1","HERO Factory","","2014","TUNNELER Beast vs. SURGE",,59,,9.99,,,,"No","No",0
+23357,"44025","1","HERO Factory","","2014","BULK Drill Machine",,113,,14.99,,,,"No","No",0
+23358,"44026","1","HERO Factory","","2014","CRYSTAL Beast vs. BULK",,83,,14.99,,,,"No","No",0
+

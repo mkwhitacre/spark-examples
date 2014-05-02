@@ -1,0 +1,202 @@
+SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
+3647,"6833","1","Space","M-Tron","1990","Beacon Tracer",1,40,,3,,,"http://www.1000steine.com/brickset/images/6833-1.jpg","No","No",0
+3648,"6834","1","Space","Ice Planet 2002","1993","Celestial Sled",1,55,,4,,,"http://www.1000steine.com/brickset/images/6834-1.jpg","No","No",0
+3649,"6835","1","Space","Spyrius","1994","Saucer Scout",1,47,,4,,,"http://www.1000steine.com/brickset/images/6835-1.jpg","No","No",0
+3650,"6836","1","Space","UFO","1997","V-Wing Fighter",1,40,,4,,,"http://www.1000steine.com/brickset/images/6836-1.jpg","No","No",0
+3651,"6837","1","Space","Insectoids","1998","Cosmic Creeper",1,58,,8,,,"http://www.1000steine.com/brickset/images/6837-1.jpg","No","No",0
+3652,"6841","1","Space","Classic","1980","Mineral Detector",1,44,,,,,"http://www.1000steine.com/brickset/images/6841-1.jpg","No","No",0
+3653,"6842","1","Space","Classic","1981","Small Space Shuttle Craft",1,46,,,,,"http://www.1000steine.com/brickset/images/6842-1.jpg","No","No",0
+3654,"6844","1","Space","Classic","1983","Sismobile",1,46,,,,,"http://www.1000steine.com/brickset/images/6844-1.jpg","No","No",0
+3655,"6845","1","Space","Classic","1986","Cosmic Charger",1,51,,,,,"http://www.1000steine.com/brickset/images/6845-1.jpg","No","No",0
+3656,"6846","1","Space","Classic","1984","Tri-Star Voyager",1,69,,4.45,,,"http://www.1000steine.com/brickset/images/6846-1.jpg","No","No",0
+3657,"6847","1","Space","Classic","1985","Space Dozer",1,49,,,,,"http://www.1000steine.com/brickset/images/6847-1.jpg","No","No",0
+3659,"6848","1","Space","Futuron","1988","Strategic Pursuer",1,54,,,,,"http://www.1000steine.com/brickset/images/6848-3.jpg","No","No",0
+3658,"6848","2","Space","Classic","1985","Inter-Planetary Shuttle",1,62,,,,,"http://www.1000steine.com/brickset/images/6848-2.jpg","No","No",0
+3660,"6849","1","Space","Classic","1987","Satellite Patroller",1,46,,,,,"http://www.1000steine.com/brickset/images/6849-1.jpg","No","No",0
+3661,"6850","1","Space","Futuron","1989","Auxiliary Patroller",1,46,,,,,"http://www.1000steine.com/brickset/images/6850-1.jpg","No","No",0
+3662,"6851","1","Space","Blacktron 2","1991","Tri-Wheeled Tyrax",1,39,,,,,"http://www.1000steine.com/brickset/images/6851-1.jpg","No","No",0
+3663,"6852","1","Space","Space Police 2","1993","Sonar Security",1,61,,6,,,"http://www.1000steine.com/brickset/images/6852-1.jpg","No","No",0
+3664,"6854","1","Space","Exploriens","1996","Alien Fossilizer",1,53,,6,,,"http://www.1000steine.com/brickset/images/6854-1.jpg","No","No",0
+3665,"6856","1","Space","Exploriens","1996","Planetary Decoder",1,80,,8,,,"http://www.1000steine.com/brickset/images/6856-1.jpg","No","No",0
+9142,"6857","1","Super Heroes","DC Universe","2012","The Dynamic Duo Funhouse Escape",5,380,39.99,39.99,49.99,49.99,"http://www.1000steine.com/brickset/images/6857-1.jpg","No","No",0
+8977,"6858","1","Super Heroes","DC Universe","2012","Catwoman Catcycle City Chase",2,89,11.99,12.99,15.99,14.99,"http://www.1000steine.com/brickset/images/6858-1.jpg","No","No",0
+8980,"6860","1","Super Heroes","DC Universe","2012","The Batcave",5,690,69.99,69.99,89.99,79.99,"http://www.1000steine.com/brickset/images/6860-1.jpg","No","No",0
+3666,"6861","1","Space","Classic","1980","X1 Patrol Craft",1,55,,4,,,"http://www.1000steine.com/brickset/images/6861-1.jpg","No","No",0
+3667,"6861","2","Space","Blacktron 2","1993","Super Model Building Instruction",,1,,,,,"http://www.1000steine.com/brickset/images/6861-2.jpg","No","No",0
+3668,"6862","1","Space","M-Tron","1991","Secret Space Voyager",3,254,,,,,"http://www.1000steine.com/brickset/images/6862-1.jpg","No","No",0
+8986,"6862","2","Super Heroes","DC Universe","2012","Superman Vs Power Armor Lex",3,207,19.99,19.99,24.99,26.99,"http://www.1000steine.com/brickset/images/6862-2.jpg","No","No",0
+8978,"6863","1","Super Heroes","DC Universe","2012","Batwing Battle Over Gotham City",3,278,34.99,34.99,44.99,39.99,"http://www.1000steine.com/brickset/images/6863-1.jpg","No","No",0
+8979,"6864","1","Super Heroes","DC Universe","2012","The Batmobile and the Two-Face Chase",5,531,49.99,49.99,64.99,59.99,"http://www.1000steine.com/brickset/images/6864-1.jpg","No","No",0
+8981,"6865","1","Super Heroes","Marvel Universe","2012","Captain America's Avenging Cycle",3,72,11.99,12.99,15.99,14.99,"http://www.1000steine.com/brickset/images/6865-1.jpg","No","No",0
+8982,"6866","1","Super Heroes","Marvel Universe","2012","Wolverine's Chopper Showdown",3,199,19.99,19.99,24.99,26.99,"http://www.1000steine.com/brickset/images/6866-1.jpg","No","No",0
+8983,"6867","1","Super Heroes","Marvel Universe","2012","Loki's Cosmic Cube Escape",3,181,19.99,19.99,24.99,26.99,"http://www.1000steine.com/brickset/images/6867-1.jpg","No","No",0
+8984,"6868","1","Super Heroes","Marvel Universe","2012","Hulk's Helicarrier Breakout",4,389,49.99,49.99,64.99,59.99,"http://www.1000steine.com/brickset/images/6868-1.jpg","No","No",0
+8985,"6869","1","Super Heroes","Marvel Universe","2012","Quinjet Aerial Battle",5,735,69.99,69.99,89.99,79.99,"http://www.1000steine.com/brickset/images/6869-1.jpg","No","No",0
+3669,"6870","1","Space","Classic","1981","Space Probe Launcher",1,60,,,,,"http://www.1000steine.com/brickset/images/6870-1.jpg","No","No",0
+3670,"6871","1","Space","Classic","1984","Star Patrol Launcher",2,70,,,,,"http://www.1000steine.com/brickset/images/6871-1.jpg","No","No",0
+3671,"6872","1","Space","Classic","1985","Xenon X-Craft",2,86,,,,,"http://www.1000steine.com/brickset/images/6872-1.jpg","No","No",0
+9225,"6873","1","Super Heroes","Marvel Universe","2012","Spider-Man's Doc Ock Ambush",3,295,34.99,29.99,39.99,39.99,"http://www.1000steine.com/brickset/images/6873-1.jpg","No","No",0
+3672,"6874","1","Space","Classic","1986","Moon Rover",2,66,,,,,"http://www.1000steine.com/brickset/images/6874-1.jpg","No","No",0
+3673,"6875","1","Space","Futuron","1988","Hovercraft",1,93,,,,,"http://www.1000steine.com/brickset/images/6875-1.jpg","No","No",0
+3674,"6876","1","Space","Blacktron","1988","Alienator",1,86,,,,,"http://www.1000steine.com/brickset/images/6876-1.jpg","No","No",0
+3675,"6877","1","Space","M-Tron","1990","Vector Detector",1,62,,,,,"http://www.1000steine.com/brickset/images/6877-1.jpg","No","No",0
+3676,"6878","1","Space","Blacktron 2","1991","Sub Orbital Guardian",1,69,,8,,,"http://www.1000steine.com/brickset/images/6878-1.jpg","No","No",0
+3677,"6879","1","Space","Ice Planet 2002","1993","Blizzard Baron",1,82,,8,,,"http://www.1000steine.com/brickset/images/6879-1.jpg","No","No",0
+3678,"6880","1","Space","Classic","1982","Surface Explorer",1,82,,7.5,,,"http://www.1000steine.com/brickset/images/6880-1.jpg","No","No",0
+3679,"6881","1","Space","Classic","1984","Lunar Rocket Launcher",1,97,,,,,"http://www.1000steine.com/brickset/images/6881-1.jpg","No","No",0
+3680,"6882","1","Space","Classic","1985","Walking Astro Grappler",1,92,,,,,"http://www.1000steine.com/brickset/images/6882-1.jpg","No","No",0
+3681,"6883","1","Space","Classic","1987","Terrestrial Rover",1,109,,,,,"http://www.1000steine.com/brickset/images/6883-1.jpg","No","No",0
+3682,"6884","1","Space","Futuron","1987","Aero Module",2,113,,,,,"http://www.1000steine.com/brickset/images/6884-1.jpg","No","No",0
+3683,"6885","1","Space","Futuron","1988","Crater Crawler",1,100,,,,,"http://www.1000steine.com/brickset/images/6885-1.jpg","No","No",0
+3684,"6886","1","Space","Space Police","1989","Galactic Peace Keeper",2,121,,12,,,"http://www.1000steine.com/brickset/images/6886-1.jpg","No","No",0
+3685,"6887","1","Space","Blacktron 2","1991","Allied Avenger",1,100,,,,,"http://www.1000steine.com/brickset/images/6887-1.jpg","No","No",0
+3686,"6889","1","Space","Spyrius","1994","Recon Robot",1,135,,12,,,"http://www.1000steine.com/brickset/images/6889-1.jpg","No","No",0
+3687,"6890","1","Space","Classic","1982","Cosmic Cruiser",1,115,,11,,,"http://www.1000steine.com/brickset/images/6890-1.jpg","No","No",0
+3688,"6891","1","Space","Classic","1985","Gamma V Laser Craft",2,144,,,,,"http://www.1000steine.com/brickset/images/6891-1.jpg","No","No",0
+3689,"6892","1","Space","Classic","1986","Modular Space Transport",2,150,,,,,"http://www.1000steine.com/brickset/images/6892-1.jpg","No","No",0
+3690,"6893","1","Space","Futuron","1987","Orion II Hyperspace",2,163,,,,,"http://www.1000steine.com/brickset/images/6893-1.jpg","No","No",0
+3691,"6894","1","Space","Blacktron","1987","Invader",2,164,,,,,"http://www.1000steine.com/brickset/images/6894-1.jpg","No","No",0
+3692,"6895","1","Space","Space Police","1989","Spy Trak 1",2,148,,15,,,"http://www.1000steine.com/brickset/images/6895-1.jpg","No","No",0
+3693,"6896","1","Space","M-Tron","1990","Celestial Forager",1,90,,,,,"http://www.1000steine.com/brickset/images/6896-1.jpg","No","No",0
+3694,"6897","1","Space","Space Police 2","1992","Rebel Hunter",2,140,,21,,,"http://www.1000steine.com/brickset/images/6897-1.jpg","No","No",0
+3695,"6898","1","Space","Ice Planet 2002","1993","Ice-Sat V",1,135,,15,,,"http://www.1000steine.com/brickset/images/6898-1.jpg","No","No",0
+3696,"6899","1","Space","Exploriens","1996","Nebula Outpost",2,158,,15,,,"http://www.1000steine.com/brickset/images/6899-1.jpg","No","No",0
+3697,"6900","1","Space","UFO","1997","Cyber Saucer",1,114,,22,,,"http://www.1000steine.com/brickset/images/6900-1.jpg","No","No",0
+3699,"6901","1","Space","Classic","1980","Mobile Lab",2,135,,,,,"http://www.1000steine.com/brickset/images/6901-1.jpg","No","No",0
+3698,"6901","2","Space","UFO","1998","Space Plane",1,20,,,,,"http://www.1000steine.com/brickset/images/6901-2.jpg","No","No",0
+3700,"6902","1","Space","UFO","1998","Space Plane",1,20,,2,,,"http://www.1000steine.com/brickset/images/6902-1.jpg","No","No",0
+3701,"6903","1","Space","Insectoids","1998","Bug Blaster",1,25,,3,,,"http://www.1000steine.com/brickset/images/6903-1.jpg","No","No",0
+3702,"6905","1","Space","Insectoids","1998","Bi-Wing Blaster",2,114,,15,,,"http://www.1000steine.com/brickset/images/6905-1.jpg","No","No",0
+3703,"6907","1","Space","Insectoids","1998","Sonic Stinger",1,96,,22,,,"http://www.1000steine.com/brickset/images/6907-1.jpg","No","No",0
+3704,"6909","1","Space","Insectoids","1998","Sonic Stinger (Promotional Pack)",1,96,,20,,,"http://www.1000steine.com/brickset/images/6909-1.jpg","No","No",0
+8913,"6910","1","Creator","","2012","Mini Sports Car",,70,4.99,5.99,8.99,5.99,"http://www.1000steine.com/brickset/images/6910-1.jpg","No","No",0
+8914,"6911","1","Creator","","2012","Mini Fire Truck",,69,4.99,5.99,8.99,5.99,"http://www.1000steine.com/brickset/images/6911-1.jpg","No","No",0
+8912,"6912","1","Creator","","2012","Super Soarer",,130,9.99,14.99,17.99,9.99,"http://www.1000steine.com/brickset/images/6912-1.jpg","No","No",0
+8911,"6913","1","Creator","","2012","Blue Roadster",,152,9.99,14.99,17.99,9.99,"http://www.1000steine.com/brickset/images/6913-1.jpg","No","No",0
+8910,"6914","1","Creator","","2012","T-Rex",,191,12.99,17.99,19.99,14.99,"http://www.1000steine.com/brickset/images/6914-1.jpg","No","No",0
+3705,"6915","1","Space","UFO","1997","Warp Wing Fighter",2,236,,30,,,"http://www.1000steine.com/brickset/images/6915-1.jpg","No","No",0
+8571,"6918","1","Castle","Kingdoms","2011","Blacksmith Attack",2,104,9.49,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/6918-1.jpg","No","No",0
+3706,"6919","1","Space","Insectoids","1998","Planetary Prowler",2,250,,35,,,"http://www.1000steine.com/brickset/images/6919-1.jpg","No","No",0
+3707,"6921","1","Space","Futuron","1988","Monorail Accessory Track",,46,,34.95,,,"http://www.1000steine.com/brickset/images/6921-1.jpg","No","No",0
+3708,"6923","1","Space","M-Tron","1990","Particle Ioniser",2,203,,24,,,"http://www.1000steine.com/brickset/images/6923-1.jpg","No","No",0
+3709,"6925","1","Space","Futuron","1988","Interplanetary Rover",4,217,,,,,"http://www.1000steine.com/brickset/images/6925-1.jpg","No","No",0
+3710,"6926","1","Space","Classic","1986","Mobile Recovery Vehicle",2,150,,,,,"http://www.1000steine.com/brickset/images/6926-1.jpg","No","No",0
+3711,"6927","1","Space","Classic","1981","All-Terrain Vehicle",2,170,,14.5,,,"http://www.1000steine.com/brickset/images/6927-1.jpg","No","No",0
+3712,"6928","1","Space","Classic","1984","Uranium Search Vehicle",2,199,,,,,"http://www.1000steine.com/brickset/images/6928-1.jpg","No","No",0
+3713,"6929","1","Space","Classic","1981","Star Fleet Voyager",1,242,,15,,,"http://www.1000steine.com/brickset/images/6929-1.jpg","No","No",0
+3714,"6930","1","Space","Classic","1983","Space Supply Station",4,206,,,,,"http://www.1000steine.com/brickset/images/6930-1.jpg","No","No",0
+3715,"6931","1","Space","Classic","1985","FX Star Patroller",2,239,,,,,"http://www.1000steine.com/brickset/images/6931-1.jpg","No","No",0
+3716,"6932","1","Space","Futuron","1987","Stardefender 200",2,251,,,,,"http://www.1000steine.com/brickset/images/6932-1.jpg","No","No",0
+3717,"6933","1","Space","Blacktron 2","1991","Spectral Starguider",2,208,,25,,,"http://www.1000steine.com/brickset/images/6933-1.jpg","No","No",0
+5885,"6934","1","Bionicle","","2006","Good Guy",,16,,,,,"http://www.1000steine.com/brickset/images/6934-1.jpg","No","No",0
+5886,"6935","1","Bionicle","","2006","Bad Guy",,16,,,,,"http://www.1000steine.com/brickset/images/6935-1.jpg","No","No",0
+6548,"6936","1","Bionicle","Playsets","2006","Piraka & Catapult",1,20,,,,,"http://www.1000steine.com/brickset/images/6936-1.jpg","No","No",0
+6575,"6937","1","Bionicle","Playsets","2006","Give Away",2,17,,,,,"http://www.1000steine.com/brickset/images/6937-1.jpg","No","No",0
+3718,"6938","1","Space","Exploriens","1996","Scorpion Detector",2,196,,24,,,"http://www.1000steine.com/brickset/images/6938-1.jpg","No","No",0
+3719,"6939","1","Space","Spyrius","1994","Saucer Centurion",2,222,,27,,,"http://www.1000steine.com/brickset/images/6939-1.jpg","No","No",0
+3720,"6940","1","Space","Classic","1986","Alien Moon Stalker",2,263,,,,,"http://www.1000steine.com/brickset/images/6940-1.jpg","No","No",0
+3721,"6941","1","Space","Blacktron","1987","Battrax",1,284,,,,,"http://www.1000steine.com/brickset/images/6941-1.jpg","No","No",0
+3722,"6942","1","Space","Insectoids","1999","Zo Weevil",1,20,,,,,"http://www.1000steine.com/brickset/images/6942-1.jpg","No","No",0
+3723,"6943","1","Space","Insectoids","1999","Speed Sled",1,20,,,,,"http://www.1000steine.com/brickset/images/6943-1.jpg","No","No",0
+6576,"6944","1","Bionicle","","2007","Good Guy 07",,20,,,,,"http://www.1000steine.com/brickset/images/6944-1.jpg","No","No",0
+5870,"6945","1","Bionicle","","2007","Bad Guy 07",,25,,,,,"http://www.1000steine.com/brickset/images/6945-1.jpg","No","No",0
+5871,"6946","1","Bionicle","","2007","Squid Launcher Function",,22,,,,,"http://www.1000steine.com/brickset/images/6946-1.jpg","No","No",0
+3724,"6949","1","Space","Spyrius","1994","Robo-Guardian",3,369,,36,,,"http://www.1000steine.com/brickset/images/6949-1.jpg","No","No",0
+3725,"6950","1","Space","Classic","1982","Mobile Rocket Transport",2,209,,,,,"http://www.1000steine.com/brickset/images/6950-1.jpg","No","No",0
+3726,"6951","1","Space","Classic","1984","Robot Command Center",3,295,,,,,"http://www.1000steine.com/brickset/images/6951-1.jpg","No","No",0
+3727,"6952","1","Space","Classic","1985","Solar Power Transporter",5,317,,36.5,,,"http://www.1000steine.com/brickset/images/6952-1.jpg","No","No",0
+3728,"6953","1","Space","Futuron","1987","Cosmic Laser Launcher",3,208,,30,,,"http://www.1000steine.com/brickset/images/6953-1.jpg","No","No",0
+3729,"6954","1","Space","Blacktron","1987","Renegade",2,313,,30,,,"http://www.1000steine.com/brickset/images/6954-1.jpg","No","No",0
+3730,"6955","1","Space","Space Police","1989","Space Lock-Up Isolation Base",3,253,,26,,,"http://www.1000steine.com/brickset/images/6955-1.jpg","No","No",0
+3731,"6956","1","Space","M-Tron","1990","Stellar Recon Voyager",2,233,,36,,,"http://www.1000steine.com/brickset/images/6956-1.jpg","No","No",0
+3732,"6957","1","Space","Space Police 2","1992","Solar Snooper",3,255,,36,,,"http://www.1000steine.com/brickset/images/6957-1.jpg","No","No",0
+3733,"6958","1","Space","Exploriens","1996","Android Base",3,267,,40,,,"http://www.1000steine.com/brickset/images/6958-1.jpg","No","No",0
+3734,"6959","1","Space","Spyrius","1994","Lunar Launch Site",3,287,,36,,,"http://www.1000steine.com/brickset/images/6959-1.jpg","No","No",0
+3735,"6963","1","Star Wars","Mini Building Set","2004","X-wing Fighter",,41,,,,,"http://www.1000steine.com/brickset/images/6963-1.jpg","No","No",0
+3736,"6964","1","Star Wars","Mini Building Set","2004","Boba Fett's Slave I",,25,,,,,"http://www.1000steine.com/brickset/images/6964-1.jpg","No","No",0
+3737,"6965","1","Star Wars","Mini Building Set","2004","TIE Interceptor",,32,,5,,,"http://www.1000steine.com/brickset/images/6965-1.jpg","No","No",0
+4809,"6966","1","Star Wars","Mini Building Set","2005","Jedi Starfighter",,38,,,,,"http://www.1000steine.com/brickset/images/6966-1.jpg","No","No",0
+4810,"6967","1","Star Wars","Mini Building Set","2005","ARC  Fighter",,42,,,,,"http://www.1000steine.com/brickset/images/6967-1.jpg","No","No",0
+6574,"6968","1","Star Wars","Mini Building Set","2005","Wookiee Attack",,48,,,,,"http://www.1000steine.com/brickset/images/6968-1.jpg","No","No",0
+3738,"6969","1","Space","Insectoids","1998","Celestial Stinger",3,256,,50,,,"http://www.1000steine.com/brickset/images/6969-1.jpg","No","No",0
+3740,"6970","1","Space","Classic","1980","Beta I Command Base",4,264,,37,,,"http://www.1000steine.com/brickset/images/6970-1.jpg","No","No",0
+3741,"6971","1","Space","Classic","1984","Inter-Galactic Command Base",3,328,,,,,"http://www.1000steine.com/brickset/images/6971-1.jpg","No","No",0
+3742,"6972","1","Space","Classic","1987","Polaris I Space Lab",3,390,,,,,"http://www.1000steine.com/brickset/images/6972-1.jpg","No","No",0
+3743,"6973","1","Space","Ice Planet 2002","1993","Deep Freeze Defender",3,417,,45,,,"http://www.1000steine.com/brickset/images/6973-1.jpg","No","No",0
+3744,"6975","1","Space","UFO","1997","Alien Avenger",4,369,,60,,,"http://www.1000steine.com/brickset/images/6975-1.jpg","No","No",0
+3745,"6977","1","Space","Insectoids","1998","Arachnoid Star Base",4,437,,80,,,"http://www.1000steine.com/brickset/images/6977-1.jpg","No","No",0
+3746,"6979","1","Space","UFO","1997","Interstellar Starfighter",3,292,,80,,,"http://www.1000steine.com/brickset/images/6979-1.jpg","No","No",0
+3748,"6980","1","Space","Classic","1983","Galaxy Commander",5,443,,,,,"http://www.1000steine.com/brickset/images/6980-1.jpg","No","No",0
+3749,"6981","1","Space","Blacktron 2","1991","Aerial Intruder",2,267,,,,,"http://www.1000steine.com/brickset/images/6981-1.jpg","No","No",0
+3750,"6982","1","Space","Exploriens","1996","Explorien Starship",4,662,,80,,,"http://www.1000steine.com/brickset/images/6982-1.jpg","No","No",0
+3751,"6983","1","Space","Ice Planet 2002","1993","Ice Station Odyssey",3,343,,60,,,"http://www.1000steine.com/brickset/images/6983-1.jpg","No","No",0
+3752,"6984","1","Space","Space Police 2","1992","Galactic Mediator",3,406,,60,,,"http://www.1000steine.com/brickset/images/6984-1.jpg","No","No",0
+3753,"6985","1","Space","Classic","1986","Cosmic Fleet Voyager",4,413,,,,,"http://www.1000steine.com/brickset/images/6985-1.jpg","No","No",0
+3754,"6986","1","Space","Space Police","1989","Mission Commander",3,478,,50,,,"http://www.1000steine.com/brickset/images/6986-1.jpg","No","No",0
+3755,"6987","1","Space","Blacktron","1988","Message Intercept Base",5,569,,,,,"http://www.1000steine.com/brickset/images/6987-1.jpg","No","No",0
+3756,"6988","1","Space","Blacktron 2","1991","Alpha Centauri Outpost",5,406,,80,,,"http://www.1000steine.com/brickset/images/6988-1.jpg","No","No",0
+3757,"6989","1","Space","M-Tron","1990","Mega Core Magnetizer",3,503,,60,,,"http://www.1000steine.com/brickset/images/6989-1.jpg","No","No",0
+3758,"6990","1","Space","Futuron","1987","Monorail Transport System",5,731,,,,,"http://www.1000steine.com/brickset/images/6990-1.jpg","No","No",0
+3759,"6991","1","Space","Unitron","1994","Monorail Transport Base",4,573,,178,,,"http://www.1000steine.com/brickset/images/6991-1.jpg","No","No",0
+3760,"6999","1","Space","UFO","1997","Cyber Saucer",1,114,,20,,,"http://www.1000steine.com/brickset/images/6999-1.jpg","No","No",0
+3762,"7000","1","Dinosaurs","","2001","Baby Ankylosaurus",,37,2.99,3,,,"http://www.1000steine.com/brickset/images/7000-1.jpg","No","No",0
+3763,"7001","1","Dinosaurs","","2001","Baby Iguanodon",,23,2.99,3,,,"http://www.1000steine.com/brickset/images/7001-1.jpg","No","No",0
+3764,"7002","1","Dinosaurs","","2001","Baby Brachiosaurus",,31,2.99,3,,,"http://www.1000steine.com/brickset/images/7002-1.jpg","No","No",0
+3765,"7003","1","Dinosaurs","","2001","Baby Dimetrodon",,20,2.99,3,,,"http://www.1000steine.com/brickset/images/7003-1.jpg","No","No",0
+5872,"7009","1","Castle","Fantasy Era","2007","The Final Joust",2,62,5.99,7.99,,,"http://www.1000steine.com/brickset/images/7009-1.jpg","No","No",0
+4714,"7015","1","Vikings","","2005","Viking Warrior challenges the Fenris Wolf",1,76,3.99,5,,,"http://www.1000steine.com/brickset/images/7015-1.jpg","No","No",0
+4715,"7016","1","Vikings","","2005","Viking Boat against the Wyvern Dragon",2,112,5.99,10,,,"http://www.1000steine.com/brickset/images/7016-1.jpg","No","No",0
+4716,"7017","1","Vikings","","2005","Viking Catapult versus the Nidhogg Dragon ",2,225,12.99,20,,,"http://www.1000steine.com/brickset/images/7017-1.jpg","No","No",0
+4717,"7018","1","Vikings","","2005","Viking Ship challenges the Midgard Serpent ",6,578,34.99,50,,,"http://www.1000steine.com/brickset/images/7018-1.jpg","No","No",0
+4718,"7019","1","Vikings","","2005","Viking Fortress against the Fafnir Dragon",6,1019,49.99,70,,,"http://www.1000steine.com/brickset/images/7019-1.jpg","No","No",0
+5357,"7020","1","Vikings","","2006","Army of Vikings with Heavy Artillery Wagon",7,312,17.99,30,,,"http://www.1000steine.com/brickset/images/7020-1.jpg","No","No",0
+5356,"7021","1","Vikings","","2006","Viking Double Catapault versus the Armoured Ofnir Dragon",3,505,24.99,39.99,,,"http://www.1000steine.com/brickset/images/7021-1.jpg","No","No",0
+5936,"7029","1","Castle","Fantasy Era","2007","Skeleton Ship Attack",7,628,49.99,69.99,,,"http://www.1000steine.com/brickset/images/7029-1.jpg","No","No",0
+3766,"7030","1","World City","Police and Rescue","2003","Squad Car",1,52,2.99,4,,,"http://www.1000steine.com/brickset/images/7030-1.jpg","No","No",0
+3767,"7031","1","World City","Police and Rescue","2003","Helicopter",1,88,7.99,10,,,"http://www.1000steine.com/brickset/images/7031-1.jpg","No","No",0
+3768,"7032","1","World City","Police and Rescue","2003","Police 4WD and Undercover Van",2,154,9.99,15,,,"http://www.1000steine.com/brickset/images/7032-1.jpg","No","No",0
+3769,"7033","1","World City","Police and Rescue","2003","Armoured Car Action",2,181,14.99,20,,,"http://www.1000steine.com/brickset/images/7033-1.jpg","No","No",0
+3770,"7034","1","World City","Police and Rescue","2003","Surveillance Truck",2,261,24.99,30,,,"http://www.1000steine.com/brickset/images/7034-1.jpg","No","No",0
+3771,"7035","1","World City","Police and Rescue","2003","Police HQ",4,422,39.99,50,,,"http://www.1000steine.com/brickset/images/7035-1.jpg","No","No",0
+6086,"7036","1","Castle","Fantasy Era","2007","Dwarves' Mine",7,575,41.09,59.99,,,"http://www.1000steine.com/brickset/images/7036-1.jpg","No","No",0
+6209,"7037","1","Castle","Fantasy Era","2008","Tower Raid",5,364,26.45,29.99,,,"http://www.1000steine.com/brickset/images/7037-1.jpg","No","No",0
+6221,"7038","1","Castle","Fantasy Era","2008","Troll Assault Wagon",4,161,13.69,19.99,,,"http://www.1000steine.com/brickset/images/7038-1.jpg","No","No",0
+6210,"7040","1","Castle","Fantasy Era","2008","Dwarves' Mine Defender",3,86,6.85,9.99,,,"http://www.1000steine.com/brickset/images/7040-1.jpg","No","No",0
+6365,"7041","1","Castle","Fantasy Era","2008","Troll Battle Wheel",6,508,29.35,39.99,,,"http://www.1000steine.com/brickset/images/7041-1.jpg","No","No",0
+3772,"7042","1","World City","Police and Rescue","2004","Dune Patrol",1,36,2.99,4,,,"http://www.1000steine.com/brickset/images/7042-1.jpg","No","No",0
+3773,"7043","1","World City","Police and Rescue","2004","Firefighter",1,69,5.99,8,,,"http://www.1000steine.com/brickset/images/7043-1.jpg","No","No",0
+3774,"7044","1","World City","Police and Rescue","2004","Rescue Chopper",2,205,14.99,20,,,"http://www.1000steine.com/brickset/images/7044-1.jpg","No","No",0
+3775,"7045","1","World City","Police and Rescue","2004","Hovercraft Hideout",2,274,24.99,30,,,"http://www.1000steine.com/brickset/images/7045-1.jpg","No","No",0
+3776,"7046","1","World City","Police and Rescue","2004","Fire Command Craft",3,269,24.99,30,,,"http://www.1000steine.com/brickset/images/7046-1.jpg","No","No",0
+3777,"7047","1","World City","Police and Rescue","2004","Coast Watch HQ",4,367,39.99,50,,,"http://www.1000steine.com/brickset/images/7047-1.jpg","No","No",0
+6211,"7048","1","Castle","Fantasy Era","2008","Troll Warship",9,493,48.95,79.99,,,"http://www.1000steine.com/brickset/images/7048-1.jpg","No","No",0
+8572,"7049","1","Space","Alien Conquest","2011","Alien Striker",2,42,3.99,4.99,6.99,4.99,"http://www.1000steine.com/brickset/images/7049-1.jpg","No","No",0
+8573,"7050","1","Space","Alien Conquest","2011","Alien Defender",2,105,8.99,9.99,12.99,9.99,"http://www.1000steine.com/brickset/images/7050-1.jpg","No","No",0
+8574,"7051","1","Space","Alien Conquest","2011","Tripod Invader",2,165,18.99,19.99,24.99,19.99,"http://www.1000steine.com/brickset/images/7051-1.jpg","No","No",0
+8575,"7052","1","Space","Alien Conquest","2011","UFO Abduction",3,211,25.99,29.99,39.99,29.99,"http://www.1000steine.com/brickset/images/7052-1.jpg","No","No",0
+8576,"7065","1","Space","Alien Conquest","2011","Alien Mothership",2,416,49.99,59.99,74.99,59.99,"http://www.1000steine.com/brickset/images/7065-1.jpg","No","No",0
+8577,"7066","1","Space","Alien Conquest","2011","Earth Defense HQ",5,875,76.99,89.99,119.99,99.99,"http://www.1000steine.com/brickset/images/7066-1.jpg","No","No",0
+8578,"7067","1","Space","Alien Conquest","2011","Jet-Copter Encounter",3,375,30.99,39.99,49.99,39.99,"http://www.1000steine.com/brickset/images/7067-1.jpg","No","No",0
+3778,"7070","1","4 Juniors","Pirates","2004","Catapult Raft",1,22,3.99,5,,,"http://www.1000steine.com/brickset/images/7070-1.jpg","No","No",0
+3779,"7071","1","4 Juniors","Pirates","2004","Treasure Island",2,24,6.99,8,,,"http://www.1000steine.com/brickset/images/7071-1.jpg","No","No",0
+3780,"7072","1","4 Juniors","Pirates","2004","Captain Kragg's Pirate Boat",1,36,9.99,13,,,"http://www.1000steine.com/brickset/images/7072-1.jpg","No","No",0
+3781,"7073","1","4 Juniors","Pirates","2004","Pirate Dock",2,61,14.99,20,,,"http://www.1000steine.com/brickset/images/7073-1.jpg","No","No",0
+3782,"7074","1","4 Juniors","Pirates","2004","Skull Island",3,76,24.99,30,,,"http://www.1000steine.com/brickset/images/7074-1.jpg","No","No",0
+3783,"7075","1","4 Juniors","Pirates","2004","Captain Redbeard's Pirate Ship",4,131,49.99,40,,,"http://www.1000steine.com/brickset/images/7075-1.jpg","No","No",0
+6911,"7078","1","Castle","Fantasy Era","2009","King's Battle Chariot",4,103,13.99,19.99,,,"http://www.1000steine.com/brickset/images/7078-1.jpg","No","No",0
+6912,"7079","1","Castle","Fantasy Era","2009","Drawbridge Defense",7,335,26.99,39.99,,,"http://www.1000steine.com/brickset/images/7079-1.jpg","No","No",0
+3784,"7080","1","4 Juniors","Pirates","2004","Scurvy Dog and Crocodile",1,4,2.49,,,,"http://www.1000steine.com/brickset/images/7080-1.jpg","No","No",0
+3785,"7081","1","4 Juniors","Pirates","2004","Harry Hardtack and Monkey",1,9,2.49,,,,"http://www.1000steine.com/brickset/images/7081-1.jpg","No","No",0
+3786,"7082","1","4 Juniors","Pirates","2004","Cannonball Jimmy and Shark",1,4,2.49,,,,"http://www.1000steine.com/brickset/images/7082-1.jpg","No","No",0
+5789,"7090","1","Castle","Fantasy Era","2007","Crossbow Attack",3,54,3.99,5.99,,,"http://www.1000steine.com/brickset/images/7090-1.jpg","No","No",0
+5790,"7091","1","Castle","Fantasy Era","2007","Knight's Catapult Defense",4,123,6.99,9.99,,,"http://www.1000steine.com/brickset/images/7091-1.jpg","No","No",0
+5791,"7092","1","Castle","Fantasy Era","2007","Skeletons' Prison Carriage",5,193,14.99,19.99,,,"http://www.1000steine.com/brickset/images/7092-1.jpg","No","No",0
+5792,"7093","1","Castle","Fantasy Era","2007","Skeleton Tower",5,398,39.99,49.99,,,"http://www.1000steine.com/brickset/images/7093-1.jpg","No","No",0
+5767,"7094","1","Castle","Fantasy Era","2007","King's Castle Siege",10,973,73.39,99.99,,,"http://www.1000steine.com/brickset/images/7094-1.jpg","No","No",0
+6913,"7097","1","Castle","Fantasy Era","2009","Trolls' Mountain Fortress",10,844,74.99,99.99,,,"http://www.1000steine.com/brickset/images/7097-1.jpg","No","No",0
+3788,"7099","1","4 Juniors","Accessories","2004","Accessory Motor",,1,,,,,"http://www.1000steine.com/brickset/images/7099-1.jpg","No","No",0
+3791,"7101","1","Star Wars","Episode I","1999","Lightsaber Duel",2,52,,6,,,"http://www.1000steine.com/brickset/images/7101-1.jpg","No","No",0
+3792,"7103","1","Star Wars","Episode II","2002","Jedi Duel",2,82,8.99,10,,,"http://www.1000steine.com/brickset/images/7103-1.jpg","No","No",0
+3793,"7104","1","Star Wars","Episode IV-VI","2000","Desert Skiff",2,55,,6,,,"http://www.1000steine.com/brickset/images/7104-1.jpg","No","No",0
+3794,"7106","1","Star Wars","Episode IV-VI","2001","Droid Escape",2,45,,6,,,"http://www.1000steine.com/brickset/images/7106-1.jpg","No","No",0
+
