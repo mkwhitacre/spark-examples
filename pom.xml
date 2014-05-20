@@ -16,8 +16,11 @@
         <hadoopCDHMRVersion>2.3.0-cdh5.0.1</hadoopCDHMRVersion>
         <hadoopCDHVersion>2.3.0-cdh5.0.1</hadoopCDHVersion>
         <crunchVersion>0.9.0-cdh5.0.1</crunchVersion>
+        <sparkVersion>0.9.1</sparkVersion>
         <scala.version>2.10.4</scala.version>
         <scala.binary.version>2.10</scala.binary.version>
+        <PermGen>64m</PermGen>
+        <MaxPermGen>512m</MaxPermGen>
     </properties>
 
     <modules>
@@ -43,7 +46,11 @@
                 <artifactId>crunch-spark</artifactId>
                 <version>${crunchVersion}</version>
             </dependency>
-
+            <dependency>
+                <groupId>org.apache.spark</groupId>
+                <artifactId>spark-core_2.10</artifactId>
+                <version>${sparkVersion}</version>
+            </dependency>
             <dependency>
                 <groupId>org.apache.avro</groupId>
                 <artifactId>avro</artifactId>
@@ -152,8 +159,8 @@
           <artifactId>maven-compiler-plugin</artifactId>
           <version>3.1</version>
           <configuration>
-            <source>${java.version}</source>
-            <target>${java.version}</target>
+            <source>${jdk.version}</source>
+            <target>${jdk.version}</target>
             <encoding>UTF-8</encoding>
             <maxmem>1024m</maxmem>
             <fork>true</fork>
