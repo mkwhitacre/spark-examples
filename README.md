@@ -36,3 +36,21 @@ the available Spark Scala API.
 [Apache Crunch](http://crunch.apache.org/) is a nice abstraction layer on top of MapReduce.  Additionally those abstractions
 can be ran on top of Spark with minimal changes to the code.  The [spark-crunch-example](spark-crunch-example/README.md)
 demonstrates how processing through Crunch can easily transfer from one runtime to the other.
+
+# Starting Spark
+
+The work done for this example uses a [standalone Spark cluster](http://spark.apache.org/docs/latest/spark-standalone.html) running on [Cloudera's CDH4 quickstart VM](http://www.cloudera.com/content/cloudera-content/cloudera-docs/DemoVMs/Cloudera-QuickStart-VM/cloudera_quickstart_vm.html).  After the distribution was installed manually the cluster was started with the following commands:
+
+```
+sbin/start-all.sh
+```
+
+Some problems were encountered with starting the workers/slaves.  Specifically the worker was reporting a NoClassDefFoundError for Scala classes. The reason for this problem was not found but has to do with either the installed JDK or the assembly on the classpath.  A work around for starting the cluster:
+
+
+```
+sbin/start-master.sh
+./bin/spark-class org.apache.spark.deploy.worker.Worker spark://localhost.localdomain:7077
+```
+
+When viewing the master at ```http://localhost:8080``` you should see the connected worker and resources.
