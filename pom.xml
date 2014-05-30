@@ -17,6 +17,7 @@
         <hadoopCDHVersion>2.3.0-cdh5.0.1</hadoopCDHVersion>
         <crunchVersion>0.9.0-cdh5.0.1</crunchVersion>
         <sparkVersion>1.0.0</sparkVersion>
+        <hadoop.version>2</hadoop.version>
         <scala.version>2.10.4</scala.version>
         <scala.binary.version>2.10</scala.binary.version>
         <PermGen>64m</PermGen>
