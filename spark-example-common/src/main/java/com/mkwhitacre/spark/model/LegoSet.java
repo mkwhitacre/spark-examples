@@ -132,7 +132,7 @@ public class LegoSet {
         }
         //SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
 
-        String[] split = legoCSV.split(",");
+        String[] split = legoCSV.split(",(?=([^\"]*\"[^\"]*\")*[^\"]*$)");
         if(split.length != 17){
             throw new RuntimeException("Incorrect number of values in string. ["+ Arrays.toString(split)+"] expected 17 got "+split.length);
         }
