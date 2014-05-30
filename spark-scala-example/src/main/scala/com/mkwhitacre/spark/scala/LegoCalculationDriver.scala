@@ -10,7 +10,7 @@ import com.mkwhitacre.spark.model.LegoSet._
       val master = args(0);
       val conf = new SparkConf()
       val spark = new SparkContext(master, "Lego Calculation Spark Scala", conf)
-      val rawRDD = spark.textFile(args(1));
+      val rawRDD = spark.textFile(args(1))
 
       val filteredLegos = rawRDD.filter(s => !s.startsWith("SetID")).map(s => parse(s)).filter(l => l.getUsPrice > -1).filter(l => l.getPieces > 0)
 

@@ -1,5 +1,7 @@
 package com.mkwhitacre.spark.model;
 
+import java.util.Arrays;
+
 public class LegoSet {
 
     private final int setId;
@@ -130,7 +132,7 @@ public class LegoSet {
 
         String[] split = legoCSV.split(",");
         if(split.length != 17){
-            throw new RuntimeException("Incorrect number of values in string."+split);
+            throw new RuntimeException("Incorrect number of values in string. ["+ Arrays.toString(split)+"] expected 17 got "+split.length);
         }
 
         return new LegoSet(
