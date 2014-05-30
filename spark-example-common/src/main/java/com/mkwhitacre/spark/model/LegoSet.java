@@ -1,8 +1,9 @@
 package com.mkwhitacre.spark.model;
 
+import java.io.Serializable;
 import java.util.Arrays;
 
-public class LegoSet {
+public class LegoSet implements Serializable{
 
     private final int setId;
     private final String number;
