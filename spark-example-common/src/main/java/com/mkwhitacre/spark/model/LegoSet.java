@@ -127,7 +127,9 @@ public class LegoSet {
     }
 
     public static LegoSet parse(String legoCSV){
-
+        if(legoCSV == null || legoCSV.trim().length() == 0){
+          throw new IllegalArgumentException("The 'legoCSV' String cannot be empty.");
+        }
         //SetID,Number,Variant,Theme,Subtheme,Year,Name,Minifigs,Pieces,UKPrice,USPrice,CAPrice,EUPrice,ImageURL,Owned,Wanted,QtyOwned
 
         String[] split = legoCSV.split(",");
