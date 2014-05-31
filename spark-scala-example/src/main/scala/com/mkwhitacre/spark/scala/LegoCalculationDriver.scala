@@ -15,7 +15,7 @@ import com.mkwhitacre.spark.model.LegoSet._
       val calculatedPrice = filteredLegos.map(l => (l, l.getUsPrice/l.getPieces))
 
       //with the given dataset there are too many values to truly print so just pull off the first 10.
-      calculatedPrice.take(10);
+      calculatedPrice.take(10).foreach(v => print(v._1 + " cost per piece $"+ v._2))
 
       spark.stop()
     }
