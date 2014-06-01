@@ -14,7 +14,6 @@ the 1.0 version of Apache Spark.  Additionally Cloudera's latest release does no
 for Apache Spark.  As a whole this project is just for demonstration purposes only and not necessarily an ideal production
 level assembly.
 
-
 # Building
 
 The project is setup to be built using Maven.  The project could be setup to use ```sbt``` but since this is part of
@@ -30,17 +29,24 @@ to the spark cluster for processing (e.g. target/scala-2.10/spark-crunch-example
 
 # Standard Crunch MapReduce Example
 
+The Crunch MapReduce Example is here to simply show how a common MapReduce based Pipeline that could be executed over the data.
+
 ## How to Run
 
+This Crunch MapReduce is ran as any other normal MapReduce job is executed using the ```hadoop jar``` command.
 
+```﻿
+   hadoop jar path/to/jar/spark-crunch-example-1.0-SNAPSHOT-hadoop2.jar \
+   com.mkwhitacre.spark.crunch.LegoCalculationHadoopDriver \
+   file:///home/spark-examples/lego_data/*/*
+```
 
-
-
+The output of the jar should display the output should be printed to the screen.  This is not ideal for real processes but gives
+the use immediate feedback that the calculations actually occurred.
 
 # Crunch Spark Example
 
 This example alters the Crunch Pipeline implementation only to use the SparkPipeline instead of the standard MRPipeline.
-
 
 ## How to Run
 
