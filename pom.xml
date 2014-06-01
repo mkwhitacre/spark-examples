@@ -13,9 +13,9 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <jdk.version>1.6</jdk.version>
-        <hadoopCDHMRVersion>2.3.0-cdh5.0.1</hadoopCDHMRVersion>
-        <hadoopCDHVersion>2.3.0-cdh5.0.1</hadoopCDHVersion>
-        <crunchVersion>0.9.0-cdh5.0.1</crunchVersion>
+        <hadoopCDHMRVersion>2.0.0-mr1-cdh4.6.0</hadoopCDHMRVersion>
+        <hadoopCDHVersion>2.0.0-mr1-cdh4.6.0</hadoopCDHVersion>
+        <crunchVersion>0.8.2+32-cdh4.4.0</crunchVersion>
         <sparkVersion>1.0.0</sparkVersion>
         <hadoop.version>2</hadoop.version>
         <scala.version>2.10.4</scala.version>
