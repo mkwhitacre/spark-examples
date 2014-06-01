@@ -62,6 +62,7 @@
                 <artifactId>maven-shade-plugin</artifactId>
                 <configuration>
                     <shadedArtifactAttached>false</shadedArtifactAttached>
+                    <minimizeJar>false</minimizeJar>
                     <outputFile>${project.build.directory}/scala-${scala.binary.version}/spark-crunch-example-${project.version}-hadoop${hadoop.version}.jar</outputFile>
                     <artifactSet>
                         <includes>

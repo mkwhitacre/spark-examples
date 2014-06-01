@@ -3,7 +3,6 @@
 The purpose of this project is to show an example Spark Application written in the Apache Spark [Scala API](http://spark.apache.org/docs/latest/scala-programming-guide.html).
 The project should also demonstrate a way to generate a Spark endstate and how to submit the project to the cluster.
 
-
 # How to Build
 
 The project is setup to be built using Maven.  The project could be setup to use ```sbt``` but since this is part of
