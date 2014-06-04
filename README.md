@@ -54,3 +54,7 @@ sbin/start-master.sh
 ```
 
 When viewing the master at ```http://localhost:8080``` you should see the connected worker and resources.
+
+# See Also
+
+This project is intended to be a companion to an [intro to intermediate level presentation](https://docs.google.com/presentation/d/1ESPDmvru-DOMCi4TLwzSVQ2IWjvhTY-8DPloivP2xd4/edit?usp=sharing) on Apache Spark.

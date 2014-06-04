@@ -70,3 +70,6 @@ There are other means of submitting a jar to a cluster.  The goal of the ```spar
 reading configuration from local files, providing dependencies such as Hadoop and Spark, and connection with whichever
 resource manager on which the cluster is deployed.  The required properties you have to specify will depend on where
 you are trying to deploy and what values are in the configuration files.
+
+_Note_ 
+There is an assembly issue where Spark doesn't recognize classes inside the jar.  If you figure it out before I do feel free to submit a patch.
